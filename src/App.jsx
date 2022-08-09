@@ -8,13 +8,15 @@ function App() {
       <Header />
       <Dropdown
         title="ceci est un titre"
-        text="le text uwu owo lorem ipsum mes couilles tout ça"
+        text="le text uwu owo lorem ipsum tout ça"
         children={[
-          { title: "nyah", text: "lorem tout ça couilles" },
+          { title: "nyah", text: "lorem tout ça ", children:[
+              { title: "nyah", text: "lorem tout ça " },
+          ]},
           {
-            title: "nyah", text: "lorem tout ça couilles", children:[
-              { title: "nyah", text: "lorem tout ça couilles" },
-              { title: "nyah", text: "lorem tout ça couilles" },
+            title: "nyah", text: "lorem tout ça ", children:[
+              { title: "nyah", text: "lorem tout ça " },
+              { title: "nyah", text: "lorem tout ça " },
             ]
           },
         ]}

@@ -8,7 +8,7 @@ let Dropdown = ({ title, text, opened, children }) => {
         setOpen(!open);
     }
 
-    let dropdowns = children && children.map(child => Dropdown(child));
+    let dropdowns = children && children.map(child => Dropdown(child)); // TODO set unique key value
 
     return <div className={styles.container}>
         <button className={styles.button} onClick={handleClick}>

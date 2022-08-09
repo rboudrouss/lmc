@@ -1,0 +1,20 @@
+.container {
+    margin: auto;
+    width: 80%;
+}
+
+.button {
+    border: none;
+    width: 100%;
+    background: black;
+}
+
+.button:hover{
+    background: pink;
+}
+
+.title{
+    color:white;
+    margin: 5px 0;
+    font-size: clamp(1rem, 1.5vw, 2rem);
+}

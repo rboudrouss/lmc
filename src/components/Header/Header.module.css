@@ -1,0 +1,19 @@
+.linktree_logo{
+    width: 5%;
+    min-width: 32px;
+    margin: 10px 20px;
+}
+
+.main{
+    margin: auto;
+    width: fit-content;
+}
+
+.main_logo{
+    width: 20vw;
+}
+
+.maintext_container{
+    width: 60%;
+    margin: auto;
+}
