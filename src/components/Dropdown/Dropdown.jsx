@@ -16,7 +16,7 @@ let Dropdown = ({ title, text, opened, children }) => {
                 {title}
             </p>
         </button>
-        {open && (<p className={styles.text}> {text}</p>)}
+        {open && text && (<p className={styles.text}> {text}</p>)}
         {open && dropdowns}
     </div>;
 

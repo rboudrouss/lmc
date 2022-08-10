@@ -1,0 +1,29 @@
+{
+    "title": "ceci est un titre",
+    "text": "le text uwu owo lorem ipsum tout ça",
+    "children": [
+        {
+            "title": "nyah1",
+            "text": "lorem tout ça ",
+            "children": [
+                {
+                    "title": "nyah2",
+                    "text": "lorem tout ça "
+                }
+            ]
+        },
+        {
+            "title": "nyah3 sans texte",
+            "children": [
+                {
+                    "title": "nyah4",
+                    "text": "lorem tout ça "
+                },
+                {
+                    "title": "nyah5",
+                    "text": "lorem tout ça "
+                }
+            ]
+        }
+    ]
+}

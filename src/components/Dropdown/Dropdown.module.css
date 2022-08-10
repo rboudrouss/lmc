@@ -9,12 +9,16 @@
     background: black;
 }
 
-.button:hover{
+.button:hover {
     background: pink;
 }
 
-.title{
-    color:white;
+.title {
+    color: white;
     margin: 5px 0;
     font-size: clamp(1rem, 1.5vw, 2rem);
+}
+
+.text {
+    margin: 10px 20px;
 }
