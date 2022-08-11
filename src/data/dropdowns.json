@@ -1,6 +1,7 @@
 {
     "title": "ceci est un titre",
-    "text": "le text uwu owo lorem ipsum \n tout ça \b uwu owo",
+    "text": "le text uwu owo lorem ipsum \n tout ça \b et ouvert par défaut uwu owo",
+    "opened" : 1,
     "children": [
         {
             "title": "nyah1",
@@ -16,8 +17,7 @@
             "title": "nyah3 sans texte",
             "children": [
                 {
-                    "title": "nyah4",
-                    "text": "lorem tout ça "
+                    "text": "lorem tout ça sans titre"
                 },
                 {
                     "title": "nyah5",

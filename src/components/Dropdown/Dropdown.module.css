@@ -1,6 +1,6 @@
 .container {
     margin: 10px auto;
-    width: 80%;
+    width: 85%;
 }
 
 .button {
@@ -17,6 +17,7 @@
     color: white;
     margin: 5px 0;
     font-size: clamp(1rem, 1.5vw, 2rem);
+    min-height: 8px;
 }
 
 .text {

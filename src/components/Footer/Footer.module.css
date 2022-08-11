@@ -1,0 +1,36 @@
+.container {
+    padding: 2.5em 0;
+    background-color: #111;
+    color: white;
+    text-align: center;
+}
+
+.container a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.link:hover,
+.social_list__link:hover {
+    opacity: .7;
+}
+
+.footer__link:hover {
+    text-decoration: underline;
+}
+
+.social_list {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 2em 0 0;
+    padding: 0;
+}
+
+.social_list__item {
+    margin: 0 .5em;
+}
+
+.social_list__link {
+    padding: .5em;
+}
