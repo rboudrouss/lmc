@@ -42,10 +42,10 @@
             ]
         },
         {
-            "title": "Associations Jussieu",
+            "title": "Associations",
             "children": [
                 {
-                    "title":"Associations Filière",
+                    "title":"Filière",
                     "children":[
                         {
                             "title":"MATHS : assosiation Mathématique Sorbonne Universite (AMSU)",
@@ -82,7 +82,7 @@
                     ]
                 },
                 {
-                    "title":"Associations Cursus",
+                    "title":"Cursus",
                     "children":[
                         {
                             "title":"PHYSIQUE : Association du cursus SPRINT",
@@ -123,7 +123,7 @@
                     ]
                 },
                 {
-                    "title":"Associations Art et Jeux",
+                    "title":"Art et Jeux",
                     "children":[
                         {
                             "title":"JEUX VIDÉOS : SU Esport",
