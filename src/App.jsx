@@ -12,7 +12,6 @@ function App() {
         text={object.text}
         children={object.children}
       />
-      <p>uwu</p>
     </div>
   );
 }

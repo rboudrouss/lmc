@@ -1,5 +1,5 @@
 .container {
-    margin: auto;
+    margin: 10px auto;
     width: 80%;
 }
 
@@ -10,7 +10,7 @@
 }
 
 .button:hover {
-    background: pink;
+    background: grey;
 }
 
 .title {
