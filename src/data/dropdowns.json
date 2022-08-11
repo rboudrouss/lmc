@@ -12,7 +12,7 @@
                             "title":"Acronymes à connaître",
                             "children":[
                                 {
-                                    "title":"La base",
+                                    "title":"Fondamental",
                                     "text":"- LMC : La Matrice Carrée\n- SU : Sorbonne Université ( regroupement de campus parisiens )\n- UPMC : Université Pierre et Marie Curie ( maintenant appelée Campus Jussieu )\n- UE : Unité d'Enseignement ( Matière )\n- ECTS : European Credit Transfer and Accumulation System ( combien vaut la Matière en question )\n- CAPSULE : Centre d’Accompagnement à la Pédagogie et SUpport à L’Expérimentation"
                                 },
                                 {
@@ -28,8 +28,8 @@
                                     "text":"- VE ou EVE : Espace Vie Étudiante\n- SHSE : Service Handicap Santé Étudiant\n- DAPS : Département des Activités Physiques et Sportives\n- PPTI : Plateforme Pédagogique et Technique Informatique"
                                 },
                                 {
-                                    "title":"Filières Licence",
-                                    "text":"- ScFo : Sciences Formelles ( anciennement MIPI, axé Maths, Physique et Informatique )\n- ScIn : Sciences de l'Ingénierie ( anciennement MIPI, axé Maths, Physique et Ingénierie )\n- ScMa : Sciences de la Matière ( anciennement PCGI, axé Physique, Chimie et Géosciences )\n- ScNa : Sciences de la Nature ( anciennement BGC, axé Biologie, Géologie et Chimie )\n- DM : Double Majeure ( deux licences en une seule )\n- Mm : Majeure mineure ( pareil mais vous n'obtenez que le diplôme de la majeure )\n- SPRINT : Sorbonne Physique Intensif et Nouvelles Technologies (Parcours mono intensif de Physique)\n- CMI : Cursus Master Ingénierie ( licence + master )"
+                                    "title":"Cursus",
+                                    "text":"- ScFo : Licence de Sciences Formelles ( anciennement MIPI, axé Maths, Physique et Informatique )\n- ScIn : Licence de Sciences de l'Ingénierie ( anciennement MIPI, axé Maths, Physique et Ingénierie )\n- ScMa : Licence de Sciences de la Matière ( anciennement PCGI, axé Physique, Chimie et Géosciences )\n- ScNa : Licence de Sciences de la Nature ( anciennement BGC, axé Biologie, Géologie et Chimie )\n- DM : Licence Double Majeure ( deux licences en une seule )\n- Mm : Licence Majeure mineure ( pareil mais vous n'obtenez que le diplôme de la majeure )\n- SPRINT : Sorbonne Physique Intensif et Nouvelles Technologies (Licence mono intensif de Physique)\n- CMI : Cursus Master Ingénierie ( licence + master )"
                                 }
                             ]
                         },
@@ -42,14 +42,42 @@
             ]
         },
         {
-            "title": "Assosiation Jussieu",
+            "title": "Assosiations Jussieu",
             "children": [
                 {
-                    "title":"Assosiation Filière",
+                    "title":"Assosiations Filière",
                     "children":[
                         {
                             "title":"MATHS : assosiation Mathématique Sorbonne Universite (AMSU)",
-                            "text":"Vidéo de Présentation :\nhttps://www.youtube.com/watch?v=oT0mkKCcSMo\nDiscord : \nhttps://discord.gg/Ja7CQvKnne\nSite :\nhttps://www.amsu.fr/\nFacebook :\nhttp://facebook.com/amsu.fr\nInstagram :\nhttps://www.instagram.com/amsujussieu/\nMail :\ncontacteramsu@gmail.com"
+                            "text":"Vidéo de Présentation :\nhttps://www.youtube.com/watch?v=oT0mkKCcSMo\nSite :\nhttps://www.amsu.fr/\nDiscord : \nhttps://discord.gg/Ja7CQvKnne\nInstagram :\nhttps://www.instagram.com/amsujussieu/\nFacebook :\nhttp://facebook.com/amsu.fr\nMail :\ncontacteramsu@gmail.com"
+                        },
+                        {
+                            "title":"PHYSIQUE : CurieOsity",
+                            "text":"Local :\n22-32 115 9h-18h\nVidéo de Présentation :\nhttps://www.youtube.com/watch?v=GKun9E9Vz7I\nDiscord :\nhttps://discord.gg/U5NvHDTnwM\nInstagram :\nhttps://www.instagram.com/curieosity.su/\nFacebook :\nhttps://www.facebook.com/CurieOsityP6/\nMail :\ncurieositysu@gmail.com"
+                        },
+                        {
+                            "title":"CHIMIE : Association des Étudiants et Étudiantes de Chimie de Sorbonne Université (ACID SU)",
+                            "text":"Vidéo de Présentation :\nhttps://www.youtube.com/watch?v=EuJfK41olTI\nSite :\nhttps://www.acid-su.com/\nDiscord :\nhttps://discord.gg/GVT8ZdQmg9\nYoutube :\nhttps://www.youtube.com/channel/UClkFABRpMr5YUIrf0-ebrtQ\nInstagram :\nhttps://www.instagram.com/acid.su/\nFacebook :\nhttps://www.facebook.com/acid.su.3\nMail :\ncontact.acid.su@gmail.com"
+                        },
+                        {
+                            "title":"INFORMATIQUE : Association Ludique et InformAtique de Sorbonne (ALIAS)",
+                            "text":"Local :\n14-15-506 | 12h45-13h45 & 18h-19h\nVidéo de Présentation :\nhttps://www.youtube.com/watch?v=u_7IxhM8hTQ\nSite :\nhttps://alias-asso.fr/\nDiscord :\nhttps://discord.gg/Bkp3RKTkjg\nInstagram :\nhttps://www.instagram.com/alias.asso/\nTwitter :\nhttps://twitter.com/alias_asso\nFacebook :\nhttps://www.facebook.com/ALIAS.asso\nMail :\ncontact@alias-asso.fr"
+                        },
+                        {
+                            "title":"AERONAUTIQUE : Association étudiante pour l'aéronautique et l'aérospatiale de Sorbonne Université (Top AERO)",
+                            "text":"Vidéo de Présentation :\nhttps://www.youtube.com/watch?v=gOpdM0qSnn4\nSite :\nhttps://www.top-aero.com/\nDiscord :\nhttps://discord.gg/m7my3pP2ec\nInstagram :\nhttps://www.instagram.com/top_aero/\nFacebook :\nhttps://www.facebook.com/TopAeroSU\nMail :\ncontact@top-aero.com\n"
+                        },
+                        {
+                            "title":"BIOLOGIE : Symbiose 6",
+                            "text":"Local :\nCouloir Bâtiment C, 2ème étage\nVidéo de Présentation :\nhttps://www.youtube.com/watch?v=onS5u9rkHsQ\nSite :\nhttps://symbiose6.fr/\nYoutube :\nhttps://www.youtube.com/c/Symbiose6Fr/videos\nInstagram :\nhttps://www.instagram.com/symbiose_6/\nFacebook :\nhttps://www.facebook.com/symbiose.six\nTwitter :\nhttps://twitter.com/symbiose6?lang=fr\nMail :\nbiologie.symbiose6.frcontact@symbiose6.fr"
+                        },
+                        {
+                            "title":"GEOLOGIE : Association des Étudiants en Géologie (AEG)",
+                            "text":"Local :\n46-56 2ème\nSite :\nhttps://aeg.ufrteb.fr/#contact\n\nInstagram :\nhttps://www.instagram.com/aegp6/\nFacebook :\nhttps://www.facebook.com/AEGP6/\nMail :\naeg.paris6@gmail.com"
+                        },
+                        {
+                            "title":"SCIENCES DE LA NATURE : Association Naturaliste Timarcha",
+                            "text":"Site :\nhttp://www.timarcha.org/\nInstagram :\nhttps://www.instagram.com/timarcha_asso/\nFacebook :\nhttps://www.facebook.com/TimarchaParis\nMail :\ncontact@timarcha.org"
                         }
                     ]
                 }
