@@ -80,6 +80,121 @@
                             "text":"Site : http://www.timarcha.org/\nInstagram : https://www.instagram.com/timarcha_asso/\nFacebook : https://www.facebook.com/TimarchaParis\nMail : contact@timarcha.org"
                         }
                     ]
+                },
+                {
+                    "title":"Assosiations Cursus",
+                    "children":[
+                        {
+                            "title":"PHYSIQUE : Association du cursus SPRINT",
+                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=9tKA2VG8bCg\nDiscord : https://discord.gg/UDcqwNk5F4\nMail : contact@loanrenaud.fr"
+                        },
+                        {
+                            "title":"INGÉNIERIE : Association du Cursus Master en Ingénierie (CMI)",
+                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=g7oIDOKv23I\nSite : https://cmisorbonne.com/\nDiscord : https://discord.gg/xjj9U8NAAg\nInstagram : https://www.instagram.com/cmi.sorbonne\nFacebook : https://www.facebook.com/cmi.sorbonne\nTwitter : https://twitter.com/cmi_sorbonne\nYoutube :\n\nhttps://www.youtube.com/channel/UCpklenZtUKVFVTCUsc_eP_w\nhttps://www.youtube.com/channel/UCjB_CRkVz0pbjJGeuTBGywg\nMail : cmi.sorbonne@gmail.com"
+                        },
+                        {
+                            "title":"INGÉNIERIE : Association du Master d'Ingénierie (AMI)",
+                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=XcELxZU5AB8\nSite : https://cmisorbonne.com/\nFacebook : https://www.facebook.com/AMISorbonneUniversite\nTwitter : https://twitter.com/AmiSorbonne\nInstagram : https://www.instagram.com/ami_sorbonneuniversite\nYoutube : https://www.youtube.com/channel/UCjB_CRkVz0pbjJGeuTBGywg\nMail : ami.sorbonne.universite@gmail.com"
+                        },
+                        {
+                            "title":"BIOLOGIE : Association Étudiante du master de Biologie Intégrative et Physiologie  (AEBIP)",
+                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=vlBAP4dbMYw\nSite : https://assoaebip.wixsite.com/aebip\nInstagram : https://www.instagram.com/aebip_asso\nFacebook : https://www.facebook.com/asso.aebip\nMail : asso.aebip@gmail.com"
+                        },
+                        {
+                            "title":"BIOLOGIE : Association du master de Biologie Moléculaire et Cellulaire (AvéBMC)",
+                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=rP2aaJlI4yo\nSite : https://avebmc.fr/\nInstagram : https://www.instagram.com/aveBMC\nFacebook : https://www.facebook.com/AveBMC\nMail : asso.avebmc@gmail.com"
+                        },
+                        {
+                            "title":"GÉOLOGIE : Association du master Sol Eau Environnement (I'SEE)",
+                            "text":"Site : https://www.helloasso.com/associations/i-see\nFacebook : https://www.facebook.com/isee.association\nMail : isee.association@gmail.com"
+                        },
+                        {
+                            "title":"GESTION & MANAGEMENT : Association de cursus en Sciences, Gestion et Management de l’Innovation de Sorbonne Université (SGMI)",
+                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=DOekVXrqjQA\nSite : http://sgmi-su.com/\nInstagram : https://www.instagram.com/sgmi_su/\nFacebook : https://www.facebook.com/SGMIsorbonneuniversite\nMail : asso.avebmc@gmail.com"
+                        },
+                        {
+                            "title":"SCIENCES & HUMANITÉS : Association Bicuriosité des doubles cursus Sciences + Histoire/Philo/Musico/ETC",
+                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=DOekVXrqjQA\nSite : http://sgmi-su.com/\nInstagram : https://www.instagram.com/sgmi_su/\nFacebook : https://www.facebook.com/SGMIsorbonneuniversite\nMail : asso.avebmc@gmail.com"
+                        },
+                        {
+                            "title":"SCIENCES & DROIT : Association de la Double Licence Sciences et Droit (ADLSD)",
+                            "text"  :"Instagram : https://www.instagram.com/sciencesdroit/\nFacebook : https://www.facebook.com/sciencesetdroit\nMail : adlsdcontact@gmail.com"
+                        }
+                    ]
+                },
+                {
+                    "title":"Assosiations Art et Jeux",
+                    "children":[
+                        {
+                            "title":"JEUX VIDÉOS : SU Esport",
+                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=v5BjoYqlLdo\nSite : https://suesport.fr/\nDiscord : https://discord.com/invite/dsjsg22znR\nYoutube : https://www.youtube.com/channel/UCIP5PFrYFcdQON_mxX1uCbA/\nTwitch : https://www.twitch.tv/su_esport\nInstagram : https://www.instagram.com/esport.su/\nFacebook : https://www.facebook.com/Sorbonne-Universit%C3%A9-Esport-104710681733488"
+                        },
+                        {
+                            "title":"ÉVÉNEMENTIEL JEUX : Play Sorbonne Université",
+                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=hpsjzXgIPAg\nDiscord : https://discord.gg/FPzyMjHTnu\nInstagram : https://www.instagram.com/des_n_des_su/\nMail : playsorbonnefestival@gmail.com"
+                        },
+                        {
+                            "title":"JEUX VIDÉOS : Virtual Fighter Club (VFC)",
+                            "text":"Discord : https://discord.gg/ym9sbnU\nTwitter : https://twitter.com/VFC_Sorbonne\nMail : virtualfightersclub.sorbonne@gmail.com"
+                        },
+                        {
+                            "title":"ÉCHECS : Sorbonne échecs",
+                            "text":"Discord : https://discord.gg/CF4dqdASGP\nInstagram : https://www.instagram.com/p/CbhSmAhtI2O/"
+                        },
+                        {
+                            "title":"JEU DE RÔLE : Dés'N'Dés",
+                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=EZeMgTs4ZdU\nDiscord : https://discord.gg/BaMZs3mxf9\nInstagram : https://www.instagram.com/des_n_des_su/\nFacebook : https://www.facebook.com/DesnDesSU/\nMail : des.n.des.upmc@gmail.com"
+                        },
+                        {
+                            "title":"FILM : Super 8 ",
+                            "text":"Site : https://upmcine.wixsite.com/super8sorbonne\nDiscord : https://discord.gg/k2Zeqk8462\nInstagram : https://www.instagram.com/super8sorbonne/\nFacebook : https://www.facebook.com/super8sorbonne\nMail : upmcine@gmail.com"
+                        },
+                        {
+                            "title":"VIDÉO & MÉDIA : TV JUSSIEU",
+                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=UaOHJyd8ZA8\nYoutube : https://www.youtube.com/c/TVJussieu\nFacebook : https://www.facebook.com/tvjussieu\nInstagram : https://www.instagram.com/tvjussieu/\nTwitter : https://twitter.com/tvjussieu\nMail : tv.jussieu@gmail.com"
+                        },
+                        {
+                            "title":"MUSIQUE : Jam Jussieu",
+                            "text":"Instagram : https://www.instagram.com/lajamjussieu/\nFacebook : https://www.facebook.com/lajamjussieu\nMail : jam.jussieu@gmail.com"
+                        },
+                        {
+                            "title":"PHOTOGRAPHIE : Lux Fabrica ou APP6",
+                            "text"  :"Vidéo de Présentation : https://www.youtube.com/watch?v=W8_IYlazgew\nFacebook : https://www.facebook.com/APP6-Atelier-Photo-Paris-6-145771368825291/\nSite : http://atelierphotojussieu.free.fr/\nMail : ap_p6@yahoo.fr"
+                        },
+                        {
+                            "title":"ART : Bureau Des Arts et de la Culture",
+                            "text"  :"Vidéo de Présentation : https://www.youtube.com/watch?v=7eA8bBYlhU8\nSite : https://www.polytech.sorbonne-universite.fr/vie-associative/bdac\nInstagram : https://www.instagram.com/bdacpolytech/\nFacebook : https://www.facebook.com/BdacPolytechSorbonne\nYoutube : https://www.youtube.com/channel/UC_Wcag32Y1AEEH8hho8Fv5Q/videos\nMail : bda.polytech.sorbonne@gmail.com"
+                        },
+                        {
+                            "title":"SPORT : ASsociation Sportive Universitaire de la faculté des Sciences et Ingénierie et de la faculté de Médecine (ASSU SIM)",
+                            "text"  :"Vidéo de Présentation : https://www.youtube.com/watch?v=DP6MW5P1Yag\nFacebook : https://www.facebook.com/AS.SorbonneU.Sces.Inge.Med/\nMail : sciences-assosport@sorbonne-universite.fr"
+                        }
+                    ]
+                },
+                {
+                    "title":"Assosiations BDE",
+                    "children":[
+                        {
+                            "title":"la SIXE BDE Jussieu",
+                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=8CJ8kp3J2Cc\nInstagram : https://www.instagram.com/Lasixe_bdejussieu/\nFacebook : https://www.facebook.com/LaSixeBdeJussieu\nMail : lasixebdejussieu@gmail.com"
+                        },
+                        {
+                            "title":"AXIO BDE Sorbonne Université",
+                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=D5UgbARvIbg\nSite : http://axio-su.fr/\nInstagram : https://www.instagram.com/Axiosu_bde/\nFacebook : https://www.facebook.com/AXIOBDF\nMail : axiobdf@gmail.com"
+                        },
+                        {
+                            "title":"BDE Polytech",
+                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=SaFV8Otn_8w\nSite : https://www.polytech.sorbonne-universite.fr/vie-associative/bde\nInstagram : https://www.instagram.com/bdepolytechsorbonne/\nFacebook : https://www.facebook.com/BDEPolytechSorbonne\nMail : bde.polytech.paris@gmail.com"
+                        },
+                        {
+                            "title":"POLYPEIP (club du BDE Polytech pour la filière PEIP de Polytech)",
+                            "text":"Site : https://www.polytech.sorbonne-universite.fr/vie-associative/polypeip\nInstagram : https://www.instagram.com/polypeip_sorbonne/\nFacebook : https://www.facebook.com/polypeipsorbonne\nMail : polypeip.sorbonne@gmail.com"
+                        },
+                        {
+                            "title":"BDE ISUP (Institut de Statistique de l'Université de Paris)",
+                            "text":"Instagram : https://www.instagram.com/bde_isupien/\nFacebook : https://www.facebook.com/bdelevesisup\nMail : bde.polytech.paris@gmail.com"
+                        }
+                    ]
                 }
             ]
         }
