@@ -1,16 +1,17 @@
 import styles from './App.css';
 import Header from './components/Header/Header';
 import Dropdown from './components/Dropdown/Dropdown';
-import object from "./dropdowns/main.json"
+import drop_data from "./data/dropdowns.json"
+import header_data from "./data/header.json"
 
 function App() {
   return (
     <div className={styles.main}>
-      <Header />
+      <Header text={header_data.text}/>
       <Dropdown
-        title={object.title}
-        text={object.text}
-        children={object.children}
+        title={drop_data.title}
+        text={drop_data.text}
+        children={drop_data.children}
       />
     </div>
   );
