@@ -9,7 +9,7 @@
                     "title": "Vocabulaire",
                     "children":[
                         {
-                            "title":"ACRONYMES À CONNAÎTRE",
+                            "title":"Acronymes à connaître",
                             "children":[
                                 {
                                     "title":"La base",
@@ -34,7 +34,7 @@
                             ]
                         },
                         {
-                            "title":"NOMENCLATURE",
+                            "title":"Nomencalture",
                             "text":"ATTENTION : On utilisera ici 1234567 comme nombres quelconques pour être plus intuitif et compréhensif.\b12 : Tour de la colonne 1 et ligne 2 dans la Matrice de Jussieu\nExemple : La tour 16 se trouve dans la colonne la plus à l'Ouest et dans la ligne la plus au Sud. Elle est donc dans le coin Sud-Ouest de Jussieu.\b3ème 12 : 3ème étage de la Tour 12\nExemple : L'accès à la Géos se trouve 1er étage en 44.\bPatio 12-34 : Espace rectangulaire entre les tours 12 et 34\nExemple : La VE se trouve sur le patio 23-34 ou 33-24.\b12-34 : Bloc reliant les tours 12 et 34.\nExemple : La Géos se trouve en 44-34 ou 34-44.\bException : 3 Blocs ne sont reliés qu'à une seule tour et prennent la notation 00 pour la tour manquante :\b12-34 5ème : Couloir du 5ème étage entre les tours 12 et 34\nExemple : La Géos se trouve au 1er et 2ème 44-34 ou 34-44.\b12-34 567  : Salle 567 du couloir du 5ème étage entre les tours 12 et 34\nExemple : Le local d'ALIAS se trouve en 14-15 506.\bAtrium : L'Atrium n'est pas une tour mais fonctionne avec la même Nomenclature.\nExemple : La salle A 305 se trouve au 3ème étage de l'Atrium.\n"
                         }
                     ]
