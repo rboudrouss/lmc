@@ -1,27 +1,57 @@
 {
-    "title": "ceci est un titre",
-    "text": "le text uwu owo lorem ipsum \n tout ça \b et ouvert par défaut uwu owo",
+    "title": "La Matrice Carrée",
     "opened" : 1,
     "children": [
         {
-            "title": "nyah1",
-            "text": "lorem tout ça ",
+            "title": "Guide Jussieu",
             "children": [
                 {
-                    "title": "nyah2",
-                    "text": "lorem tout ça "
+                    "title": "Vocabulaire",
+                    "children":[
+                        {
+                            "title":"ACRONYMES À CONNAÎTRE",
+                            "children":[
+                                {
+                                    "title":"La base",
+                                    "text":"- LMC : La Matrice Carrée\n- SU : Sorbonne Université ( regroupement de campus parisiens )\n- UPMC : Université Pierre et Marie Curie ( maintenant appelée Campus Jussieu )\n- UE : Unité d'Enseignement ( Matière )\n- ECTS : European Credit Transfer and Accumulation System ( combien vaut la Matière en question )\n- CAPSULE : Centre d’Accompagnement à la Pédagogie et SUpport à L’Expérimentation"
+                                },
+                                {
+                                    "title":"Étages",
+                                    "text":"- JU : Étage Principal Jussieu\n- SB : Étage Saint Bernard ou Rez De Chaussée ( SB=RDC=RC )"
+                                },
+                                {
+                                    "title":"Bibliothèques",
+                                    "text":"- BU : Bibliothèque Universitaire\n- BDL : BU des Licences\n- Géos : BU des Géosciences\n- MIR : BU des Maths, Informatiques et Recherche\n- BCPR : BU de la Biologie, Chimie, Physique et Recherche\n- BD1 : BU des L1\n- BDA : BU De l'Atrium"
+                                },
+                                {
+                                    "title":"Espaces Étudiants",
+                                    "text":"- VE ou EVE : Espace Vie Étudiante\n- SHSE : Service Handicap Santé Étudiant\n- DAPS : Département des Activités Physiques et Sportives\n- PPTI : Plateforme Pédagogique et Technique Informatique"
+                                },
+                                {
+                                    "title":"Filières Licence",
+                                    "text":"- ScFo : Sciences Formelles ( anciennement MIPI, axé Maths, Physique et Informatique )\n- ScIn : Sciences de l'Ingénierie ( anciennement MIPI, axé Maths, Physique et Ingénierie )\n- ScMa : Sciences de la Matière ( anciennement PCGI, axé Physique, Chimie et Géosciences )\n- ScNa : Sciences de la Nature ( anciennement BGC, axé Biologie, Géologie et Chimie )\n- DM : Double Majeure ( deux licences en une seule )\n- Mm : Majeure mineure ( pareil mais vous n'obtenez que le diplôme de la majeure )\n- SPRINT : Sorbonne Physique Intensif et Nouvelles Technologies (Parcours mono intensif de Physique)\n- CMI : Cursus Master Ingénierie ( licence + master )"
+                                }
+                            ]
+                        },
+                        {
+                            "title":"NOMENCLATURE",
+                            "text":"ATTENTION : On utilisera ici 1234567 comme nombres quelconques pour être plus intuitif et compréhensif.\b12 : Tour de la colonne 1 et ligne 2 dans la Matrice de Jussieu\nExemple : La tour 16 se trouve dans la colonne la plus à l'Ouest et dans la ligne la plus au Sud. Elle est donc dans le coin Sud-Ouest de Jussieu.\b3ème 12 : 3ème étage de la Tour 12\nExemple : L'accès à la Géos se trouve 1er étage en 44.\bPatio 12-34 : Espace rectangulaire entre les tours 12 et 34\nExemple : La VE se trouve sur le patio 23-34 ou 33-24.\b12-34 : Bloc reliant les tours 12 et 34.\nExemple : La Géos se trouve en 44-34 ou 34-44.\bException : 3 Blocs ne sont reliés qu'à une seule tour et prennent la notation 00 pour la tour manquante :\b12-34 5ème : Couloir du 5ème étage entre les tours 12 et 34\nExemple : La Géos se trouve au 1er et 2ème 44-34 ou 34-44.\b12-34 567  : Salle 567 du couloir du 5ème étage entre les tours 12 et 34\nExemple : Le local d'ALIAS se trouve en 14-15 506.\bAtrium : L'Atrium n'est pas une tour mais fonctionne avec la même Nomenclature.\nExemple : La salle A 305 se trouve au 3ème étage de l'Atrium.\n"
+                        }
+                    ]
                 }
             ]
         },
         {
-            "title": "nyah3 sans texte",
+            "title": "Association Jussieu",
             "children": [
                 {
-                    "text": "lorem tout ça sans titre"
-                },
-                {
-                    "title": "nyah5",
-                    "text": "lorem tout ça "
+                    "title":"Association Filières",
+                    "children":[
+                        {
+                            "title":"MATHS : Association Mathématique Sorbonne Universite (AMSU)",
+                            "text":"Vidéo de Présentation :\nhttps://www.youtube.com/watch?v=oT0mkKCcSMo\nDiscord : \nhttps://discord.gg/Ja7CQvKnne\nSite :\nhttps://www.amsu.fr/\nFacebook :\nhttp://facebook.com/amsu.fr\nInstagram :\nhttps://www.instagram.com/amsujussieu/\nMail :\ncontacteramsu@gmail.com"
+                        }
+                    ]
                 }
             ]
         }
