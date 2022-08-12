@@ -7,7 +7,7 @@
             "children":[
                 {
                     "title":"C'est quoi ?",
-                    "text":"La Matrice Carrée, c'est un projet à destination des étudiants du campus Pierre et Marie Curie (ou campus Jussieu) de Sorbonne Université.Vous y trouverez :\b- Des informations et conseils pratiques concernant le campus, Ici et sur tout nos réseaux sociaux.\b- Plusieurs messageries spécifiquement prévus pour l'aide aux devoirs. Disponible uniquement sur notre Discord.\b- Différents sujets scientifiques divers et variés étudiés de manière quantitative et détaillée. Sur notre Discord et chaîne Youtube."
+                    "text":"La Matrice Carrée, c'est un projet à destination des étudiants du campus Pierre et Marie Curie (ou campus Jussieu) de Sorbonne Université.Vous y trouverez :\b- Des informations et conseils utiles et pratiques concernant le campus, Ici et sur tout nos réseaux sociaux.\b- Plusieurs messageries spécifiquement prévus pour l'aide aux devoirs. Disponible uniquement sur notre Discord.\b- Différents sujets scientifiques divers et variés étudiés de manière quantitative et détaillée. Sur notre Discord et chaîne Youtube."
                 },
                 {
                     "title":"Pourquoi ce nom ?",
@@ -40,13 +40,17 @@
                     "title": "Liens Utiles",
                     "children":[
                         {
-                            "title":"A",
-                            "text":"" 
+                            "title":"Informations Générales",
+                            "text":"ENT (Espace Numérique de Travail) Sciences https://ent.sorbonne-universite.fr/sciences-etudiants/\nDes informations en tout genre : Scolarité, Études, Vie Étudiante, Orientation et Insertion, International, Santé et Social.\bLes campus de SU https://www.sorbonne-universite.fr/campus-et-sites\bAnnuaire officiel des associations de Jussieu https://sciences.sorbonne-universite.fr/associations\bAnnuaire officiel des associations de SU https://www.sorbonne-universite.fr/associations \bCAPSULE https://capsule.sorbonne-universite.fr/"
 
                         },
                         {
-                            "title":"B",
-                            "text":""
+                            "title":"Cours et Administratif",
+                            "text":"Moodle https://moodle-sciences-22.sorbonne-universite.fr/\nPlateforme des différentes UEs ( Polycopiés, Emploi du Temps, Dépôts de DM, etc... )\bEtu Maths https://etu.math.upmc.fr/math/\nSite d'accès aux : Contrats Pédagogiques, Emploi du Temps, Convocations Examens, Notes.\n(Accessible uniquement aux inscrits à UFR de Mathématique)\bZCS https://zcs.sorbonne-universite.fr/\nBoîte Mail de SU.\bIzly https://izly.fr/\nCompte associé à votre carte étudiant. Il est nécessaire pour payer votre repas au CROUS (Cuvier et Ardoise). Permet également de payer facilement et moins cher en cafétéria."
+                        },
+                        {
+                            "title":"Bibliothèques et Informatique",
+                            "text":"Site BUs https://sorbonne-universite.primo.exlibrisgroup.com/\nRecherche de livres, demande ou renouvellement d'emprunt, etc...\b\nHoraires et état des BUs en direct https://www.sorbonne-universite.fr/les-bibliotheques-de-sciences-et-ingenierie\bBuresa https://buresa.upmc.fr/ReservationSalles/Default.aspx\nPermet de réserver et avoir accès aux différents boxs et salles dans les différentes BUs de Jussieu.\bL'UTES https://lutes.upmc.fr/actu.php\nAccès aux sessions Bureau de l'UTES et Linux depuis chez vous. Réservation de salles de réunions et de salles informatiques.\bDrop SU https://dropsu.sorbonne-universite.fr/\nSystème de dépôt de fichier en ligne de Sorbonne Université.\bPôle Discord SU https://discord.gg/5fX8q6SSPP
                         }
                     ]
                 },
