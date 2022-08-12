@@ -6,16 +6,16 @@
             "title": "Questions et Réponses",
             "children":[
                 {
-                    "title":"C'est quoi ?l",
-                    "text":"La Matrice Carrée, c'est un projet à destination des étudiants du campus Pierre et Marie Curie.Vous y trouverez :\nDes informations et conseils pratiques concernant le campus, Ici et sur tout nos réseaux sociaux.\n-Plusieurs messageries spécifiquement prévus pour l'aide aux devoirs. Disponible uniquement sur notre Discord.\nDifférents sujets scientifiques divers et variés étudiés de manière quantitative et détaillée. Sur notre Discord et chaîne Youtube."
+                    "title":"C'est quoi ?",
+                    "text":"La Matrice Carrée, c'est un projet à destination des étudiants du campus Pierre et Marie Curie (ou campus Jussieu) de Sorbonne Université.Vous y trouverez :\b- Des informations et conseils pratiques concernant le campus, Ici et sur tout nos réseaux sociaux.\b- Plusieurs messageries spécifiquement prévus pour l'aide aux devoirs. Disponible uniquement sur notre Discord.\b- Différents sujets scientifiques divers et variés étudiés de manière quantitative et détaillée. Sur notre Discord et chaîne Youtube."
                 },
                 {
                     "title":"Pourquoi ce nom ?",
-                    "text":"Les matrices sont un outil mathématique de représentation des espaces et applications linéaires abondamment utilisé en physique. Elles sont également fréquemment utilisées, sous une autre forme, en informatique.\bDe plus, le campus Jussieu se structure en grande partie à la manière d'une matrice carrée dont les coefficients seraient les différentes tours numérotées XY pour tour de colonne X et ligne Y.\bC'est ainsi un objet présent partout en sciences qui est intimement lié au campus de Jussieu et permet donc de faire le lien entre le côté scientifique et le côté campus du projet."
+                    "text":"Les matrices sont un outil mathématique de représentation des espaces et applications linéaires abondamment utilisé en physique. Elles sont également fréquemment utilisées, sous une autre forme, en informatique.\bDe plus, le campus Jussieu se structure en grande partie à la manière d'une matrice carrée dont les coefficients seraient les différentes tours numérotées XY pour tour de colonne X et ligne Y.\bC'est ainsi un objet qui est présent partout en sciences, qui est intimement lié au campus de Jussieu et qui permet donc faire le lien entre le côté scientifique et le côté campus du projet."
                 },
                 {
                     "title":"Qui sommes-nous ?",
-                    "text":"Fondateurs :\nPaul Rieunier 3810393 Redoublant L3 Double Majeure Maths Physique Tel : (+33)0778137706\nMaxime Vinteler 28707102 L3 Double Majeure Maths Physique"
+                    "text":"Fondateurs :\nPaul Rieunier | 3810393 | Redoublant L3 DM-PM | (+33)0778137706\nMaxime Vinteler | 28707102 | L3 DM-PM"
                 }
             ]
         },
@@ -27,39 +27,68 @@
                     "children":[
                         {
                             "title":"Acronymes à connaître",
-                            "children":[
-                                {
-                                    "title":"Fondamental",
-                                    "text":"- LMC : La Matrice Carrée\n- SU : Sorbonne Université ( regroupement de campus parisiens )\n- UPMC : Université Pierre et Marie Curie ( maintenant appelée Campus Jussieu )\n- UE : Unité d'Enseignement ( Matière )\n- ECTS : European Credit Transfer and Accumulation System ( combien vaut la Matière en question )\n- CAPSULE : Centre d’Accompagnement à la Pédagogie et SUpport à L’Expérimentation"
-                                },
-                                {
-                                    "title":"Étages",
-                                    "text":"- JU : Étage Principal Jussieu\n- SB : Étage Saint Bernard ou Rez De Chaussée ( SB=RDC=RC )"
-                                },
-                                {
-                                    "title":"Bibliothèques",
-                                    "text":"- BU : Bibliothèque Universitaire\n- BDL : BU des Licences\n- Géos : BU des Géosciences\n- MIR : BU des Maths, Informatiques et Recherche\n- BCPR : BU de la Biologie, Chimie, Physique et Recherche\n- BD1 : BU des L1\n- BDA : BU De l'Atrium"
-                                },
-                                {
-                                    "title":"Espaces Étudiants",
-                                    "text":"- VE ou EVE : Espace Vie Étudiante\n- SHSE : Service Handicap Santé Étudiant\n- DAPS : Département des Activités Physiques et Sportives\n- PPTI : Plateforme Pédagogique et Technique Informatique"
-                                },
-                                {
-                                    "title":"Cursus",
-                                    "text":"- ScFo : Licence de Sciences Formelles ( anciennement MIPI, axé Maths, Physique et Informatique )\n- ScIn : Licence de Sciences de l'Ingénierie ( anciennement MIPI, axé Maths, Physique et Ingénierie )\n- ScMa : Licence de Sciences de la Matière ( anciennement PCGI, axé Physique, Chimie et Géosciences )\n- ScNa : Licence de Sciences de la Nature ( anciennement BGC, axé Biologie, Géologie et Chimie )\n- DM : Licence Double Majeure ( deux licences en une seule )\n- Mm : Licence Majeure mineure ( pareil mais vous n'obtenez que le diplôme de la majeure )\n- SPRINT : Sorbonne Physique Intensif et Nouvelles Technologies (Licence mono intensif de Physique)\n- CMI : Cursus Master Ingénierie ( licence + master )"
-                                }
-                            ]
+                            "text":"Fondamental :\n- LMC : La Matrice Carrée\n- SU : Sorbonne Université (regroupement de campus parisiens)\n- UPMC : Université Pierre et Marie Curie (maintenant appelée campus Pierre et Marie Curie ou campus Jussieu)\n- UE : Unité d'Enseignement (Matière)\n- ECTS : European Credit Transfer and Accumulation System (le "poids" d'une UE)\bÉtages :\n- JU : Étage Principal Jussieu \n- SB : Étage Saint Bernard ou Rez De Chaussée (RDC)\bBibliothèques :\n- BU : Bibliothèque Universitaire\n- BDL : BU des Licences\n- Géos : BU des Géosciences\n- MIR : BU des Maths, Informatiques et Recherche\n- BCPR : BU de la Biologie, Chimie, Physique et Recherche\n- BD1 : BU des L1\n- BDA : BU De l'Atrium\bEspaces Étudiants :\n- EVE : Espace Vie Étudiante\n- SHSE : Service Handicap Santé Étudiant\n- DAPS : Département des Activités Physiques et Sportives\n- CAPSULE : Centre d’Accompagnement à la Pédagogie et SUpport à L’Expérimentation\n- SOI : Service Orientation et Insertion\n- PPTI : Plateforme Pédagogique et Technique Informatique\bCursus :\n- ScFo : Licence de Sciences Formelles (anciennement MIPI, axé Maths, Physique et Informatique)\n- ScIn : Licence de Sciences de l'Ingénierie (anciennement MIPI, axé Maths, Physique et Ingénierie)\n- ScMa : Licence de Sciences de la Matière (anciennement PCGI, axé Physique, Chimie et Géosciences)\n- ScNa : Licence de Sciences de la Nature (anciennement BGC, axé Biologie, Géosciences et Chimie)\n- DM : Licence Double Majeure (deux licences en une seule)\n- Mm : Licence Majeure mineure (pareil mais vous n'obtenez que le diplôme de la majeure)\n- SPRINT : Sorbonne Physique Intensif et Nouvelles Technologies (Licence mono intensif de Physique)\n- CMI : Cursus Master Ingénierie (licence + master)" 
+
                         },
                         {
                             "title":"Nomencalture",
                             "text":"ATTENTION : On utilisera ici 1234567 comme nombres quelconques pour être plus intuitif et compréhensif.\b12 : Tour de la colonne 1 et ligne 2 dans la Matrice de Jussieu\nExemple : La tour 16 se trouve dans la colonne la plus à l'Ouest et dans la ligne la plus au Sud. Elle est donc dans le coin Sud-Ouest de Jussieu.\b3ème 12 : 3ème étage de la Tour 12\nExemple : L'accès à la Géos se trouve 1er étage en 44.\bPatio 12-34 : Espace rectangulaire entre les tours 12 et 34\nExemple : La VE se trouve sur le patio 23-34 ou 33-24.\b12-34 : Bloc reliant les tours 12 et 34.\nExemple : La Géos se trouve en 44-34 ou 34-44.\bException : 3 Blocs ne sont reliés qu'à une seule tour et prennent la notation 00 pour la tour manquante :\b12-34 5ème : Couloir du 5ème étage entre les tours 12 et 34\nExemple : La Géos se trouve au 1er et 2ème 44-34 ou 34-44.\b12-34 567  : Salle 567 du couloir du 5ème étage entre les tours 12 et 34\nExemple : Le local d'ALIAS se trouve en 14-15 506.\bAtrium : L'Atrium n'est pas une tour mais fonctionne avec la même Nomenclature.\nExemple : La salle A 305 se trouve au 3ème étage de l'Atrium.\n"
                         }
                     ]
+                },
+                {
+                    "title": "Liens Utiles",
+                    "children":[
+                        {
+                            "title":"A",
+                            "text":"" 
+
+                        },
+                        {
+                            "title":"B",
+                            "text":""
+                        }
+                    ]
+                },
+                {
+                    "title": "Plans",
+                    "text":"Les légendes sont articulées ainsi :\nNom | Localisation de l'entrée | Horaire | Condition d'accessibilité\bSi les jours d'horaire ne sont pas précisés, il s'agit de Lundi-Vendredi.\bDossier Drive avec touts les plans :\nhttps://drive.google.com/drive/folders/1EiBj4a_6DMV06E2v1eF4m6Bk07iKBkH5?usp=sharing"
+                    "children":[
+                        {
+                            "title":"Bâtiments",
+                            "text":"" 
+
+                        },
+                        {
+                            "title":"Amphithéâtres",
+                            "text":""
+                        },
+                        {
+                            "title":"Bibiliothèques",
+                            "text":""
+                        },
+                        {
+                            "title":"Espaces Étudiants",
+                            "text":""
+                        },
+                        {
+                            "title":"Espaces Restauration",
+                            "text":""
+                        },
+                        {
+                            "title":"Toilettes",
+                            "text":""
+                        },
+                        {
+                            "title":"Saint Bernard",
+                            "text":""
+                        }
+                    ]
                 }
             ]
         },
         {
-            "title": "Associations",
+            "title": "Annuaire des Associations",
             "children": [
                 {
                     "title":"Filière",
@@ -189,7 +218,7 @@
                     ]
                 },
                 {
-                    "title":"Associations BDE",
+                    "title":"Bureau Des Élèves",
                     "children":[
                         {
                             "title":"la SIXE BDE Jussieu",
