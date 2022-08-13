@@ -3,7 +3,7 @@
     "opened" : 1,
     "children": [
         {
-            "title": "Questions et Réponses",
+            "title": "Questions & Réponses",
             "children":[
                 {
                     "title":"C'est quoi ?",
@@ -172,7 +172,7 @@
                     ]
                 },
                 {
-                    "title":"Art et Jeux",
+                    "title":"Ludique & Artistique",
                     "children":[
                         {
                             "title":"JEUX VIDÉOS : SU Esport",
