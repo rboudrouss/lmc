@@ -27,11 +27,11 @@
                     "children":[
                         {
                             "title":"Acronymes à connaître",
-                            "text":"Fondamental :\n- LMC : La Matrice Carrée\n- SU : Sorbonne Université (regroupement de campus parisiens)\n- UPMC : Université Pierre et Marie Curie (maintenant appelée campus Pierre et Marie Curie ou campus Jussieu)\n- UE : Unité d'Enseignement (Matière)\n- ECTS : European Credit Transfer and Accumulation System (le \"poids\" d'une UE)\bÉtages :\n- JU : Étage Principal Jussieu \n- SB : Étage Saint Bernard ou Rez De Chaussée (RDC)\bBibliothèques :\n- BU : Bibliothèque Universitaire\n- BDL : BU des Licences\n- GEOS : BU des GÉOSciences\n- MIR : BU des Maths, Informatiques et Recherche\n- BCPR : BU de la Biologie, Chimie, Physique et Recherche\n- BD1 : BU des L1\n- BDA : BU De l'Atrium\bEspaces Étudiants :\n- EVE : Espace Vie Étudiante\n- SHSE : Service Handicap Santé Étudiant\n- DAPS : Département des Activités Physiques et Sportives\n- CAPSULE : Centre d’Accompagnement à la Pédagogie et SUpport à L’Expérimentation\n- SOI : Service Orientation et Insertion\n- PPTI : Plateforme Pédagogique et Technique Informatique\bCursus :\n- ScFo : Licence de Sciences Formelles (anciennement MIPI, axé Maths, Physique et Informatique)\n- ScIn : Licence de Sciences de l'Ingénierie (anciennement MIPI, axé Maths, Physique et Ingénierie)\n- ScMa : Licence de Sciences de la Matière (anciennement PCGI, axé Physique, Chimie et Géosciences)\n- ScNa : Licence de Sciences de la Nature (anciennement BGC, axé Biologie, Géosciences et Chimie)\n- DM : Licence Double Majeure (deux licences en une seule)\n- Mm : Licence Majeure mineure (pareil mais vous n'obtenez que le diplôme de la majeure)\n- SPRINT : Sorbonne Physique Intensif et Nouvelles Technologies (Licence mono intensif de Physique)\n- CMI : Cursus Master Ingénierie (licence + master)" 
+                            "text":"Fondamental :  \n- LMC : La Matrice Carrée  \n- SU : Sorbonne Université (regroupement de campus parisiens)  \n- UPMC : Université Pierre et Marie Curie (maintenant appelée campus Pierre et Marie Curie ou campus Jussieu)  \n- UE : Unité d'Enseignement (Matière)  \n- ECTS : European Credit Transfer and Accumulation System (le \"poids\" d'une UE)\n\nÉtages :  \n- JU : Étage Principal Jussieu   \n- SB : Étage Saint Bernard ou Rez De Chaussée (RDC)\n\nBibliothèques :  \n- BU : Bibliothèque Universitaire  \n- BDL : BU des Licences  \n- GEOS : BU des GÉOSciences  \n- MIR : BU des Maths, Informatiques et Recherche  \n- BCPR : BU de la Biologie, Chimie, Physique et Recherche  \n- BD1 : BU des L1  \n- BDA : BU De l'Atrium\n\nEspaces Étudiants :  \n- EVE : Espace Vie Étudiante  \n- SHSE : Service Handicap Santé Étudiant  \n- DAPS : Département des Activités Physiques et Sportives  \n- CAPSULE : Centre d’Accompagnement à la Pédagogie et SUpport à L’Expérimentation  \n- SOI : Service Orientation et Insertion  \n- PPTI : Plateforme Pédagogique et Technique Informatique\n\nCursus :  \n- ScFo : Licence de Sciences Formelles (anciennement MIPI, axé Maths, Physique et Informatique)  \n- ScIn : Licence de Sciences de l'Ingénierie (anciennement MIPI, axé Maths, Physique et Ingénierie)  \n- ScMa : Licence de Sciences de la Matière (anciennement PCGI, axé Physique, Chimie et Géosciences)  \n- ScNa : Licence de Sciences de la Nature (anciennement BGC, axé Biologie, Géosciences et Chimie)  \n- DM : Licence Double Majeure (deux licences en une seule)  \n- Mm : Licence Majeure mineure (pareil mais vous n'obtenez que le diplôme de la majeure)  \n- SPRINT : Sorbonne Physique Intensif et Nouvelles Technologies (Licence mono intensif de Physique)  \n- CMI : Cursus Master Ingénierie (licence + master)" 
 
                         },
                         {
-                            "title":"Nomenclature",
+                            "title":"Nomencalture",
                             "text":"ATTENTION : On utilisera ici 1234567 comme nombres quelconques pour être plus intuitif et compréhensif.\b12 : Tour de la colonne 1 et ligne 2 dans la Matrice de Jussieu\nExemple : La tour 16 se trouve dans la colonne la plus à l'Ouest et dans la ligne la plus au Sud. Elle est donc dans le coin Sud-Ouest de Jussieu.\b3ème 12 : 3ème étage de la Tour 12\nExemple : L'accès à la Géos se trouve 1er étage en 44.\bPatio 12-34 : Espace rectangulaire entre les tours 12 et 34\nExemple : La VE se trouve sur le patio 23-34 ou 33-24.\b12-34 : Bloc reliant les tours 12 et 34.\nExemple : La Géos se trouve en 44-34 ou 34-44.\bException : 3 Blocs ne sont reliés qu'à une seule tour et prennent la notation 00 pour la tour manquante :\n🟥 : 26-00\n🟦 : 46-00\n🟩 : 54-00\b12-34 5ème : Couloir du 5ème étage entre les tours 12 et 34\nExemple : La Géos se trouve au 1er et 2ème 44-34 ou 34-44.\b12-34 567  : Salle 567 du couloir du 5ème étage entre les tours 12 et 34\nExemple : Le local d'ALIAS se trouve en 14-15 506.\bAtrium : L'Atrium n'est pas une tour mais fonctionne avec la même Nomenclature.\nExemple : La salle A 305 se trouve au 3ème étage de l'Atrium.\n"
                         }
                     ]
@@ -41,50 +41,50 @@
                     "children":[
                         {
                             "title":"Informations Générales",
-                            "text":"ENT (Espace Numérique de Travail) Sciences https://ent.sorbonne-universite.fr/sciences-etudiants/\nDes informations en tout genre : Scolarité, Études, Vie Étudiante, Orientation et Insertion, International, Santé et Social.\bLes campus de SU https://www.sorbonne-universite.fr/campus-et-sites\bRépertoire officiel des associations de Jussieu https://sciences.sorbonne-universite.fr/associations\bRépertoire officiel des associations de SU https://www.sorbonne-universite.fr/associations \bCAPSULE https://capsule.sorbonne-universite.fr/"
+                            "text":"ENT (Espace Numérique de Travail) Sciences https://ent.sorbonne-universite.fr/sciences-etudiants/  \nDes informations en tout genre : Scolarité, Études, Vie Étudiante, Orientation et Insertion, International, Santé et Social.\n\nLes campus de SU https://www.sorbonne-universite.fr/campus-et-sites\n\nRépertoire officiel des associations de Jussieu https://sciences.sorbonne-universite.fr/associations\n\nRépertoire officiel des associations de SU https://www.sorbonne-universite.fr/associations \n\nCAPSULE https://capsule.sorbonne-universite.fr/"
 
                         },
                         {
-                                "title":"Cours et Administratif",
-                                "text":"Moodle https://moodle-sciences-22.sorbonne-universite.fr/\nPlateforme des différentes UEs ( Polycopiés, Emploi du Temps, Dépôts de DM, etc... )\bEtu Maths https://etu.math.upmc.fr/math/\nSite d'accès aux : Contrats Pédagogiques, Emploi du Temps, Convocations Examens, Notes.\n(Accessible uniquement aux inscrits à UFR de Mathématique)\bZCS https://zcs.sorbonne-universite.fr/\nBoîte Mail de SU.\bIzly https://izly.fr/\nCompte associé à votre carte étudiant. Il est nécessaire pour payer votre repas au CROUS (Cuvier et Ardoise). Permet également de payer facilement et moins cher en cafétéria."
+                            "title":"Cours et Administratif",
+                            "text":"Moodle https://moodle-sciences-22.sorbonne-universite.fr/\nPlateforme des différentes UEs ( Polycopiés, Emploi du Temps, Dépôts de DM, etc... )\bEtu Maths https://etu.math.upmc.fr/math/\nSite d'accès aux : Contrats Pédagogiques, Emploi du Temps, Convocations Examens, Notes.\n(Accessible uniquement aux inscrits à UFR de Mathématique)\bZCS https://zcs.sorbonne-universite.fr/\nBoîte Mail de SU.\bIzly https://izly.fr/\nCompte associé à votre carte étudiant. Il est nécessaire pour payer votre repas au CROUS (Cuvier et Ardoise). Permet également de payer facilement et moins cher en cafétéria."
                         },
                         {
                             "title":"Bibliothèques et Informatique",
-                            "text":"Site BUs https://sorbonne-universite.primo.exlibrisgroup.com/\nRecherche de livres, demande ou renouvellement d'emprunt, etc...\b\nHoraires et état des BUs en direct https://www.sorbonne-universite.fr/les-bibliotheques-de-sciences-et-ingenierie\bBuresa https://buresa.upmc.fr/ReservationSalles/Default.aspx\nPermet de réserver et avoir accès aux différents boxs et salles dans les différentes BUs de Jussieu.\bL'UTES https://lutes.upmc.fr/actu.php\nAccès aux sessions Bureau de l'UTES et Linux depuis chez vous. Réservation de salles de réunions et de salles informatiques.\bDrop SU https://dropsu.sorbonne-universite.fr/\nSystème de dépôt de fichier en ligne de Sorbonne Université.\bPôle Discord SU https://discord.gg/5fX8q6SSPP"
+                            "text":"Site BUs https://sorbonne-universite.primo.exlibrisgroup.com/  \nRecherche de livres, demande ou renouvellement d'emprunt, etc...\n\n  \nHoraires et état des BUs en direct https://www.sorbonne-universite.fr/les-bibliotheques-de-sciences-et-ingenierie\n\nBuresa https://buresa.upmc.fr/ReservationSalles/Default.aspx  \nPermet de réserver et avoir accès aux différents boxs et salles dans les différentes BUs de Jussieu.\n\nL'UTES https://lutes.upmc.fr/actu.php  \nAccès aux sessions Bureau de l'UTES et Linux depuis chez vous. Réservation de salles de réunions et de salles informatiques.\n\nDrop SU https://dropsu.sorbonne-universite.fr/  \nSystème de dépôt de fichier en ligne de Sorbonne Université.\n\nPôle Discord SU https://discord.gg/5fX8q6SSPP"
                         }
                     ]
                 },
                 {
                     "title": "Plans",
-                    "text":"Les légendes sont articulées ainsi :\nNom | Localisation de l'entrée | Horaire | Condition d'accessibilité\bSi les jours d'horaire ne sont pas précisés, il s'agit de Lundi-Vendredi.",
+                    "text":"Les légendes sont articulées ainsi :\nNom | Localisation de l'entrée | Horaire | Condition d'accessibilité\bSi les jours d'horaire ne sont pas précisés, il s'agit de Lundi-Vendredi.\bDossier Drive avec touts les plans :\nhttps://drive.google.com/drive/folders/1EiBj4a_6DMV06E2v1eF4m6Bk07iKBkH5?usp=sharing",
                     "children":[
                         {
                             "title":"Bâtiments",
-                            "text":"Z : Tour Zamansky | 8h-18h\nE : Bâtiment Esclangon\n🟥 : Atrium"
+                            "text":"Z : Tour Zamansky | 8h-18h  \nE : Bâtiment Esclangon  \n🟥 : Atrium"
                         },
                         {
                             "title":"Amphithéâtres",
-                            "text":"🟥 : Amphis B1,B2,B3 et A1,A2,A3 | Étages 2,4,6 Bâts B et A\n🟦 : Amphis Durand, Herpin et Astier | JU Esclangon\n🟩 : Auditorium | JU 54-55\nAutres : Nom de la Tour la plus proche | Niveau JU"
+                            "text":"🟥 : Amphis B1,B2,B3 et A1,A2,A3 | Étages 2,4,6 Bâts B et A  \n🟦 : Amphis Durand, Herpin et Astier | JU Esclangon  \n🟩 : Auditorium | JU 54-55  \nAutres : Nom de la Tour la plus proche | Niveau JU"
                         },
                         {
                             "title":"Bibiliothèques",
-                            "text":"🟦 : BDL | RDC Tour 43\n🟥 : MIR | Patio 15-26\n🟩 : BCPR | Patio 13-24\n🟫 : GEOS | 1er Étage Tour 44\n🟧 : BD1 | JU Tour 46\n🟪 : BDA | RDC Atrium"
+                            "text":"🟦 : BDL | RDC Tour 43  \n🟥 : MIR | Patio 15-26  \n🟩 : BCPR | Patio 13-24  \n🟫 : GEOS | 1er Étage Tour 44  \n🟧 : BD1 | JU Tour 46  \n🟪 : BDA | RDC Atrium"
                         },
                         {
                             "title":"Espaces Étudiants",
-                            "text":"🟦 : VE | JU 23-24 | 9h30-21h , Samedi 12h-18h\n🟥 : FabLab | Bât Esclangon\n🟩 : GreenLab | 43-44 201, 202, 203, 204, 206, 208\n🟫 : SHSE | JU 22-23 | Mardi-Vendredi 9h-12h et 14h-17h\n🟧 : DAPS | RDC Bât B | Lundi-Jeudi 9h30-11h30 et 12h15-16h, Vendredi 9h30-11h30 et 12h15-13h30\n🟪 : Service Capsule | Atrium 113 et 105 | 8h-18h\n🟨 : PPTI | 14-15 3,4,5ème Étages et 24-25 3ème Étage | Lundi-Jeudi 8h30-20h30 Vendredi 8h30-20h Samedi 10h-18h | Nécessite d'être inscrit dans une UE d'Informatique"
+                            "text":"🟦 : VE | JU 23-24 | 9h30-21h , Samedi 12h-18h  \n🟥 : FabLab | Bât Esclangon  \n🟩 : GreenLab | 43-44 201, 202, 203, 204, 206, 208  \n🟫 : SHSE | JU 22-23 | Mardi-Vendredi 9h-12h et 14h-17h  \n🟧 : DAPS | RDC Bât B | Lundi-Jeudi 9h30-11h30 et 12h15-16h, Vendredi 9h30-11h30 et 12h15-13h30  \n🟪 : Service Capsule | Atrium 113 et 105 | 8h-18h  \n🟨 : PPTI | 14-15 3,4,5ème Étages et 24-25 3ème Étage | Lundi-Jeudi 8h30-20h30 Vendredi 8h30-20h Samedi 10h-18h | Nécessite d'être inscrit dans une UE d'Informatique"
                         },
                         {
                             "title":"Espaces Restauration",
-                            "text":"🟥 : CROUS Cuvier\n🟦 : Foyer | JU 53\n🟩 : Cafétarias | RDC Atrium (8h30-17h), JU 26-25 (8h-17h30), Toit Cuvier\n🟪 : l'Ardoise | JU 26-25\n🟧 : Machines à Café et Distributeurs | JU 23-24, Foyer, Accueil Bât B, Entrée Esclangon, Entrée BDL"
+                            "text":"🟥 : CROUS Cuvier  \n🟦 : Foyer | JU 53  \n🟩 : Cafétarias | RDC Atrium (8h30-17h), JU 26-25 (8h-17h30), Toit Cuvier  \n🟪 : l'Ardoise | JU 26-25  \n🟧 : Machines à Café et Distributeurs | JU 23-24, Foyer, Accueil Bât B, Entrée Esclangon, Entrée BDL"
                         },
                         {
                             "title":"Toilettes",
-                            "text":"🟥 : à chaque Étages\n🟦 : dehors (Niveau JU)\n🟩 : dans les Couloirs"
+                            "text":"🟥 : à chaque Étages  \n🟦 : dehors (Niveau JU)  \n🟩 : dans les Couloirs"
                         },
                         {
                             "title":"Saint Bernard",
-                            "text":"🟥 : CROUS Cuvier\n🟦 : BDL\n🟩 : BCPR\n🟥 : MIR\n🟪 : BDA\n🏳️‍🌈 : TIPI"
+                            "text":"🟥 : CROUS Cuvier  \n🟦 : BDL  \n🟩 : BCPR  \n🟥 : MIR  \n🟪 : BDA  \n🏳️‍🌈 : TIPI"
                         }
                     ]
                 }
@@ -98,35 +98,35 @@
                     "children":[
                         {
                             "title":"MATHS : assosiation Mathématique Sorbonne Universite (AMSU)",
-                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=oT0mkKCcSMo\nSite : https://www.amsu.fr/\nDiscord : https://discord.gg/Ja7CQvKnne\nInstagram : https://www.instagram.com/amsujussieu/\nFacebook : http://facebook.com/amsu.fr\nMail : contacteramsu@gmail.com"
+                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=oT0mkKCcSMo  \nSite : https://www.amsu.fr/  \nDiscord : https://discord.gg/Ja7CQvKnne  \nInstagram : https://www.instagram.com/amsujussieu/  \nFacebook : http://facebook.com/amsu.fr  \nMail : contacteramsu@gmail.com"
                         },
                         {
                             "title":"PHYSIQUE : CurieOsity",
-                            "text":"Local : 22-32 115 9h-18h\nVidéo de Présentation : https://www.youtube.com/watch?v=GKun9E9Vz7I\nDiscord : https://discord.gg/U5NvHDTnwM\nInstagram : https://www.instagram.com/curieosity.su/\nFacebook : https://www.facebook.com/CurieOsityP6/\nMail : curieositysu@gmail.com"
+                            "text":"Local : 22-32 115 9h-18h  \nVidéo de Présentation : https://www.youtube.com/watch?v=GKun9E9Vz7I  \nDiscord : https://discord.gg/U5NvHDTnwM  \nInstagram : https://www.instagram.com/curieosity.su/  \nFacebook : https://www.facebook.com/CurieOsityP6/  \nMail : curieositysu@gmail.com"
                         },
                         {
                             "title":"CHIMIE : Association des Étudiants et Étudiantes de Chimie de Sorbonne Université (ACID SU)",
-                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=EuJfK41olTI\nSite : https://www.acid-su.com/\nDiscord : https://discord.gg/GVT8ZdQmg9\nYoutube : https://www.youtube.com/channel/UClkFABRpMr5YUIrf0-ebrtQ\nInstagram : https://www.instagram.com/acid.su/\nFacebook : https://www.facebook.com/acid.su.3\nMail : contact.acid.su@gmail.com"
+                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=EuJfK41olTI  \nSite : https://www.acid-su.com/  \nDiscord : https://discord.gg/GVT8ZdQmg9  \nYoutube : https://www.youtube.com/channel/UClkFABRpMr5YUIrf0-ebrtQ  \nInstagram : https://www.instagram.com/acid.su/  \nFacebook : https://www.facebook.com/acid.su.3  \nMail : contact.acid.su@gmail.com"
                         },
                         {
                             "title":"INFORMATIQUE : Association Ludique et InformAtique de Sorbonne (ALIAS)",
-                            "text":"Local : 14-15-506 | 12h45-13h45 & 18h-19h\nVidéo de Présentation : https://www.youtube.com/watch?v=u_7IxhM8hTQ\nSite : https://alias-asso.fr/\nDiscord : https://discord.gg/Bkp3RKTkjg\nInstagram : https://www.instagram.com/alias.asso/\nTwitter : https://twitter.com/alias_asso\nFacebook : https://www.facebook.com/ALIAS.asso\nMail : contact@alias-asso.fr"
+                            "text":"Local : 14-15-506 | 12h45-13h45 & 18h-19h  \nVidéo de Présentation : https://www.youtube.com/watch?v=u_7IxhM8hTQ  \nSite : https://alias-asso.fr/  \nDiscord : https://discord.gg/Bkp3RKTkjg  \nInstagram : https://www.instagram.com/alias.asso/  \nTwitter : https://twitter.com/alias_asso  \nFacebook : https://www.facebook.com/ALIAS.asso  \nMail : contact@alias-asso.fr"
                         },
                         {
-                            "title":"AERONAUTIQUE : Association Étudiante pour l’Aéronautique et l’Aérospatiale de Sorbonne Université (Top Aéro)",
+                            "title":"AERONAUTIQUE : Association Etudiante pour l’Aéronautique et l’Aérospatiale de Sorbonne Université (Top Aéro)",
                             "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=gOpdM0qSnn4\nSite : https://www.top-aero.com/\nDiscord : https://discord.gg/m7my3pP2ec\nInstagram : https://www.instagram.com/top_aero/\nFacebook : https://www.facebook.com/TopAeroSU\nMail : contact@top-aero.com\n"
                         },
                         {
                             "title":"BIOLOGIE : Symbiose 6",
-                            "text":"Local : Bâtiment C, Sortie Ouest de l'amphi B1, 2ème étage, 2ème étage\nVidéo de Présentation : https://www.youtube.com/watch?v=onS5u9rkHsQ\nSite : https://symbiose6.fr/\nYoutube : https://www.youtube.com/c/Symbiose6Fr/videos\nInstagram : https://www.instagram.com/symbiose_6/\nFacebook : https://www.facebook.com/symbiose.six\nTwitter : https://twitter.com/symbiose6?lang=fr\nMail : contact@symbiose6.fr"
+                            "text":"Local : Couloir Bâtiment C, 2ème étage\nVidéo de Présentation : https://www.youtube.com/watch?v=onS5u9rkHsQ\nSite : https://symbiose6.fr/\nYoutube : https://www.youtube.com/c/Symbiose6Fr/videos\nInstagram : https://www.instagram.com/symbiose_6/\nFacebook : https://www.facebook.com/symbiose.six\nTwitter : https://twitter.com/symbiose6?lang=fr\nMail : contact@symbiose6.fr"
                         },
                         {
                             "title":"GEOLOGIE : Association des Étudiants en Géologie (AEG)",
-                            "text":"Local : 46-56 2ème\nSite : https://aeg.ufrteb.fr/#contact\nInstagram : https://www.instagram.com/aegp6/\nFacebook : https://www.facebook.com/AEGP6/\nMail : aeg.paris6@gmail.com"
+                            "text":"Local : 46-56 2ème  \nSite : https://aeg.ufrteb.fr/#contact  \nInstagram : https://www.instagram.com/aegp6/  \nFacebook : https://www.facebook.com/AEGP6/  \nMail : aeg.paris6@gmail.com"
                         },
                         {
                             "title":"SCIENCES DE LA NATURE : Association Naturaliste Timarcha",
-                            "text":"Local : Bâtiment C, Sortie Ouest de l'amphi B2, 4ème étage\nSite : http://www.timarcha.org/\nInstagram : https://www.instagram.com/timarcha_asso/\nFacebook : https://www.facebook.com/TimarchaParis\nMail : contact@timarcha.org"
+                            "text":"Site : http://www.timarcha.org/\nInstagram : https://www.instagram.com/timarcha_asso/\nFacebook : https://www.facebook.com/TimarchaParis\nMail : contact@timarcha.org"
                         }
                     ]
                 },
@@ -135,39 +135,39 @@
                     "children":[
                         {
                             "title":"PHYSIQUE : Association du cursus SPRINT",
-                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=9tKA2VG8bCg\nDiscord : https://discord.gg/UDcqwNk5F4\nMail : contact@loanrenaud.fr"
+                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=9tKA2VG8bCg  \nDiscord : https://discord.gg/UDcqwNk5F4  \nMail : contact@loanrenaud.fr"
                         },
                         {
                             "title":"INGÉNIERIE : Association du Cursus Master en Ingénierie (CMI)",
-                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=g7oIDOKv23I\nSite : https://cmisorbonne.com/\nDiscord : https://discord.gg/xjj9U8NAAg\nInstagram : https://www.instagram.com/cmi.sorbonne\nFacebook : https://www.facebook.com/cmi.sorbonne\nTwitter : https://twitter.com/cmi_sorbonne\nYoutube :\nhttps://www.youtube.com/channel/UCpklenZtUKVFVTCUsc_eP_w\nhttps://www.youtube.com/channel/UCjB_CRkVz0pbjJGeuTBGywg\nMail : cmi.sorbonne@gmail.com"
+                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=g7oIDOKv23I  \nSite : https://cmisorbonne.com/  \nDiscord : https://discord.gg/xjj9U8NAAg  \nInstagram : https://www.instagram.com/cmi.sorbonne  \nFacebook : https://www.facebook.com/cmi.sorbonne  \nTwitter : https://twitter.com/cmi_sorbonne  \nYoutube :  \nhttps://www.youtube.com/channel/UCpklenZtUKVFVTCUsc_eP_w  \nhttps://www.youtube.com/channel/UCjB_CRkVz0pbjJGeuTBGywg  \nMail : cmi.sorbonne@gmail.com"
                         },
                         {
                             "title":"INGÉNIERIE : Association du Master d'Ingénierie (AMI)",
-                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=XcELxZU5AB8\nSite : https://www.ami-sorbonne-universite.fr/\nFacebook : https://www.facebook.com/AMISorbonneUniversite\nTwitter : https://twitter.com/AmiSorbonne\nInstagram : https://www.instagram.com/ami_sorbonneuniversite\nYoutube : https://www.youtube.com/channel/UCjB_CRkVz0pbjJGeuTBGywg\nMail : ami.sorbonne.universite@gmail.com"
+                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=XcELxZU5AB8  \nSite : https://www.ami-sorbonne-universite.fr/  \nFacebook : https://www.facebook.com/AMISorbonneUniversite  \nTwitter : https://twitter.com/AmiSorbonne  \nInstagram : https://www.instagram.com/ami_sorbonneuniversite  \nYoutube : https://www.youtube.com/channel/UCjB_CRkVz0pbjJGeuTBGywg  \nMail : ami.sorbonne.universite@gmail.com"
                         },
                         {
                             "title":"BIOLOGIE : Association Étudiante du master de Biologie Intégrative et Physiologie  (AEBIP)",
-                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=vlBAP4dbMYw\nSite : https://assoaebip.wixsite.com/aebip\nInstagram : https://www.instagram.com/aebip_asso\nFacebook : https://www.facebook.com/asso.aebip\nMail : asso.aebip@gmail.com"
+                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=vlBAP4dbMYw  \nSite : https://assoaebip.wixsite.com/aebip  \nInstagram : https://www.instagram.com/aebip_asso  \nFacebook : https://www.facebook.com/asso.aebip  \nMail : asso.aebip@gmail.com"
                         },
                         {
                             "title":"BIOLOGIE : Association du master de Biologie Moléculaire et Cellulaire (AvéBMC)",
-                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=rP2aaJlI4yo\nSite : https://avebmc.fr/\nInstagram : https://www.instagram.com/aveBMC\nFacebook : https://www.facebook.com/AveBMC\nMail : asso.avebmc@gmail.com"
+                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=rP2aaJlI4yo  \nSite : https://avebmc.fr/  \nInstagram : https://www.instagram.com/aveBMC  \nFacebook : https://www.facebook.com/AveBMC  \nMail : asso.avebmc@gmail.com"
                         },
                         {
                             "title":"GÉOLOGIE : Association du master Sol Eau Environnement (I'SEE)",
-                            "text":"Site : https://www.helloasso.com/associations/i-see\nFacebook : https://www.facebook.com/isee.association\nMail : isee.association@gmail.com"
+                            "text":"Site : https://www.helloasso.com/associations/i-see  \nFacebook : https://www.facebook.com/isee.association  \nMail : isee.association@gmail.com"
                         },
                         {
                             "title":"GESTION & MANAGEMENT : Association de cursus en Sciences, Gestion et Management de l’Innovation de Sorbonne Université (SGMI)",
-                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=DOekVXrqjQA\nSite : http://sgmi-su.com/\nInstagram : https://www.instagram.com/sgmi_su/\nFacebook : https://www.facebook.com/SGMIsorbonneuniversite\nMail : contact@sgmi-su.com"
+                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=DOekVXrqjQA  \nSite : http://sgmi-su.com/  \nInstagram : https://www.instagram.com/sgmi_su/  \nFacebook : https://www.facebook.com/SGMIsorbonneuniversite  \nMail : contact@sgmi-su.com"
                         },
                         {
                             "title":"SCIENCES & HUMANITÉS : Association Bicuriosité des doubles cursus Sciences + Histoire/Philo/Musico/ETC",
-                            "text":"Site : http://bicursiosite.com/\nInstagram : https://www.instagram.com/bicursiosite/\nYoutube : https://www.youtube.com/channel/UCPAmA8d39hjSubiU25RIpkg\nFacebook : https://www.facebook.com/bicursiosite\nTwitter  : https://twitter.com/bicursiosite\nMail : bicursiosite@ntymail.com"
+                            "text":"Site : http://bicursiosite.com/  \nInstagram : https://www.instagram.com/bicursiosite/  \nYoutube : https://www.youtube.com/channel/UCPAmA8d39hjSubiU25RIpkg  \nFacebook : https://www.facebook.com/bicursiosite  \nTwitter  : https://twitter.com/bicursiosite  \nMail : bicursiosite@ntymail.com"
                         },
                         {
                             "title":"SCIENCES & DROIT : Association de la Double Licence Sciences et Droit (ADLSD)",
-                            "text"  :"Instagram : https://www.instagram.com/sciencesdroit/\nFacebook : https://www.facebook.com/sciencesetdroit\nMail : adlsdcontact@gmail.com"
+                            "text"  :"Instagram : https://www.instagram.com/sciencesdroit/  \nFacebook : https://www.facebook.com/sciencesetdroit  \nMail : adlsdcontact@gmail.com"
                         }
                     ]
                 },
@@ -176,47 +176,47 @@
                     "children":[
                         {
                             "title":"JEUX VIDÉOS : SU Esport",
-                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=v5BjoYqlLdo\nSite : https://suesport.fr/\nDiscord : https://discord.com/invite/dsjsg22znR\nYoutube : https://www.youtube.com/channel/UCIP5PFrYFcdQON_mxX1uCbA/\nTwitch : https://www.twitch.tv/su_esport\nInstagram : https://www.instagram.com/esport.su/\nFacebook : https://www.facebook.com/Sorbonne-Universit%C3%A9-Esport-104710681733488\nMail : contact@suesport.fr"
+                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=v5BjoYqlLdo  \nSite : https://suesport.fr/  \nDiscord : https://discord.com/invite/dsjsg22znR  \nYoutube : https://www.youtube.com/channel/UCIP5PFrYFcdQON_mxX1uCbA/  \nTwitch : https://www.twitch.tv/su_esport  \nInstagram : https://www.instagram.com/esport.su/  \nFacebook : https://www.facebook.com/Sorbonne-Universit%C3%A9-Esport-104710681733488  \nMail : contact@suesport.fr"
                         },
                         {
                             "title":"ÉVÉNEMENTIEL JEUX : Play Sorbonne Université",
-                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=hpsjzXgIPAg\nDiscord : https://discord.gg/FPzyMjHTnu\nMail : playsorbonnefestival@gmail.com"
+                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=hpsjzXgIPAg  \nDiscord : https://discord.gg/FPzyMjHTnu  \nMail : playsorbonnefestival@gmail.com"
                         },
                         {
                             "title":"JEUX VIDÉOS : Virtual Fighters Club (VFC)",
-                            "text":"Discord : https://discord.gg/ym9sbnU\nTwitch : https://www.twitch.tv/vfc_sorbonne\nTwitter : https://twitter.com/VFC_Sorbonne\nMail : virtualfightersclub.sorbonne@gmail.com"
+                            "text":"Discord : https://discord.gg/ym9sbnU  \nTwitch : https://www.twitch.tv/vfc_sorbonne  \nTwitter : https://twitter.com/VFC_Sorbonne  \nMail : virtualfightersclub.sorbonne@gmail.com"
                         },
                         {
                             "title":"ÉCHECS : Sorbonne échecs",
-                            "text":"Discord : https://discord.gg/CF4dqdASGP\nInstagram : https://www.instagram.com/p/CbhSmAhtI2O/\nFacebook : https://www.facebook.com/LesFousDesTours/\nMail : lesfousdestours@protonmail.com"
+                            "text":"Discord : https://discord.gg/CF4dqdASGP  \nInstagram : https://www.instagram.com/p/CbhSmAhtI2O/  \nFacebook : https://www.facebook.com/LesFousDesTours/  \nMail : lesfousdestours@protonmail.com"
                         },
                         {
                             "title":"JEU DE RÔLE : Dés'N'Dés",
-                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=EZeMgTs4ZdU\nDiscord : https://discord.com/invite/s5n7evcZ5r\nInstagram : https://www.instagram.com/des_n_des_su/\nFacebook : https://www.facebook.com/DesnDesSU/\nMail : des.n.des.upmc@gmail.com"
+                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=EZeMgTs4ZdU\nDiscord : https://discord.gg/UTam6WwZmX\nInstagram : https://www.instagram.com/des_n_des_su/\nFacebook : https://www.facebook.com/DesnDesSU/\nMail : des.n.des.upmc@gmail.com"
                         },
                         {
                             "title":"FILM : Super 8 ",
-                            "text":"Site : https://upmcine.wixsite.com/super8sorbonne\nDiscord : https://discord.gg/k2Zeqk8462\nInstagram : https://www.instagram.com/super8sorbonne/\nFacebook : https://www.facebook.com/super8sorbonne\nMail : upmcine@gmail.com"
+                            "text":"Site : https://upmcine.wixsite.com/super8sorbonne  \nDiscord : https://discord.gg/k2Zeqk8462  \nInstagram : https://www.instagram.com/super8sorbonne/  \nFacebook : https://www.facebook.com/super8sorbonne  \nMail : upmcine@gmail.com"
                         },
                         {
                             "title":"VIDÉO & MÉDIA : TV JUSSIEU",
-                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=UaOHJyd8ZA8\nYoutube : https://www.youtube.com/c/TVJussieu\nFacebook : https://www.facebook.com/tvjussieu\nInstagram : https://www.instagram.com/tvjussieu/\nTwitter : https://twitter.com/tvjussieu\nMail : tv.jussieu@gmail.com"
+                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=UaOHJyd8ZA8  \nYoutube : https://www.youtube.com/c/TVJussieu  \nFacebook : https://www.facebook.com/tvjussieu  \nInstagram : https://www.instagram.com/tvjussieu/  \nTwitter : https://twitter.com/tvjussieu  \nMail : tv.jussieu@gmail.com"
                         },
                         {
                             "title":"MUSIQUE : Jam Jussieu",
-                            "text":"Instagram : https://www.instagram.com/lajamjussieu/\nFacebook : https://www.facebook.com/lajamjussieu\nMail : jam.jussieu@gmail.com"
+                            "text":"Instagram : https://www.instagram.com/lajamjussieu/  \nFacebook : https://www.facebook.com/lajamjussieu  \nMail : jam.jussieu@gmail.com"
                         },
                         {
                             "title":"PHOTOGRAPHIE : Lux Fabrica ou APP6",
-                            "text"  :"Vidéo de Présentation : https://www.youtube.com/watch?v=W8_IYlazgew\nFacebook : https://www.facebook.com/APP6-Atelier-Photo-Paris-6-145771368825291/\nSite : http://atelierphotojussieu.free.fr/\nMail : ap_p6@yahoo.fr"
+                            "text"  :"Vidéo de Présentation : https://www.youtube.com/watch?v=W8_IYlazgew  \nFacebook : https://www.facebook.com/APP6-Atelier-Photo-Paris-6-145771368825291/  \nSite : http://atelierphotojussieu.free.fr/  \nMail : ap_p6@yahoo.fr"
                         },
                         {
                             "title":"ART : Bureau Des Arts et de la Culture",
-                            "text"  :"Vidéo de Présentation : https://www.youtube.com/watch?v=7eA8bBYlhU8\nSite : https://www.polytech.sorbonne-universite.fr/vie-associative/bdac\nInstagram : https://www.instagram.com/bdacpolytech/\nFacebook : https://www.facebook.com/BdacPolytechSorbonne\nYoutube : https://www.youtube.com/channel/UC_Wcag32Y1AEEH8hho8Fv5Q/videos\nMail : bdac.polytech.sorbonne@gmail.com"
+                            "text"  :"Vidéo de Présentation : https://www.youtube.com/watch?v=7eA8bBYlhU8  \nSite : https://www.polytech.sorbonne-universite.fr/vie-associative/bdac  \nInstagram : https://www.instagram.com/bdacpolytech/  \nFacebook : https://www.facebook.com/BdacPolytechSorbonne  \nYoutube : https://www.youtube.com/channel/UC_Wcag32Y1AEEH8hho8Fv5Q/videos  \nMail : bdac.polytech.sorbonne@gmail.com"
                         },
                         {
                             "title":"SPORT : ASsociation Sportive Universitaire de la faculté des Sciences et Ingénierie et de la faculté de Médecine (ASSU SIM)",
-                            "text"  :"Vidéo de Présentation : https://www.youtube.com/watch?v=DP6MW5P1Yag\nFacebook : https://www.facebook.com/AS.SorbonneU.Sces.Inge.Med/\nMail : sciences-assosport@sorbonne-universite.fr"
+                            "text"  :"Vidéo de Présentation : https://www.youtube.com/watch?v=DP6MW5P1Yag  \nFacebook : https://www.facebook.com/AS.SorbonneU.Sces.Inge.Med/  \nMail : sciences-assosport@sorbonne-universite.fr"
                         }
                     ]
                 },
@@ -225,23 +225,23 @@
                     "children":[
                         {
                             "title":"la SIXE BDE Jussieu",
-                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=8CJ8kp3J2Cc\nInstagram : https://www.instagram.com/Lasixe_bdejussieu/\nFacebook : https://www.facebook.com/LaSixeBdeJussieu\nMail : lasixebdejussieu@gmail.com"
+                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=8CJ8kp3J2Cc  \nInstagram : https://www.instagram.com/Lasixe_bdejussieu/  \nFacebook : https://www.facebook.com/LaSixeBdeJussieu  \nMail : lasixebdejussieu@gmail.com"
                         },
                         {
                             "title":"AXIO BDE Sorbonne Université",
-                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=D5UgbARvIbg\nSite : http://axio-su.fr/\nInstagram : https://www.instagram.com/Axiosu_bde/\nFacebook : https://www.facebook.com/AXIOBDF\nMail : axiobdf@gmail.com"
+                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=D5UgbARvIbg  \nSite : http://axio-su.fr/  \nInstagram : https://www.instagram.com/Axiosu_bde/  \nFacebook : https://www.facebook.com/AXIOBDF  \nMail : axiobdf@gmail.com"
                         },
                         {
                             "title":"BDE Polytech",
-                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=SaFV8Otn_8w\nSite : https://www.polytech.sorbonne-universite.fr/vie-associative/bde\nInstagram : https://www.instagram.com/bdepolytechsorbonne/\nFacebook : https://www.facebook.com/BDEPolytechSorbonne\nMail : bde.polytech.paris@gmail.com"
+                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=SaFV8Otn_8w  \nSite : https://www.polytech.sorbonne-universite.fr/vie-associative/bde  \nInstagram : https://www.instagram.com/bdepolytechsorbonne/  \nFacebook : https://www.facebook.com/BDEPolytechSorbonne  \nMail : bde.polytech.paris@gmail.com"
                         },
                         {
                             "title":"POLYPEIP (club du BDE Polytech pour la filière PEIP de Polytech)",
-                            "text":"Site : https://www.polytech.sorbonne-universite.fr/vie-associative/polypeip\nInstagram : https://www.instagram.com/polypeip_sorbonne/\nFacebook : https://www.facebook.com/polypeipsorbonne\nMail : polypeip.sorbonne@gmail.com"
+                            "text":"Site : https://www.polytech.sorbonne-universite.fr/vie-associative/polypeip  \nInstagram : https://www.instagram.com/polypeip_sorbonne/  \nFacebook : https://www.facebook.com/polypeipsorbonne  \nMail : polypeip.sorbonne@gmail.com"
                         },
                         {
                             "title":"BDE ISUP (Institut de Statistique de l'Université de Paris)",
-                            "text":"Instagram : https://www.instagram.com/bde_isupien/\nFacebook : https://www.facebook.com/bdelevesisup\nMail : bdeisup.contact@gmail.com"
+                            "text":"Instagram : https://www.instagram.com/bde_isupien/  \nFacebook : https://www.facebook.com/bdelevesisup  \nMail : bdeisup.contact@gmail.com"
                         }
                     ]
                 }
