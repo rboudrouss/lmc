@@ -1,6 +1,6 @@
 site data are on `./src/data/`
 
-for dropdowns text only, `\n` pour sauter une ligne & `\b` pour passer un paragraphe.
+for dropdowns text only, `  \n` pour sauter une ligne & `\n\n` pour passer un paragraphe.
 
 ## TODO List
 

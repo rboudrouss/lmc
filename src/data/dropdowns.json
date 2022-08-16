@@ -7,15 +7,15 @@
             "children":[
                 {
                     "title":"C'est quoi ?",
-                    "text":"La Matrice Carrée, c'est un projet à destination des étudiants du campus Pierre et Marie Curie (ou campus Jussieu) de Sorbonne Université.Vous y trouverez :\b- Des informations et conseils utiles et pratiques concernant le campus, Ici et sur tout nos réseaux sociaux.\b- Plusieurs messageries spécifiquement prévus pour l'aide aux devoirs. Disponible uniquement sur notre Discord.\b- Différents sujets scientifiques étudiés de manière quantitative et détaillée. Sur notre Discord et chaîne Youtube."
+                    "text":"La Matrice Carrée, c'est un projet à destination des étudiants du campus Pierre et Marie Curie (ou campus Jussieu) de Sorbonne Université.Vous y trouverez :\n\n- Des informations et conseils utiles et pratiques concernant le campus, Ici et sur tout nos réseaux sociaux.\n\n- Plusieurs messageries spécifiquement prévus pour l'aide aux devoirs. Disponible uniquement sur notre Discord.\n\n- Différents sujets scientifiques étudiés de manière quantitative et détaillée. Sur notre Discord et chaîne Youtube."
                 },
                 {
                     "title":"Pourquoi ce nom ?",
-                    "text":"Les matrices sont un outil mathématique de représentation des espaces et applications linéaires abondamment utilisé en physique. Elles sont également fréquemment utilisées, sous une autre forme, en informatique.\bDe plus, le campus Jussieu se structure en grande partie à la manière d'une matrice carrée dont les coefficients seraient les différentes tours numérotées XY pour tour de colonne X et ligne Y.\bC'est ainsi un objet qui est présent partout en sciences, qui est intimement lié au campus de Jussieu et qui permet donc faire le lien entre le côté scientifique et le côté campus du projet."
+                    "text":"Les matrices sont un outil mathématique de représentation des espaces et applications linéaires abondamment utilisé en physique. Elles sont également fréquemment utilisées, sous une autre forme, en informatique.\n\nDe plus, le campus Jussieu se structure en grande partie à la manière d'une matrice carrée dont les coefficients seraient les différentes tours numérotées XY pour tour de colonne X et ligne Y.\n\nC'est ainsi un objet qui est présent partout en sciences, qui est intimement lié au campus de Jussieu et qui permet donc faire le lien entre le côté scientifique et le côté campus du projet."
                 },
                 {
                     "title":"Qui sommes-nous ?",
-                    "text":"Fondateurs :\nPaul Rieunier | 3810393 | Redoublant L3 DM-PM | (+33)0778137706\nMaxime Vinteler | 28707102 | L3 DM-PM"
+                    "text":"Fondateurs :  \nPaul Rieunier | 3810393 | Redoublant L3 DM-PM | (+33)0778137706  \nMaxime Vinteler | 28707102 | L3 DM-PM"
                 }
             ]
         },
@@ -31,8 +31,8 @@
 
                         },
                         {
-                            "title":"Nomencalture",
-                            "text":"ATTENTION : On utilisera ici 1234567 comme nombres quelconques pour être plus intuitif et compréhensif.\b12 : Tour de la colonne 1 et ligne 2 dans la Matrice de Jussieu\nExemple : La tour 16 se trouve dans la colonne la plus à l'Ouest et dans la ligne la plus au Sud. Elle est donc dans le coin Sud-Ouest de Jussieu.\b3ème 12 : 3ème étage de la Tour 12\nExemple : L'accès à la Géos se trouve 1er étage en 44.\bPatio 12-34 : Espace rectangulaire entre les tours 12 et 34\nExemple : La VE se trouve sur le patio 23-34 ou 33-24.\b12-34 : Bloc reliant les tours 12 et 34.\nExemple : La Géos se trouve en 44-34 ou 34-44.\bException : 3 Blocs ne sont reliés qu'à une seule tour et prennent la notation 00 pour la tour manquante :\n🟥 : 26-00\n🟦 : 46-00\n🟩 : 54-00\b12-34 5ème : Couloir du 5ème étage entre les tours 12 et 34\nExemple : La Géos se trouve au 1er et 2ème 44-34 ou 34-44.\b12-34 567  : Salle 567 du couloir du 5ème étage entre les tours 12 et 34\nExemple : Le local d'ALIAS se trouve en 14-15 506.\bAtrium : L'Atrium n'est pas une tour mais fonctionne avec la même Nomenclature.\nExemple : La salle A 305 se trouve au 3ème étage de l'Atrium.\n"
+                            "title":"Nomenclature",
+                            "text":"ATTENTION : On utilisera ici 1234567 comme nombres quelconques pour être plus intuitif et compréhensif.\n\n12 : Tour de la colonne 1 et ligne 2 dans la Matrice de Jussieu  \nExemple : La tour 16 se trouve dans la colonne la plus à l'Ouest et dans la ligne la plus au Sud. Elle est donc dans le coin Sud-Ouest de Jussieu.\n\n3ème 12 : 3ème étage de la Tour 12  \nExemple : L'accès à la Géos se trouve 1er étage en 44.\n\nPatio 12-34 : Espace rectangulaire entre les tours 12 et 34  \nExemple : La VE se trouve sur le patio 23-34 ou 33-24.\n\n12-34 : Bloc reliant les tours 12 et 34.  \nExemple : La Géos se trouve en 44-34 ou 34-44.\n\nException : 3 Blocs ne sont reliés qu'à une seule tour et prennent la notation 00 pour la tour manquante :  \n🟥 : 26-00  \n🟦 : 46-00  \n🟩 : 54-00\n\n12-34 5ème : Couloir du 5ème étage entre les tours 12 et 34  \nExemple : La Géos se trouve au 1er et 2ème 44-34 ou 34-44.\n\n12-34 567  : Salle 567 du couloir du 5ème étage entre les tours 12 et 34  \nExemple : Le local d'ALIAS se trouve en 14-15 506.\n\nAtrium : L'Atrium n'est pas une tour mais fonctionne avec la même Nomenclature.  \nExemple : La salle A 305 se trouve au 3ème étage de l'Atrium.  \n"
                         }
                     ]
                 },
@@ -45,8 +45,8 @@
 
                         },
                         {
-                            "title":"Cours et Administratif",
-                            "text":"Moodle https://moodle-sciences-22.sorbonne-universite.fr/\nPlateforme des différentes UEs ( Polycopiés, Emploi du Temps, Dépôts de DM, etc... )\bEtu Maths https://etu.math.upmc.fr/math/\nSite d'accès aux : Contrats Pédagogiques, Emploi du Temps, Convocations Examens, Notes.\n(Accessible uniquement aux inscrits à UFR de Mathématique)\bZCS https://zcs.sorbonne-universite.fr/\nBoîte Mail de SU.\bIzly https://izly.fr/\nCompte associé à votre carte étudiant. Il est nécessaire pour payer votre repas au CROUS (Cuvier et Ardoise). Permet également de payer facilement et moins cher en cafétéria."
+                                "title":"Cours et Administratif",
+                                "text":"Moodle https://moodle-sciences-22.sorbonne-universite.fr/  \nPlateforme des différentes UEs ( Polycopiés, Emploi du Temps, Dépôts de DM, etc... )\n\nEtu Maths https://etu.math.upmc.fr/math/  \nSite d'accès aux : Contrats Pédagogiques, Emploi du Temps, Convocations Examens, Notes.  \n(Accessible uniquement aux inscrits à UFR de Mathématique)\n\nZCS https://zcs.sorbonne-universite.fr/  \nBoîte Mail de SU.\n\nIzly https://izly.fr/  \nCompte associé à votre carte étudiant. Il est nécessaire pour payer votre repas au CROUS (Cuvier et Ardoise). Permet également de payer facilement et moins cher en cafétéria."
                         },
                         {
                             "title":"Bibliothèques et Informatique",
@@ -56,7 +56,7 @@
                 },
                 {
                     "title": "Plans",
-                    "text":"Les légendes sont articulées ainsi :\nNom | Localisation de l'entrée | Horaire | Condition d'accessibilité\bSi les jours d'horaire ne sont pas précisés, il s'agit de Lundi-Vendredi.\bDossier Drive avec touts les plans :\nhttps://drive.google.com/drive/folders/1EiBj4a_6DMV06E2v1eF4m6Bk07iKBkH5?usp=sharing",
+                    "text":"Les légendes sont articulées ainsi :  \nNom | Localisation de l'entrée | Horaire | Condition d'accessibilité\n\nSi les jours d'horaire ne sont pas précisés, il s'agit de Lundi-Vendredi.",
                     "children":[
                         {
                             "title":"Bâtiments",
@@ -113,12 +113,12 @@
                             "text":"Local : 14-15-506 | 12h45-13h45 & 18h-19h  \nVidéo de Présentation : https://www.youtube.com/watch?v=u_7IxhM8hTQ  \nSite : https://alias-asso.fr/  \nDiscord : https://discord.gg/Bkp3RKTkjg  \nInstagram : https://www.instagram.com/alias.asso/  \nTwitter : https://twitter.com/alias_asso  \nFacebook : https://www.facebook.com/ALIAS.asso  \nMail : contact@alias-asso.fr"
                         },
                         {
-                            "title":"AERONAUTIQUE : Association Etudiante pour l’Aéronautique et l’Aérospatiale de Sorbonne Université (Top Aéro)",
-                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=gOpdM0qSnn4\nSite : https://www.top-aero.com/\nDiscord : https://discord.gg/m7my3pP2ec\nInstagram : https://www.instagram.com/top_aero/\nFacebook : https://www.facebook.com/TopAeroSU\nMail : contact@top-aero.com\n"
+                            "title":"AERONAUTIQUE : Association Étudiante pour l’Aéronautique et l’Aérospatiale de Sorbonne Université (Top Aéro)",
+                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=gOpdM0qSnn4  \nSite : https://www.top-aero.com/  \nDiscord : https://discord.gg/m7my3pP2ec  \nInstagram : https://www.instagram.com/top_aero/  \nFacebook : https://www.facebook.com/TopAeroSU  \nMail : contact@top-aero.com  \n"
                         },
                         {
                             "title":"BIOLOGIE : Symbiose 6",
-                            "text":"Local : Couloir Bâtiment C, 2ème étage\nVidéo de Présentation : https://www.youtube.com/watch?v=onS5u9rkHsQ\nSite : https://symbiose6.fr/\nYoutube : https://www.youtube.com/c/Symbiose6Fr/videos\nInstagram : https://www.instagram.com/symbiose_6/\nFacebook : https://www.facebook.com/symbiose.six\nTwitter : https://twitter.com/symbiose6?lang=fr\nMail : contact@symbiose6.fr"
+                            "text":"Local : Bâtiment C, Sortie Ouest de l'amphi B1, 2ème étage, 2ème étage  \nVidéo de Présentation : https://www.youtube.com/watch?v=onS5u9rkHsQ  \nSite : https://symbiose6.fr/  \nYoutube : https://www.youtube.com/c/Symbiose6Fr/videos  \nInstagram : https://www.instagram.com/symbiose_6/  \nFacebook : https://www.facebook.com/symbiose.six  \nTwitter : https://twitter.com/symbiose6?lang=fr  \nMail : contact@symbiose6.fr"
                         },
                         {
                             "title":"GEOLOGIE : Association des Étudiants en Géologie (AEG)",
@@ -126,7 +126,7 @@
                         },
                         {
                             "title":"SCIENCES DE LA NATURE : Association Naturaliste Timarcha",
-                            "text":"Site : http://www.timarcha.org/\nInstagram : https://www.instagram.com/timarcha_asso/\nFacebook : https://www.facebook.com/TimarchaParis\nMail : contact@timarcha.org"
+                            "text":"Local : Bâtiment C, Sortie Ouest de l'amphi B2, 4ème étage  \nSite : http://www.timarcha.org/  \nInstagram : https://www.instagram.com/timarcha_asso/  \nFacebook : https://www.facebook.com/TimarchaParis  \nMail : contact@timarcha.org"
                         }
                     ]
                 },
@@ -192,7 +192,7 @@
                         },
                         {
                             "title":"JEU DE RÔLE : Dés'N'Dés",
-                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=EZeMgTs4ZdU\nDiscord : https://discord.gg/UTam6WwZmX\nInstagram : https://www.instagram.com/des_n_des_su/\nFacebook : https://www.facebook.com/DesnDesSU/\nMail : des.n.des.upmc@gmail.com"
+                            "text":"Vidéo de Présentation : https://www.youtube.com/watch?v=EZeMgTs4ZdU  \nDiscord : https://discord.com/invite/s5n7evcZ5r  \nInstagram : https://www.instagram.com/des_n_des_su/  \nFacebook : https://www.facebook.com/DesnDesSU/  \nMail : des.n.des.upmc@gmail.com"
                         },
                         {
                             "title":"FILM : Super 8 ",
