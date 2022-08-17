@@ -60,31 +60,31 @@
                     "children":[
                         {
                             "title":"Bâtiments",
-                            "text":"![batiments](/assets/plan/batiments.png)  \nZ : Tour Zamansky | 8h-18h  \nE : Bâtiment Esclangon  \n🟥 : Atrium"
+                            "text":"![batiments](/assets/plans/batiments.png)  \nZ : Tour Zamansky | 8h-18h  \nE : Bâtiment Esclangon  \n🟥 : Atrium"
                         },
                         {
                             "title":"Amphithéâtres",
-                            "text":"![amphis](/assets/plan/amphis.png)  \n🟥 : Amphis B1,B2,B3 et A1,A2,A3 | Étages 2,4,6 Bâts B et A  \n🟦 : Amphis Durand, Herpin et Astier | JU Esclangon  \n🟩 : Auditorium | JU 54-55  \nAutres : Nom de la Tour la plus proche | Niveau JU"
+                            "text":"![amphis](/assets/plans/amphis.png)  \n🟥 : Amphis B1,B2,B3 et A1,A2,A3 | Étages 2,4,6 Bâts B et A  \n🟦 : Amphis Durand, Herpin et Astier | JU Esclangon  \n🟩 : Auditorium | JU 54-55  \nAutres : Nom de la Tour la plus proche | Niveau JU"
                         },
                         {
                             "title":"Bibiliothèques",
-                            "text":"![bus](/assets/plan/bus.png)  \n🟦 : BDL | RDC Tour 43  \n🟥 : MIR | Patio 15-26  \n🟩 : BCPR | Patio 13-24  \n🟫 : GEOS | 1er Étage Tour 44  \n🟧 : BD1 | JU Tour 46  \n🟪 : BDA | RDC Atrium"
+                            "text":"![bus](/assets/plans/bus.png)  \n🟦 : BDL | RDC Tour 43  \n🟥 : MIR | Patio 15-26  \n🟩 : BCPR | Patio 13-24  \n🟫 : GEOS | 1er Étage Tour 44  \n🟧 : BD1 | JU Tour 46  \n🟪 : BDA | RDC Atrium"
                         },
                         {
                             "title":"Espaces Étudiants",
-                            "text":"![ees](/assets/plan/ees.png)  \n🟦 : VE | JU 23-24 | 9h30-21h , Samedi 12h-18h  \n🟥 : FabLab | Bât Esclangon  \n🟩 : GreenLab | 43-44 201, 202, 203, 204, 206, 208  \n🟫 : SHSE | JU 22-23 | Mardi-Vendredi 9h-12h et 14h-17h  \n🟧 : DAPS | RDC Bât B | Lundi-Jeudi 9h30-11h30 et 12h15-16h, Vendredi 9h30-11h30 et 12h15-13h30  \n🟪 : Service Capsule | Atrium 113 et 105 | 8h-18h  \n🟨 : PPTI | 14-15 3,4,5ème Étages et 24-25 3ème Étage | Lundi-Jeudi 8h30-20h30 Vendredi 8h30-20h Samedi 10h-18h | Nécessite d'être inscrit dans une UE d'Informatique"
+                            "text":"![ees](/assets/plans/ees.png)  \n🟦 : VE | JU 23-24 | 9h30-21h , Samedi 12h-18h  \n🟥 : FabLab | Bât Esclangon  \n🟩 : GreenLab | 43-44 201, 202, 203, 204, 206, 208  \n🟫 : SHSE | JU 22-23 | Mardi-Vendredi 9h-12h et 14h-17h  \n🟧 : DAPS | RDC Bât B | Lundi-Jeudi 9h30-11h30 et 12h15-16h, Vendredi 9h30-11h30 et 12h15-13h30  \n🟪 : Service Capsule | Atrium 113 et 105 | 8h-18h  \n🟨 : PPTI | 14-15 3,4,5ème Étages et 24-25 3ème Étage | Lundi-Jeudi 8h30-20h30 Vendredi 8h30-20h Samedi 10h-18h | Nécessite d'être inscrit dans une UE d'Informatique"
                         },
                         {
                             "title":"Espaces Restauration",
-                            "text":"![rus](/assets/plan/rus.png)  \n🟥 : CROUS Cuvier  \n🟦 : Foyer | JU 53  \n🟩 : Cafétarias | RDC Atrium (8h30-17h), JU 26-25 (8h-17h30), Toit Cuvier  \n🟪 : l'Ardoise | JU 26-25  \n🟧 : Machines à Café et Distributeurs | JU 23-24, Foyer, Accueil Bât B, Entrée Esclangon, Entrée BDL"
+                            "text":"![rus](/assets/plans/rus.png)  \n🟥 : CROUS Cuvier  \n🟦 : Foyer | JU 53  \n🟩 : Cafétarias | RDC Atrium (8h30-17h), JU 26-25 (8h-17h30), Toit Cuvier  \n🟪 : l'Ardoise | JU 26-25  \n🟧 : Machines à Café et Distributeurs | JU 23-24, Foyer, Accueil Bât B, Entrée Esclangon, Entrée BDL"
                         },
                         {
                             "title":"Toilettes",
-                            "text":"![toilettes](/assets/plan/toilettes.png)  \n🟥 : à chaque Étages  \n🟦 : dehors (Niveau JU)  \n🟩 : dans les Couloirs"
+                            "text":"![toilettes](/assets/plans/toilettes.png)  \n🟥 : à chaque Étages  \n🟦 : dehors (Niveau JU)  \n🟩 : dans les Couloirs"
                         },
                         {
                             "title":"Saint Bernard",
-                            "text":"![sb](/assets/plan/sb.png)  \n🟥 : CROUS Cuvier  \n🟦 : BDL  \n🟩 : BCPR  \n🟥 : MIR  \n🟪 : BDA  \n🏳️‍🌈 : TIPI"
+                            "text":"![sb](/assets/plans/sb.png)  \n🟥 : CROUS Cuvier  \n🟦 : BDL  \n🟩 : BCPR  \n🟥 : MIR  \n🟪 : BDA  \n🏳️‍🌈 : TIPI"
                         }
                     ]
                 }
