@@ -41,7 +41,7 @@
                     "children":[
                         {
                             "title":"Informations Générales",
-                            "text":"ENT (Espace Numérique de Travail) Sciences https://ent.sorbonne-universite.fr/sciences-etudiants/  \nDes informations en tout genre : Scolarité, Études, Vie Étudiante, Orientation et Insertion, International, Santé et Social.\n\nLes campus de SU https://www.sorbonne-universite.fr/campus-et-sites\n\nRépertoire officiel des associations de Jussieu https://sciences.sorbonne-universite.fr/associations\n\nRépertoire officiel des associations de SU https://www.sorbonne-universite.fr/associations \n\nCAPSULE https://capsule.sorbonne-universite.fr/"
+                            "text":"ENT (Espace Numérique de Travail) Sorbonne Sciences https://ent.sorbonne-universite.fr/sciences-etudiants/  \nDes informations en tout genre : Scolarité, Études, Vie Étudiante, Orientation et Insertion, International, Santé et Social.\n\nLes campus de SU https://www.sorbonne-universite.fr/campus-et-sites\n\nRépertoire officiel des associations de Jussieu https://sciences.sorbonne-universite.fr/associations\n\nRépertoire officiel des associations de SU https://www.sorbonne-universite.fr/associations \n\nCAPSULE https://capsule.sorbonne-universite.fr/"
 
                         },
                         {
@@ -106,7 +106,7 @@
                         },
                         {
                             "title":"CHIMIE : Association des Étudiants et Étudiantes de Chimie de Sorbonne Université (ACID SU)",
-                            "text":"![acidsu](/public/assets/assos/acidsu.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=EuJfK41olTI)  \n- [Site](https://www.acid-su.com/)  \n- [Discord](https://discord.gg/GVT8ZdQmg9)  \n- [Youtube](https://www.youtube.com/channel/UClkFABRpMr5YUIrf0-ebrtQ)  \n- [Instagram](https://www.instagram.com/acid.su/)  \n- [Facebook](https://www.facebook.com/acid.su.3)  \n- Mail : contact.acid.su@gmail.com"
+                            "text":"![acidsu](/assets/assos/acidsu.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=EuJfK41olTI)  \n- [Site](https://www.acid-su.com/)  \n- [Discord](https://discord.gg/GVT8ZdQmg9)  \n- [Youtube](https://www.youtube.com/channel/UClkFABRpMr5YUIrf0-ebrtQ)  \n- [Instagram](https://www.instagram.com/acid.su/)  \n- [Facebook](https://www.facebook.com/acid.su.3)  \n- Mail : contact.acid.su@gmail.com"
                         },
                         {
                             "title":"INFORMATIQUE : Association Ludique et InformAtique de Sorbonne (ALIAS)",
@@ -114,7 +114,7 @@
                         },
                         {
                             "title":"AERONAUTIQUE : Association Étudiante pour l’Aéronautique et l’Aérospatiale de Sorbonne Université (Top Aéro)",
-                            "text":"![topaero](/public/assets/assos/topaero.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=gOpdM0qSnn4)  \n- [Site](https://www.top-aero.com/)  \n- [Discord](https://discord.gg/m7my3pP2ec)  \n- [Instagram](https://www.instagram.com/top_aero/)  \n- [Facebook](https://www.facebook.com/TopAeroSU)  \n- Mail : contact@top-aero.com"
+                            "text":"![topaero](/assets/assos/topaero.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=gOpdM0qSnn4)  \n- [Site](https://www.top-aero.com/)  \n- [Discord](https://discord.gg/m7my3pP2ec)  \n- [Instagram](https://www.instagram.com/top_aero/)  \n- [Facebook](https://www.facebook.com/TopAeroSU)  \n- Mail : contact@top-aero.com"
                         },
                         {
                             "title":"BIOLOGIE : Symbiose 6",
@@ -180,19 +180,19 @@
                         },
                         {
                             "title":"ÉVÉNEMENTIEL JEUX : Play Sorbonne Université",
-                            "text":"![playsu](/public/assets/assos/playsu.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=hpsjzXgIPAg)  \n- [Discord](https://discord.gg/FPzyMjHTnu)  \n- Mail : playsorbonnefestival@gmail.com"
+                            "text":"![playsu](/assets/assos/playsu.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=hpsjzXgIPAg)  \n- [Discord](https://discord.gg/FPzyMjHTnu)  \n- Mail : playsorbonnefestival@gmail.com"
                         },
                         {
                             "title":"JEUX VIDÉOS : Virtual Fighters Club (VFC)",
-                            "text":"![vfc](/public/assets/assos/vfc.png)  \n- [Discord](https://discord.gg/ym9sbnU)  \n- [Twitch](https://www.twitch.tv/vfc_sorbonne)  \n- [Twitter](https://twitter.com/VFC_Sorbonne)  \n- Mail : virtualfightersclub.sorbonne@gmail.com"
+                            "text":"![vfc](/assets/assos/vfc.png)  \n- [Discord](https://discord.gg/ym9sbnU)  \n- [Twitch](https://www.twitch.tv/vfc_sorbonne)  \n- [Twitter](https://twitter.com/VFC_Sorbonne)  \n- Mail : virtualfightersclub.sorbonne@gmail.com"
                         },
                         {
                             "title":"ÉCHECS : Les Fous Des Tours (LFDT)",
-                            "text":"![lfdt](/public/assets/assos/lfdt.png)  \nL'association Les Fous des Tours est l'association d'échecs de Sorbonne Université, nous nous réunissons 2 fois par semaine pour jouer aux échecs et autres jeux de réflexion et organisons des tournois dans l'année.  \n- [Discord](https://discord.gg/CF4dqdASGP)  \n- [Instagram](https://www.instagram.com/p/CbhSmAhtI2O/)  \n- [Facebook](https://www.facebook.com/LesFousDesTours/)  \n- Mail : lesfousdestours@protonmail.com"
+                            "text":"![lfdt](/assets/assos/lfdt.png)  \nL'association Les Fous des Tours est l'association d'échecs de Sorbonne Université, nous nous réunissons 2 fois par semaine pour jouer aux échecs et autres jeux de réflexion et organisons des tournois dans l'année.  \n- [Discord](https://discord.gg/CF4dqdASGP)  \n- [Instagram](https://www.instagram.com/p/CbhSmAhtI2O/)  \n- [Facebook](https://www.facebook.com/LesFousDesTours/)  \n- Mail : lesfousdestours@protonmail.com"
                         },
                         {
                             "title":"JEU DE RÔLE : Dés'N'Dés",
-                            "text":"![desndes](/public/assets/assos/desndes.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=EZeMgTs4ZdU)  \n- [Discord](https://discord.com/invite/s5n7evcZ5r)  \n- [Instagram](https://www.instagram.com/des_n_des_su/)  \n- [Facebook](https://www.facebook.com/DesnDesSU/)  \n- Mail : des.n.des.upmc@gmail.com"
+                            "text":"![desndes](/assets/assos/desndes.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=EZeMgTs4ZdU)  \n- [Discord](https://discord.com/invite/s5n7evcZ5r)  \n- [Instagram](https://www.instagram.com/des_n_des_su/)  \n- [Facebook](https://www.facebook.com/DesnDesSU/)  \n- Mail : des.n.des.upmc@gmail.com"
                         },
                         {
                             "title":"FILM : Super 8 ",
@@ -212,7 +212,7 @@
                         },
                         {
                             "title":"ART : Bureau Des Arts et de la Culture de Polytech (BDAC Polytech)",
-                            "text"  :"![bdac](/public/assets/assos/bdac.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=7eA8bBYlhU8)  \n- [Site](https://www.polytech.sorbonne-universite.fr/vie-associative/bdac)  \n- [Instagram](https://www.instagram.com/bdacpolytech/)  \n- [Facebook](https://www.facebook.com/BdacPolytechSorbonne)  \n- [Youtube](https://www.youtube.com/channel/UC_Wcag32Y1AEEH8hho8Fv5Q)  \n- Mail : bdac.polytech.sorbonne@gmail.com"
+                            "text"  :"![bdac](/assets/assos/bdac.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=7eA8bBYlhU8)  \n- [Site](https://www.polytech.sorbonne-universite.fr/vie-associative/bdac)  \n- [Instagram](https://www.instagram.com/bdacpolytech/)  \n- [Facebook](https://www.facebook.com/BdacPolytechSorbonne)  \n- [Youtube](https://www.youtube.com/channel/UC_Wcag32Y1AEEH8hho8Fv5Q)  \n- Mail : bdac.polytech.sorbonne@gmail.com"
                         },
                         {
                             "title":"SPORT : ASsociation Sportive Universitaire de la faculté des Sciences et Ingénierie et de la faculté de Médecine (ASSU SIM)",
