@@ -15,3 +15,4 @@ for dropdowns text only, `  \n` pour sauter une ligne & `\n\n` pour passer un pa
 - [ ] les barres sur les cotés sur les dropdowns
 - [ ] liens ouvrent nouvel onglet
 - [ ] resize les images (max height)
+- [ ] mise en page chaque groupe de dropdowns (genre DD d'assos, DD de plan avec des css différents)
