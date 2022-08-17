@@ -13,3 +13,5 @@ for dropdowns text only, `  \n` pour sauter une ligne & `\n\n` pour passer un pa
     - [ ] souligner
     - [X] mettre des liens
 - [ ] les barres sur les cotés sur les dropdowns
+- [ ] liens ouvrent nouvel onglet
+- [ ] resize les images (max height)
