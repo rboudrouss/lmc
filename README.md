@@ -1,3 +1,5 @@
+![pass badge](https://github.com/rboudrouss/lmc/actions/workflows/deploy.yml/badge.svg)
+
 site data are on `./src/data/`
 
 for dropdowns text only, `  \n` pour sauter une ligne & `\n\n` pour passer un paragraphe.
