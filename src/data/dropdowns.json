@@ -41,16 +41,16 @@
                     "children":[
                         {
                             "title":"Informations Générales",
-                            "text":"ENT (Espace Numérique de Travail) Sorbonne Sciences https://ent.sorbonne-universite.fr/sciences-etudiants/  \nDes informations en tout genre : Scolarité, Études, Vie Étudiante, Orientation et Insertion, International, Santé et Social.\n\nLes campus de SU https://www.sorbonne-universite.fr/campus-et-sites\n\nRépertoire officiel des associations de Jussieu https://sciences.sorbonne-universite.fr/associations\n\nRépertoire officiel des associations de SU https://www.sorbonne-universite.fr/associations \n\nCAPSULE https://capsule.sorbonne-universite.fr/"
+                            "text":"- [ENT (Espace Numérique de Travail)](Sorbonne Sciences https://ent.sorbonne-universite.fr/sciences-etudiants/)  \nDes informations en tout genre : Scolarité, Études, Vie Étudiante, Orientation et Insertion, International, Santé et Social.\n\n- [Les campus de SU](https://www.sorbonne-universite.fr/campus-et-sites)\n\n- [Répertoire officiel des associations de Jussieu](https://sciences.sorbonne-universite.fr/associations)\n\n- [Répertoire officiel des associations de SU](https://www.sorbonne-universite.fr/associations)\n\n- [CAPSULE](https://capsule.sorbonne-universite.fr/)"
 
                         },
                         {
                                 "title":"Cours et Administratif",
-                                "text":"Moodle https://moodle-sciences-22.sorbonne-universite.fr/  \nPlateforme des différentes UEs ( Polycopiés, Emploi du Temps, Dépôts de DM, etc... )\n\nEtu Maths https://etu.math.upmc.fr/math/  \nSite d'accès aux : Contrats Pédagogiques, Emploi du Temps, Convocations Examens, Notes.  \n(Accessible uniquement aux inscrits à UFR de Mathématique)\n\nZCS https://zcs.sorbonne-universite.fr/  \nBoîte Mail de SU.\n\nIzly https://izly.fr/  \nCompte associé à votre carte étudiant. Il est nécessaire pour payer votre repas au CROUS (Cuvier et Ardoise). Permet également de payer facilement et moins cher en cafétéria."
+                                "text":"- [Moodle](https://moodle-sciences-22.sorbonne-universite.fr/)  \nPlateforme des différentes UEs ( Polycopiés, Emploi du Temps, Dépôts de DM, etc... )\n\n- [UFR Étudiants Maths](https://etu.math.upmc.fr/math/)  \nSite d'accès aux : Contrats Pédagogiques, Emploi du Temps, Convocations Examens, Notes.  \n(Accessible uniquement aux inscrits à UFR de Mathématique)\n\n- [Zimbra SU](https://zcs.sorbonne-universite.fr/)  \nBoîte Mail de SU.\n\n- [Izly](https://izly.fr/)  \nCompte associé à votre carte étudiant. Il est nécessaire pour payer votre repas au CROUS (Cuvier et Ardoise). Permet également de payer facilement et moins cher en cafétéria."
                         },
                         {
                             "title":"Bibliothèques et Informatique",
-                            "text":"Site BUs https://sorbonne-universite.primo.exlibrisgroup.com/  \nRecherche de livres, demande ou renouvellement d'emprunt, etc...\n\n  \nHoraires et état des BUs en direct https://www.sorbonne-universite.fr/les-bibliotheques-de-sciences-et-ingenierie\n\nBuresa https://buresa.upmc.fr/ReservationSalles/Default.aspx  \nPermet de réserver et avoir accès aux différents boxs et salles dans les différentes BUs de Jussieu.\n\nL'UTES https://lutes.upmc.fr/actu.php  \nAccès aux sessions Bureau de l'UTES et Linux depuis chez vous. Réservation de salles de réunions et de salles informatiques.\n\nDrop SU https://dropsu.sorbonne-universite.fr/  \nSystème de dépôt de fichier en ligne de Sorbonne Université.\n\nPôle Discord SU https://discord.gg/5fX8q6SSPP"
+                            "text":"-  [Site BUs](https://sorbonne-universite.primo.exlibrisgroup.com/)  \nRecherche de livres, demande ou renouvellement d'emprunt, etc...\n\n- [Horaires et état des BUs en direct](https://www.sorbonne-universite.fr/les-bibliotheques-de-sciences-et-ingenierie)\n\n- [Buresa](https://buresa.upmc.fr/ReservationSalles/Default.aspx)  \nPermet de réserver et avoir accès aux différents boxs et salles dans les différentes BUs de Jussieu.\n\n- [L'UTES](https://lutes.upmc.fr/actu.php)  \nAccès aux sessions Bureau de l'UTES et Linux depuis chez vous. Réservation de salles de réunions et de salles informatiques.\n\n- [Drop SU](https://dropsu.sorbonne-universite.fr/)  \nSystème de dépôt de fichier en ligne de Sorbonne Université.\n\nPôle Discord SU https://discord.gg/5fX8q6SSPP"
                         }
                     ]
                 },
@@ -67,7 +67,7 @@
                             "text":"![amphis](/assets/plans/amphis.png)  \n🟥 : Amphis B1,B2,B3 et A1,A2,A3 | Étages 2,4,6 Bâts B et A  \n🟦 : Amphis Durand, Herpin et Astier | JU Esclangon  \n🟩 : Auditorium | JU 54-55  \nAutres : Nom de la Tour la plus proche | Niveau JU"
                         },
                         {
-                            "title":"Bibiliothèques",
+                            "title":"Bibliothèques",
                             "text":"![bus](/assets/plans/bus.png)  \n🟦 : BDL | RDC Tour 43  \n🟥 : MIR | Patio 15-26  \n🟩 : BCPR | Patio 13-24  \n🟫 : GEOS | 1er Étage Tour 44  \n🟧 : BD1 | JU Tour 46  \n🟪 : BDA | RDC Atrium"
                         },
                         {
