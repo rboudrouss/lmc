@@ -1,4 +1,5 @@
 ![pass badge](https://github.com/rboudrouss/lmc/actions/workflows/deploy.yml/badge.svg)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f053bec4-3be1-4e83-b104-7b31eb7fb39c/deploy-status)](https://app.netlify.com/sites/lamatricecarree/deploys)
 
 site data are on `./src/data/`
 
