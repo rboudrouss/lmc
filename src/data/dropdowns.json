@@ -80,7 +80,7 @@
                         },
                         {
                             "title":"Toilettes",
-                            "text":"![toilettes](/assets/plans/toilettes.png)  \n🟥 : à chaque Étages  \n🟦 : dehors (Niveau JU)  \n🟩 : dans les Couloirs"
+                            "text":"![toilettes](/assets/plans/toilettes.png)  \n🟥 : à chaque Étages  \n🟦 : Niveau JU ou étage 2 pour bâtiments C, B et A  \n🟩 : dans les Couloirs"
                         },
                         {
                             "title":"Saint Bernard",
@@ -152,6 +152,10 @@
                         {
                             "title":"BIOLOGIE : Association du master de Biologie Moléculaire et Cellulaire (AvéBMC)",
                             "text":"- [Vidéo de Présentation](https://www.youtube.com/watch?v=rP2aaJlI4yo)  \n- [Site](https://avebmc.fr/)  \n- [Instagram](https://www.instagram.com/aveBMC)  \n- [Facebook](https://www.facebook.com/AveBMC)  \n- Mail : asso.avebmc@gmail.com"
+                        },
+                        {
+                            "title":"BIOLOGIE : Association du master de Biodiversité, Écologie et Évolution (GoBEE)",
+                            "text":"- [Site](https://www.association-gobee.fr/)  \n- [Instagram](https://instagram.com/association.gobee)  \n- [Facebook](https://www.facebook.com/GobeeSU)  \n- [Youtube](https://www.youtube.com/channel/UCQ1LnZxoM3rpNTGMFhRcf_g)  \n- Mail : administration@association-gobee.fr"
                         },
                         {
                             "title":"GÉOLOGIE : Assciation du master Sol Eau Environnement (I'SEE)",
