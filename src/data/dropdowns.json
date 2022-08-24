@@ -68,15 +68,20 @@
                         },
                         {
                             "title":"Bibliothèques",
-                            "text":"![bus](/assets/plans/bus.png)  \n🟦 : BDL | SB Tour 43  \n🟥 : MIR | Patio 15-26  \n🟩 : BCPR | Patio 13-24  \n🟫 : GEOS | 1er Étage Tour 44  \n🟧 : BD1 | JU Tour 46  \n🟪 : BDA | SB Atrium"
+                            "text":"![bus](/assets/plans/bus.png)  \n🟦 : BDL | SB Tour 43  \n🟥 : MIR | Patio 15-26  \n🟩 : BCPR | Patio 13-24  \n🟫 : GEOS | 1er Étage Tour 44  \n🟧 : BD1 | JU Tour 46  \n🟪 : BDA | SB Atrium\n\nHoraires : 9h-19h (sauf BDL : 9h-22h, Samedi 10h-20h)"
                         },
                         {
                             "title":"Espaces Étudiants",
-                            "text":"![ees](/assets/plans/ees.png)  \n🟦 : VE | JU 23-24 | 9h30-21h , Samedi 12h-18h  \n🟥 : FabLab | Bât Esclangon  \n🟩 : GreenLab | 43-44 201, 202, 203, 204, 206, 208  \n🟫 : SHSE | JU 22-23 | Mardi-Vendredi 9h-12h et 14h-17h  \n🟧 : DAPS | RDC Bât B | Lundi-Jeudi 9h30-11h30 et 12h15-16h, Vendredi 9h30-11h30 et 12h15-13h30  \n🟪 : Service Capsule | Atrium 113 et 105 | 8h-18h  \n🟨 : PPTI | 14-15 3,4,5ème Étages et 24-25 3ème Étage | Lundi-Jeudi 8h30-20h30 Vendredi 8h30-20h Samedi 10h-18h | Nécessite d'être inscrit dans une UE d'Informatique"
+                            "text":"![ees](/assets/plans/ees.png)  \n🟦 : EVE | JU 23-24 | 9h30-21h , Samedi 12h-18h  \n🟥 : FabLab | Bât Esclangon  \n🟩 : GreenLab | 43-44 201, 202, 203, 204, 206, 208  \n🟫 : EDAC | SB 33-43  \n🟪 : Service Capsule | Atrium 113 et 105 | 8h-18h  \n🟧 : PPTI | 14-15 3,4,5ème Étages et 24-25 3ème Étage | Lundi-Jeudi 8h30-20h30 Vendredi 8h30-20h Samedi 10h-18h | Nécessite d'être inscrit dans une UE d'Informatique  \n🟨 : SOI | SB 54-00"
                         },
                         {
                             "title":"Espaces Restauration",
                             "text":"![rus](/assets/plans/rus.png)  \n🟥 : CROUS Cuvier  \n🟦 : Foyer | JU 53  \n🟩 : Cafétarias | RDC Atrium (8h30-17h), JU 26-25 (8h-17h30), Toit Cuvier  \n🟪 : l'Ardoise | JU 26-25  \n🟧 : Machines à Café et Distributeurs | JU 23-24, Foyer, Accueil Bât B, Entrée Esclangon, Entrée BDL"
+                        },
+                        {
+                            "title":"Espaces Santé",
+                            "text":"![sante](/assets/plans/sante.png)  \n🟥⬜🟥  \n ⬜⬜⬜ : Infirmerie | JU 55  \n🟥⬜🟥  \n🟦 : SHSE | JU 22-23 | Mardi-Vendredi 9h-12h et 14h-17h
+🟩 : DAPS | RDC Bât B | Lundi-Jeudi 9h30-11h30 et 12h15-16h, Vendredi 9h30-11h30 et 12h15-13h30"
                         },
                         {
                             "title":"Toilettes",
