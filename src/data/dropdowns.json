@@ -27,12 +27,12 @@
                     "children":[
                         {
                             "title":"Acronymes à connaître",
-                            "text":"Fondamental :  \n- LMC : La Matrice Carrée  \n- SU : Sorbonne Université (regroupement de campus parisiens)  \n- UPMC : Université Pierre et Marie Curie (maintenant appelée campus Pierre et Marie Curie ou campus Jussieu)  \n- UE : Unité d'Enseignement (Matière)  \n- ECTS : European Credit Transfer and Accumulation System (le \"poids\" d'une UE)\n\nÉtages :  \n- JU : Étage Principal Jussieu   \n- SB : Étage Saint Bernard ou Rez De Chaussée (RDC)\n\nBibliothèques :  \n- BU : Bibliothèque Universitaire  \n- BDL : BU des Licences  \n- GEOS : BU des GÉOSciences  \n- MIR : BU des Maths, Informatiques et Recherche  \n- BCPR : BU de la Biologie, Chimie, Physique et Recherche  \n- BD1 : BU des L1  \n- BDA : BU De l'Atrium\n\nEspaces Étudiants :  \n- EVE : Espace Vie Étudiante  \n- SHSE : Service Handicap Santé Étudiant  \n- DAPS : Département des Activités Physiques et Sportives  \n- CAPSULE : Centre d’Accompagnement à la Pédagogie et SUpport à L’Expérimentation  \n- SOI : Service Orientation et Insertion  \n- PPTI : Plateforme Pédagogique et Technique Informatique\n\nCursus :  \n- ScFo : Licence de Sciences Formelles (anciennement MIPI, axé Maths, Physique et Informatique)  \n- ScIn : Licence de Sciences de l'Ingénierie (anciennement MIPI, axé Maths, Physique et Ingénierie)  \n- ScMa : Licence de Sciences de la Matière (anciennement PCGI, axé Physique, Chimie et Géosciences)  \n- ScNa : Licence de Sciences de la Nature (anciennement BGC, axé Biologie, Géosciences et Chimie)  \n- DM : Licence Double Majeure (deux licences en une seule)  \n- Mm : Licence Majeure mineure (pareil mais vous n'obtenez que le diplôme de la majeure)  \n- SPRINT : Sorbonne Physique Intensif et Nouvelles Technologies (Licence mono intensif de Physique)  \n- CMI : Cursus Master Ingénierie (licence + master)" 
+                            "text":"Fondamental :  \n- LMC : La Matrice Carrée  \n- SU : Sorbonne Université (regroupement de campus parisiens)  \n- UPMC : Université Pierre et Marie Curie (maintenant appelée campus Pierre et Marie Curie ou campus Jussieu)  \n- UE : Unité d'Enseignement (Matière)  \n- ECTS : European Credit Transfer and Accumulation System (le \"poids\" d'une UE)\n\nÉtages :  \n- JU : Étage Principal Jussieu   \n- SB : Étage Saint Bernard ou Rez De Chaussée (RDC)\n\nBibliothèques :  \n- BU : Bibliothèque Universitaire  \n- BDL : BU des Licences  \n- GEOS : BU des GÉOSciences  \n- MIR : BU des Maths, Informatiques et Recherche  \n- BCPR : BU de la Biologie, Chimie, Physique et Recherche  \n- BD1 : BU des L1  \n- BDA : BU De l'Atrium\n\nEspaces et Services Étudiants :  \n- EVE : Espace Vie Étudiante  \n- SHSE : Service Handicap Santé Étudiant  \n- DAPS : Département des Activités Physiques et Sportives  \n- CAPSULE : Centre d’Accompagnement à la Pédagogie et SUpport à L’Expérimentation  \n- SOI : Service d'Orientation et d'Insertion  \nEDAC : Espace Des Arts et de la Culture  \n- PPTI : Plateforme Pédagogique et Technique Informatique  \nSUMPPS : Service Universitaire de Médecine Préventive et de Promotion de la Santé\n\nCursus :  \n- ScFo : Licence de Sciences Formelles (anciennement MIPI, axé Maths, Physique et Informatique)  \n- ScIn : Licence de Sciences de l'Ingénierie (anciennement MIPI, axé Maths, Physique et Ingénierie)  \n- ScMa : Licence de Sciences de la Matière (anciennement PCGI, axé Physique, Chimie et Géosciences)  \n- ScNa : Licence de Sciences de la Nature (anciennement BGC, axé Biologie, Géosciences et Chimie)  \n- DM : Licence Double Majeure (deux licences en une seule)  \n- Mm : Licence Majeure mineure (pareil mais vous n'obtenez que le diplôme de la majeure)  \n- SPRINT : Sorbonne Physique Intensif et Nouvelles Technologies (Licence mono intensif de Physique)  \n- CMI : Cursus Master Ingénierie (licence + master)" 
 
                         },
                         {
                             "title":"Nomenclature",
-                            "text":"ATTENTION : On utilisera ici 1234567 comme nombres quelconques pour être plus intuitif et compréhensif.\n\n- 12 : Tour de la colonne 1 et ligne 2 dans la Matrice de Jussieu  \nExemple : La tour 16 se trouve dans la colonne la plus à l'Ouest et dans la ligne la plus au Sud. Elle est donc dans le coin Sud-Ouest de Jussieu.  \n![16](/assets/plans/16.png)\n\n- 3ème 12 : 3ème étage de la Tour 12  \nExemple : L'accès à la Géos se trouve 1er étage en 44.  \n![geos](/assets/plans/geos.png)\n\n- Patio 12-34 : Espace rectangulaire entre les tours 12 et 34  \nExemple : L'EVE se trouve sur le patio 23-34 ou 33-24.  \n![eve](/assets/plans/eve.png)\n\n- 12-34 : Bloc reliant les tours 12 et 34.  \nExemple : La Géos se trouve en 44-34 ou 34-44.  \n![geos2](/assets/plans/geos2.png)\nException : 3 Blocs ne sont reliés qu'à une seule tour et prennent la notation 00 pour la tour manquante :  \n![00](/assets/plans/00.png)  \n🟥 : 26-00  \n🟦 : 46-00  \n🟩 : 54-00\n\n- 12-34 5ème : Couloir du 5ème étage entre les tours 12 et 34  \nExemple : La Géos se trouve au 1er et 2ème 44-34 ou 34-44.\n\n- 12-34 567  : Salle 567 du couloir du 5ème étage entre les tours 12 et 34  \nExemple : Le local d'ALIAS se trouve en 14-15 506.\n\n- Atrium : L'Atrium n'est pas une tour mais fonctionne avec la même Nomenclature.  \nExemple : La salle Atrium 305 se trouve au 3ème étage de l'Atrium.  \n"
+                            "text":"ATTENTION : On utilisera ici 1234567 comme nombres quelconques pour être plus intuitif et compréhensif.\n\n- 12 : Tour de la colonne 1 et ligne 2 dans la Matrice de Jussieu  \nExemple : La tour 16 se trouve dans la colonne la plus à l'Ouest et dans la ligne la plus au Sud. Elle est donc dans le coin Sud-Ouest de Jussieu.  \n![16](/assets/plans/16.png)\n\n- 3ème 12 : 3ème étage de la Tour 12  \nExemple : L'accès à la Géos se trouve 1er étage en 44.  \n![geos](/assets/plans/geos.png)\n\n- Patio 12-34 : Espace rectangulaire entre les tours 12 et 34  \nExemple : L'EVE se trouve sur le patio 23-34 ou 33-24.  \n![eve](/assets/plans/eve.png)\n\n- 12-34 : Bloc reliant les tours 12 et 34.  \nExemple : La Géos se trouve en 44-34 ou 34-44.  \n![geos2](/assets/plans/geos2.png)\nException : 3 blocs ne sont reliés qu'à une seule tour et prennent la notation 00 pour la tour manquante :  \n![00](/assets/plans/00.png)  \n🟥 : 26-00  \n🟦 : 46-00  \n🟩 : 54-00\n\n- 12-34 5ème : Couloir du 5ème étage entre les tours 12 et 34  \nExemple : La Géos se trouve au 1er et 2ème 44-34 ou 34-44.\n\n- 12-34 567  : Salle 567 du couloir du 5ème étage entre les tours 12 et 34  \nExemple : Le local d'ALIAS se trouve en 14-15 506.\n\n- Atrium : L'Atrium n'est pas une tour mais fonctionne avec la même Nomenclature.  \nExemple : La salle Atrium 305 se trouve au 3ème étage de l'Atrium.  \n"
                         }
                     ]
                 },
@@ -72,15 +72,15 @@
                         },
                         {
                             "title":"Espaces Étudiants",
-                            "text":"![ees](/assets/plans/ees.png)  \n🟦 : EVE | JU 23-24 | 9h30-21h , Samedi 12h-18h  \n🟥 : FabLab | Bât Esclangon  \n🟩 : GreenLab | 43-44 201, 202, 203, 204, 206, 208  \n🟫 : EDAC | SB 33-43  \n🟪 : Service Capsule | Atrium 113 et 105 | 8h-18h  \n🟧 : PPTI | 14-15 3,4,5ème Étages et 24-25 3ème Étage | Lundi-Jeudi 8h30-20h30 Vendredi 8h30-20h Samedi 10h-18h | Nécessite d'être inscrit dans une UE d'Informatique  \n🟨 : SOI | SB 54-00"
+                            "text":"![ees](/assets/plans/ees.png)  \n🟦 : EVE | JU 23-24 | 9h30-21h , Samedi 12h-18h  \n🟥 : FabLab | Bât Esclangon  \n🟩 : GreenLab | 43-44 201, 202, 203, 204, 206, 208  \n🟫 : EDAC | SB 33-4	3  \n🟪 : Service Capsule | Atrium 113 et 105 | 8h-18h  \n🟧 : PPTI | 14-15 3,4,5ème Étages et 24-25 3ème Étage | Lundi-Jeudi 8h30-20h30 Vendredi 8h30-20h Samedi 10h-18h | Nécessite d'être inscrit dans une UE d'Informatique  \n🟨 : DAPS | SB Bât B | Lundi-Jeudi 9h30-11h30 et 12h15-16h, Vendredi 9h30-11h30 et 12h15-13h30"
                         },
                         {
                             "title":"Espaces Restauration",
-                            "text":"![rus](/assets/plans/rus.png)  \n🟥 : CROUS Cuvier  \n🟦 : Foyer | JU 53  \n🟩 : Cafétarias | SB Atrium (8h30-17h), JU 26-25 (8h-17h30), Toit Cuvier  \n🟪 : l'Ardoise | JU 26-25  \n🟧 : Machines à Café et Distributeurs | JU 23-24, Foyer, Accueil Bât B, Entrée Esclangon, Entrée BDL"
+                            "text":"![rus](/assets/plans/rus.png)  \n🟥 : CROUS Cuvier | 11h30-14h  \n🟦 : Foyer | JU 53 | 12h-14h  \n🟩 : Cafétarias | Toit Cuvier (8h30-16h30), SB Atrium (8h-17h), JU 26-25 (8h-17h30)  \n🟪 : l'Ardoise | 12h-14h  \n🟧 : Machines à Café et Distributeurs | JU 23-24, Foyer, Accueil Bât B, Entrée Esclangon, Entrée BDL"
                         },
                         {
-                            "title":"Espaces Santé",
-                            "text":"![sante](/assets/plans/sante.png)  \n🟥 : Infirmerie | JU 55  \n🟦 : SHSE | JU 22-23 | Mardi-Vendredi 9h-12h et 14h-17h  \n🟩 : DAPS | SB Bât B | Lundi-Jeudi 9h30-11h30 et 12h15-16h, Vendredi 9h30-11h30 et 12h15-13h30"
+                            "title":"Espaces Santé Social et Orientation",
+                            "text":"![sso](/assets/plans/sso.png)  \n🟥 : Infirmerie | JU 55 | 8h30-17h30  \n🟦 : SHSE | JU 22-23 | Mardi-Vendredi 9h-12h et 14h-17h  \n🟩 : SOI | SB 54-00  \n🟧 : Halte garderie | 8h15-18h15"
                         },
                         {
                             "title":"Toilettes",
@@ -88,7 +88,7 @@
                         },
                         {
                             "title":"Saint Bernard",
-                            "text":"![sb](/assets/plans/sb.png)  \n🟥 : CROUS Cuvier (en haut) et MIR (en bas)  \n🟩 : DAPS (en haut) et BCPR (en bas)  \n🟦 : BDL  \n🟪 : BDA  \n🏳️‍🌈 : TIPI"
+                            "text":"![sb](/assets/plans/sb.png)  \n🟥 : CROUS Cuvier (en haut) et MIR (en bas)  \n🟩 : BCPR (en bas)  \n🟦 : BDL  \n🟨 : DAPS  \n🟪 : BDA  \n🏳️‍🌈 : TIPI"
                         }
                     ]
                 }
@@ -183,10 +183,6 @@
                     "title":"Ludique & Artistique",
                     "children":[
                         {
-                            "title":"JEUX VIDÉOS : SU Esport",
-                            "text":"![suesport](/assets/assos/suesport.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=v5BjoYqlLdo)  \n- [Site](https://suesport.fr/)  \n- [Discord](https://discord.com/invite/dsjsg22znR)  \n- [Youtube](https://www.youtube.com/channel/UCIP5PFrYFcdQON_mxX1uCbA/)  \n- [Twitch](https://www.twitch.tv/su_esport)  \n- [Instagram](https://www.instagram.com/esport.su/)  \n- [Facebook](https://www.facebook.com/Sorbonne-Universit%C3%A9-Esport-104710681733488)  \n- Mail : contact@suesport.fr"
-                        },
-                        {
                             "title":"ÉVÉNEMENTIEL JEUX : Play Sorbonne Université",
                             "text":"![playsu](/assets/assos/playsu.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=hpsjzXgIPAg)  \n- [Discord](https://discord.gg/FPzyMjHTnu)  \n- Mail : playsorbonnefestival@gmail.com"
                         },
@@ -201,6 +197,10 @@
                         {
                             "title":"JEU DE RÔLE : Dés'N'Dés",
                             "text":"![desndes](/assets/assos/desndes.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=EZeMgTs4ZdU)  \n- [Discord](https://discord.com/invite/s5n7evcZ5r)  \n- [Instagram](https://www.instagram.com/des_n_des_su/)  \n- [Facebook](https://www.facebook.com/DesnDesSU/)  \n- Mail : des.n.des.upmc@gmail.com"
+                        },
+				{
+                            "title":"JEUX VIDÉOS : SU Esport",
+                            "text":"![suesport](/assets/assos/suesport.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=v5BjoYqlLdo)  \n- [Site](https://suesport.fr/)  \n- [Discord](https://discord.com/invite/dsjsg22znR)  \n- [Youtube](https://www.youtube.com/channel/UCIP5PFrYFcdQON_mxX1uCbA/)  \n- [Twitch](https://www.twitch.tv/su_esport)  \n- [Instagram](https://www.instagram.com/esport.su/)  \n- [Facebook](https://www.facebook.com/Sorbonne-Universit%C3%A9-Esport-104710681733488)  \n- Mail : contact@suesport.fr"
                         },
                         {
                             "title":"FILM : Super 8 ",
