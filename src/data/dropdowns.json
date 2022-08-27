@@ -46,7 +46,7 @@
                         },
                         {
                                 "title":"Cours et Administratif",
-                                "text":"- [Moodle](https://moodle-sciences-22.sorbonne-universite.fr/)  \nPlateforme des différentes UEs ( Polycopiés, Emploi du Temps, Dépôts de DM, etc... )\n\n- [UFR Étudiants Maths](https://etu.math.upmc.fr/math/)  \nSite d'accès aux : Contrats Pédagogiques, Emploi du Temps, Convocations Examens, Notes.  \n(Accessible uniquement aux inscrits à l'UFR de Mathématique)\n\n- [Zimbra SU](https://zcs.sorbonne-universite.fr/)  \nBoîte Mail de SU.\n\n- [Izly](https://izly.fr/)  \nCompte associé à votre carte étudiant. Il est nécessaire pour payer votre repas au CROUS (Cuvier et Ardoise). Permet également de payer facilement et moins cher en cafétéria."
+                                "text":"- [Moodle](https://moodle-sciences-22.sorbonne-universite.fr/)  \nPlateforme des différentes UEs ( Polycopiés, Emploi du Temps, Dépôts de DM, etc... )\n\n- [UFR Étudiants Maths](https://etu.math.upmc.fr/math/)  \nSite d'accès aux : Contrats Pédagogiques, Emploi du Temps, Convocations Examens, Notes.  \n**Accessible uniquement aux inscrits à l'UFR de Mathématique**\n\n- [Zimbra SU](https://zcs.sorbonne-universite.fr/)  \nBoîte Mail de SU.\n\n- [Izly](https://izly.fr/)  \nCompte associé à votre carte étudiant. Il est nécessaire pour payer votre repas au CROUS (Cuvier et Ardoise). Permet également de payer facilement et moins cher en cafétéria."
                         },
                         {
                             "title":"Bibliothèques et Informatique",
@@ -72,7 +72,7 @@
                         },
                         {
                             "title":"Espaces Étudiants",
-                            "text":"![ees](/assets/plans/ees.png)  \n🟦 : EVE | JU 23-24 | 9h30-21h , Samedi 12h-18h  \n🟥 : FabLab | Bât Esclangon  \n🟩 : GreenLab | 43-44 201, 202, 203, 204, 206, 208  \n🟫 : EDAC | SB 33-43  \n🟪 : Service Capsule | Atrium 113 et 105 | 8h-18h  \n🟧 : PPTI | 14-15 3,4,5ème Étages et 24-25 3ème Étage | Lundi-Jeudi 8h30-20h30 Vendredi 8h30-20h Samedi 10h-18h | Nécessite d'être inscrit dans une UE d'Informatique  \n🟨 : DAPS | SB Bât B | Lundi-Jeudi 9h30-11h30 et 12h15-16h, Vendredi 9h30-11h30 et 12h15-13h30"
+                            "text":"![ees](/assets/plans/ees.png)  \n🟦 : EVE | JU 23-24 | 9h30-21h , Samedi 12h-18h  \n🟥 : FabLab | Bât Esclangon  \n🟩 : GreenLab | 43-44 201, 202, 203, 204, 206, 208  \n🟫 : EDAC | SB 33-43  \n🟪 : Service Capsule | Atrium 113 et 105 | 8h-18h  \n🟧 : PPTI | 14-15 3,4,5ème Étages et 24-25 3ème Étage | Lundi-Jeudi 8h30-20h30 Vendredi 8h30-20h Samedi 10h-18h | **Accessible uniquement aux inscrits à l'UFR d'Informatique**  \n🟨 : DAPS | SB Bât B | Lundi-Jeudi 9h30-11h30 et 12h15-16h, Vendredi 9h30-11h30 et 12h15-13h30"
                         },
                         {
                             "title":"Espaces Restauration",
@@ -159,14 +159,14 @@
                         },
                         {
                             "title":"BIOLOGIE : Association du master de Biodiversité, Écologie et Évolution (GoBEE)",
-                            "text":"![gobee](/assets/assos/gobee.jpg)  \n- [Site](https://www.association-gobee.fr/)  \n- [Instagram](https://instagram.com/association.gobee)  \n- [Facebook](https://www.facebook.com/GobeeSU)  \n- [Youtube](https://www.youtube.com/channel/UCQ1LnZxoM3rpNTGMFhRcf_g)  \n- Mail : administration@association-gobee.fr"
+                            "text":"![gobee](/assets/assos/gobee.jpg)  \n- [Site](https://www.association-gobee.fr/)  \n- [Instagram](https://www.instagram.com/association_gobee/)  \n- [Facebook](https://www.facebook.com/GobeeSU)  \n- [Youtube](https://www.youtube.com/channel/UCQ1LnZxoM3rpNTGMFhRcf_g)  \n- Mail : administration@association-gobee.fr"
                         },
                         {
-                            "title":"GÉOLOGIE : Assciation du master Sol Eau Environnement (I'SEE)",
+                            "title":"GÉOLOGIE : Assciation du master Sol, Eau et Environnement (I'SEE)",
                             "text":"![isee](/assets/assos/isee.png)  \n- [Site](https://www.helloasso.com/associations/i-see)  \n- [Facebook](https://www.facebook.com/isee.association)  \n- Mail : isee.association@gmail.com"
                         },
                         {
-                            "title":"GESTION & MANAGEMENT : Association de cursus en Sciences, Gestion et Management de l’Innovation de Sorbonne Université (SGMI)",
+                            "title":"GESTION & MANAGEMENT : Association de cursus en Sciences, Gestion et Management de l’Innovation (SGMI)",
                             "text":"![sgmi](/assets/assos/sgmi.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=DOekVXrqjQA)  \n- [Site](http://sgmi-su.com/)  \n- [Instagram](https://www.instagram.com/sgmi_su/)  \n- [Facebook](https://www.facebook.com/SGMIsorbonneuniversite)  \n- Mail : contact@sgmi-su.com"
                         },
                         {
