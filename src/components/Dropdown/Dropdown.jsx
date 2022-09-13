@@ -24,6 +24,7 @@ let Dropdown = ({ title, text, opened, children }) => {
             children={text}
             className={styles.md_container}
             remarkPlugins={[remarkGfm]}
+            linkTarget="_blank"
         />)}
 
         {open && dropdowns}
