@@ -2,8 +2,10 @@ import styles from './App.css';
 import Header from './components/Header/Header';
 import Dropdown from './components/Dropdown/Dropdown';
 import Footer from './components/Footer/Footer';
-import drop_data from "./data/dropdowns.json"
-import header_data from "./data/header.json"
+
+import drop_data from "./data/dropdowns.json";
+import header_data from "./data/header.json";
+import footer_data from "./data/footer.json";
 
 function App() {
   return (
@@ -14,10 +16,13 @@ function App() {
           title={drop_data.title}
           text={drop_data.text}
           children={drop_data.children}
-          opened = {drop_data.opened}
+          opened={drop_data.opened}
         />
       </section>
-      <Footer />
+      <Footer
+        mail={footer_data.mail}
+        links={footer_data.links}
+      />
     </div>
   );
 }

@@ -8,7 +8,7 @@ for dropdowns text only, `  \n` pour sauter une ligne & `\n\n` pour passer un pa
 ## TODO List
 
 - [X] faire fonctionner les builds automatiques netlify
-- [ ] créer un fichier json `footer.json` dans data avec les données du footer
+- [X] créer un fichier json `footer.json` dans data avec les données du footer
 - [ ] mise en page pour téléphone
 - [X] plus de features sur les jsons
     - [X] ajouter des images <!>
