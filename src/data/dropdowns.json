@@ -261,28 +261,32 @@
                             "text":"![bdac](/assets/assos/bdac.svg)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=7eA8bBYlhU8)  \n- [Site](https://www.polytech.sorbonne-universite.fr/vie-associative/bdac)  \n- [Instagram](https://www.instagram.com/bdacpolytech/)  \n- [Facebook](https://www.facebook.com/BdacPolytechSorbonne)  \n- [Youtube](https://www.youtube.com/channel/UC_Wcag32Y1AEEH8hho8Fv5Q)  \n- Mail : bdac.polytech.sorbonne@gmail.com"
                         },
                         {
-                            "title":"Polytech Without Borders (PWB), club du BDE Polytech ",
+                            "title":"CULTURE : Polytech Without Borders (PWB), club du BDE Polytech ",
                             "text":"![pwb](/assets/assos/pwb.svg)  \n- [Instagram](https://www.instagram.com/polytechwithoutborders/)  \n- [Facebook](https://www.facebook.com/polytechwithoutborders)  \n- Mail : "
                         },
                         {
-                            "title":"Bureau des Sports (BDS), club du BDE Polytech",
+                            "title":"SPORT : Bureau des Sports (BDS), club du BDE Polytech",
                             "text":"![bds](/assets/assos/bds.png)  \n- [Site](https://www.polytech.sorbonne-universite.fr/vie-associative/bds)  \n- [Instagram](https://www.instagram.com/bds_polytech_sorbonne/)  \n- [Facebook](https://www.facebook.com/bds.polytechparisupmc)  \n- Mail : bds.polytechsorbonne@gmail.com"
                         },
                         {
-                            "title":"Polycoeur , club du BDE Polytech",
+                            "title":"CARITATIF : Polycoeur , club du BDE Polytech",
                             "text":"![polycoeur](/assets/assos/polycoeur.png)  \n- [Site](https://www.polytech.sorbonne-universite.fr/vie-associative/polycoeur)  \n- [Instagram](https://www.instagram.com/polycoeur.sorbonne/)  \n- [Facebook](https://www.facebook.com/polycoeur.sorbonne)  \n- Mail : polycoeur.paris.upmc@gmail.com  \n- [LinkedIn](https://fr.linkedin.com/in/polycoeur-sorbonne)"
                         },
                         {
-                            "title":"Vert La Science , club du BDE Polytech",
+                            "title":"VULGARISATION : Vert La Science , club du BDE Polytech",
                             "text":"![vls](/assets/assos/vls.png)  \n- [Site](https://www.polytech.sorbonne-universite.fr/vie-associative/vert-la-science)  \n- [Instagram](https://www.instagram.com/vertlascience/)  \n- [Facebook](https://www.facebook.com/VertLaScience)  \n- Mail : vert.la.science@gmail.com  \n- [LinkedIn](https://www.linkedin.com/company/vert-science)"
                         },
                         {
-                            "title":"Club d'Informatique et d'Agrement",
+                            "title":"INFORMATIQUE : Club d'Informatique et d'Agrement (CIA)",
                             "text":"![cia](/assets/assos/cia.png)  \n- [Site](https://www.polytech.sorbonne-universite.fr/vie-associative/cia)  \n- [Instagram](https://www.instagram.com/cia_polytechsorbonne/)  \n- [Facebook](https://www.facebook.com/ClubDInformatiqueEtDAgrement)  \n- Mail : polytechupmccia@gmail.com"
                         },
                         {
-                            "title":"Robotech",
+                            "title":"ROBOTIQUE : Robotech",
                             "text":"![robotech](/assets/assos/robotech.png)  \n- [Site](https://sites.google.com/view/robotech-sorbonne/)  \n- [Instagram](https://www.instagram.com/robotech.sorbonne/)  \n- [Facebook](https://www.facebook.com/RobotechSorbonne)  \n- Mail : contact@robotech-sorbonne.com  \n- [LinkedIn](https://fr.linkedin.com/company/robotech-sorbonne)"
+                        },
+                        {
+                            "title":"ECOLOGIE : INTERREAGIR",
+                            "text":"![interreagir](/assets/assos/interreagir.png)  \n- [Instagram](https://www.instagram.com/in_terre_agir_polytechsorbonne/)  \n- [Facebook](https://www.facebook.com/lupa.lytech.94)  \n- Mail : interreagir.sorbonne@gmail.com"
                         }
                     ]
                 },
@@ -291,7 +295,7 @@
                     "children":[
                         {
                             "title":"PROJET ANNUAIRE : Defis Sorbonne",
-                            "text":"![defis](/assets/assos/defis.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=FGzKlZslgCM)  \n- [Instagram](www.instagram.com/defissorbonne/)  \n- [Facebook](https://www.facebook.com/defissorbonne/)  \n- Mail : defis.sorbonne@gmail.com"
+                            "text":"![defis](/assets/assos/defis.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=FGzKlZslgCM)  \n- [Instagram](https://www.instagram.com/defissorbonne/)  \n- [Facebook](https://www.facebook.com/defissorbonne/)  \n- Mail : defis.sorbonne@gmail.com"
                         }	
                     ]
                 }
