@@ -247,6 +247,7 @@
                 },
                 {
                     "title":"Polytech",
+                    "text":"Mail général des associations de Polytech Sorbonne : associations.polytechsorbonne@gmail.com",
                     "children":[
                         {
                             "title":"BDE Polytech",
@@ -294,7 +295,11 @@
                         },
                         {
                             "title":"RESEAUX : Enactus",
-                            "text":"![enactus](/assets/assos/enactus.png)  \n- [Site](https://www.polytech.sorbonne-universite.fr/vie-associative/enactus-polytech-sorbonne)  \n- [Instagram](https://www.instagram.com/enactuspolytechsorbonne/)  \n- [Facebook](https://www.facebook.com/Enactus-Polytech-Sorbonne-488533267865303)  \n- Mail :"
+                            "text":"![enactus](/assets/assos/enactus.png)  \n- [Site](https://www.polytech.sorbonne-universite.fr/vie-associative/enactus-polytech-sorbonne)  \n- [Instagram](https://www.instagram.com/enactuspolytechsorbonne/)  \n- [Facebook](https://www.facebook.com/Enactus-Polytech-Sorbonne-488533267865303)  \n- Mail : enactuspolytechparis@gmail.com"
+                        },
+                        {
+                            "title":"FEMINISME : HeForShe",
+                            "text":"![heforshe](/assets/assos/heforshe.png)  \n- [Site]()  \n- [Instagram]()  \n- [Facebook]()  \n- Mail : heforshepolytechsorbonne@gmail.com"
                         }
                     ]
                 },
