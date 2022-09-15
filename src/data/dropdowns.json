@@ -219,10 +219,6 @@
                             "text"  :"![luxfabrica](/assets/assos/luxfabrica.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=W8_IYlazgew)  \n- [Instagram](https://www.instagram.com/luxfabricasu/)  \n- [Facebook](https://www.facebook.com/APP6-Atelier-Photo-Paris-6-145771368825291/)  \n- Mail : ap_p6@yahoo.fr"
                         },
                         {
-                            "title":"ART : Bureau Des Arts et de la Culture de Polytech (BDAC Polytech)",
-                            "text"  :"![bdac](/assets/assos/bdac.svg)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=7eA8bBYlhU8)  \n- [Site](https://www.polytech.sorbonne-universite.fr/vie-associative/bdac)  \n- [Instagram](https://www.instagram.com/bdacpolytech/)  \n- [Facebook](https://www.facebook.com/BdacPolytechSorbonne)  \n- [Youtube](https://www.youtube.com/channel/UC_Wcag32Y1AEEH8hho8Fv5Q)  \n- Mail : bdac.polytech.sorbonne@gmail.com"
-                        },
-                        {
                             "title":"SPORT : ASsociation Sportive Universitaire de la faculté des Sciences et Ingénierie et de la faculté de Médecine (ASSU SIM)",
                             "text"  :"![assusim](/assets/assos/assusim.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=DP6MW5P1Yag)  \n- [Facebook](https://www.facebook.com/AS.SorbonneU.Sces.Inge.Med/)  \n- Mail : sciences-assosport@sorbonne-universite.fr"
                         }
@@ -240,6 +236,15 @@
                             "text":"![axio](/assets/assos/axio.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=D5UgbARvIbg)  \n- [Site](http://axio-su.fr/)  \n- [Instagram](https://www.instagram.com/Axiosu_bde/)  \n- [Facebook](https://www.facebook.com/AXIOBDF)  \n- Mail : axiobdf@gmail.com"
                         },
                         {
+                            "title":"BDE ISUP (Institut de Statistique de l'Université de Paris)",
+                            "text":"![isup](/assets/assos/isup.jpg)  \n- [Instagram](https://www.instagram.com/bde_isupien/)  \n- [Facebook](https://www.facebook.com/bdelevesisup)  \n- Mail : bdeisup.contact@gmail.com"
+                        }
+                    ]
+                },
+                {
+                    "title":"Polytech",
+                    "children":[
+                        {
                             "title":"BDE Polytech",
                             "text":"![polytech](/assets/assos/polytech.svg)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=SaFV8Otn_8w)  \n- [Site](https://www.polytech.sorbonne-universite.fr/vie-associative/bde)  \n- [Instagram](https://www.instagram.com/bdepolytechsorbonne/)  \n- [Facebook](https://www.facebook.com/BDEPolytechSorbonne)  \n- Mail : bde.polytech.paris@gmail.com  \n- [LinkedIn](https://fr.linkedin.com/company/bde-polytech-sorbonne)"
                         },
@@ -248,9 +253,9 @@
                             "text":"![polypeip](/assets/assos/polypeip.png)  \n- [Site](https://www.polytech.sorbonne-universite.fr/vie-associative/polypeip)  \n- [Instagram](https://www.instagram.com/polypeip_sorbonne/)  \n- [Facebook](https://www.facebook.com/polypeipsorbonne)  \n- Mail : polypeip.sorbonne@gmail.com"
                         },
                         {
-                            "title":"BDE ISUP (Institut de Statistique de l'Université de Paris)",
-                            "text":"![isup](/assets/assos/isup.jpg)  \n- [Instagram](https://www.instagram.com/bde_isupien/)  \n- [Facebook](https://www.facebook.com/bdelevesisup)  \n- Mail : bdeisup.contact@gmail.com"
-                        }
+                            "title":"ART : Bureau Des Arts et de la Culture de Polytech (BDAC Polytech)",
+                            "text"  :"![bdac](/assets/assos/bdac.svg)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=7eA8bBYlhU8)  \n- [Site](https://www.polytech.sorbonne-universite.fr/vie-associative/bdac)  \n- [Instagram](https://www.instagram.com/bdacpolytech/)  \n- [Facebook](https://www.facebook.com/BdacPolytechSorbonne)  \n- [Youtube](https://www.youtube.com/channel/UC_Wcag32Y1AEEH8hho8Fv5Q)  \n- Mail : bdac.polytech.sorbonne@gmail.com"
+                        },
                     ]
                 }
             ]
