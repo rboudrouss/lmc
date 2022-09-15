@@ -139,7 +139,7 @@
                     "children":[
                         {
                             "title":"PHYSIQUE : Association du cursus SPRINT",
-                            "text":"- [Vidéo de Présentation](https://www.youtube.com/watch?v=9tKA2VG8bCg)  \n- [Discord](https://discord.gg/UDcqwNk5F4)  \n- Mail : asso.sprint.su@gmail.com"
+                            "text":"![sprint](/assets/assos/sprint.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=9tKA2VG8bCg)  \n- [Discord](https://discord.gg/UDcqwNk5F4)  \n- Mail : asso.sprint.su@gmail.com"
                         },
                         {
                             "title":"INGÉNIERIE : Association du Cursus Master en Ingénierie (CMI)",
@@ -262,7 +262,7 @@
                     "title":"Autres",
                     "children":[
                         {
-                            "title":"Defis Sorbonne",
+                            "title":"PROJET ANNUAIRE : Defis Sorbonne",
                             "text":"![defis](/assets/assos/defis.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=FGzKlZslgCM)  \n- [Instagram](www.instagram.com/defissorbonne/)  \n- [Facebook](https://www.facebook.com/defissorbonne/)  \n- Mail : defis.sorbonne@gmail.com"
                         }	
                     ]
