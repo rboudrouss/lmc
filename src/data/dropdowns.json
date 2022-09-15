@@ -256,13 +256,15 @@
                             "title":"ART : Bureau Des Arts et de la Culture de Polytech (BDAC Polytech)",
                             "text"  :"![bdac](/assets/assos/bdac.svg)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=7eA8bBYlhU8)  \n- [Site](https://www.polytech.sorbonne-universite.fr/vie-associative/bdac)  \n- [Instagram](https://www.instagram.com/bdacpolytech/)  \n- [Facebook](https://www.facebook.com/BdacPolytechSorbonne)  \n- [Youtube](https://www.youtube.com/channel/UC_Wcag32Y1AEEH8hho8Fv5Q)  \n- Mail : bdac.polytech.sorbonne@gmail.com"
                         }
+                    ]
+                },
                 {
                     "title":"Autres",
                     "children":[
                         {
                             "title":"Defis Sorbonne",
                             "text":"![defis](/assets/assos/defis.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=FGzKlZslgCM)  \n- [Instagram](www.instagram.com/defissorbonne/)  \n- [Facebook](https://www.facebook.com/defissorbonne/)  \n- Mail : defis.sorbonne@gmail.com"
-                        }
+                        }	
                     ]
                 }
             ]
