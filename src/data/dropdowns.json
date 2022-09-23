@@ -7,7 +7,7 @@
             "children":[
                 {
                     "title":"C'est quoi ?",
-                    "text":"La Matrice Carrée, c'est un projet étudiant et associatif à destination des étudiants du Campus Pierre et Marie Curie (CPMC) de Sorbonne Université. Vous y trouverez :\n\n- Des informations et conseils utiles et pratiques concernant le campus. Disponible ici.\n\n- Plusieurs messageries spécifiquement prévus pour l'aide aux devoirs. Disponible sur notre Discord.\n\n- Différents sujets scientifiques étudiés de manière quantitative et détaillée. Sur notre Discord et chaîne Youtube."
+                    "text":"La Matrice Carrée (LMC), c'est un projet associatif à destination des étudiants du Campus Pierre et Marie Curie (CPMC).\n\nLes objectifs de LMC sont multiples :\n\n*Aide aux étudiants* :  \nGrâce à :  \n- Un guide du CPMC comportant la signification des acronymes utilisés et les méthodes pour bien se repérer,  \n- Des plans complets, pratiques et détaillés, efficacement catégorisés et accompagnés d'horaires régulièrement mis à jour,  \n- Un annuaire des associations, efficacement catégorisé et le plus complet et à jour possible ;  \nLMC se fixe comme objectif d'aider les étudiants à se familiariser avec le campus et à mieux le connaître dans son intégralité.\n\n*Promotion audiovisuelle du campus* :  n\À travers :  \n- Des photos hebdomadaires,  \n- Un time-lapses photo et/ou vidéo annuel,  \n- Des présentations complètes et détaillées des services et opportunités qu'offre le CPMC,  \n- La réalisation et impression d'un modèle 3D du campus;  \nLMC souhaite mettre en avant la beauté et les atouts du CPMC afin de leur faire rayonner aux yeux des non connaisseurs.\n\n*Vulgarisation scientifique poussée* :  \nPar des écrits et vidéos traitants de manière approfondie et quantitative des sujets scientifiques abordés par les étudiants curieux et intéressés;  \nLMC a pour but de partager et diffuser les recherches et travaux scientifiques personnels des étudiants.\n\nIl est important de noter que contrairement aux associations traditionnelles du campus, l'adhésion à LMC ne se fait pas par cotisation mais par participation et investissement personnel."
                 },
                 {
                     "title":"Pourquoi ce nom ?",
@@ -23,7 +23,7 @@
             "title": "Guide Campus",
             "children": [
                 {
-                    "title": "Vocabulaire",
+                    "title": "Glossaire",
                     "children":[
                         {
                             "title":"Acronymes",
@@ -50,7 +50,7 @@
                         },
                         {
                             "title":"Bibliothèques et Informatique",
-                            "text":"-  [Site BUs](https://sorbonne-universite.primo.exlibrisgroup.com/)  \nRecherche de livres, demande ou renouvellement d'emprunt, etc...\n\n- [Horaires et état des BUs en direct](https://www.sorbonne-universite.fr/les-bibliotheques-de-sciences-et-ingenierie)\n\n- [Buresa](https://buresa.upmc.fr/ReservationSalles/Default.aspx)  \nPermet de réserver et avoir accès aux différents boxs et salles dans les différentes BUs du campus.\n\n- [L'UTES](https://lutes.upmc.fr/actu.php)  \nAccès aux sessions Bureau de l'UTES et Linux depuis chez vous. Réservation de salles de réunions et de salles informatiques.\n\n- [Drop SU](https://dropsu.sorbonne-universite.fr/)  \nSystème de dépôt de fichier en ligne de Sorbonne Université.\n\n- [Pôle Discord SU](https://discord.gg/5fX8q6SSPP)  \nRegroupement des différents discord de SU."
+                            "text":"-  [Site BUs](https://sorbonne-universite.primo.exlibrisgroup.com/)  \nRecherche de livres, demande ou renouvellement d'emprunt, etc...\n\n- [Horaires et état des BUs en direct](https://www.sorbonne-universite.fr/les-bibliotheques-de-sciences-et-ingenierie)\n\n- [Buresa](https://buresa.upmc.fr/ReservationSalles/)  \nPermet de réserver et avoir accès aux différents boxs et salles dans les différentes BUs du campus.\n\n- [L'UTES](https://lutes.upmc.fr/actu.php)  \nAccès aux sessions Bureau de l'UTES et Linux depuis chez vous. Réservation de salles de réunions et de salles informatiques.\n\n- [Drop SU](https://dropsu.sorbonne-universite.fr/)  \nSystème de dépôt de fichier en ligne de Sorbonne Université.\n\n- [Pôle Discord SU](https://discord.gg/5fX8q6SSPP)  \nRegroupement des différents discord de SU."
                         }
                     ]
                 },
