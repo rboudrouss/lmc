@@ -41,11 +41,7 @@
                     "children":[
                         {
                             "title":"Essentiels",
-                            "text":"- [Moodle](https://moodle-sciences-22.sorbonne-universite.fr/)  \nPolycopiés de cours, emploi du temps, dépôts de DM...\n\n- [Zimbra SU](https://zcs.sorbonne-universite.fr/)  \nBoîte mail étudiante.\n\n- [Izly](https://izly.fr/)  \nCompte associé à votre carte étudiant.  \nIl est nécessaire pour payer votre repas au CROUS et permet de payer facilement et moins cher en cafétéria.\n\n- [ENT](https://ent.sorbonne-universite.fr/sciences-etudiants/fr/mon-dossier-administratif/)  \nScolarité, Études, Vie Étudiante, Orientation et Insertion, International, Santé et Social."
-                        },
-                        {
-                            "title":"Administratif",
-                            "text":"-  [Etu Maths](https://etu.math.upmc.fr/math/)  \nEmploi du Temps, Contrats Pédagogiques, Convocations Examens, Notes.  \n**Accessible uniquement aux inscrits à l'UFR de Mathématique**\n\n- [Dossier étudiant](https://mondossierweb.paris-sorbonne.fr/mondossierweb/)  \nINE (Identifiant National Étudiant), notes, inscriptions..."
+                            "text":"- [Moodle](https://moodle-sciences-22.sorbonne-universite.fr/)  \nPolycopiés de cours, emploi du temps, dépôts de DM...\n\n- [Zimbra SU](https://zcs.sorbonne-universite.fr/)  \nBoîte mail étudiante.\n\n- [Izly](https://izly.fr/)  \nCompte associé à votre carte étudiant.  \nIl est nécessaire pour payer votre repas au CROUS et permet de payer facilement et moins cher en cafétéria.\n\n- [ENT](https://ent.sorbonne-universite.fr/sciences-etudiants/fr/mon-dossier-administratif/)  \nScolarité, Études, Vie Étudiante, Orientation et Insertion, International, Santé et Social.\n\n-  [Etu Maths](https://etu.math.upmc.fr/math/)  \nEmploi du Temps, Contrats Pédagogiques, Convocations Examens, Notes.  \n**Accessible uniquement aux inscrits à l'UFR de Mathématique**\n\n- [Dossier étudiant](https://mondossierweb.paris-sorbonne.fr/mondossierweb/)  \nINE (Identifiant National Étudiant), notes, inscriptions..."
                         },
                         {
                             "title":"Bibliothèques",
@@ -57,7 +53,7 @@
                         },
                         {
                             "title":"Divers",
-                            "text":"- [Les campus de SU](https://www.sorbonne-universite.fr/campus-et-sites)\n\n-  [Répertoire officiel des associations du CPMC](https://sciences.sorbonne-universite.fr/associations)\n\n- [Répertoire officiel des associations de SU](https://www.sorbonne-universite.fr/associations)\n\n Les bonnes pages de l'ENT :  \n- [Ma carte étudiante](https://ent.sorbonne-universite.fr/sciences-etudiants/fr/mon-dossier-administratif/ma-carte-etudiante.html)\n\n- [UE Initiatives et Engagement étudiant](https://ent.sorbonne-universite.fr/sciences-etudiants/fr/vie-etudiante/ue-initiatives-et-engagement-etudiant.html)\n\n- [Se Déplacer à vélo](https://ent.sorbonne-universite.fr/sciences-etudiants/fr/vie-etudiante/se-deplacer-a-velo.html)"
+                            "text":"- [Les campus de SU](https://www.sorbonne-universite.fr/campus-et-sites)\n\n-  [Répertoire officiel des associations du CPMC](https://sciences.sorbonne-universite.fr/associations)\n\n- [Répertoire officiel des associations de SU](https://www.sorbonne-universite.fr/associations)\n\n Les bonnes pages de l'ENT :  \n- [Ma carte étudiante](https://ent.sorbonne-universite.fr/sciences-etudiants/fr/mon-dossier-administratif/ma-carte-etudiante.html)\n\n- [UE Initiatives et Engagement étudiant](https://ent.sorbonne-universite.fr/sciences-etudiants/fr/vie-etudiante/ue-initiatives-et-engagement-etudiant.html)\n\n- [Se déplacer à vélo](https://ent.sorbonne-universite.fr/sciences-etudiants/fr/vie-etudiante/se-deplacer-a-velo.html)"
                         }
                     ]
                 },	
