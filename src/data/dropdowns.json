@@ -129,11 +129,11 @@
                         },
                         {
                             "title":"GEOSCIENCES : Association des Étudiants en Géosciences (AEG)",
-                            "text":"![aeg](/assets/assos/aeg.jpg)  \n- Local : 46-56 2ème  \n- [Site](https://aeg.ufrteb.fr/)  \n- [Instagram](https://www.instagram.com/aegp6/)  \n- [Facebook](https://www.facebook.com/AEGP6/)  \n- Mail : aeg.paris6@gmail.com"
+                            "text":"![aeg](/assets/assos/aeg.png)  \n- Local : 46-56 2ème  \n- [Site](https://aeg.ufrteb.fr/)  \n- [Instagram](https://www.instagram.com/aegp6/)  \n- [Facebook](https://www.facebook.com/AEGP6/)  \n- Mail : aeg.paris6@gmail.com"
                         },
                         {
                             "title":"SCIENCES DE LA NATURE : Association Naturaliste Timarcha",
-                            "text":"![timarcha](/assets/assos/timarcha.jpg)  \n- Local : Bâtiment C, sortie Ouest amphi B2, 4ème étage  \n- [Site](http://www.timarcha.org/)  \n- [Instagram](https://www.instagram.com/timarcha_asso/)  \n- [Facebook](https://www.facebook.com/TimarchaParis)  \n- Mail : contact@timarcha.org"
+                            "text":"![timarcha](/assets/assos/timarcha.png)  \n- Local : Bâtiment C, sortie Ouest amphi B2, 4ème étage  \n- [Site](http://www.timarcha.org/)  \n- [Instagram](https://www.instagram.com/timarcha_asso/)  \n- [Facebook](https://www.facebook.com/TimarchaParis)  \n- Mail : contact@timarcha.org"
                         }
                     ]
                 },
@@ -214,8 +214,20 @@
                             "text":"![tvjussieu](/assets/assos/tvjussieu.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=UaOHJyd8ZA8)  \n- [Youtube](https://www.youtube.com/c/TVJussieu)  \n- [Facebook](https://www.facebook.com/tvjussieu)  \n- [Instagram](https://www.instagram.com/tvjussieu/)  \n- [Twitter](https://twitter.com/tvjussieu)  \n- Mail : tv.jussieu@gmail.com"
                         },
                         {
+                            "title":"VULGARISATION : Je Science donc je suis (JS²) ",
+                            "text":"![js2](/assets/assos/js2.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=8UHEirZe5Bw)  \n- [Linktree](https://linktr.ee/jesciencedoncjesuis)  \n- [Site](https://www.js2-sciences.com/)  \n- [Youtube](https://www.youtube.com/channel/UCQELK7ORi0Xd6M_H7N0r9eQ)  \n- [Instagram](https://www.instagram.com/jesciencedoncjesuis/)  \n- [Facebook](https://www.facebook.com/jesciencedoncjesuis/)  \n- [Twitter](https://twitter.com/jescience)  \n- Mail : presidence@js2-sciences.com  \n- [LinkedIn](https://www.linkedin.com/company/18754617)"
+                        },
+                        {
+                            "title":"JOURNAL : Alma Mater",
+                            "text":"![almamater](/assets/assos/almamater.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=2Hh2sf1LGqg)  \n- [Linktree](https://linktr.ee/Journalmamater)  \n- [Site](https://journalmamater.fr/)  \n- [Instagram](https://www.instagram.com/journalmamater/)  \n- [Facebook](https://www.facebook.com/journalmamater)  \n- [Twitter](https://twitter.com/JournAlmaMater)  \n- Mail : almamater.redaction@gmail.com"
+                        },
+                        {
                             "title":"MUSIQUE : Jam Jussieu",
                             "text":"![jam](/assets/assos/jam.jpg)  \n- [Instagram](https://www.instagram.com/lajamjussieu/)  \n- [Facebook](https://www.facebook.com/lajamjussieu)  \n- Mail : jam.jussieu@gmail.com"
+                        },
+                        {
+                            "title":"FANFARE : Moktar Sound System",
+                            "text":"![moktar](/assets/assos/moktar.jpg)  \n- [Site](http://moktarsoundsystem.fr/)  \n- [Youtube](https://www.youtube.com/channel/UCvOXc7vlSgn2LTr08jJY6Hw)  \n- [Instagram](https://www.instagram.com/moktar_su/)  \n- [Facebook](https://www.facebook.com/MoktarSoundSystem)  \n- Mail : fanfarep6@gmail.com"
                         },
                         {
                             "title":"PHOTOGRAPHIE : Lux Fabrica",
@@ -324,7 +336,15 @@
 				{
                             "title":"ECOLOGIE : Les Universitaires Planteurs d'Alternatives (LUPA)",
                             "text":"![lupa](/assets/assos/lupa.png)  \n- [Linktree](https://linktr.ee/LUPA.association)  \n- [Site](https://assolupa.wordpress.com/)  \n- [Instagram](https://www.instagram.com/lupa.association/)  \n- [Facebook](https://www.facebook.com/lupa.association)  \n- Mail : lupa.asso@gmail.com"
-                        }	
+                        },
+				{
+                            "title":"FEDERATION ÉTUDIANT : Les Universitaires Planteurs d'Alternatives (LUPA)",
+                            "text":"![agep](/assets/assos/agep.png)  \n- [Linktree](https://linktr.ee/ageparis.org)  \n- [Site](https://ageparis.org/)  \n- [Instagram](https://www.instagram.com/agep_fede/)  \n- [Facebook](https://www.facebook.com/agepfede)\n- [Twitter](https://twitter.com/AGEParis)  \n- Mail : contact@ageparis.org"
+                        },
+				{
+                            "title":"CARITATIF : Sol'SU",
+                            "text":"![solsu](/assets/assos/solsu.png)  \n- [Instagram](https://www.instagram.com/solsu.p6/)  \n- [Facebook]()\n- [Twitter](https://twitter.com/AGEParis)    \n- Mail : assosol6@gmail.com"
+                        }
                     ]
                 }
             ]
