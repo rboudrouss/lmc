@@ -1,0 +1,74 @@
+<svg width="1510" height="1270">
+<!--PARENTHESE GAUGHE--><polygon points="55,0 70,0 70,15 20,65 20,1205 70,1255 70,1270  55,1270  0,1215 0,55" style="fill:white" />
+<!--PARENTHESE DROITE--><polygon points="1440,0 1455,0 1510,55 1510,1215 1455,1270 1440,1270 1440,1255 1490,1205 1490,65 1440,15" style="fill:white" />
+<!--ZAMANSKY--><polygon points="590,950 600,950 660,1010 660,1020 600,1080 590,1080 530,1020 530,1010" style="fill:white" />
+<!--BAT C--><polygon points="470,40 700,40 700,90 470,90" style="fill:white" />
+<!--BAT B--><polygon points="710,0 760,0 760,40 1020,40 1020,90 710,90" style="fill:white" />
+<!--BAT A--><polygon points="1030,0 1080,0 1080,40 1340,40 1340,90 1030,90" style="fill:white" />
+<!--BAT F--><polygon points="1340,170 1390,170 1390,800 1340,800" style="fill:white" />
+<!--ESCLANGON--><polygon points="1340,990 1390,990 1390,1270 1300,1270 1300,1220 1340,1220" style="fill:white" />
+<!--ATRIUM BORDURE 1--><polygon points="1080,570 1290,570 1290,790 1280,790 1280,580 1080,580" style="fill:white" />
+<!--ATRIUM BORDURE 2--><polygon points="1160,580 1170,580 1170,790 1290,790 1290,800 1080,800 1080,790 1160,790" style="fill:white" />
+<!--ATRIUM SIGNE--><polygon points="1200,610 1210,610 1250,650 1250,720 1210,760 1200,760 1200,730 1200,730 1240,690 1240,680 1200,640" style="fill:white" />
+<!--TOUR 12--><polygon points="130,320 180,320 190,330 190,380 180,390 130,390 120,380 120,330" style="fill:white" />
+<!--TOUR 13--><polygon points="130,540 180,540 190,550 190,600 180,610 130,610 120,600 120,550" style="fill:white" />
+<!--TOUR 14--><polygon points="130,760 180,760 190,770 190,820 180,830 130,830 120,820 120,770" style="fill:white" />
+<!--TOUR 15--><polygon points="130,980 180,980 190,990 190,1040 180,1050 130,1050 120,1040 120,990" style="fill:white" />
+<!--TOUR 16--><polygon points="130,1200 180,1200 190,1210 190,1260 180,1270 130,1270 120,1260 120,1210" style="fill:white" />
+<!--TOUR 22--><polygon points="350,320 400,320 410,330 410,380 400,390 350,390 340,380 340,330" style="fill:white" />
+<!--TOUR 23--><polygon points="350,540 400,540 410,550 410,600 400,610 350,610 340,600 340,550" style="fill:white" />
+<!--TOUR 24--><polygon points="350,760 400,760 410,770 410,820 400,830 350,830 340,820 340,770" style="fill:white" />
+<!--TOUR 25--><polygon points="350,980 400,980 410,990 410,1040 400,1050 350,1050 340,1040 340,990" style="fill:white" />
+<!--TOUR 26--><polygon points="350,1200 400,1200 410,1210 410,1260 400,1270 350,1270 340,1260 340,1210" style="fill:white" />
+<!--TOUR 32--><polygon points="570,320 620,320 630,330 630,380 620,390 570,390 560,380 560,330" style="fill:white" />
+<!--TOUR 33--><polygon points="570,540 620,540 630,550 630,600 620,610 570,610 560,600 560,550" style="fill:white" />
+<!--TOUR 34--><polygon points="570,760 620,760 630,770 630,820 620,830 570,830 560,820 560,770" style="fill:white" />
+<!--TOUR 42--><polygon points="790,320 840,320 850,330 850,380 840,390 790,390 780,380 780,330" style="fill:white" />
+<!--TOUR 43--><polygon points="790,540 840,540 850,550 850,600 840,610 790,610 780,600 780,550" style="fill:white" />
+<!--TOUR 44--><polygon points="790,760 840,760 850,770 850,820 840,830 790,830 780,820 780,770" style="fill:white" />
+<!--TOUR 45--><polygon points="790,980 840,980 850,990 850,1040 840,1050 790,1050 780,1040 780,990" style="fill:white" />
+<!--TOUR 46--><polygon points="790,1200 840,1200 850,1210 850,1260 840,1270 790,1270 780,1260 780,1210" style="fill:white" />
+<!--TOUR 53--><polygon points="1010,540 1060,540 1070,550 1070,600 1060,610 1010,610 1000,600 1000,550" style="fill:white" />
+<!--TOUR 54--><polygon points="1010,760 1060,760 1070,770 1070,820 1060,830 1010,830 1000,820 1000,770" style="fill:white" />
+<!--TOUR 55--><polygon points="1010,980 1060,980 1070,990 1070,1040 1060,1050 1010,1050 1000,1040 1000,990" style="fill:white" />
+<!--TOUR 56--><polygon points="1010,1200 1060,1200 1070,1210 1070,1260 1060,1270 1010,1270 1000,1260 1000,1210" style="fill:white" />
+<!--TOUR 65--><polygon points="1230,980 1280,980 1290,990 1290,1040 1280,1050 1230,1050 1220,1040 1220,990" style="fill:white" />
+<!--TOUR 66--><polygon points="1230,1200 1280,1200 1290,1210 1290,1260 1280,1270 1230,1270 1220,1260 1220,1210" style="fill:white" />
+<!--12-13--><polygon points="150,400 160,400 160,530 150,530" style="fill:white" />
+<!--13-14--><polygon points="150,620 160,620 160,750 150,750" style="fill:white" />
+<!--14-15--><polygon points="150,840 160,840 160,970 150,970" style="fill:white" />
+<!--15-16--><polygon points="150,1060 160,1060 160,1190 150,1190" style="fill:white" />
+<!--22-23--><polygon points="370,400 380,400 380,530 370,530" style="fill:white" />
+<!--23-24--><polygon points="370,620 380,620 380,750 370,750" style="fill:white" />
+<!--24-25--><polygon points="370,840 380,840 380,970 370,970" style="fill:white" />
+<!--25-26--><polygon points="370,1060 380,1060 380,1190 370,1190" style="fill:white" />
+<!--32-33--><polygon points="590,400 600,400 600,530 590,530" style="fill:white" />
+<!--33-34--><polygon points="590,620 600,620 600,750 590,750" style="fill:white" />
+<!--42-43--><polygon points="810,400 820,400 820,530 810,530" style="fill:white" />
+<!--43-44--><polygon points="810,620 820,620 820,750 810,750" style="fill:white" />
+<!--44-45--><polygon points="810,840 820,840 820,970 810,970" style="fill:white" />
+<!--45-46--><polygon points="810,1060 820,1060 820,1190 810,1190" style="fill:white" />
+<!--53-54--><polygon points="1030,620 1040,620 1040,750 1030,750" style="fill:white" />
+<!--54-55--><polygon points="1030,840 1040,840 1040,970 1030,970" style="fill:white" />
+<!--55-56--><polygon points="1030,1060 1040,1060 1040,1190 1030,1190" style="fill:white" />
+<!--65-66--><polygon points="1250,1060 1260,1060 1260,1190 1250,1190" style="fill:white" />
+<!--12-22--><polygon points="200,350 330,350 330,360 200,360" style="fill:white" />
+<!--13-23--><polygon points="200,570 330,570 330,580 200,580" style="fill:white" />
+<!--14-24--><polygon points="200,790 330,790 330,800 200,800" style="fill:white" />
+<!--15-25--><polygon points="200,1010 330,1010 330,1020 200,1020" style="fill:white" />
+<!--16-26--><polygon points="200,1230 330,1230 330,1240 200,1240" style="fill:white" />
+<!--22-32--><polygon points="420,350 550,350 550,360 420,360" style="fill:white" />
+<!--23-33--><polygon points="420,570 550,570 550,580 420,580" style="fill:white" />
+<!--24-34--><polygon points="420,790 550,790 550,800 420,800" style="fill:white" />
+<!--26-00--><polygon points="420,1230 550,1230 550,1240 420,1240" style="fill:white" />
+<!--32-42--><polygon points="640,350 770,350 770,360 640,360" style="fill:white" />
+<!--33-43--><polygon points="640,570 770,570 770,580 640,580" style="fill:white" />
+<!--34-44--><polygon points="640,790 770,790 770,800 640,800" style="fill:white" />
+<!--46-00--><polygon points="640,1230 770,1230 770,1240 640,1240" style="fill:white" />
+<!--43-53--><polygon points="860,570 990,570 990,580 860,580" style="fill:white" />
+<!--44-54--><polygon points="860,790 990,790 990,800 860,800" style="fill:white" />
+<!--45-55--><polygon points="860,1010 990,1010 990,1020 860,1020" style="fill:white" />
+<!--46-56--><polygon points="860,1230 990,1230 990,1240 860,1240" style="fill:white" />
+<!--55-65--><polygon points="1080,1010 1210,1010 1210,1020 1080,1020" style="fill:white" />
+<!--56-66--><polygon points="1080,1230 1210,1230 1210,1240 1080,1240" style="fill:white" />
+</svg>
