@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1510"
+   height="1510"
+   version="1.1"
+   id="svg146"
+   sodipodi:docname="LMCLogoBlancCarreSVG.svg"
+   inkscape:export-filename="LMCLogoBlanSVG.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs150" />
+  <sodipodi:namedview
+     id="namedview148"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.16172443"
+     inkscape:cx="1310.8718"
+     inkscape:cy="1400.5305"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg146" />
+  <!--PARENTHESE GAUGHE-->
+  <polygon
+     points="70,1255 70,1270 55,1270 0,1215 0,55 55,0 70,0 70,15 20,65 20,1205 "
+     style="fill:#ffffff"
+     id="polygon2"
+     transform="translate(0,120)" />
+  <!--PARENTHESE DROITE-->
+  <polygon
+     points="1440,1270 1440,1255 1490,1205 1490,65 1440,15 1440,0 1455,0 1510,55 1510,1215 1455,1270 "
+     style="fill:#ffffff"
+     id="polygon4"
+     transform="translate(0,120)" />
+  <!--ZAMANSKY-->
+  <polygon
+     points="590,1080 530,1020 530,1010 590,950 600,950 660,1010 660,1020 600,1080 "
+     style="fill:#ffffff"
+     id="polygon6"
+     transform="translate(0,120)" />
+  <!--BAT C-->
+  <polygon
+     points="700,40 700,90 470,90 470,40 "
+     style="fill:#ffffff"
+     id="polygon8"
+     transform="translate(0,120)" />
+  <!--BAT B-->
+  <polygon
+     points="710,90 710,0 760,0 760,40 1020,40 1020,90 "
+     style="fill:#ffffff"
+     id="polygon10"
+     transform="translate(0,120)" />
+  <!--BAT A-->
+  <polygon
+     points="1030,90 1030,0 1080,0 1080,40 1340,40 1340,90 "
+     style="fill:#ffffff"
+     id="polygon12"
+     transform="translate(0,120)" />
+  <!--BAT F-->
+  <polygon
+     points="1390,170 1390,800 1340,800 1340,170 "
+     style="fill:#ffffff"
+     id="polygon14"
+     transform="translate(0,120)" />
+  <!--ESCLANGON-->
+  <polygon
+     points="1340,1220 1340,990 1390,990 1390,1270 1300,1270 1300,1220 "
+     style="fill:#ffffff"
+     id="polygon16"
+     transform="translate(0,120)" />
+  <!--ATRIUM BORDURE 1-->
+  <polygon
+     points="1080,580 1080,570 1290,570 1290,790 1280,790 1280,580 "
+     style="fill:#ffffff"
+     id="polygon18"
+     transform="translate(0,120)" />
+  <!--ATRIUM BORDURE 2-->
+  <polygon
+     points="1080,800 1080,790 1160,790 1160,580 1170,580 1170,790 1290,790 1290,800 "
+     style="fill:#ffffff"
+     id="polygon20"
+     transform="translate(0,120)" />
+  <!--ATRIUM SIGNE-->
+  <polygon
+     points="1200,760 1200,730 1200,730 1240,690 1240,680 1200,640 1200,610 1210,610 1250,650 1250,720 1210,760 "
+     style="fill:#ffffff"
+     id="polygon22"
+     transform="translate(0,120)" />
+  <!--TOUR 12-->
+  <polygon
+     points="130,390 120,380 120,330 130,320 180,320 190,330 190,380 180,390 "
+     style="fill:#ffffff"
+     id="polygon24"
+     transform="translate(0,120)" />
+  <!--TOUR 13-->
+  <polygon
+     points="130,610 120,600 120,550 130,540 180,540 190,550 190,600 180,610 "
+     style="fill:#ffffff"
+     id="polygon26"
+     transform="translate(0,120)" />
+  <!--TOUR 14-->
+  <polygon
+     points="130,830 120,820 120,770 130,760 180,760 190,770 190,820 180,830 "
+     style="fill:#ffffff"
+     id="polygon28"
+     transform="translate(0,120)" />
+  <!--TOUR 15-->
+  <polygon
+     points="130,1050 120,1040 120,990 130,980 180,980 190,990 190,1040 180,1050 "
+     style="fill:#ffffff"
+     id="polygon30"
+     transform="translate(0,120)" />
+  <!--TOUR 16-->
+  <polygon
+     points="130,1270 120,1260 120,1210 130,1200 180,1200 190,1210 190,1260 180,1270 "
+     style="fill:#ffffff"
+     id="polygon32"
+     transform="translate(0,120)" />
+  <!--TOUR 22-->
+  <polygon
+     points="350,390 340,380 340,330 350,320 400,320 410,330 410,380 400,390 "
+     style="fill:#ffffff"
+     id="polygon34"
+     transform="translate(0,120)" />
+  <!--TOUR 23-->
+  <polygon
+     points="350,610 340,600 340,550 350,540 400,540 410,550 410,600 400,610 "
+     style="fill:#ffffff"
+     id="polygon36"
+     transform="translate(0,120)" />
+  <!--TOUR 24-->
+  <polygon
+     points="350,830 340,820 340,770 350,760 400,760 410,770 410,820 400,830 "
+     style="fill:#ffffff"
+     id="polygon38"
+     transform="translate(0,120)" />
+  <!--TOUR 25-->
+  <polygon
+     points="350,1050 340,1040 340,990 350,980 400,980 410,990 410,1040 400,1050 "
+     style="fill:#ffffff"
+     id="polygon40"
+     transform="translate(0,120)" />
+  <!--TOUR 26-->
+  <polygon
+     points="350,1270 340,1260 340,1210 350,1200 400,1200 410,1210 410,1260 400,1270 "
+     style="fill:#ffffff"
+     id="polygon42"
+     transform="translate(0,120)" />
+  <!--TOUR 32-->
+  <polygon
+     points="570,390 560,380 560,330 570,320 620,320 630,330 630,380 620,390 "
+     style="fill:#ffffff"
+     id="polygon44"
+     transform="translate(0,120)" />
+  <!--TOUR 33-->
+  <polygon
+     points="570,610 560,600 560,550 570,540 620,540 630,550 630,600 620,610 "
+     style="fill:#ffffff"
+     id="polygon46"
+     transform="translate(0,120)" />
+  <!--TOUR 34-->
+  <polygon
+     points="570,830 560,820 560,770 570,760 620,760 630,770 630,820 620,830 "
+     style="fill:#ffffff"
+     id="polygon48"
+     transform="translate(0,120)" />
+  <!--TOUR 42-->
+  <polygon
+     points="790,390 780,380 780,330 790,320 840,320 850,330 850,380 840,390 "
+     style="fill:#ffffff"
+     id="polygon50"
+     transform="translate(0,120)" />
+  <!--TOUR 43-->
+  <polygon
+     points="790,610 780,600 780,550 790,540 840,540 850,550 850,600 840,610 "
+     style="fill:#ffffff"
+     id="polygon52"
+     transform="translate(0,120)" />
+  <!--TOUR 44-->
+  <polygon
+     points="790,830 780,820 780,770 790,760 840,760 850,770 850,820 840,830 "
+     style="fill:#ffffff"
+     id="polygon54"
+     transform="translate(0,120)" />
+  <!--TOUR 45-->
+  <polygon
+     points="790,1050 780,1040 780,990 790,980 840,980 850,990 850,1040 840,1050 "
+     style="fill:#ffffff"
+     id="polygon56"
+     transform="translate(0,120)" />
+  <!--TOUR 46-->
+  <polygon
+     points="790,1270 780,1260 780,1210 790,1200 840,1200 850,1210 850,1260 840,1270 "
+     style="fill:#ffffff"
+     id="polygon58"
+     transform="translate(0,120)" />
+  <!--TOUR 53-->
+  <polygon
+     points="1010,610 1000,600 1000,550 1010,540 1060,540 1070,550 1070,600 1060,610 "
+     style="fill:#ffffff"
+     id="polygon60"
+     transform="translate(0,120)" />
+  <!--TOUR 54-->
+  <polygon
+     points="1010,830 1000,820 1000,770 1010,760 1060,760 1070,770 1070,820 1060,830 "
+     style="fill:#ffffff"
+     id="polygon62"
+     transform="translate(0,120)" />
+  <!--TOUR 55-->
+  <polygon
+     points="1010,1050 1000,1040 1000,990 1010,980 1060,980 1070,990 1070,1040 1060,1050 "
+     style="fill:#ffffff"
+     id="polygon64"
+     transform="translate(0,120)" />
+  <!--TOUR 56-->
+  <polygon
+     points="1010,1270 1000,1260 1000,1210 1010,1200 1060,1200 1070,1210 1070,1260 1060,1270 "
+     style="fill:#ffffff"
+     id="polygon66"
+     transform="translate(0,120)" />
+  <!--TOUR 65-->
+  <polygon
+     points="1230,1050 1220,1040 1220,990 1230,980 1280,980 1290,990 1290,1040 1280,1050 "
+     style="fill:#ffffff"
+     id="polygon68"
+     transform="translate(0,120)" />
+  <!--TOUR 66-->
+  <polygon
+     points="1230,1270 1220,1260 1220,1210 1230,1200 1280,1200 1290,1210 1290,1260 1280,1270 "
+     style="fill:#ffffff"
+     id="polygon70"
+     transform="translate(0,120)" />
+  <!--12-13-->
+  <polygon
+     points="160,400 160,530 150,530 150,400 "
+     style="fill:#ffffff"
+     id="polygon72"
+     transform="translate(0,120)" />
+  <!--13-14-->
+  <polygon
+     points="160,620 160,750 150,750 150,620 "
+     style="fill:#ffffff"
+     id="polygon74"
+     transform="translate(0,120)" />
+  <!--14-15-->
+  <polygon
+     points="160,840 160,970 150,970 150,840 "
+     style="fill:#ffffff"
+     id="polygon76"
+     transform="translate(0,120)" />
+  <!--15-16-->
+  <polygon
+     points="160,1060 160,1190 150,1190 150,1060 "
+     style="fill:#ffffff"
+     id="polygon78"
+     transform="translate(0,120)" />
+  <!--22-23-->
+  <polygon
+     points="380,400 380,530 370,530 370,400 "
+     style="fill:#ffffff"
+     id="polygon80"
+     transform="translate(0,120)" />
+  <!--23-24-->
+  <polygon
+     points="380,620 380,750 370,750 370,620 "
+     style="fill:#ffffff"
+     id="polygon82"
+     transform="translate(0,120)" />
+  <!--24-25-->
+  <polygon
+     points="380,840 380,970 370,970 370,840 "
+     style="fill:#ffffff"
+     id="polygon84"
+     transform="translate(0,120)" />
+  <!--25-26-->
+  <polygon
+     points="380,1060 380,1190 370,1190 370,1060 "
+     style="fill:#ffffff"
+     id="polygon86"
+     transform="translate(0,120)" />
+  <!--32-33-->
+  <polygon
+     points="600,400 600,530 590,530 590,400 "
+     style="fill:#ffffff"
+     id="polygon88"
+     transform="translate(0,120)" />
+  <!--33-34-->
+  <polygon
+     points="600,620 600,750 590,750 590,620 "
+     style="fill:#ffffff"
+     id="polygon90"
+     transform="translate(0,120)" />
+  <!--42-43-->
+  <polygon
+     points="820,400 820,530 810,530 810,400 "
+     style="fill:#ffffff"
+     id="polygon92"
+     transform="translate(0,120)" />
+  <!--43-44-->
+  <polygon
+     points="820,620 820,750 810,750 810,620 "
+     style="fill:#ffffff"
+     id="polygon94"
+     transform="translate(0,120)" />
+  <!--44-45-->
+  <polygon
+     points="820,840 820,970 810,970 810,840 "
+     style="fill:#ffffff"
+     id="polygon96"
+     transform="translate(0,120)" />
+  <!--45-46-->
+  <polygon
+     points="820,1060 820,1190 810,1190 810,1060 "
+     style="fill:#ffffff"
+     id="polygon98"
+     transform="translate(0,120)" />
+  <!--53-54-->
+  <polygon
+     points="1040,620 1040,750 1030,750 1030,620 "
+     style="fill:#ffffff"
+     id="polygon100"
+     transform="translate(0,120)" />
+  <!--54-55-->
+  <polygon
+     points="1040,840 1040,970 1030,970 1030,840 "
+     style="fill:#ffffff"
+     id="polygon102"
+     transform="translate(0,120)" />
+  <!--55-56-->
+  <polygon
+     points="1040,1060 1040,1190 1030,1190 1030,1060 "
+     style="fill:#ffffff"
+     id="polygon104"
+     transform="translate(0,120)" />
+  <!--65-66-->
+  <polygon
+     points="1260,1060 1260,1190 1250,1190 1250,1060 "
+     style="fill:#ffffff"
+     id="polygon106"
+     transform="translate(0,120)" />
+  <!--12-22-->
+  <polygon
+     points="330,350 330,360 200,360 200,350 "
+     style="fill:#ffffff"
+     id="polygon108"
+     transform="translate(0,120)" />
+  <!--13-23-->
+  <polygon
+     points="330,570 330,580 200,580 200,570 "
+     style="fill:#ffffff"
+     id="polygon110"
+     transform="translate(0,120)" />
+  <!--14-24-->
+  <polygon
+     points="330,790 330,800 200,800 200,790 "
+     style="fill:#ffffff"
+     id="polygon112"
+     transform="translate(0,120)" />
+  <!--15-25-->
+  <polygon
+     points="330,1010 330,1020 200,1020 200,1010 "
+     style="fill:#ffffff"
+     id="polygon114"
+     transform="translate(0,120)" />
+  <!--16-26-->
+  <polygon
+     points="330,1230 330,1240 200,1240 200,1230 "
+     style="fill:#ffffff"
+     id="polygon116"
+     transform="translate(0,120)" />
+  <!--22-32-->
+  <polygon
+     points="550,350 550,360 420,360 420,350 "
+     style="fill:#ffffff"
+     id="polygon118"
+     transform="translate(0,120)" />
+  <!--23-33-->
+  <polygon
+     points="550,570 550,580 420,580 420,570 "
+     style="fill:#ffffff"
+     id="polygon120"
+     transform="translate(0,120)" />
+  <!--24-34-->
+  <polygon
+     points="550,790 550,800 420,800 420,790 "
+     style="fill:#ffffff"
+     id="polygon122"
+     transform="translate(0,120)" />
+  <!--26-00-->
+  <polygon
+     points="550,1230 550,1240 420,1240 420,1230 "
+     style="fill:#ffffff"
+     id="polygon124"
+     transform="translate(0,120)" />
+  <!--32-42-->
+  <polygon
+     points="770,350 770,360 640,360 640,350 "
+     style="fill:#ffffff"
+     id="polygon126"
+     transform="translate(0,120)" />
+  <!--33-43-->
+  <polygon
+     points="770,570 770,580 640,580 640,570 "
+     style="fill:#ffffff"
+     id="polygon128"
+     transform="translate(0,120)" />
+  <!--34-44-->
+  <polygon
+     points="770,790 770,800 640,800 640,790 "
+     style="fill:#ffffff"
+     id="polygon130"
+     transform="translate(0,120)" />
+  <!--46-00-->
+  <polygon
+     points="770,1230 770,1240 640,1240 640,1230 "
+     style="fill:#ffffff"
+     id="polygon132"
+     transform="translate(0,120)" />
+  <!--43-53-->
+  <polygon
+     points="990,570 990,580 860,580 860,570 "
+     style="fill:#ffffff"
+     id="polygon134"
+     transform="translate(0,120)" />
+  <!--44-54-->
+  <polygon
+     points="990,790 990,800 860,800 860,790 "
+     style="fill:#ffffff"
+     id="polygon136"
+     transform="translate(0,120)" />
+  <!--45-55-->
+  <polygon
+     points="990,1010 990,1020 860,1020 860,1010 "
+     style="fill:#ffffff"
+     id="polygon138"
+     transform="translate(0,120)" />
+  <!--46-56-->
+  <polygon
+     points="990,1230 990,1240 860,1240 860,1230 "
+     style="fill:#ffffff"
+     id="polygon140"
+     transform="translate(0,120)" />
+  <!--55-65-->
+  <polygon
+     points="1210,1010 1210,1020 1080,1020 1080,1010 "
+     style="fill:#ffffff"
+     id="polygon142"
+     transform="translate(0,120)" />
+  <!--56-66-->
+  <polygon
+     points="1210,1230 1210,1240 1080,1240 1080,1230 "
+     style="fill:#ffffff"
+     id="polygon144"
+     transform="translate(0,120)" />
+</svg>
