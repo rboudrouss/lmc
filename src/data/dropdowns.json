@@ -1,4 +1,4 @@
-{
+	{
     "title": "La Matrice Carrée",
     "opened" : 1,
     "children": [
@@ -83,7 +83,7 @@
                         },
                         {
                             "title":"Espaces Santé, Orientation et Social",
-                            "text":"![sos](/assets/plans/sos.png)  \n🟥 : Infirmerie | JU 55 | 8h30-17h30  \n🟦 : SHSE | JU 22-23 | Mardi-Vendredi 9h-12h et 14h-17h  \n🟩 : SOI | SB 54-00  \n🟨 : Halte garderie | 8h15-18h15"
+                            "text":"![sos](/assets/plans/sos.png)  \n🟥 : Infirmerie | JU 55 | 8h30-17h30  \n🟦 : SHSE | JU 22-23 | Mardi-Vendredi 9h-12h et 14h-17h  \n🟩 : SOI | SB 54-00 | Mardi, Jeudi, Vendredi 9h30-12h & 13h30-16h30  \n🟨 : Halte garderie | 8h15-18h15"
                         },
                         {
                             "title":"Toilettes",
@@ -203,7 +203,7 @@
                         },
 				{
                             "title":"JEUX VIDÉOS : SU Esport",
-                            "text":"![suesport](/assets/assos/suesport.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=v5BjoYqlLdo)  \n- [Site](https://suesport.fr/)  \n- [Discord](https://discord.com/invite/dsjsg22znR)  \n- [Youtube](https://www.youtube.com/channel/UCIP5PFrYFcdQON_mxX1uCbA/)  \n- [Twitch](https://www.twitch.tv/su_esport)  \n- [Instagram](https://www.instagram.com/esport.su/)  \n- [Facebook](https://www.facebook.com/Sorbonne-Universit%C3%A9-Esport-104710681733488)  \n- Mail : contact@suesport.fr"
+                            "text":"![suesport](/assets/assos/suesport.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=v5BjoYqlLdo)  \n- [Site](https://suesport.fr/)  \n- [Discord](https://discord.com/invite/dsjsg22znR)  \n- [Youtube](https://www.youtube.com/channel/UCIP5PFrYFcdQON_mxX1uCbA/)  \n- [Twitch](https://www.twitch.tv/su_esport)  \n- [Instagram](https://www.instagram.com/esport.su/)  \n- [Facebook](https://www.facebook.com/Sorbonne-Universit%C3%A9-Esport-104710681733488)  \n- [Twitter](https://twitter.com/SUEsport_)  \n- Mail : contact@suesport.fr"
                         },
                         {
                             "title":"FILM : Super 8 ",
