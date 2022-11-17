@@ -67,15 +67,15 @@
                         },
                         {
                             "title":"Amphithéâtres",
-                            "text":"![amphis](/assets/plans/amphitheatres.png)  \n🟥 : Amphis B1,B2,B3 et A1,A2,A3 | Étages 2,4,6 Bâtiments B et A  \n🟦 : Amphis Durand, Herpin et Astier | JU Esclangon  \n🟩 : Auditorium | JU 54-55  \nAutres : Nom de la Tour la plus proche | Niveau JU  \n🟧 : Amphi Charpak | SB 22-23"
+                            "text":"![amphis](/assets/plans/amphitheatres.png)  \n🟥 : Amphis B1,B2,B3 et A1,A2,A3 | Étages 2,4,6 Bâtiments B et A  \n🟦 : Amphis Durand, Herpin et Astier | JU Esclangon  \n🟩 : Auditorium | JU 54-55  \n🟧 : Amphi Charpak | SB 22-23  \n**Autres** : Nom de la Tour la plus proche | Niveau JU"
                         },
                         {
                             "title":"Bibliothèques",
-                            "text":"![bibliotheques](/assets/plans/bibliotheques.png)  \n🟦 : BDL | SB Tour 43  \n🟥 : MIR | Patio 15-26  \n🟩 : BCPR | Patio 13-24  \n🟫 : GEOS | 1er Étage Tour 44  \n🟧 : BD1 | JU Tour 46  \n🟪 : BDA | SB Atrium\n\nHoraires : 9h-19h (sauf BDL : 9h-22h, Samedi 10h-20h)"
+                            "text":"![bibliotheques](/assets/plans/bibliotheques.png)  \n🟦 : BDL | SB Tour 43  \n🟥 : MIR | Patio 15-26  \n🟩 : BCPR | Patio 13-24  \n🟫 : GEOS | 1er Étage Tour 44  \n🟧 : BD1 | JU Tour 46  \n🟪 : BDA | SB Atrium\n\n**Horaires** : 9h-19h (sauf BDL : 9h-22h, Samedi 10h-20h)"
                         },
                         {
                             "title":"Administration Départements",
-                            "text":"![departements](/assets/plans/departements.png)  \nL : Licence  \nM : Master  \nD : Direction  \n🟥 : UFR 929 (Mathématiques) | L : 14-15 2ème Étage | M & D : 15-25 1er Étage  \n🟦 : UFR 925 (Physique) | L : 23-33 1er Étage | M : 23-33 2ème Étage | D : 22-23 1er Étage  \n🟧 : UFR 919 (Ingénierie) | 55-65 1er Étage  \n🟪 : Informatique | L & M : 14-15 1er Étage | D : UFR 919  \n🟨 : UFR 926 (Chimie) | L & M : 54-55 1er Étage | D : 32-42 1er Étage  \n🟩 : UFR 927 (Sciences de la Vie) | L & M : Bâtiment A 1er Étage | D : Bâtiment B 1er Étage  \n🟫 : UFR 918 (Terre Environnement Biodiversité) | L & D : 45-46 1er Étage | M : 46-00 1er Étage"
+                            "text":"![departements](/assets/plans/departements.png)  \n**L** : Licence  \n**M** : Master  \n**D** : Direction  \n🟥 : UFR 929 (Mathématiques) | **L** : 14-15 2ème Étage | **M** & **D** : 15-25 1er Étage  \n🟦 : UFR 925 (Physique) | **L** : 23-33 1er Étage | **M** : 23-33 2ème Étage | **D** : 22-23 1er Étage  \n🟧 : UFR 919 (Ingénierie) | **L** & **M** & **D** : 55-65 1er Étage  \n🟪 : Informatique | **L** & **M** : 14-15 1er Étage | **D** : UFR 919  \n🟨 : UFR 926 (Chimie) | **L** & **M** : 54-55 1er Étage | **D** : 32-42 1er Étage  \n🟩 : UFR 927 (Sciences de la Vie) | **L** & **M** : Bâtiment A 1er Étage | **D** : Bâtiment B 1er Étage  \n🟫 : UFR 918 (Terre Environnement Biodiversité) | **L** & **D** : 45-46 1er Étage | **M** : 46-00 1er Étage"
                         },
                         {
                             "title":"Espaces et Services Étudiants",
