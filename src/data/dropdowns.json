@@ -75,7 +75,7 @@
                         },
                         {
                             "title":"Administration Départements",
-                            "text":"![departements](/assets/plans/departements.png)  \nL : Licence  \nM : Master  \nD : Direction  \n🟦 : UFR 925 (Physique) | L : 23-33 1er Étage | M : 23-33 2ème Étage | D : 22-23 1er Étage  \n🟥 : UFR 929 (Mathématiques) | L : 14-15 2ème Étage | M & D : 15-25 1er Étage  \n🟩 : UFR 927 (Sciences de la Vie) | L & M : A 1er Étage | D : B 1er Étage  \n🟫 : UFR 918 (Terre Environnement Biodiversité) | L & D : 45-46 1er Étage | M : 46-00 1er Étage  \n🟪 : Informatique (UFR 919) | Atrium 113 et 105 | 8h-18h  \n🟧 : UFR 919 (Ingénierie) | 55-65 1er Étage  \n🟨 : UFR 926 (Chimie) | L & M : 54-55 1er Étage | D : 32-42 1er Étage "
+                            "text":"![departements](/assets/plans/departements.png)  \nL : Licence  \nM : Master  \nD : Direction  \n🟥 : UFR 929 (Mathématiques) | L : 14-15 2ème Étage | M & D : 15-25 1er Étage  \n🟦 : UFR 925 (Physique) | L : 23-33 1er Étage | M : 23-33 2ème Étage | D : 22-23 1er Étage  \n🟧 : UFR 919 (Ingénierie) | 55-65 1er Étage  \n🟪 : Informatique | L & M : 14-15 1er Étage | D : UFR 919  \n🟩 : UFR 927 (Sciences de la Vie) | L & M : A 1er Étage | D : B 1er Étage  \n🟨 : UFR 926 (Chimie) | L & M : 54-55 1er Étage | D : 32-42 1er Étage  \n🟫 : UFR 918 (Terre Environnement Biodiversité) | L & D : 45-46 1er Étage | M : 46-00 1er Étage"
                         },
                         {
                             "title":"Espaces et Services Étudiants",
