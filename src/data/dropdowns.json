@@ -27,7 +27,7 @@
                     "children":[
                         {
                             "title":"Acronymes",
-                            "text":"Fondamental :  \n- LMC : La Matrice Carrée  \n- SU : Sorbonne Université  \n- CPMC : Campus Pierre et Marie Curie\n\nÉtages :  \n- JU : Étage Principal Jussieu   \n- SB : Étage Saint Bernard ou Rez de Chaussée (RC)\n\nBibliothèques :  \n- BU : Bibliothèque Universitaire  \n- BDL : BU des Licences  \n- GEOS : BU des GÉOSciences  \n- MIR : BU des Maths, Informatiques et Recherche  \n- BCPR : BU de la Biologie, Chimie, Physique et Recherche  \n- BD1 : BU des L1  \n- BDA : BU De l'Atrium\n\nEspaces et Services Étudiants :  \n- EVE : Espace Vie Étudiante  \n- SHSE : Service Handicap Santé Étudiant  \n- DAPS : Département des Activités Physiques et Sportives  \n- CAPSULE : Centre d’Accompagnement à la Pédagogie et SUpport à L’Expérimentation  \n- SOI : Service d'Orientation et d'Insertion  \n- EDAC : Espace Des Arts et de la Culture  \n- PPTI : Plateforme Pédagogique et Technique Informatique  \n- SUMPPS : Service Universitaire de Médecine Préventive et de Promotion de la Santé\n\nEnsignement et Cursus :  \n- UE : Unité d'Enseignement  \n- ECTS : European Credit Transfer and Accumulation System  \n- UFR : Unité de Formation et de Recherche (ou département)  \n- ScFo : Licence de Sciences Formelles (anciennement MIPI, axé Maths, Physique et Informatique)  \n- ScIn : Licence de Sciences de l'Ingénierie (anciennement MIPI, axé Maths, Physique et Ingénierie)  \n- ScMa : Licence de Sciences de la Matière (anciennement PCGI, axé Physique, Chimie et Géosciences)  \n- ScNa : Licence de Sciences de la Nature (anciennement BGC, axé Biologie, Géosciences et Chimie)  \n- CMI : Cursus Master Ingénierie  \n- PEIP : Parcours des Écoles d'Ingénieur Polytech  \n- DM : Licence Double Majeure  \n- Mm : Licence Majeure mineure  \n- SPRINT : Sorbonne Physique Intensif et Nouvelles Technologies (licence mono intensive de Physique)" 
+                            "text":"Fondamental :  \n- LMC : La Matrice Carrée  \n- SU : Sorbonne Université  \n- CPMC : Campus Pierre et Marie Curie\n\nÉtages :  \n- JU : Étage Principal Jussieu   \n- SB : Étage Saint-Bernard ou Rez de Chaussée (RC)\n\nBibliothèques :  \n- BU : Bibliothèque Universitaire  \n- BDL : BU des Licences  \n- GEOS : BU des GÉOSciences  \n- MIR : BU des Maths, Informatiques et Recherche  \n- BCPR : BU de la Biologie, Chimie, Physique et Recherche  \n- BD1 : BU des L1  \n- BDA : BU De l'Atrium\n\nEspaces et Services Étudiants :  \n- EVE : Espace Vie Étudiante  \n- SHSE : Service Handicap Santé Étudiant  \n- DAPS : Département des Activités Physiques et Sportives  \n- CAPSULE : Centre d’Accompagnement à la Pédagogie et SUpport à L’Expérimentation  \n- SOI : Service d'Orientation et d'Insertion  \n- EDAC : Espace Des Arts et de la Culture  \n- PPTI : Plateforme Pédagogique et Technique Informatique  \n- SUMPPS : Service Universitaire de Médecine Préventive et de Promotion de la Santé\n\nEnsignement et Cursus :  \n- UE : Unité d'Enseignement  \n- ECTS : European Credit Transfer and Accumulation System  \n- UFR : Unité de Formation et de Recherche (ou département)  \n- ScFo : Licence de Sciences Formelles (anciennement MIPI, axé Maths, Physique et Informatique)  \n- ScIn : Licence de Sciences de l'Ingénierie (anciennement MIPI, axé Maths, Physique et Ingénierie)  \n- ScMa : Licence de Sciences de la Matière (anciennement PCGI, axé Physique, Chimie et Géosciences)  \n- ScNa : Licence de Sciences de la Nature (anciennement BGC, axé Biologie, Géosciences et Chimie)  \n- CMI : Cursus Master Ingénierie  \n- PEIP : Parcours des Écoles d'Ingénieur Polytech  \n- DM : Licence Double Majeure  \n- Mm : Licence Majeure mineure  \n- SPRINT : Sorbonne Physique Intensif et Nouvelles Technologies (licence mono intensive de Physique)" 
 
                         },
                         {
@@ -58,7 +58,7 @@
                     ]
                 },	
                 {
-                    "title": "Plans",
+                    "title": "Plans & Horaires",
                     "text":"Les légendes sont articulées ainsi :  \nNom | Localisation de l'entrée | Horaire | Condition d'accessibilité\n\nSi les jours d'horaire ne sont pas précisés, il s'agit de Lundi-Vendredi.",
                     "children":[
                         {
@@ -79,23 +79,23 @@
                         },
                         {
                             "title":"Espaces et Services Étudiants",
-                            "text":"![ese](/assets/plans/ese.png)  \n🟦 : EVE | JU 23-24 | 9h30-21h , Samedi 12h-18h  \n🟥 : FabLab | Bât Esclangon | Mardi, Jeudi, Vendredi 15h-18h30  \n🟩 : GreenLab | 43-44 201, 202, 203, 204, 206, 208 | Lundi-Mercredi 15h-18h  \n🟫 : EDAC | SB 33-43  \n🟪 : Service Capsule | Atrium 113 et 105 | 8h-18h  \n🟧 : PPTI | 14-15 3,4,5ème Étages et 24-25 3ème Étage | Lundi-Jeudi 8h30-20h30 Vendredi 8h30-20h Samedi 10h-18h | **Accessible uniquement aux inscrits à l'UFR d'Informatique**  \n🟨 : UFR 926 Chimie | SB Bât B | Lundi-Jeudi 9h30-11h30 et 12h15-16h, Vendredi 9h30-11h30 et 12h15-13h30"
+                            "text":"![espacesetudiants](/assets/plans/esepacesetudiants.png)  \n🟦 : EVE | JU 23-24 | 9h30-21h , Samedi 12h-18h  \n🟥 : FabLab : Prototypage | Bât Esclangon | Mardi, Jeudi, Vendredi 15h-18h30  \n🟩 : Fablab : Biologie/Chimie | 43-44 201,2,3,4,5,6,8 | Lundi-Mercredi 15h-18h  \n🟫 : EDAC | SB 33-43  \n🟪 : Service Capsule | Atrium 113 et 105 | 8h-18h  \n🟧 : PPTI | 14-15 3,4,5ème Étages et 24-25 3ème Étage | Lundi-Jeudi 8h30-20h30 Vendredi 8h30-20h Samedi 10h-18h | **Accessible uniquement aux inscrits à l'UFR d'Informatique**  \n🟨 : UFR 926 Chimie | SB Bât B | Lundi-Jeudi 9h30-11h30 et 12h15-16h, Vendredi 9h30-11h30 et 12h15-13h30"
                         },
                         {
                             "title":"Espaces Restauration",
-                            "text":"![rus](/assets/plans/rus.png)  \n🟥 : CROUS Cuvier | 11h30-14h  \n🟦 : Foyer | JU 53 | 10h-15h  \n🟩 : Cafétarias | Toit Cuvier (8h30-16h30), SB Atrium (8h-17h), JU 26-25 (8h-17h30)  \n🟪 : l'Ardoise | 12h-14h  \n🟧 : Machines à Café et Distributeurs | JU 23-24, Foyer, Accueil Bât B, Entrée Esclangon, Entrée BDL"
+                            "text":"![restauration](/assets/plans/restauration.png)  \n🟥 : CROUS Cuvier | 11h30-14h  \n🟦 : Foyer | JU 53 | 10h-15h  \n🟩 : Cafétarias | Toit Cuvier (8h30-16h30), SB Atrium (8h-17h), JU 26-25 (8h-17h30)  \n🟪 : l'Ardoise | 12h-14h  \n🟧 : Machines à Café et Distributeurs | JU 23-24, Foyer, Accueil Bât B, Entrée Esclangon, Entrée BDL"
                         },
                         {
-                            "title":"Espaces Santé, Orientation et Social",
-                            "text":"![sos](/assets/plans/sos.png)  \n🟥 : Infirmerie | JU 55 | 8h30-17h30  \n🟦 : SHSE | JU 22-23 | Mardi-Vendredi 9h-12h et 14h-17h  \n🟩 : SOI | SB 54-00 | Mardi, Jeudi, Vendredi 9h30-12h & 13h30-16h30  \n🟨 : Halte garderie | 8h15-18h15"
+                            "title":"Autre",
+                            "text":"![autre](/assets/plans/autre.png)  \n🟥 : Infirmerie | JU 55 | 8h30-17h30  \n🟦 : SHSE | JU 22-23 | Mardi-Vendredi 9h-12h et 14h-17h  \n🟩 : SOI | SB 54-00 | Mardi, Jeudi, Vendredi 9h30-12h & 13h30-16h30  \n🟧 : Tipi | Patio 32-43  \n Galerie Culturelle "La Passerelle" | 24-34 JU  \n🟫 : Collection de minéraux | Patio 14-25 | Mardi-Samedi 13h-18h  \n🟨 : Halte garderie | 8h15-18h15"
                         },
                         {
                             "title":"Toilettes",
-                            "text":"![toilettes](/assets/plans/toilettes.png)  \n🟥 : à chaque étages  \n🟦 : niveau JU ou étage 2 pour bâtiments C, B et A  \n🟩 : dans les couloirs"
+                            "text":"![toilettes](/assets/plans/toilettes.png)  \n🟥 : à chaque étages  \n🟦 : Niveau JU  \n🟩 : 1er étage  \n🟧 : Niveau Saint-Bernard"
                         },
                         {
-                            "title":"Saint Bernard",
-                            "text":"![sb](/assets/plans/sb.png)  \n🟥 : CROUS Cuvier (en haut) et MIR (en bas)  \n🟩 : BCPR  \n🟦 : BDL  \n🟨 : DAPS  \n🟪 : BDA  \n🏳️‍🌈 : TIPI"
+                            "title":"Saint-Bernard",
+                            "text":"![saintbernard](/assets/plans/saintbernard.png)"
                         }
                     ]
                 }
