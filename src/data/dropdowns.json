@@ -59,7 +59,7 @@
                 },	
                 {
                     "title": "Plans & Horaires",
-                    "text":"Les légendes sont articulées ainsi :  \nNom | Localisation de l'entrée | Horaire | Condition d'accessibilité\n\nSi les jours d'horaire ne sont pas précisés, il s'agit de Lundi-Vendredi.",
+                    "text":"Les légendes sont articulées ainsi :  \nNom | Localisation de l'accès | Horaire | Condition d'accessibilité\n\nSi les jours d'horaire ne sont pas précisés, il s'agit de Lundi-Vendredi.",
                     "children":[
                         {
                             "title":"Bâtiments",
@@ -67,7 +67,7 @@
                         },
                         {
                             "title":"Amphithéâtres",
-                            "text":"![amphis](/assets/plans/amphitheatres.png)  \n🟥 : Amphis B1,B2,B3 et A1,A2,A3 | Étages 2,4,6 Bâtiments B et A  \n🟦 : Amphis Durand, Herpin et Astier | JU Esclangon  \n🟩 : Auditorium | JU 54-55  \n🟧 : Amphi Charpak | SB 22-23  \n**Autres** : Nom de la Tour la plus proche | Niveau JU"
+                            "text":"![amphis](/assets/plans/amphitheatres.png)  \n🟥 : Amphis B1,B2,B3 et A1,A2,A3 | Étages 2,4,6 Bâtiments B et A  \n🟦 : Amphis Durand, Herpin et Astier | JU Esclangon  \n🟩 : Auditorium | JU 54-55  \n🟧 : Amphi Charpak | SB 22-23  \n**Autres** : Nom de la Tour la plus proche | Étage JU"
                         },
                         {
                             "title":"Bibliothèques",
@@ -91,7 +91,7 @@
                         },
                         {
                             "title":"Toilettes",
-                            "text":"![toilettes](/assets/plans/toilettes.png)  \n🟥 : à chaque étages  \n🟦 : Niveau JU  \n🟩 : 1er étage  \n🟧 : Niveau Saint-Bernard"
+                            "text":"![toilettes](/assets/plans/toilettes.png)  \n🟥 : à chaque étages  \n🟦 : Étage JU  \n🟩 : 1er étage  \n🟧 : Étage SB"
                         },
                         {
                             "title":"Saint-Bernard",
