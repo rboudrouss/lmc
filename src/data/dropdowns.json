@@ -45,14 +45,14 @@
                         },
                         {
                             "title":"Bibliothèques",
-                            "text":"- [Buresa](https://buresa.upmc.fr/ReservationSalles/)  \nRéservation de salles et boxs.\n\n- [Horaires et fréquentation des BUs en direct](https://www.sorbonne-universite.fr/les-bibliotheques-de-sciences-et-ingenierie)\n\n- [PRIMO BU SU](https://sorbonne-universite.primo.exlibrisgroup.com/)  \nRecherche de livres, demande ou renouvellement d'emprunt..."
+                            "text":"- [Buresa](https://buresa.upmc.fr/ReservationSalles/)  \nRéservation de salles et boxs.\n\n- [Horaires et fréquentation des BUs en direct](https://www.sorbonne-universite.fr/les-bibliotheques-de-sciences-et-ingenierie)\n\n- [PRIMO BU SU](https://sorbonne-universite.primo.exlibrisgroup.com/)  \nRecherche de livres, demande ou renouvellement d'emprunt...\n\n- [SorbonNum](https://patrimoine.sorbonne-universite.fr/)  \nSorbonNum est bibliothèque numérique qui rassemble les collections documentaires et scientifiques patrimoniales de Sorbonne Université"
                         },
                         {
                             "title":"Informatique",
                             "text":"- [L'UTES](https://lutes.upmc.fr/actu.php)  \nAccès aux sessions Bureau de l'UTES depuis chez vous. Réservation de salles de réunions et de salles informatiques.\n\n-  [Drop SU](https://dropsu.sorbonne-universite.fr/)  \nDépôt de fichier en ligne.\n\n- [Pôle Discord SU](https://discord.gg/5fX8q6SSPP)  \nRegroupement des serveurs discord de SU."
                         },
                         {
-                            "title":"Les Bonnes Pages",
+                            "title":"Pages Notables",
                             "text":"de l'ENT :  \n- [Plan officiel du CPMC](https://ent.sorbonne-universite.fr/sciences-etudiants/fr/en-pratique/plan-du-campus.html)\n\n- [Informatique (comment se connecter à eduroam)](https://ent.sorbonne-universite.fr/sciences-etudiants/fr/en-pratique/informatique.html)\n\n- [Se déplacer à vélo + Plan des parkings à vélo](https://ent.sorbonne-universite.fr/sciences-etudiants/fr/en-pratique/se-deplacer-a-velo.html)\n\n- [Myriam Abitbol, Vice-doyenne du CPMC](https://ent.sorbonne-universite.fr/sciences-etudiants/fr/index/myriam-abitbol-vice-doyenne-etudiante-de-la-faculte-des-sciences-et-ingenierie.html)\n\n- [Vie Associative (comment créer son association)](https://ent.sorbonne-universite.fr/sciences-etudiants/fr/vie-etudiante/vie-associative.html)\n\n- [Harcèlement : comment agir ?](https://ent.sorbonne-universite.fr/sciences-etudiants/fr/vie-etudiante/egalite-et-lutte-contre-les-discriminations/harcelement-comment-agir.html)\n\nde SU Sciences :\n\n- [Les campus de SU Sciences](https://sciences.sorbonne-universite.fr/faculte/nos-campus)\n\n- [Répertoire officiel des associations de SU Sciences](https://sciences.sorbonne-universite.fr/associations)\n\n- [Aides sociales & financières](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/aides-sociales-financieres/bourses-et-aides-sociales)\n\n- [Tour Zamansky](https://sciences.sorbonne-universite.fr/faculte/location-despaces/la-tour-zamansky)\n\n- [Bibliothèques scientifiques associées](https://www.sorbonne-universite.fr/les-bibliotheques-associees-de-sciences-ingenierie)\n\n- [Stations maritimes de SU Sciences](https://www.sorbonne-universite.fr/universite/nous-connaitre/nos-observatoires-en-region)\n\nde SU :  \n- [Les campus et sites de SU](https://www.sorbonne-universite.fr/campus-et-sites)\n\n- [Répertoire officiel des associations de SU](https://www.sorbonne-universite.fr/associations)\n\n- [Bourses et aides](https://www.sorbonne-universite.fr/offre-de-formation/vie-etudiante/bourses-aides-et-dispositifs)\n\n- [Tour Zamansky](https://www.sorbonne-universite.fr/universite/location-despaces/espaces-de-la-tour-zamansky)"
                         }
                     ]
@@ -67,7 +67,7 @@
                         },
                         {
                             "title":"Amphithéâtres",
-                            "text":"![amphis](/assets/plans/amphitheatres.png)  \n🟥 : Amphis B1,B2,B3 et A1,A2,A3 | Étages 2,4,6 Bâtiments B et A  \n🟦 : Amphis Durand, Herpin et Astier | JU Esclangon  \n🟩 : Auditorium | JU 54-55  \n🟧 : Amphi Charpak | SB 22-23  \n**Autres** : Nom de la Tour la plus proche | Étage JU"
+                            "text":"![amphis](/assets/plans/amphitheatres.png)  \n🟥 : Amphis B1,B2,B3 et A1,A2,A3 | Étages 2,4,6 Bâtiments B et A  \n🟦 : Amphis Durand, Herpin et Astier | JU Esclangon  \n🟩 : Auditorium | JU 54-55  \n🟧 : Amphi Charpak | SB 22-23  \n**Autres** : Nom de la Tour la plus proche | JU"
                         },
                         {
                             "title":"Bibliothèques",
@@ -91,7 +91,7 @@
                         },
                         {
                             "title":"Toilettes",
-                            "text":"![toilettes](/assets/plans/toilettes.png)  \n🟥 : à chaque étages  \n🟦 : Étage JU  \n🟩 : 1er étage  \n🟧 : Étage SB"
+                            "text":"![toilettes](/assets/plans/toilettes.png)  \n🟥 : à chaque étages  \n🟦 : JU  \n🟩 : 1er étage  \n🟧 : SB"
                         },
                         {
                             "title":"Saint-Bernard",
@@ -170,7 +170,7 @@
                         },
                         {
                             "title":"BIOLOGIE : Association du master de Biodiversité, Écologie et Évolution (GoBEE)",
-                            "text":"![gobee](/assets/assos/gobee.png)  \n- [Linktree](https://linktr.ee/GoBEE)  \n- [Site](https://www.association-gobee.fr/)  \n- [Instagram](https://www.instagram.com/association_gobee/)  \n- [Facebook](https://www.facebook.com/GobeeSU)  \n- [Youtube](https://www.youtube.com/channel/UCQ1LnZxoM3rpNTGMFhRcf_g)  \n- Mail : administration@association-gobee.fr  \n- [LinkedIn](https://fr.linkedin.com/company/gobee-su)"
+                            "text":"![gobee](/assets/assos/gobee.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=GOCtlwk_AhU)  \n- [Linktree](https://linktr.ee/GoBEE)  \n- [Site](https://www.association-gobee.fr/)  \n- [Instagram](https://www.instagram.com/association_gobee/)  \n- [Facebook](https://www.facebook.com/GobeeSU)  \n- [Youtube](https://www.youtube.com/channel/UCQ1LnZxoM3rpNTGMFhRcf_g)  \n- Mail : administration@association-gobee.fr  \n- [LinkedIn](https://fr.linkedin.com/company/gobee-su)"
                         },
                         {
                             "title":"GÉOLOGIE : Assciation du master Sol, Eau et Environnement (I'SEE)",
@@ -318,7 +318,7 @@
                         },
                         {
                             "title":"MUSIQUE : InVivo",
-                            "text":"![invivo](/assets/assos/invivo.png)  \n- [Site](https://www.polytech.sorbonne-universite.fr/vie-associative/invivo)  \n- [Instagram](https://www.instagram.com/invivo.polytech/)  \n- [Facebook](https://www.facebook.com/invivo.polytech)  \n- Mail : in.vivo.polytech.sorbonne@gmail.com"
+                            "text":"![invivo](/assets/assos/invivo.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=--fri43vEuU)  \n- [Site](https://www.polytech.sorbonne-universite.fr/vie-associative/invivo)  \n- [Instagram](https://www.instagram.com/invivo.polytech/)  \n- [Facebook](https://www.facebook.com/invivo.polytech)  \n- Mail : in.vivo.polytech.sorbonne@gmail.com"
                         },
                         {
                             "title":"ENTREPRENARIAT : Enactus",
@@ -335,7 +335,7 @@
                     "children":[
                         {
                             "title":"PROJET ANNUEL : Defis Sorbonne",
-                            "text":"![defis](/assets/assos/defis.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=FGzKlZslgCM)  \n- [Instagram](https://www.instagram.com/defissorbonne/)  \n- [Facebook](https://www.facebook.com/defissorbonne/)  \n- Mail : defis.sorbonne@gmail.com"
+                            "text":"![defis](/assets/assos/defis.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=Y7PZIfyYYzE)  \n- [Instagram](https://www.instagram.com/defissorbonne/)  \n- [Facebook](https://www.facebook.com/defissorbonne/)  \n- Mail : defis.sorbonne@gmail.com"
                         },
 				{
                             "title":"ENTREPRENARIAT : Connectome in Science",
