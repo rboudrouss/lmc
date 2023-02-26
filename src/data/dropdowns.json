@@ -45,7 +45,11 @@
                         },
                         {
                             "title":"Bibliothèques",
+<<<<<<< HEAD
                             "text":"- [Buresa](https://buresa.upmc.fr/ReservationSalles/)  \nRéservation de salles et boxs.\n\n- [Horaires et fréquentation des BUs en direct](https://www.sorbonne-universite.fr/les-bibliotheques-de-sciences-et-ingenierie)\n\n- [PRIMO BU SU](https://sorbonne-universite.primo.exlibrisgroup.com/)  \nRecherche de livres, demande ou renouvellement d'emprunt...\n\n- [SorbonNum](https://patrimoine.sorbonne-universite.fr/)  \nBibliothèque numérique des collections documentaires et scientifiques patrimoniales de Sorbonne Université."
+=======
+                            "text":"- [Buresa](https://buresa.upmc.fr/ReservationSalles/)  \nRéservation de salles et boxs.\n\n- [Horaires et fréquentation des BUs en direct](https://www.sorbonne-universite.fr/les-bibliotheques-de-sciences-et-ingenierie)\n\n- [PRIMO BU SU](https://sorbonne-universite.primo.exlibrisgroup.com/)  \nRecherche de livres, demande ou renouvellement d'emprunt...\n\n- [SorbonNum](https://patrimoine.sorbonne-universite.fr/)  \nSorbonNum est bibliothèque numérique qui rassemble les collections documentaires et scientifiques patrimoniales de Sorbonne Université"
+>>>>>>> 225af014de789a50ab370e5bf5ef59ff8478eb5b
                         },
                         {
                             "title":"Informatique",
@@ -67,7 +71,7 @@
                         },
                         {
                             "title":"Amphithéâtres",
-                            "text":"![amphis](/assets/plans/amphitheatres.png)  \n🟥 : Amphis B1,B2,B3 et A1,A2,A3 | Étages 2,4,6 Bâtiments B et A  \n🟦 : Amphis Durand, Herpin et Astier | JU Esclangon  \n🟩 : Auditorium | JU 54-55  \n🟧 : Amphi Charpak | SB 22-23  \n**Autres** : Nom de la Tour la plus proche | Étage JU"
+                            "text":"![amphis](/assets/plans/amphitheatres.png)  \n🟥 : Amphis B1,B2,B3 et A1,A2,A3 | Étages 2,4,6 Bâtiments B et A  \n🟦 : Amphis Durand, Herpin et Astier | JU Esclangon  \n🟩 : Auditorium | JU 54-55  \n🟧 : Amphi Charpak | SB 22-23  \n**Autres** : Nom de la Tour la plus proche | JU"
                         },
                         {
                             "title":"Bibliothèques",
@@ -91,7 +95,7 @@
                         },
                         {
                             "title":"Toilettes",
-                            "text":"![toilettes](/assets/plans/toilettes.png)  \n🟥 : à chaque étages  \n🟦 : Étage JU  \n🟩 : 1er étage  \n🟧 : Étage SB"
+                            "text":"![toilettes](/assets/plans/toilettes.png)  \n🟥 : à chaque étages  \n🟦 : JU  \n🟩 : 1er étage  \n🟧 : SB"
                         },
                         {
                             "title":"Saint-Bernard",
@@ -170,7 +174,7 @@
                         },
                         {
                             "title":"BIOLOGIE : Association du master de Biodiversité, Écologie et Évolution (GoBEE)",
-                            "text":"![gobee](/assets/assos/gobee.png)  \n- [Linktree](https://linktr.ee/GoBEE)  \n- [Site](https://www.association-gobee.fr/)  \n- [Instagram](https://www.instagram.com/association_gobee/)  \n- [Facebook](https://www.facebook.com/GobeeSU)  \n- [Youtube](https://www.youtube.com/channel/UCQ1LnZxoM3rpNTGMFhRcf_g)  \n- Mail : administration@association-gobee.fr  \n- [LinkedIn](https://fr.linkedin.com/company/gobee-su)"
+                            "text":"![gobee](/assets/assos/gobee.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=GOCtlwk_AhU)  \n- [Linktree](https://linktr.ee/GoBEE)  \n- [Site](https://www.association-gobee.fr/)  \n- [Instagram](https://www.instagram.com/association_gobee/)  \n- [Facebook](https://www.facebook.com/GobeeSU)  \n- [Youtube](https://www.youtube.com/channel/UCQ1LnZxoM3rpNTGMFhRcf_g)  \n- Mail : administration@association-gobee.fr  \n- [LinkedIn](https://fr.linkedin.com/company/gobee-su)"
                         },
                         {
                             "title":"GÉOLOGIE : Assciation du master Sol, Eau et Environnement (I'SEE)",
@@ -318,7 +322,7 @@
                         },
                         {
                             "title":"MUSIQUE : InVivo",
-                            "text":"![invivo](/assets/assos/invivo.png)  \n- [Site](https://www.polytech.sorbonne-universite.fr/vie-associative/invivo)  \n- [Instagram](https://www.instagram.com/invivo.polytech/)  \n- [Facebook](https://www.facebook.com/invivo.polytech)  \n- Mail : in.vivo.polytech.sorbonne@gmail.com"
+                            "text":"![invivo](/assets/assos/invivo.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=--fri43vEuU)  \n- [Site](https://www.polytech.sorbonne-universite.fr/vie-associative/invivo)  \n- [Instagram](https://www.instagram.com/invivo.polytech/)  \n- [Facebook](https://www.facebook.com/invivo.polytech)  \n- Mail : in.vivo.polytech.sorbonne@gmail.com"
                         },
                         {
                             "title":"ENTREPRENARIAT : Enactus",
@@ -335,7 +339,7 @@
                     "children":[
                         {
                             "title":"PROJET ANNUEL : Defis Sorbonne",
-                            "text":"![defis](/assets/assos/defis.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=FGzKlZslgCM)  \n- [Instagram](https://www.instagram.com/defissorbonne/)  \n- [Facebook](https://www.facebook.com/defissorbonne/)  \n- Mail : defis.sorbonne@gmail.com"
+                            "text":"![defis](/assets/assos/defis.png)  \n- [Vidéo de Présentation](https://www.youtube.com/watch?v=Y7PZIfyYYzE)  \n- [Instagram](https://www.instagram.com/defissorbonne/)  \n- [Facebook](https://www.facebook.com/defissorbonne/)  \n- Mail : defis.sorbonne@gmail.com"
                         },
 				{
                             "title":"ENTREPRENARIAT : Connectome in Science",
