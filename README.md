@@ -1,22 +1,27 @@
-![pass badge](https://github.com/rboudrouss/lmc/actions/workflows/deploy.yml/badge.svg)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f053bec4-3be1-4e83-b104-7b31eb7fb39c/deploy-status)](https://app.netlify.com/sites/lamatricecarree/deploys)
+# React + TypeScript + Vite
 
-site data are on `./src/data/`
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-for dropdowns text only, `  \n` pour sauter une ligne & `\n\n` pour passer un paragraphe.
+Currently, two official plugins are available:
 
-## TODO List
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-- [X] faire fonctionner les builds automatiques netlify
-- [X] créer un fichier json `footer.json` dans data avec les données du footer
-- [ ] mise en page pour téléphone
-- [X] plus de features sur les jsons
-    - [X] ajouter des images <!>
-    - [X] mettre en italique
-    - [X] mettre en gras
-    - [ ] souligner
-    - [X] mettre des liens
-- [ ] les barres sur les cotés sur les dropdowns
-- [X] liens ouvrent nouvel onglet
-- [X] resize les images (max height)
-- [ ] mise en page chaque groupe de dropdowns (genre DD d'assos, DD de plan avec des css différents)
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+
+- Configure the top-level `parserOptions` property like this:
+
+```js
+   parserOptions: {
+    ecmaVersion: 'latest',
+    sourceType: 'module',
+    project: ['./tsconfig.json', './tsconfig.node.json'],
+    tsconfigRootDir: __dirname,
+   },
+```
+
+- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
+- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
+- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list

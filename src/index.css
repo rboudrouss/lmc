@@ -1,14 +1,16 @@
-body {
+:root {
+}
+html {
+  background-color: #f6f6f6;
+  font-family: "Titillium Web", sans-serif;
+  scroll-behavior: smooth;
+}
+* {
+  box-sizing: border-box;
   margin: 0;
-  font-family: 'Popins', sans-serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
-
-html,
-body {
-  height: 100%;
+a {
+  text-decoration: none;
+  color: inherit;
 }

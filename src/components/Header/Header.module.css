@@ -1,20 +1,21 @@
-.linktree_logo{
-    width: 5%;
-    min-width: 32px;
-    margin: 10px 20px;
+.wrapper {
+  background-color: black;
+  color: white;
+  height: 50px;
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
 
-.main{
-    margin: 30px auto 0 auto;
-    width: fit-content;
+.logo {
+  width: 30px;
+  filter: invert(1);
+  cursor: pointer;
 }
 
-.main_logo{
-    width: 20vw;
-}
-
-.maintext_container{
-    width: 80%;
-    margin: auto;
-    font-size: 1.2em;
+.arrow {
+  height: 100%;
+  cursor: pointer;
+  aspect-ratio: 1;
 }
