@@ -1,26 +1,27 @@
-import { useContext } from "react";
 import styles from "./Header.module.css";
-import { AppContext } from "../../context";
 
-export default function Header() {
-  const context = useContext(AppContext);
-  let { title } = context.selected;
+export default function Header(props: {
+  title: string;
+  goBack: () => void;
+  goHome: () => void;
+}) {
+  const { title, goBack, goHome } = props;
 
   return (
     <header className={styles.wrapper}>
       <i
         className={`fa-solid fa-arrow-left ${styles.arrow}`}
-        onClick={() => context.goBack()}
-      />
+        onClick={() => goBack()}
+      >
+        back
+      </i>
       <h1 className={styles.title}>{title}</h1>
       <img
         src="/assets/logo/logo.png"
         alt="logo"
         className={styles.logo}
         onClick={() => {
-          console.log("uwu");
-          console.log(context)
-          context.goHome();
+          goHome();
         }}
       />
     </header>

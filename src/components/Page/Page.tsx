@@ -1,26 +1,48 @@
-import { useContext } from "react";
 import { Dropdown } from "../Dropdown/Dropdown";
-import { AppContext } from "../../context";
 
 import Header from "../Header/Header";
 import Footer from "../Footer/Footer";
 
 import styles from "./Page.module.css";
+import { Element_Drop } from "../../helpers/types";
+import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 
 export default function Page(props: {
+  data: Element_Drop;
   footer: { mail: string; links: { icon: string; link: string }[] };
+  goBack: () => void;
+  goTo: (e: Element_Drop) => void;
+  goHome: () => void;
 }) {
-  const context = useContext(AppContext);
-  let { content, childs } = context.selected;
-
-  let dropdowns = childs && childs.map((child) => Dropdown(child)); // TODO set unique key value
+  let {
+    data: { content, childs, title },
+    goBack,
+    goTo,
+    goHome,
+  } = props;
 
   return (
     <main className={styles.wrapper}>
-      <Header />
+      <Header title={title} goBack={goBack} goHome={goHome} />
       <div className={styles.contentWrapper}>
-        <p>{content}</p>
-        <div>{dropdowns}</div>
+        <span>
+          {typeof content === "string" ? (
+            <ReactMarkdown
+              children={content}
+              className={styles.md_container}
+              remarkPlugins={[remarkGfm]}
+              linkTarget="_blank"
+            />
+          ) : (
+            content
+          )}
+        </span>
+        <div>
+          {childs?.map((child, i) => (
+            <Dropdown {...child} key={i} goTo={goTo} />
+          ))}
+        </div>
       </div>
       <Footer {...props.footer} />
     </main>

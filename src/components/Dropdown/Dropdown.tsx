@@ -1,31 +1,30 @@
-import { useContext, useState } from "react";
+import { useState } from "react";
 import { Element_Drop } from "../../helpers/types";
 
 import styles from "./Dropdown.module.css";
-import { AppContext } from "../../context";
+import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 
 export function Dropdown(
-  props: Element_Drop
+  props: Element_Drop & {
+    goTo: (e: Element_Drop) => void;
+  }
 ) {
-  const { title, content, opened, childs, isPage } = props;
-  const [open, setOpen] = useState(opened ? true : false);
+  const { title, content, opened, childs, isPage, goTo } = props;
+  const [open, setOpen] = useState(opened || false);
 
-  const appContext = useContext(AppContext);
-  const updatePage = appContext.goTo;
+  if (opened) console.log("opened", title);
 
+  const updatePage = goTo;
 
-  function handleClick():void {
-    if (isPage && updatePage) {
+  function handleClick(): void {
+    setOpen((prevOpen) => !prevOpen);
+
+    if (isPage) {
       updatePage(props);
-      return;
     }
-    setOpen(!open);
-  };
-
-  let dropdowns =
-    childs &&
-    childs.map((child) => Dropdown(child)); // TODO set unique key value
-
+  }
+  
   return (
     <div className={styles.container}>
       <button className={styles.button} onClick={handleClick}>
@@ -34,15 +33,29 @@ export function Dropdown(
           className={`fa-solid fa-arrow-up-from-bracket ${styles.arrow}`}
           onClick={(e) => {
             e.stopPropagation();
-            console.log("uwu owo", updatePage);
             updatePage(props);
           }}
-        ></i>
+        >
+          up
+        </i>
       </button>
 
-      <>{open && content}</>
+      <>
+        {open &&
+          (typeof content === "string" ? (
+            <ReactMarkdown
+              children={content}
+              className={styles.md_container}
+              remarkPlugins={[remarkGfm]}
+              linkTarget="_blank"
+            />
+          ) : (
+            content
+          ))}
+      </>
 
-      {open && dropdowns}
+      {open &&
+        childs?.map((child, i) => <Dropdown {...child} key={i} goTo={goTo} />)}
     </div>
   );
 }
