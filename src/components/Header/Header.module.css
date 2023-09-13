@@ -3,13 +3,18 @@
   color: white;
   height: 50px;
 
+  padding: 0 10px;
   display: flex;
-  justify-content: space-around;
-  align-items: center;
+}
+
+.title {
+  width: 100%;
+  text-align: center;
 }
 
 .logo {
-  width: 30px;
+  width: 50px; /* same as height on header */
+  aspect-ratio: 1;
   filter: invert(1);
   cursor: pointer;
 }

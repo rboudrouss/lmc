@@ -21,6 +21,12 @@
   margin-bottom: 5px;
 }
 
+.content img {
+  max-width: 200px;
+  max-height: 200px;
+  padding: 20px
+}
+
 .dropdowns {
   width: 100%;
 }

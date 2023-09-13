@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Element_Drop } from "../../helpers/types";
 
 import styles from "./Dropdown.module.css";
@@ -17,13 +17,20 @@ export function Dropdown(
 
   const updatePage = goTo;
 
-  function handleClick(): void {
+  function handleClick(e:any): void {
+    e.stopPropagation();
     setOpen((prevOpen) => !prevOpen);
 
     if (isPage) {
       updatePage(props);
     }
   }
+
+  useEffect(() => {
+    return () => {
+      setOpen(false);
+    };
+  }, []);
 
   return (
     <div className={styles.container}>
