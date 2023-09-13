@@ -43,3 +43,7 @@
   color: white;
   cursor: pointer;
 }
+
+.content {
+  padding: 10px
+}

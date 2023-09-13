@@ -26,7 +26,7 @@ export default function Page(props: {
     <main className={styles.wrapper}>
       <Header title={title} goBack={goBack} goHome={goHome} />
       <div className={styles.contentWrapper}>
-        <span>
+        <span className={styles.content}>
           {typeof content === "string" ? (
             <ReactMarkdown
               children={content}
@@ -38,7 +38,7 @@ export default function Page(props: {
             content
           )}
         </span>
-        <div>
+        <div className={styles.dropdowns}>
           {childs?.map((child, i) => (
             <Dropdown {...child} key={i} goTo={goTo} />
           ))}

@@ -5,5 +5,22 @@
 
 /* FIXME for whatever reason there is like 5px of space before */
 .contentWrapper {
+  display: flex;
+  flex-direction: center;
+  justify-content: center;
+
   min-height: calc(100% - 50px - 150px); /* 50px for header, 150px for footer */
+}
+
+.content {
+  max-width: 800px;
+  padding-top: 20px;
+}
+
+.content p {
+  margin-bottom: 5px;
+}
+
+.dropdowns {
+  width: 100%;
 }

@@ -24,7 +24,7 @@ export function Dropdown(
       updatePage(props);
     }
   }
-  
+
   return (
     <div className={styles.container}>
       <button className={styles.button} onClick={handleClick}>
@@ -40,9 +40,9 @@ export function Dropdown(
         </i>
       </button>
 
-      <>
-        {open &&
-          (typeof content === "string" ? (
+      {open && content && (
+        <div className={styles.content}>
+          {typeof content === "string" ? (
             <ReactMarkdown
               children={content}
               className={styles.md_container}
@@ -51,8 +51,9 @@ export function Dropdown(
             />
           ) : (
             content
-          ))}
-      </>
+          )}
+        </div>
+      )}
 
       {open &&
         childs?.map((child, i) => <Dropdown {...child} key={i} goTo={goTo} />)}
