@@ -6,15 +6,15 @@
 /* FIXME for whatever reason there is like 5px of space before */
 .contentWrapper {
   display: flex;
-  flex-direction: center;
   justify-content: center;
+  flex-wrap: wrap;
 
   min-height: calc(100% - 50px - 150px); /* 50px for header, 150px for footer */
 }
 
 .content {
   max-width: 800px;
-  padding-top: 20px;
+  padding: 20px 0;
 }
 
 .content p {
@@ -22,9 +22,11 @@
 }
 
 .content img {
-  max-width: 200px;
-  max-height: 200px;
-  padding: 20px
+  display: block;
+  max-width: 300px;
+  max-height: 300px;
+  padding: 20px;
+  margin: 0 auto;
 }
 
 .dropdowns {
