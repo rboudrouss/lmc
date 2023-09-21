@@ -15,6 +15,7 @@ export default function App() {
   function goTo(drop: Element_Drop) {
     window.scrollTo(0, 0);
     setHistory([...history, selected]);
+    // window.history.pushState("", "", '/'+drop.title.replace(/ /g, '_'));
     setSelected(drop);
   }
 
