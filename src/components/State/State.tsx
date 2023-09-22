@@ -1,14 +1,13 @@
-import "./App.css";
 import { useState } from "react";
-import { Element_Drop } from "./helpers/types";
+import type { Element_Drop } from "../../helpers/types";
 
-import drop_data_T from "./data/dropdowns.json";
-import Page from "./components/Page/Page";
+import drop_data_T from "../../data/dropdowns.json";
+import Page from "../../components/Page/Page";
 const drop_data = drop_data_T as unknown as Element_Drop;
 
-import footer_data from "./data/footer.json";
+import footer_data from  "../../data/footer.json";
 
-export default function App() {
+export default function State() {
   const [selected, setSelected] = useState<Element_Drop>(drop_data);
   const [history, setHistory] = useState<Element_Drop[]>([]);
 

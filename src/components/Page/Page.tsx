@@ -4,7 +4,7 @@ import Header from "../Header/Header";
 import Footer from "../Footer/Footer";
 
 import styles from "./Page.module.css";
-import { Element_Drop } from "../../helpers/types";
+import type { Element_Drop } from "../../helpers/types";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 
