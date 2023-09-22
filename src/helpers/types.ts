@@ -6,4 +6,17 @@ export interface Element_Drop {
   opened?: boolean;
   isPage?: boolean;
   content: ReactNode;
+  isMd?: boolean;
 }
+
+export const Empty_Element: Element_Drop = {
+  title: "",
+  childs: [],
+  content: "",
+}
+
+export const Element_Keys = [
+  "title",
+  "opened",
+  "isPage",
+] as const

@@ -15,7 +15,7 @@ function convertJsonMd(json, path, i) {
 
   if (!fs.existsSync(folder)) fs.mkdirSync(folder);
 
-  let text = `-------------------\ntitle: ${json.title}`;
+  let text = `---\ntitle: ${json.title}`;
 
   if (json.isPage) {
     text = text.concat(`\npage: true`);
@@ -23,7 +23,7 @@ function convertJsonMd(json, path, i) {
   if (json.opened) {
     text = text.concat(`\nopened: true`);
   }
-  text = text.concat(`\n-------------------\n${json.content ?? ""}`);
+  text = text.concat(`\n---\n${json.content ?? ""}`);
 
   const file = folder.concat("/").concat(title).concat(".md");
 
