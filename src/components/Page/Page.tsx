@@ -24,7 +24,7 @@ export default function Page(props: {
 
   return (
     <main className={styles.wrapper}>
-      <Header title={title} goBack={goBack} goHome={goHome} />
+      <Header title={title} navig={true} goBack={goBack} goHome={goHome} />
       <div className={styles.contentWrapper}>
         <span className={styles.content}>
           {typeof content === "string" ? (

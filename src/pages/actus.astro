@@ -1,0 +1,33 @@
+---
+import Header from "../components/Header/Header";
+import Layout from "../layouts/Layout.astro";
+import footer_data from "../data/footer.json";
+import Footer from "../components/Footer/Footer";
+import Actu from "../components/Actu/Actu";
+
+const expData = {
+  title: "LMC uwu",
+  content:
+    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+  img: "/assets/logo/logo.png",
+  source: "https://lamatricecaree.com",
+  date: new Date(Date.now()),
+  tags: ["tag1", "tag2"],
+};
+---
+
+<Layout title="actualités">
+  <Header title="LMC" />
+  <main class="content">
+    <Actu {...expData} />
+  </main>
+  <Footer {...footer_data} />
+</Layout>
+
+<style>
+  .content {
+    min-height: calc(
+      100vh - 50px - 150px
+    ); /* 50px for header, 150px for footer */
+  }
+</style>
