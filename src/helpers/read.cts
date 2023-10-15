@@ -3,7 +3,7 @@ import * as fs from "fs";
 import { Empty_Element, type Element_Drop } from "./types";
 
 // must be executed by nodeJs, do not uses with react <!>
-export function read_md(path: string): Element_Drop {
+function read_md(path: string): Element_Drop {
   if(!fs.existsSync(path)) {
     console.log("Path " + path + " does not exists");
     return Empty_Element;
