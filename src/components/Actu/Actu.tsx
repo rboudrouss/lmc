@@ -6,25 +6,41 @@ export default function Actu(props: {
   date: Date;
   img?: string;
   source?: string;
-  tags: string[];
+  assos: string[];
 }) {
+  const { title, content, date, img, source, assos } = props;
+
   return (
     <div className={styles.wrapper}>
-      <div className={styles.main_content}>
-        <h1>{props.title}</h1>
-        <p>{props.content}</p>
-        {props.img && (
-          <img className={styles.img} src={props.img} alt={props.title} />
-        )}
-      </div>
-      <div className={styles.add_info}>
-        <p>date {props.date.toDateString()}</p>
-        {props.source && (
-          <a href={props.source}>
-            <p>Source / pour plus d'info</p>
-          </a>
-        )}
+      <div className={styles.content}>
+        <h3 className={styles.date}>{date.toDateString()}</h3>
+        <div className={styles.header}>
+          <div className={styles.assos}>
+            {assos.map((asso) => (
+              <img
+                src={imgFromTag(asso)}
+                alt={asso}
+                className={styles.asso}
+                key={asso}
+              />
+            ))}
+          </div>
+          <h3 className={styles.title}>{title}</h3>
+        </div>
+        <div className={styles.body}>
+          {content && (
+            <div className={styles.textWrapper}>
+              <p className={styles.text}>{content}</p>
+            </div>
+          )}
+          {img && <img src={img} alt="" className={styles.img} />}
+          {source && <a href={source} className={styles.source}>Source / pour plus d'info</a>}
+        </div>
       </div>
     </div>
   );
+}
+
+function imgFromTag(asso: string) {
+  return "/assets/assos/alias.svg";
 }

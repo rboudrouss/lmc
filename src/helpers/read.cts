@@ -1,6 +1,6 @@
 // const fs = require("fs")
 import * as fs from "fs";
-import { Empty_Element, type Element_Drop } from "./types";
+import { Empty_Element, type Element_Drop } from ".";
 
 // must be executed by nodeJs, do not uses with react <!>
 function read_md(path: string): Element_Drop {

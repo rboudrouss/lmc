@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import type { Element_Drop } from "../../helpers/types";
+import type { Element_Drop } f../../helperstypes";
 
 import styles from "./Dropdown.module.css";
 import ReactMarkdown from "react-markdown";

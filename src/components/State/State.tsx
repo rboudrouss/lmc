@@ -1,5 +1,5 @@
 import { useState } from "react";
-import type { Element_Drop } from "../../helpers/types";
+import type { Element_Drop } from "../../helpers";
 
 import drop_data_T from "../../data/dropdowns.json";
 import Page from "../../components/Page/Page";
