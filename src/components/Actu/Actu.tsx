@@ -1,9 +1,11 @@
 import styles from "./Actu.module.css";
 
+import { assosToImg } from "../../helpers";
+
 export default function Actu(props: {
   title: string;
   content?: string;
-  date: Date;
+  date?: Date;
   img?: string;
   source?: string;
   assos: string[];
@@ -13,12 +15,12 @@ export default function Actu(props: {
   return (
     <div className={styles.wrapper}>
       <div className={styles.content}>
-        <h3 className={styles.date}>{date.toDateString()}</h3>
+        <h3 className={styles.date}>{date?.toDateString()}</h3>
         <div className={styles.header}>
           <div className={styles.assos}>
             {assos.map((asso) => (
-              <img
-                src={imgFromTag(asso)}
+              assosToImg(assos) && <img
+                src={assosToImg(asso)}
                 alt={asso}
                 className={styles.asso}
                 key={asso}
@@ -34,13 +36,13 @@ export default function Actu(props: {
             </div>
           )}
           {img && <img src={img} alt="" className={styles.img} />}
-          {source && <a href={source} className={styles.source}>Source / pour plus d'info</a>}
+          {source && (
+            <a href={source} className={styles.source}>
+              Source / pour plus d'info
+            </a>
+          )}
         </div>
       </div>
     </div>
   );
-}
-
-function imgFromTag(asso: string) {
-  return "/assets/assos/alias.svg";
 }
