@@ -13,7 +13,7 @@
 }
 
 .logo {
-  width: 50px; /* same as height on header */
+  width: 59px; /* same as height on header */
   aspect-ratio: 1;
   filter: invert(1);
   cursor: pointer;

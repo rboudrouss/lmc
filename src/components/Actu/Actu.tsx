@@ -4,13 +4,14 @@ import { assosToImg } from "../../helpers";
 
 export default function Actu(props: {
   title: string;
-  content?: string;
+  content?: any;
   date?: Date;
   img?: string;
   source?: string;
   assos: string[];
 }) {
-  const { title, content, date, img, source, assos } = props;
+  let { title, content, date, img, source, assos } = props;
+  content = <content />;
 
   return (
     <div className={styles.wrapper}>
@@ -32,7 +33,7 @@ export default function Actu(props: {
         <div className={styles.body}>
           {content && (
             <div className={styles.textWrapper}>
-              <p className={styles.text}>{content}</p>
+              <p className={styles.text}>{<content />}</p>
             </div>
           )}
           {img && <img src={img} alt="" className={styles.img} />}
