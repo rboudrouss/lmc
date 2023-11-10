@@ -7,6 +7,7 @@ export interface Element_Drop {
   isPage?: boolean;
   content: ReactNode;
   isMd?: boolean;
+  persistant?: boolean;
 }
 
 export const Empty_Element: Element_Drop = {
@@ -35,11 +36,27 @@ export function parseDateFromString(dateString: string): Date | null {
   const intsParts = dateParts.slice(1).map((part) => parseInt(part, 10));
   intsParts[1]--; // Month is 0-based
 
-  if (intsParts.some((part) => isNaN(part) || part < 0 || part > 59)) {
+  if (intsParts.some((part) => isNaN(part) || part < 0)) {
     return undefined; // Invalid numbers
   }
 
-  return new Date(...intsParts);
+  return new Date(intsParts[2], intsParts[1], intsParts[0], intsParts[3], intsParts[4]);
+}
+
+export function dateToStringFromToday(date: Date): string {
+  const today = new Date();
+
+  const diff = date.getTime() - today.getTime();
+
+  const diffDays = Math.floor(diff / (1000 * 60 * 60 * 24));
+
+  if (diffDays === 0) return "Aujourd'hui";
+  if (diffDays === 1) return "Demain";
+  if (diffDays === -1) return "Hier";
+
+  if (diffDays > 0) return `Dans ${diffDays} jours`;
+  return `Il y a ${-diffDays} jours`;
+
 }
 
 export const assosSvg = [

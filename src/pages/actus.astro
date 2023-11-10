@@ -13,6 +13,7 @@ interface frontmatter {
   img?: string;
   source?: string;
   assos?: string[];
+  persistant?: boolean;
 }
 
 let posts = (await Astro.glob<frontmatter>("./actus/*.md")).map((p) => {
@@ -23,12 +24,15 @@ let posts = (await Astro.glob<frontmatter>("./actus/*.md")).map((p) => {
     source: p.frontmatter.source,
     assos: p.frontmatter.assos,
     content: p.compiledContent(),
+    persistant: p.frontmatter.persistant,
   };
 });
 ---
 
 <Layout title="actualités">
-  <Header title="LMC" />
+  <Header title="LMC" goHome={() => {
+    window.location.href = "/";
+  }}/>
   <main class="content">
     {posts.map((actu) => <Actu {...actu} />)}
   </main>

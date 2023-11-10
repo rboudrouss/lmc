@@ -16,8 +16,7 @@ type propsT = {
 export default function Header(props: propsT) {
   const { title, navig } = props;
   let goBack = navig ? props.goBack : () => {};
-  let goHome = navig ? props.goHome : () => {};
-
+  let goHome = navig ? props.goHome : undefined;
 
   return (
     <header className={styles.wrapper}>
@@ -25,21 +24,25 @@ export default function Header(props: propsT) {
         <i
           className={`fa-solid fa-arrow-left ${styles.arrow}`}
           onClick={() => goBack()}
-        >
-          back
-        </i>
+        ></i>
       ) : (
         <div></div>
       )}
       <h1 className={styles.title}>{title}</h1>
-      <img
-        src="/assets/logo/logo.png"
-        alt="logo"
-        className={styles.logo}
-        onClick={() => {
-          goHome();
-        }}
-      />
+      {goHome ? (
+        <img
+          src="/assets/logo/logo.png"
+          alt="logo"
+          className={styles.logo}
+          onClick={() => {
+            goHome();
+          }}
+        />
+      ) : (
+        <a href="/">
+          <img src="/assets/logo/logo.png" alt="logo" className={styles.logo} />
+        </a>
+      )}
     </header>
   );
 }

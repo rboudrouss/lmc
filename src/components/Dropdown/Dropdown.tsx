@@ -43,7 +43,6 @@ export function Dropdown(
             updatePage(props);
           }}
         >
-          up
         </i>
       </button>
 

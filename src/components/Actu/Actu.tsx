@@ -1,6 +1,6 @@
 import styles from "./Actu.module.css";
 
-import { assosToImg } from "../../helpers";
+import { assosToImg, dateToStringFromToday } from "../../helpers";
 
 export default function Actu(props: {
   title: string;
@@ -15,7 +15,7 @@ export default function Actu(props: {
   return (
     <div className={styles.wrapper}>
       <div className={styles.content}>
-        <h3 className={styles.date}>{date?.toDateString()}</h3>
+        <h3 className={styles.date}>{dateToStringFromToday(date)}</h3>
         <div className={styles.header}>
           <div className={styles.assos}>
             {assos.map(
