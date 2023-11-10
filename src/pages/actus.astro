@@ -22,7 +22,7 @@ let posts = (await Astro.glob<frontmatter>("./actus/*.md")).map((p) => {
     img: p.frontmatter.img,
     source: p.frontmatter.source,
     assos: p.frontmatter.assos,
-    content: p.Content,
+    content: p.compiledContent(),
   };
 });
 ---
