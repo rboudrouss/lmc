@@ -16,17 +16,29 @@ export const Empty_Element: Element_Drop = {
   content: "",
 };
 
+export interface ActuT {
+  title: string;
+  date?: Date;
+  img?: string;
+  source?: string;
+  assos: string[];
+  persistant?: boolean;
+  content?: string; // UNSAFE HTML
+}
+
 export const Element_Keys = ["title", "opened", "isPage"] as const;
 
 export function assosToImg(assos: string) {
   if (assosNames.includes(assos) === false) return undefined;
 
-  if (assosSvg.includes(assos)) return `assests/assos/${assos}.svg`;
+  if (assosSvg.includes(assos)) return `/assests/assos/${assos}.svg`;
 
-  return `assets/assos/${assos}.png`;
+  return `/assets/assos/${assos}.png`;
 }
 
-export function parseDateFromString(dateString: string): Date | null {
+export function parseDateFromString(dateString?: string): Date | null {
+  if (!dateString) return undefined;
+
   const dateParts = dateString.match(/(\d+)-(\d+)-(\d+) (\d+):(\d+)/);
 
   if (!dateParts) {
@@ -40,10 +52,18 @@ export function parseDateFromString(dateString: string): Date | null {
     return undefined; // Invalid numbers
   }
 
-  return new Date(intsParts[2], intsParts[1], intsParts[0], intsParts[3], intsParts[4]);
+  return new Date(
+    intsParts[2],
+    intsParts[1],
+    intsParts[0],
+    intsParts[3],
+    intsParts[4]
+  );
 }
 
-export function dateToStringFromToday(date: Date): string {
+export function dateToStringFromToday(date?: Date): string {
+  if (!date) return undefined;
+
   const today = new Date();
 
   const diff = date.getTime() - today.getTime();
@@ -56,7 +76,6 @@ export function dateToStringFromToday(date: Date): string {
 
   if (diffDays > 0) return `Dans ${diffDays} jours`;
   return `Il y a ${-diffDays} jours`;
-
 }
 
 export const assosSvg = [

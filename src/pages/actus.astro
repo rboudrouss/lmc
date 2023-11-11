@@ -3,26 +3,27 @@ import Header from "../components/Header/Header";
 import Layout from "../layouts/Layout.astro";
 import footer_data from "../data/footer.json";
 import Footer from "../components/Footer/Footer";
-import Actu from "../components/Actu/Actu";
+import ActuPage from "../components/ActuPage/ActuPage";
 
 import { parseDateFromString } from "../helpers";
+import type { ActuT } from "../helpers";
 
 interface frontmatter {
   title: string;
   date?: string;
   img?: string;
   source?: string;
-  assos?: string[];
+  assos: string[];
   persistant?: boolean;
 }
 
-let posts = (await Astro.glob<frontmatter>("./actus/*.md")).map((p) => {
+let posts = (await Astro.glob<frontmatter>("./actus/*.md")).map((p):ActuT => {
   return {
     title: p.frontmatter.title,
     date: parseDateFromString(p.frontmatter.date),
     img: p.frontmatter.img,
     source: p.frontmatter.source,
-    assos: p.frontmatter.assos,
+    assos: p.frontmatter.assos ?? [],
     content: p.compiledContent(),
     persistant: p.frontmatter.persistant,
   };
@@ -34,7 +35,7 @@ let posts = (await Astro.glob<frontmatter>("./actus/*.md")).map((p) => {
     window.location.href = "/";
   }}/>
   <main class="content">
-    {posts.map((actu) => <Actu {...actu} />)}
+    <ActuPage actus={posts} client:load/>
   </main>
   <Footer {...footer_data} />
 </Layout>
