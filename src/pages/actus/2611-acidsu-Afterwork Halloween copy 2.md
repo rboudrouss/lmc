@@ -5,6 +5,7 @@ date: 26-10-2023 18:00
 img: /assets/actus/2611-acidsu-Afterwork Halloween.png
 assos:
   - acidsu
+persistant: true
 ---
 
 > Salut les chimistes !

@@ -25,23 +25,6 @@ export default function ActuPage(props: { actus?: ActuT[] }) {
   );
 }
 
-/*
-function actusList(props: {actus:ActuT[]}) {
-  let [actus, setActus] = useState<ActuT[]>(props.actus ?? []);
-  useEffect(() => {
-    setActus(props.actus);
-  }, [props.actus]);
-
-  return (
-    <div className={styles.actus}>
-      {props.actus.map((actu) => (
-        <Actu {...actu} />
-      ))}
-    </div>
-  );
-}
-*/
-
 // TODO
 function filter(selection: SelectionT, actus: ActuT[]): ActuT[] {
   return actus.filter((actu) => {
