@@ -14,17 +14,25 @@ export default function Page(props: {
   goBack: () => void;
   goTo: (e: Element_Drop) => void;
   goHome: () => void;
+  showArrow?: boolean;
 }) {
   let {
     data: { content, childs, title },
     goBack,
     goTo,
     goHome,
+    showArrow,
   } = props;
 
   return (
     <main className={styles.wrapper}>
-      <Header title={title} arrow={true} goBack={goBack} goHome={goHome} />
+      <Header
+        title={title}
+        arrow={true}
+        goBack={goBack}
+        goHome={goHome}
+        show={showArrow}
+      />
       <div className={styles.contentWrapper}>
         <span className={styles.content}>
           {typeof content === "string" ? (

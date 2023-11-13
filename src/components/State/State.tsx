@@ -5,7 +5,7 @@ import drop_data_T from "../../data/dropdowns.json";
 import Page from "../../components/Page/Page";
 const drop_data = drop_data_T as unknown as Element_Drop;
 
-import footer_data from  "../../data/footer.json";
+import footer_data from "../../data/footer.json";
 
 export default function State() {
   const [selected, setSelected] = useState<Element_Drop>(drop_data);
@@ -29,6 +29,13 @@ export default function State() {
   }
 
   return (
-    <Page data={selected} goBack={goBack} goTo={goTo} goHome={goHome} footer={footer_data} />
-  )
+    <Page
+      data={selected}
+      goBack={goBack}
+      goTo={goTo}
+      goHome={goHome}
+      footer={footer_data}
+      showArrow={history.length !== 0}
+    />
+  );
 }

@@ -37,7 +37,7 @@ export function Dropdown(
       <button className={styles.button} onClick={handleClick}>
         <p className={styles.title}>{title}</p>
         <i
-          className={`fa-solid fa-arrow-up-from-bracket ${styles.arrow}`}
+          className={`fa-solid fa-arrow-up-from-bracket fa-2x ${styles.arrow}`}
           onClick={(e) => {
             e.stopPropagation();
             updatePage(props);
