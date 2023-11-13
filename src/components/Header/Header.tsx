@@ -23,10 +23,11 @@ export default function Header(props: propsT) {
       {navig ? (
         <i
           className={`fa-solid fa-arrow-left ${styles.arrow}`}
+          style={{ cursor: "pointer" }}
           onClick={() => goBack()}
         ></i>
       ) : (
-        <div></div>
+        <div className={styles.arrow}></div>
       )}
       <h1 className={styles.title}>{title}</h1>
       {goHome ? (
