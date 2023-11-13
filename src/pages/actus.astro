@@ -31,7 +31,7 @@ let posts = (await Astro.glob<frontmatter>("./actus/*.md")).map((p):ActuT => {
 ---
 
 <Layout title="actualités">
-  <Header title="LMC" goHome={() => {
+  <Header title="Actualités Universitaires" goHome={() => {
     window.location.href = "/";
   }}/>
   <main class="content">
