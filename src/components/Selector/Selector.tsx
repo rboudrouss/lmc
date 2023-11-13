@@ -1,4 +1,6 @@
 import { useState } from "react";
+import DateSelector from "../DateSelector/DateSelector";
+import styles from "./Selector.module.css";
 
 export interface SelectionT {
   tags?: string[];
@@ -19,8 +21,8 @@ export default function Selector(props: {
   };
 
   return (
-    <div>
-      <div>
+    <div className={styles.wrapper}>
+      <div className={styles.selection}>
         <input
           type="checkbox"
           name="event"
@@ -35,7 +37,7 @@ export default function Selector(props: {
         />
         <label htmlFor="persistant">Event</label>
       </div>
-      <div>
+      <div className={styles.selection}>
         <input
           type="checkbox"
           name="persistant"
@@ -50,35 +52,31 @@ export default function Selector(props: {
         />
         <label htmlFor="persistant">Persistant</label>
       </div>
-      <div>
-        <input
-          type="date"
-          name="date_start"
-          id="date_start"
-          onChange={(e) =>
-            onChange({
-              ...selection,
-              date_start: new Date(e.target.value),
-            })
-          }
-        />
-        <label htmlFor="date_start">Date de début</label>
-      </div>
-      <div>
-        <input
-          type="date"
-          name="date_end"
-          id="date_end"
-          onChange={(e) =>
-            onChange({
-              ...selection,
-              date_end: new Date(e.target.value),
-            })
-          }
-        />
-        <label htmlFor="date_end">Date de fin</label>
-      </div>
-      <div>
+      <DateSelector
+        className={styles.selection}
+        name="date_start"
+        id="date_start"
+        label="Date de début"
+        onChange={(date) =>
+          onChange({
+            ...selection,
+            date_start: date,
+          })
+        }
+      />
+      <DateSelector
+        className={styles.selection}
+        name="date_end"
+        id="date_end"
+        label="Date de fin"
+        onChange={(date) =>
+          onChange({
+            ...selection,
+            date_end: date,
+          })
+        }
+      />
+      <div className={styles.selection}>
         <input
           type="text"
           name="tags"
