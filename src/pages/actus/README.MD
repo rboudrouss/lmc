@@ -10,3 +10,5 @@ img: le liens vers l'images, au préalable stocké dans `public/assets/actus`
 source: la source, un lien vers les réseaux ou autre
 
 assos: une liste des assos, même nom que l'image stocké sur `public/assets/assos`
+
+date: une date sous la forme "dd-mm-yyyy hh:mm". Date de l'événement
