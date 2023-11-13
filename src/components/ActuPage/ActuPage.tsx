@@ -1,27 +1,45 @@
 import styles from "./ActuPage.module.css";
 import type { ActuT } from "../../helpers";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import Actu from "../Actu/Actu";
 import Selector, { type SelectionT } from "../Selector/Selector";
+import Header from "../Header/Header";
 
-export default function ActuPage(props: { actus?: ActuT[] }) {
+export default function ActuPage(props: {
+  actus?: ActuT[];
+}) {
   const [actus, setActus] = useState<ActuT[]>(props.actus ?? []);
+  const [selector, setSelector] = useState<boolean>(false);
 
   return (
-    <div className={styles.wrapper}>
-      <div className={styles.selector}>
-        <Selector
-          onChange={(selection) => {
-            setActus(filter(selection, props.actus));
-          }}
-        />
+    <>
+      <Header
+        title="Actualités Universitaires"
+        goHome={() => {
+          window.location.href = "/";
+        }}
+        goBack={() => {
+          setSelector(!selector);
+        }}
+      />
+      <div className={styles.wrapper}>
+        <div
+          className={styles.selector}
+          style={selector ? {} : { display: "none" }}
+        >
+          <Selector
+            onChange={(selection) => {
+              setActus(filter(selection, props.actus));
+            }}
+          />
+        </div>
+        <div className={styles.actus}>
+          {actus.map((actu) => (
+            <Actu {...actu} />
+          ))}
+        </div>
       </div>
-      <div className={styles.actus}>
-        {actus.map((actu) => (
-          <Actu {...actu} />
-        ))}
-      </div>
-    </div>
+    </>
   );
 }
 

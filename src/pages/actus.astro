@@ -31,9 +31,6 @@ let posts = (await Astro.glob<frontmatter>("./actus/*.md")).map((p):ActuT => {
 ---
 
 <Layout title="actualités">
-  <Header title="Actualités Universitaires" goHome={() => {
-    window.location.href = "/";
-  }}/>
   <main class="content">
     <ActuPage actus={posts} client:load/>
   </main>
@@ -43,7 +40,7 @@ let posts = (await Astro.glob<frontmatter>("./actus/*.md")).map((p):ActuT => {
 <style>
   .content {
     min-height: calc(
-      100vh - 50px - 150px
-    ); /* 50px for header, 150px for footer */
+      100vh - 150px
+    ); /* 150px for footer, no header cause header in ActuPage */
   }
 </style>

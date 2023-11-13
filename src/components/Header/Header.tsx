@@ -1,33 +1,27 @@
 import styles from "./Header.module.css";
 
-type propsT = {
+export default function Header(props: {
   title: string;
-} & (
-  | {
-      navig: true;
-      goBack: () => void;
-      goHome: () => void;
-    }
-  | {
-      navig?: false;
-    }
-);
-
-export default function Header(props: propsT) {
-  const { title, navig } = props;
-  let goBack = navig ? props.goBack : () => {};
-  let goHome = navig ? props.goHome : undefined;
+  goBack?: () => void;
+  goHome?: () => void;
+  arrow?: boolean;
+}) {
+  const { title, arrow, goBack, goHome } = props;
 
   return (
     <header className={styles.wrapper}>
-      {navig ? (
+      {arrow ? (
         <i
           className={`fa-solid fa-arrow-left ${styles.arrow}`}
           style={{ cursor: "pointer" }}
           onClick={() => goBack()}
         ></i>
       ) : (
-        <div className={styles.arrow}></div>
+        <i
+          className={`fa-solid fa-bars ${styles.arrow}`}
+          style={{ cursor: "pointer" }}
+          onClick={() => goBack()}
+        ></i>
       )}
       <h1 className={styles.title}>{title}</h1>
       {goHome ? (
