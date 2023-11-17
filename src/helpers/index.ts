@@ -32,7 +32,7 @@ export const Element_Keys = ["title", "opened", "isPage"] as const;
 export function assosToImg(assos: string) {
   if (assosNames.includes(assos) === false) return undefined;
 
-  if (assosSvg.includes(assos)) return `/assests/assos/${assos}.svg`;
+  if (assosSvg.includes(assos)) return `/assets/assos/${assos}.svg`;
 
   return `/assets/assos/${assos}.png`;
 }
