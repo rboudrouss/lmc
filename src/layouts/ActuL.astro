@@ -38,6 +38,7 @@ const actu: ActuT = {
 <Layout
   title={title}
   description={rawContent().trim() !== "" ? rawContent().trim() : undefined}
+  image={actu.img}
 >
   <Header title={title} />
   <Actu {...actu} />

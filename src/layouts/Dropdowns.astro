@@ -10,10 +10,11 @@ import type { MarkdownLayoutProps } from "astro";
 type Props = MarkdownLayoutProps<{
   title: string;
   childs?: { title: string; href: string }[];
+  displayImage?: string;
 }>;
 
 const {
-  frontmatter: { title, childs },
+  frontmatter: { title, childs, displayImage },
   rawContent,
 } = Astro.props;
 ---
@@ -21,6 +22,7 @@ const {
 <Layout
   title={title}
   description={rawContent().trim() === "" ? undefined : rawContent().trim()}
+  image={displayImage}
 >
   <Header title={title} />
   <div class="content">
