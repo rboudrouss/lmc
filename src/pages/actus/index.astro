@@ -1,10 +1,10 @@
 ---
-import Layout from "../../layouts/Layout.astro";
-import Footer from "../../components/Footer.astro";
-import ActuPage from "../../components/ActuPage/ActuPage";
+import Layout from "@/layouts/Layout.astro";
+import Footer from "@/components/general/Footer.astro";
+import ActuPage from "@/components/actus/ActuPage/ActuPage";
 
-import { filterListBeforeYesterday, parseDateFromString, sortListPostByDate } from "../../helpers";
-import type { ActuT } from "../../helpers";
+import { filterListBeforeYesterday, parseDateFromString, sortListPostByDate } from "@/helpers";
+import type { ActuT } from "@/helpers";
 
 interface frontmatter {
   title: string;

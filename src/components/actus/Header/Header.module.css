@@ -1,0 +1,28 @@
+.wrapper {
+  background-color: black;
+  color: white;
+  height: 50px;
+
+  padding: 0 10px;
+  display: flex;
+  align-items: center;
+}
+
+.title {
+  height: min-content;
+  width: 100%;
+  text-align: center;
+}
+
+.logo {
+  padding: 4px;
+  width: 59px;
+  filter: invert(1);
+  cursor: pointer;
+}
+
+.arrow {
+  height: 100%;
+  width: 59px;
+  aspect-ratio: 1;
+}

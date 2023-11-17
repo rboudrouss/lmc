@@ -1,6 +1,6 @@
 import styles from "./Actu.module.css";
 
-import { assosToImg, dateToStringFromToday } from "../../helpers";
+import { assosToImg, dateToStringFromToday } from "@/helpers";
 
 export default function Actu(props: {
   title: string;
@@ -12,7 +12,8 @@ export default function Actu(props: {
   link?: string;
   alwaysShow?: boolean; // by default, if date is passed, it is not shown
 }) {
-  if (!props.alwaysShow && props.date && props.date < new Date()) return undefined;
+  if (!props.alwaysShow && props.date && props.date < new Date())
+    return undefined;
 
   let { title, content, date, img, source, assos, link } = props;
 

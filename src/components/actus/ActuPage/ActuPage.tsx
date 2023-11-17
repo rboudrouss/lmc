@@ -1,6 +1,6 @@
 import styles from "./ActuPage.module.css";
-import type { ActuT } from "../../helpers";
-import { useEffect, useState } from "react";
+import type { ActuT } from "@/helpers";
+import { useState } from "react";
 import Actu from "../Actu/Actu";
 import Selector, { type SelectionT } from "../Selector/Selector";
 import Header from "../Header/Header";
@@ -36,7 +36,7 @@ export default function ActuPage(props: {
         </div>
         <div className={styles.actus}>
           {actus.map((actu) => (
-            <Actu {...actu} alwaysShow={props.alwaysShow}/>
+            <Actu {...actu} alwaysShow={props.alwaysShow} />
           ))}
         </div>
       </div>
