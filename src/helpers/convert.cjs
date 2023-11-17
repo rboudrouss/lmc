@@ -35,9 +35,9 @@ function convertJsonMd(json, path, i, depth = 0) {
 
   text = text.concat(`\n---\n${json.content ?? ""}`);
 
-  const file = folder.concat("/index.mdx");
+  const file = folder.concat("/index.md");
 
-  console.log(`Creating file ${json.link}/index.mdx`);
+  console.log(`Creating file ${json.link}/index.md`);
   console.log("path", path);
   console.log("depth", depth);
 
