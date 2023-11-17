@@ -1,11 +1,9 @@
 ---
-import Header from "../components/Header/Header";
 import Layout from "../layouts/Layout.astro";
-import footer_data from "../data/footer.json";
-import Footer from "../components/Footer/Footer";
+import Footer from "../components/Footer.astro";
 import ActuPage from "../components/ActuPage/ActuPage";
 
-import { parseDateFromString } from "../helpers";
+import { parseDateFromString, sortListPostByDate } from "../helpers";
 import type { ActuT } from "../helpers";
 
 interface frontmatter {
@@ -17,7 +15,7 @@ interface frontmatter {
   persistant?: boolean;
 }
 
-let posts = (await Astro.glob<frontmatter>("./actus/*.md")).map((p):ActuT => {
+let posts = (await Astro.glob<frontmatter>("./actus/*.md")).map((p): ActuT => {
   return {
     title: p.frontmatter.title,
     date: parseDateFromString(p.frontmatter.date),
@@ -26,15 +24,18 @@ let posts = (await Astro.glob<frontmatter>("./actus/*.md")).map((p):ActuT => {
     assos: p.frontmatter.assos ?? [],
     content: p.compiledContent(),
     persistant: p.frontmatter.persistant,
+    link: p.url,
   };
 });
+
+posts = sortListPostByDate(posts);
 ---
 
 <Layout title="actualités">
   <main class="content">
-    <ActuPage actus={posts} client:load/>
+    <ActuPage actus={posts} client:load />
   </main>
-  <Footer {...footer_data} />
+  <Footer />
 </Layout>
 
 <style>

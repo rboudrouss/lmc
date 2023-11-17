@@ -9,8 +9,9 @@ export default function Actu(props: {
   img?: string;
   source?: string;
   assos: string[];
+  link?: string;
 }) {
-  let { title, content, date, img, source, assos } = props;
+  let { title, content, date, img, source, assos, link } = props;
 
   return (
     <div className={styles.wrapper}>
@@ -30,7 +31,9 @@ export default function Actu(props: {
                 )
             )}
           </div>
-          <h3 className={styles.title}>{title}</h3>
+          <a href={link}>
+            <h3 className={styles.title}>{title}</h3>
+          </a>
         </div>
         <div className={styles.body}>
           {content && (
