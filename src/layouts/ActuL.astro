@@ -1,0 +1,45 @@
+---
+import Actu from "@/components/Actu/Actu";
+import Layout from "./Layout.astro";
+
+import type { MarkdownLayoutProps } from "astro";
+import { parseDateFromString, type ActuT } from "@/helpers";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+
+type Props = MarkdownLayoutProps<{
+  title: string;
+  date?: string;
+  img?: string;
+  source?: string;
+  assos: string[];
+  persistant?: boolean;
+}>;
+
+const {
+  frontmatter: { title },
+  frontmatter,
+  compiledContent,
+  rawContent,
+} = Astro.props;
+
+const actu: ActuT = {
+  title: frontmatter.title,
+  date: parseDateFromString(frontmatter.date),
+  img: frontmatter.img,
+  source: frontmatter.source,
+  assos: frontmatter.assos ?? [],
+  content: compiledContent(),
+  persistant: frontmatter.persistant,
+  link: frontmatter.url,
+};
+---
+
+<Layout
+  title={title}
+  description={rawContent().trim() !== "" ? rawContent().trim() : undefined}
+>
+  <Header title={title} />
+  <Actu {...actu} />
+  <Footer />
+</Layout>

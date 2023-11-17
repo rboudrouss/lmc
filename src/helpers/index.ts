@@ -24,6 +24,7 @@ export interface ActuT {
   assos: string[];
   persistant?: boolean;
   content?: string; // UNSAFE HTML
+  link?: string;
 }
 
 export const Element_Keys = ["title", "opened", "isPage"] as const;
@@ -76,6 +77,15 @@ export function dateToStringFromToday(date?: Date): string {
 
   if (diffDays > 0) return `Dans ${diffDays} jours`;
   return `Il y a ${-diffDays} jours`;
+}
+
+export function sortListPostByDate(list: ActuT[]): ActuT[] {
+  return list.sort((a, b) => {
+    if (!a.date) return 1;
+    if (!b.date) return -1;
+
+    return b.date.getTime() - a.date.getTime();
+  });
 }
 
 export const assosSvg = [

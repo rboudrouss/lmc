@@ -1,11 +1,11 @@
 ---
+layout: ../../layouts/ActuL.astro
 title: Afterwork Halloween
 source: https://www.instagram.com/p/CyxjrK2i2pj/
 date: 26-10-2023 18:00
-img: /assets/actus/2611-acidsu-Afterwork Halloween.png
+img: /assets/actus/1026-acidsu-Afterwork_Halloween.png
 assos:
   - acidsu
-persistant: true
 ---
 
 > Salut les chimistes !
