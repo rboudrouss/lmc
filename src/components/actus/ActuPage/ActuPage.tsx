@@ -4,10 +4,12 @@ import { useState } from "react";
 import Actu from "../Actu/Actu";
 import Selector, { type SelectionT } from "../Selector/Selector";
 import Header from "../Header/Header";
+// import FakeSelector from "../FakeSelector.astro";
 
 export default function ActuPage(props: {
   actus?: ActuT[];
   alwaysShow?: boolean;
+  selected?: "infos" | "actus";
 }) {
   const [actus, setActus] = useState<ActuT[]>(props.actus ?? []);
   const [selector, setSelector] = useState<boolean>(false);
@@ -35,6 +37,7 @@ export default function ActuPage(props: {
           />
         </div>
         <div className={styles.actus}>
+          {/* <FakeSelector selected={props.selected} /> */}
           {actus.map((actu) => (
             <Actu {...actu} alwaysShow={props.alwaysShow} />
           ))}
