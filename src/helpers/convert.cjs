@@ -7,12 +7,7 @@ const fs = require("fs");
 function convertJsonMd(json, path, i, depth = 0) {
   if (!fs.existsSync(path)) fs.mkdirSync(path);
 
-  const title = `${(i ? i.toString().padStart(2, "0") : "00") + "-"}${json.title
-    .match(/[a-zA-Z\s]/g)
-    .join("")
-    .replaceAll(" ", "_")}`;
-
-  const folder = path.concat("/".concat(title));
+  const folder = path.concat("/".concat(json.link));
 
   if (!fs.existsSync(folder)) fs.mkdirSync(folder);
 
@@ -32,13 +27,8 @@ function convertJsonMd(json, path, i, depth = 0) {
     json.childs.forEach((child, i) => {
       text = text.concat(
         `\n  - title: "${child.title}"\n    href: "/${path.slice(
-          2 + 20 // HACK remove "./00-La_Matrice_Carre"
-        )}${path.length > 23 ? "/" : ""}${title}/${i
-          .toString()
-          .padStart(2, "0")}-${child.title
-          .match(/[a-zA-Z\s]/g)
-          .join("")
-          .replaceAll(" ", "_")}"`
+          6 // uwu
+        ) === '' ? '' : path.slice(6).concat('/')}${json.link}/${child.link}"`
       );
     });
   }
@@ -47,7 +37,7 @@ function convertJsonMd(json, path, i, depth = 0) {
 
   const file = folder.concat("/index.mdx");
 
-  console.log(`Creating file ${title}/index.mdx`);
+  console.log(`Creating file ${json.link}/index.mdx`);
   console.log("path", path);
   console.log("depth", depth);
 
