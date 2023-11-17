@@ -7,6 +7,7 @@ import Header from "../Header/Header";
 
 export default function ActuPage(props: {
   actus?: ActuT[];
+  alwaysShow?: boolean;
 }) {
   const [actus, setActus] = useState<ActuT[]>(props.actus ?? []);
   const [selector, setSelector] = useState<boolean>(false);
@@ -35,7 +36,7 @@ export default function ActuPage(props: {
         </div>
         <div className={styles.actus}>
           {actus.map((actu) => (
-            <Actu {...actu} />
+            <Actu {...actu} alwaysShow={props.alwaysShow}/>
           ))}
         </div>
       </div>

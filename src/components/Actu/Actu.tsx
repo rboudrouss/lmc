@@ -10,7 +10,10 @@ export default function Actu(props: {
   source?: string;
   assos: string[];
   link?: string;
+  alwaysShow?: boolean; // by default, if date is passed, it is not shown
 }) {
+  if (!props.alwaysShow && props.date && props.date < new Date()) return undefined;
+
   let { title, content, date, img, source, assos, link } = props;
 
   return (

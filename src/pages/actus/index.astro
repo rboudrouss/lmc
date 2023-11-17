@@ -1,0 +1,47 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import Footer from "../../components/Footer.astro";
+import ActuPage from "../../components/ActuPage/ActuPage";
+
+import { filterListBeforeYesterday, parseDateFromString, sortListPostByDate } from "../../helpers";
+import type { ActuT } from "../../helpers";
+
+interface frontmatter {
+  title: string;
+  date?: string;
+  img?: string;
+  source?: string;
+  assos: string[];
+  persistant?: boolean;
+}
+
+let posts = (await Astro.glob<frontmatter>("./*.md")).map((p): ActuT => {
+  return {
+    title: p.frontmatter.title,
+    date: parseDateFromString(p.frontmatter.date),
+    img: p.frontmatter.img,
+    source: p.frontmatter.source,
+    assos: p.frontmatter.assos ?? [],
+    content: p.compiledContent(),
+    persistant: p.frontmatter.persistant,
+    link: p.url,
+  };
+});
+
+posts = filterListBeforeYesterday(sortListPostByDate(posts));
+---
+
+<Layout title="actualités">
+  <main class="content">
+    <ActuPage actus={posts} client:load />
+  </main>
+  <Footer />
+</Layout>
+
+<style>
+  .content {
+    min-height: calc(
+      100vh - 150px
+    ); /* 150px for footer, no header cause header in ActuPage */
+  }
+</style>

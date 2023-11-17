@@ -79,12 +79,23 @@ export function dateToStringFromToday(date?: Date): string {
   return `Il y a ${-diffDays} jours`;
 }
 
+export function filterListBeforeYesterday(list: ActuT[]): ActuT[] {
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+
+  return list.filter((actu) => {
+    if (!actu.date) return true;
+
+    return actu.date.getTime() >= today.getTime();
+  });
+}
+
 export function sortListPostByDate(list: ActuT[]): ActuT[] {
   return list.sort((a, b) => {
-    if (!a.date) return 1;
-    if (!b.date) return -1;
+    if (!a.date) return -1;
+    if (!b.date) return 1;
 
-    return b.date.getTime() - a.date.getTime();
+    return a.date.getTime() - b.date.getTime();
   });
 }
 

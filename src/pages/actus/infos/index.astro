@@ -1,10 +1,13 @@
 ---
-import Layout from "../layouts/Layout.astro";
-import Footer from "../components/Footer.astro";
-import ActuPage from "../components/ActuPage/ActuPage";
+import Layout from "@/layouts/Layout.astro";
+import Footer from "@/components/Footer.astro";
+import ActuPage from "@/components/ActuPage/ActuPage";
 
-import { parseDateFromString, sortListPostByDate } from "../helpers";
-import type { ActuT } from "../helpers";
+import {
+  parseDateFromString,
+  sortListPostByDate,
+} from "@/helpers";
+import type { ActuT } from "@/helpers";
 
 interface frontmatter {
   title: string;
@@ -15,7 +18,7 @@ interface frontmatter {
   persistant?: boolean;
 }
 
-let posts = (await Astro.glob<frontmatter>("./actus/*.md")).map((p): ActuT => {
+let posts = (await Astro.glob<frontmatter>("./*.md")).map((p): ActuT => {
   return {
     title: p.frontmatter.title,
     date: parseDateFromString(p.frontmatter.date),
@@ -28,12 +31,12 @@ let posts = (await Astro.glob<frontmatter>("./actus/*.md")).map((p): ActuT => {
   };
 });
 
-posts = sortListPostByDate(posts);
+posts = sortListPostByDate(posts).reverse();
 ---
 
 <Layout title="actualités">
   <main class="content">
-    <ActuPage actus={posts} client:load />
+    <ActuPage actus={posts} alwaysShow={true} client:load />
   </main>
   <Footer />
 </Layout>
