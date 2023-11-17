@@ -23,7 +23,7 @@ function convertJsonMd(json, path, i, depth = 0) {
           .map(() => "..")
           .join("/")
           .concat("/")
-  }layouts/Dropdowns.astro\ntitle: ${json.title}`;
+  }layouts/Dropdowns.astro\ntitle: "${json.title}"`;
 
   console.log("text", text);
 
