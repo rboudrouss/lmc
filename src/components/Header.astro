@@ -1,0 +1,43 @@
+---
+interface Props {
+  title: string;
+}
+
+const { title } = Astro.props;
+---
+
+<header>
+  <div class="space"></div>
+  <h1>{title}</h1>
+  <a href="/">
+    <img src="/assets/logo/logo.png" alt="logo" class="logo" />
+  </a>
+</header>
+
+<style>
+  header {
+    background-color: black;
+    color: white;
+    height: 50px;
+
+    padding: 0 10px;
+    display: flex;
+    align-items: center;
+  }
+
+  h1 {
+    height: min-content;
+    width: 100%;
+    text-align: center;
+  }
+
+  img {
+    padding: 4px;
+    width: 59px;
+    filter: invert(1);
+    cursor: pointer;
+  }
+  .space {
+    width: 59px;
+  }
+</style>
