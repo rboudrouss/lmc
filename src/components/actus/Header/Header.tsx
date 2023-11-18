@@ -18,20 +18,6 @@ export default function Header(props: {
 
   return (
     <header className={styles.wrapper}>
-      {arrow ? (
-        <i
-          className={`fa-solid fa-arrow-left fa-3x ${styles.arrow} `}
-          style={showArrow ? { cursor: "pointer", opacity: 1 } : { opacity: 0 }}
-          onClick={() => goBack()}
-        ></i>
-      ) : (
-        <i
-          className={`fa-solid fa-bars fa-3x ${styles.arrow}`} //FIXME très moche
-          style={{ cursor: "pointer" }}
-          onClick={() => goBack()}
-        ></i>
-      )}
-      <h1 className={styles.title}>{title}</h1>
       {goHome ? (
         <img
           src="/assets/logo/logo.png"
@@ -45,6 +31,22 @@ export default function Header(props: {
         <a href="/">
           <img src="/assets/logo/logo.png" alt="logo" className={styles.logo} />
         </a>
+      )}
+
+      <h1 className={styles.title}>{title}</h1>
+
+      {arrow ? (
+        <i
+          className={`fa-solid fa-arrow-left fa-3x ${styles.arrow} `}
+          style={showArrow ? { cursor: "pointer", opacity: 1 } : { opacity: 0 }}
+          onClick={() => goBack()}
+        ></i>
+      ) : (
+        <i
+          className={`fa-solid fa-bars fa-3x ${styles.arrow}`} //FIXME très moche
+          style={{ cursor: "pointer" }}
+          onClick={() => goBack()}
+        ></i>
       )}
     </header>
   );

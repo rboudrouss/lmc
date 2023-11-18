@@ -26,6 +26,12 @@ export default function ActuPage(props: {
         }}
       />
       <div className={styles.wrapper}>
+        <div className={styles.actus}>
+          {/* <FakeSelector selected={props.selected} /> */}
+          {actus.map((actu) => (
+            <Actu {...actu} alwaysShow={props.alwaysShow} />
+          ))}
+        </div>
         <div
           className={styles.selector}
           style={selector ? {} : { display: "none" }}
@@ -35,12 +41,6 @@ export default function ActuPage(props: {
               setActus(filter(selection, props.actus));
             }}
           />
-        </div>
-        <div className={styles.actus}>
-          {/* <FakeSelector selected={props.selected} /> */}
-          {actus.map((actu) => (
-            <Actu {...actu} alwaysShow={props.alwaysShow} />
-          ))}
         </div>
       </div>
     </>
