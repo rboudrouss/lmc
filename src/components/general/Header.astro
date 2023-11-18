@@ -6,19 +6,18 @@ interface Props {
 
 const { title, url } = Astro.props;
 
-const links = url.split("/");
-links.splice(-1);
-links.splice(0, 1);
-console.log(links);
+const links = url?.split("/");
+links?.splice(-1);
+links?.splice(0, 1);
 ---
 
 <header>
   <a href="/">
     <img src="/assets/logo/logo.png" alt="logo" class="logo" />
   </a>
-  {url !== "" && <span class="slash">/</span>}
+  {url && url !== "" && <span class="slash">/</span>}
   {
-    links.map((link, index) => {
+    links?.map((link, index) => {
       return (
         <>
           <a class="link" href={`/${links.slice(0, index + 1).join("/")}`}>
