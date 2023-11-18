@@ -14,7 +14,7 @@ type Props = MarkdownLayoutProps<{
 }>;
 
 const {
-  frontmatter: { title, childs, displayImage },
+  frontmatter: { title, childs, displayImage, url },
   rawContent,
 } = Astro.props;
 ---
@@ -24,7 +24,7 @@ const {
   description={rawContent().trim() === "" ? undefined : rawContent().trim()}
   image={displayImage}
 >
-  <Header title={title} />
+  <Header title={title} url={url} />
   <div class="content">
     <div class="slot">
       <slot />

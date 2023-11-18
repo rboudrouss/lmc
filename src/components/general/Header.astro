@@ -1,17 +1,36 @@
 ---
 interface Props {
   title: string;
+  url?: string;
 }
 
-const { title } = Astro.props;
+const { title, url } = Astro.props;
+
+const links = url.split("/");
+links.splice(-1);
+links.splice(0, 1);
+console.log(links);
 ---
 
 <header>
-  <div class="space"></div>
-  <h1>{title}</h1>
   <a href="/">
     <img src="/assets/logo/logo.png" alt="logo" class="logo" />
   </a>
+  {url !== "" && <span class="slash">/</span>}
+  {
+    links.map((link, index) => {
+      return (
+        <>
+          <a class="link" href={`/${links.slice(0, index + 1).join("/")}`}>
+            {link}
+          </a>
+          <span class="slash">/</span>
+        </>
+      );
+    })
+  }
+
+  <h1>{title}</h1>
 </header>
 
 <style>
@@ -25,10 +44,19 @@ const { title } = Astro.props;
     align-items: center;
   }
 
+  .link {
+    font-size: 1.2rem;
+  }
+  .slash {
+    /* font-weight: 900; */
+    font-size: 2rem;
+    color: #e7e7e7;
+    padding: 5px;
+  }
+
   h1 {
     height: min-content;
-    width: 100%;
-    text-align: center;
+    padding: 5px;
   }
 
   img {
@@ -37,7 +65,8 @@ const { title } = Astro.props;
     filter: invert(1);
     cursor: pointer;
   }
-  .space {
-    width: 59px;
+  a {
+    text-decoration: none;
+    color: inherit;
   }
 </style>
