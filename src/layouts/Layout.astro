@@ -35,28 +35,25 @@ const { title, description, image } = Astro.props;
     />
     <meta property="og:image" content={image ?? "assets/logo/logo_n.png"} />
 
-    <script
-      src="https://kit.fontawesome.com/46f1ec81c6.js"
-      crossorigin="anonymous"></script>
     <ViewTransitions />
   </head>
   <body>
     <slot />
+    <style is:global>
+      :root {
+      }
+      html {
+        background-color: #f6f6f6;
+        font-family: "Titillium Web", sans-serif;
+        scroll-behavior: smooth;
+      }
+      * {
+        box-sizing: border-box;
+        margin: 0;
+      }
+      a {
+        max-width: 100%;
+      }
+    </style>
   </body>
 </html>
-<style is:global>
-  :root {
-  }
-  html {
-    background-color: #f6f6f6;
-    font-family: "Titillium Web", sans-serif;
-    scroll-behavior: smooth;
-  }
-  * {
-    box-sizing: border-box;
-    margin: 0;
-  }
-  a {
-    max-width: 100%;
-  }
-</style>

@@ -1,23 +1,26 @@
 ---
 import footerData from "@/data/footer.json";
+import { icons } from "@/helpers";
 ---
 
 <footer>
   <a href=`mailto:${footerData.mail}` class="mail_link">{footerData.mail}</a>
   <ul>
     {
-      footerData.links.map((link) => (
-        <li>
-          <a
-            class="social_link"
-            href={link.link}
-            target="_blank"
-            rel="noreferrer"
-          >
-            <i class={`fab fa-${link.icon}`} />
-          </a>
-        </li>
-      ))
+      footerData.links.map((link) => {
+        return (
+          <li>
+            <a
+              class="social_link"
+              href={link.link}
+              target="_blank"
+              rel="noreferrer"
+            >
+              <img src={icons[link.icon].src} alt={link.icon} />
+            </a>
+          </li>
+        );
+      })
     }
   </ul>
 </footer>
@@ -57,4 +60,9 @@ import footerData from "@/data/footer.json";
   .social_link {
     padding: 0.5em;
   }
+
+  img {
+    filter: invert(1);
+  }
+
 </style>

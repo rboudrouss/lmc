@@ -1,4 +1,10 @@
 import type { ReactNode } from "react";
+import discord from "../icons/discord.svg"
+import facebook from "../icons/facebook.svg"
+import instagram from "../icons/instagram.svg"
+import twitter from "../icons/twitter.svg"
+import youtube from "../icons/youtube.svg"
+import linkedin from "../icons/linkedin.svg"
 
 export interface Element_Drop {
   title: string;
@@ -97,6 +103,15 @@ export function sortListPostByDate(list: ActuT[]): ActuT[] {
 
     return a.date.getTime() - b.date.getTime();
   });
+}
+
+export const icons = {
+  discord,
+  facebook,
+  instagram,
+  twitter,
+  youtube,
+  linkedin,
 }
 
 export const assosSvg = [
