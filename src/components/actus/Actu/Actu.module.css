@@ -9,6 +9,7 @@
 
 .content {
   max-width: 1000px;
+  width: 100%;
 }
 
 .header {
@@ -36,6 +37,11 @@
 
 .textWrapper {
   padding: 10px;
+  width: 100%;
+}
+
+.textWrapper p {
+  text-align: justify;
 }
 
 .img {

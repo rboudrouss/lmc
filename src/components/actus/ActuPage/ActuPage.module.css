@@ -4,6 +4,7 @@
 
 .actus {
   width: 100%;
+  overflow: hidden;
 }
 .selector {
   width: 20%;

@@ -3,7 +3,11 @@ import Layout from "@/layouts/Layout.astro";
 import Footer from "@/components/general/Footer.astro";
 import ActuPage from "@/components/actus/ActuPage/ActuPage";
 
-import { filterListBeforeYesterday, parseDateFromString, sortListPostByDate } from "@/helpers";
+import {
+  filterListBeforeYesterday,
+  parseDateFromString,
+  sortListPostByDate,
+} from "@/helpers";
 import type { ActuT } from "@/helpers";
 
 interface frontmatter {
@@ -33,7 +37,7 @@ posts = filterListBeforeYesterday(sortListPostByDate(posts));
 
 <Layout title="actualités">
   <main class="content">
-    <ActuPage actus={posts} client:load />
+    <ActuPage actus={posts} selected="actus" client:load />
   </main>
   <Footer />
 </Layout>
