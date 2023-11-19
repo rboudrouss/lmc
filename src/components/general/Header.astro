@@ -29,7 +29,9 @@ links?.splice(0, 1);
     })
   }
 
-  <h1>{title}</h1>
+  <h1 style={url === "" ? "width:100%; text-align:center;" : ""}>{title}</h1>
+  <div class="space" style={url === "" ? "display: block;" : "display: none;"}>
+  </div>
 </header>
 
 <style>
@@ -69,5 +71,8 @@ links?.splice(0, 1);
   a {
     text-decoration: none;
     color: inherit;
+  }
+  .space {
+    width: 59px;
   }
 </style>
