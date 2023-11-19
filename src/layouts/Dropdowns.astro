@@ -25,20 +25,18 @@ const {
   image={displayImage}
 >
   <Header title={title} url={url} />
-  <div class="content">
+  <main class="content">
     <div class="slot">
       <slot />
     </div>
     <div class="dropdowns">
       {childs?.map((drop) => <Dropdown title={drop.title} href={drop.href} />)}
     </div>
-  </div>
+  </main>
   <Footer />
 </Layout>
 
 <style>
-  
-
   .content {
     display: flex;
     flex-direction: column;
