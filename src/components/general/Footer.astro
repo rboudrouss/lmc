@@ -1,6 +1,6 @@
 ---
 import footerData from "@/data/footer.json";
-import { icons } from "@/helpers";
+import { getIconSource } from "@/helpers";
 ---
 
 <footer>
@@ -16,7 +16,7 @@ import { icons } from "@/helpers";
               target="_blank"
               rel="noreferrer"
             >
-              <img src={icons[link.icon].src} alt={link.icon} />
+              <img src={getIconSource(link.icon)} alt={link.icon} />
             </a>
           </li>
         );
@@ -64,5 +64,4 @@ import { icons } from "@/helpers";
   img {
     filter: invert(1);
   }
-
 </style>

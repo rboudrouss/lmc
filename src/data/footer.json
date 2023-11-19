@@ -1,30 +1,29 @@
 {
-    "text":"![Z](/assets/seal/Z.svg)",
-    "mail":"lamatricecarree@gmail.com",
-    "links":[
-        {
-            "icon":"discord",
-            "link":"https://discord.gg/7yNYMsQj5n"
-        },
-        {
-            "icon":"youtube",
-            "link":"https://www.youtube.com/channel/UCIDq2rOKER9TbY8YfPq8-KA"
-        },
-        {
-            "icon":"instagram",
-            "link":"https://www.instagram.com/LaMatriceCarree/"
-        },
-        {
-            "icon":"facebook",
-            "link":"https://www.facebook.com/LaMatriceCarree/"
-        },
-        {
-            "icon":"twitter",
-            "link":"https://twitter.com/LaMatriceCarree"
-        },
-        {
-            "icon":"linkedin",
-            "link":"https://fr.linkedin.com/company/la-matrice-carr%C3%A9e"
-        }
-    ]
+  "mail": "lamatricecarree@gmail.com",
+  "links": [
+    {
+      "icon": "discord",
+      "link": "https://discord.gg/7yNYMsQj5n"
+    },
+    {
+      "icon": "youtube",
+      "link": "https://www.youtube.com/channel/UCIDq2rOKER9TbY8YfPq8-KA"
+    },
+    {
+      "icon": "instagram",
+      "link": "https://www.instagram.com/LaMatriceCarree/"
+    },
+    {
+      "icon": "facebook",
+      "link": "https://www.facebook.com/LaMatriceCarree/"
+    },
+    {
+      "icon": "twitter",
+      "link": "https://twitter.com/LaMatriceCarree"
+    },
+    {
+      "icon": "linkedin",
+      "link": "https://fr.linkedin.com/company/la-matrice-carr%C3%A9e"
+    }
+  ]
 }

@@ -1,10 +1,11 @@
 import type { ReactNode } from "react";
-import discord from "../icons/discord.svg"
-import facebook from "../icons/facebook.svg"
-import instagram from "../icons/instagram.svg"
-import twitter from "../icons/twitter.svg"
-import youtube from "../icons/youtube.svg"
-import linkedin from "../icons/linkedin.svg"
+import discord from "../icons/discord.svg";
+import facebook from "../icons/facebook.svg";
+import instagram from "../icons/instagram.svg";
+import twitter from "../icons/twitter.svg";
+import youtube from "../icons/youtube.svg";
+import linkedin from "../icons/linkedin.svg";
+import Default from "../icons/default.svg";
 
 export interface Element_Drop {
   title: string;
@@ -105,6 +106,11 @@ export function sortListPostByDate(list: ActuT[]): ActuT[] {
   });
 }
 
+export function getIconSource(name: string) {
+  if (icons[name]) return icons[name].src;
+  return icons.default.src;
+}
+
 export const icons = {
   discord,
   facebook,
@@ -112,7 +118,8 @@ export const icons = {
   twitter,
   youtube,
   linkedin,
-}
+  default: Default,
+};
 
 export const assosSvg = [
   "alias",
