@@ -13,6 +13,9 @@
   "dependencies": {
     "@astrojs/mdx": "^1.1.5",
     "@astrojs/react": "^3.0.2",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.14.18",
     "@types/react": "^18.0.21",
     "@types/react-dom": "^18.0.6",
     "astro": "^3.5.5",
