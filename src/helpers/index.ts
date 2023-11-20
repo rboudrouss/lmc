@@ -128,7 +128,7 @@ export const assosSvg = [
   "bdac",
   "bds",
   "bicursiosite",
-  "curiosity",
+  "curieosity",
   "fablab",
   "lfdt",
   "polytech",

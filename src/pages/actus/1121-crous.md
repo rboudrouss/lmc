@@ -2,7 +2,7 @@
 layout: ../../layouts/ActuL.astro
 title: Ateliers Conseils
 source: https://www.instagram.com/p/Czn2iQho3FG/
-date: 21-12-2023 18:00
+date: 21-11-2023 18:00
 img: /assets/actus/1121-crous.png
 assos:
   - crous
