@@ -2,7 +2,7 @@
 layout: ../../layouts/ActuL.astro
 title: Concours IN VISION
 source: https://www.instagram.com/p/CztoQakCO_Z/
-date: 15-12-2023
+date: 15-12-2023 00:00
 img: /assets/actus/1215-invivo.png
 assos:
   - invivo
