@@ -35,3 +35,5 @@ fac:
   - sciences
 ---
 ```
+
+Met tes actus ici et tes infos dans le dossier `/infos`
