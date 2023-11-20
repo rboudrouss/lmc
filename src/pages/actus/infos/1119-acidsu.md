@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/ActuL.astro
 title: Chimie - Coaching
 source: https://www.instagram.com/p/Czyt8oJCywW/
 date: 19-11-2023
