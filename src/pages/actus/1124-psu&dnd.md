@@ -6,7 +6,7 @@ date: 24-11-2023 11:00
 img: /assets/actus/1124-psu&dnd.png
 assos:
   - psu
-  - dnd
+  - desndes
 ---
 
 <u>PSU</u> :
