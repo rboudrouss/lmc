@@ -2,7 +2,7 @@
 layout: ../../layouts/ActuL.astro
 title: Candidatures Erasmus
 source: https://www.instagram.com/p/Cz0z1Q6oM6-/
-date: 11-12-2023
+date: 11-12-2023 00:00
 img: /assets/actus/1211-parismus.png
 assos:
   - parismus
