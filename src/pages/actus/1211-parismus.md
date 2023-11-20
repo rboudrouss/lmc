@@ -17,7 +17,7 @@ __Ci-dessous les liens importants__ :
 [Carte interactive des destinations](https://paris4.moveonfr.com/publisher/1/fra)  
 [Pour les aides financières](https://ent.sorbonne-universite.fr/lettresetudiants/fr/relationsinternationales/partir-a-etranger/aides-ala-mobilite-sur-criteres-sociaux.html)  
 
-__Autres possibilités pour partir__ : 
+__Autres possibilités pour partir__ :  
 [Stages à l’étranger Erasmus](https://erasmusintern.org/)  
 [Programme d’assistant de langue française à l’étranger](https://www.france-educationinternational.fr/partir-letranger/devenirassistant-de-langue-francaiseletranger?langue=fr)
 

@@ -151,6 +151,7 @@ export const assosNames = [
   "bdac",
   "bds",
   "bicursiosite",
+  "bsu",
   "cia",
   "cmi",
   "connectome",
