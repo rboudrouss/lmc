@@ -8,7 +8,7 @@ assos:
   - invivo
 ---
 
-🎶 InVivo présente son concours de musique : __InVision!__🎶
+🎶 InVivo présente son concours de musique : __InVision__ 🎶
 
 📆 Date : __1er février 2024__
 
