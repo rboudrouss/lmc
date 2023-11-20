@@ -6,6 +6,7 @@ import Footer from "@/components/general/Footer.astro";
 import Layout from "./Layout.astro";
 
 import type { MarkdownLayoutProps } from "astro";
+import { ViewTransitions } from "astro:transitions";
 
 type Props = MarkdownLayoutProps<{
   title: string;
@@ -24,6 +25,7 @@ const {
   description={rawContent().trim() === "" ? undefined : rawContent().trim()}
   image={displayImage}
 >
+  <ViewTransitions />
   <Header title={title} url={url} />
   <main class="content">
     <div class="slot">
