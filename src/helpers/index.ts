@@ -28,7 +28,7 @@ export interface ActuT {
   date?: Date;
   img?: string;
   source?: string;
-  assos: string[];
+  assos: AssosName[];
   persistant?: boolean;
   content?: string; // UNSAFE HTML
   link?: string;
@@ -37,7 +37,7 @@ export interface ActuT {
 export const Element_Keys = ["title", "opened", "isPage"] as const;
 
 export function assosToImg(assos: string) {
-  if (assosNames.includes(assos) === false) return undefined;
+  if (assosNames.includes(<AssosName> assos) === false) return Default.src; // HACK kinda but hey
 
   if (assosSvg.includes(assos)) return `/assets/assos/${assos}.svg`;
 
@@ -189,4 +189,6 @@ export const assosNames = [
   "tvjussieu",
   "vfc",
   "vls",
-];
+] as const;
+
+export type AssosName = typeof assosNames[number];

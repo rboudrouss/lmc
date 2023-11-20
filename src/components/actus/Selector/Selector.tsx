@@ -1,10 +1,12 @@
 import { useState } from "react";
-import DateSelector from "../DateSelector/DateSelector";
+import DateSelector from "./DateSelector/DateSelector";
+import AssosSelector from "./AssosSelector/AssosSelector";
 import styles from "./Selector.module.css";
+import type { ActuT, AssosName } from "@/helpers";
+import CheckBox from "./CheckBox/CheckBox";
 
 export interface SelectionT {
-  tags?: string[];
-  event?: boolean;
+  tags?: AssosName[];
   persistant?: boolean;
   date_start?: Date;
   date_end?: Date;
@@ -13,49 +15,27 @@ export interface SelectionT {
 export default function Selector(props: {
   onChange: (selection: SelectionT) => void;
 }) {
-  const [selection, setSelection] = useState<SelectionT>({});
+  const [selection, setSelection] = useState<SelectionT>({
+    persistant: true,
+  });
 
   const onChange = (selection: SelectionT) => {
     setSelection(selection);
     props.onChange(selection);
+    console.log("selection", selection);
   };
 
   return (
     <div className={styles.wrapper}>
       <div className={styles.selection}>
-        <input
-          type="checkbox"
-          name="event"
-          id="event"
-          defaultValue="on"
-          onChange={(e) =>
-            onChange({
-              ...selection,
-              event: e.target.checked,
-            })
-          }
+        <CheckBox
+          onChange={(persistant) => onChange({ ...selection, persistant })}
+          defaultChecked={true}
         />
-        <label htmlFor="persistant">Event</label>
-      </div>
-      <div className={styles.selection}>
-        <input
-          type="checkbox"
-          name="persistant"
-          id="persistant"
-          defaultValue="on"
-          onChange={(e) =>
-            onChange({
-              ...selection,
-              persistant: e.target.checked,
-            })
-          }
-        />
-        <label htmlFor="persistant">Persistant</label>
+        <label htmlFor="persistant">Afficher les persistants</label>
       </div>
       <DateSelector
         className={styles.selection}
-        name="date_start"
-        id="date_start"
         label="Date de début"
         onChange={(date) =>
           onChange({
@@ -66,8 +46,6 @@ export default function Selector(props: {
       />
       <DateSelector
         className={styles.selection}
-        name="date_end"
-        id="date_end"
         label="Date de fin"
         onChange={(date) =>
           onChange({
@@ -76,20 +54,26 @@ export default function Selector(props: {
           })
         }
       />
-      <div className={styles.selection}>
-        <input
-          type="text"
-          name="tags"
-          id="tags"
-          onChange={(e) =>
-            onChange({
-              ...selection,
-              tags: e.target.value.trim().toLocaleLowerCase().split(" "),
-            })
-          }
-        />
-        <label htmlFor="tags">Associations</label>
-      </div>
+      <AssosSelector onChange={(tags) => onChange({ ...selection, tags })} />
     </div>
   );
+}
+
+// TODO
+export function filterActus(selection: SelectionT, actus: ActuT[]): ActuT[] {
+  return actus.filter((actu) => {
+    if (!selection.persistant && actu.persistant) return false;
+
+    if (selection.date_start && actu.date < selection.date_start) return false;
+    if (selection.date_end && actu.date > selection.date_end) return false;
+
+    let yeet = true;
+    if (selection.tags.length > 0) {
+      for (let asso of actu.assos) {
+        if (selection.tags.includes(asso)) yeet = false;
+      }
+    } else yeet = false;
+
+    return !yeet;
+  });
 }

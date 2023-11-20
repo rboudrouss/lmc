@@ -3,6 +3,7 @@ import styles from "./Actu.module.css";
 import { assosToImg, dateToStringFromToday } from "@/helpers";
 
 export default function Actu(props: {
+  key: any,
   title: string;
   content?: string;
   date?: Date;
