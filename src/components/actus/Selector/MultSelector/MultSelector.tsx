@@ -1,14 +1,15 @@
 import { TextField, Autocomplete } from "@mui/material";
 
-import { assosNames, type AssosName } from "@/helpers";
-
-export default function AssosSelector(props: {
-  onChange: (selectedAssos: AssosName[]) => void;
+export default function MultSelector<T extends string>(props: {
+  onChange: (selected: T[]) => void;
+  className?: string;
+  selection: T[];
+  label: string;
 }) {
   return (
     <Autocomplete
       multiple
-      options={assosNames}
+      options={props.selection}
       getOptionLabel={(option) => option.toUpperCase()}
       disableCloseOnSelect
       onChange={(event, value) => {
@@ -19,8 +20,9 @@ export default function AssosSelector(props: {
         <TextField
           {...params}
           variant="outlined"
-          label="Associations"
-          placeholder="Associations"
+          label={props.label}
+          placeholder={props.label}
+          className={props.className}
         />
       )}
     />

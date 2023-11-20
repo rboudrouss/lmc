@@ -32,6 +32,7 @@ export interface ActuT {
   persistant?: boolean;
   content?: string; // UNSAFE HTML
   link?: string;
+  facType?: FacType[];
 }
 
 export const Element_Keys = ["title", "opened", "isPage"] as const;
@@ -192,3 +193,7 @@ export const assosNames = [
 ] as const;
 
 export type AssosName = typeof assosNames[number];
+
+export const facTypes = ["lettre", "sciences", "medecine", "polytech"] as const;
+
+export type FacType = typeof facTypes[number];

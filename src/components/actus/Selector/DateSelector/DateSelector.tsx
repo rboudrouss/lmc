@@ -10,6 +10,7 @@ export default function DateSelector(props: {
   return (
     <LocalizationProvider dateAdapter={AdapterDayjs}>
       <DatePicker
+        className={props.className}
         label={props.label}
         slotProps={{
           field: { clearable: true },

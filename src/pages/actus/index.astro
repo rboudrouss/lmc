@@ -8,15 +8,16 @@ import {
   parseDateFromString,
   sortListPostByDate,
 } from "@/helpers";
-import type { ActuT } from "@/helpers";
+import type { ActuT, AssosName, FacType } from "@/helpers";
 
 interface frontmatter {
   title: string;
   date?: string;
   img?: string;
   source?: string;
-  assos: string[];
+  assos: AssosName[];
   persistant?: boolean;
+  fac?: FacType[];
 }
 
 let posts = (await Astro.glob<frontmatter>("./*.md")).map((p): ActuT => {
@@ -28,6 +29,7 @@ let posts = (await Astro.glob<frontmatter>("./*.md")).map((p): ActuT => {
     assos: p.frontmatter.assos ?? [],
     content: p.compiledContent(),
     persistant: p.frontmatter.persistant,
+    facType: p.frontmatter.fac ?? [],
     link: p.url,
   };
 });
@@ -37,7 +39,7 @@ posts = filterListBeforeYesterday(sortListPostByDate(posts));
 
 <Layout title="actualités">
   <main class="content">
-    <ActuPage actus={posts} selected="actus" client:load />
+    <ActuPage actus={posts} selected="actus" client:only />
   </main>
   <Footer />
 </Layout>
