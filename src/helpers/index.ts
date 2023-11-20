@@ -129,6 +129,7 @@ export const assosSvg = [
   "bds",
   "bicursiosite",
   "curiosity",
+  "fablab",
   "lfdt",
   "polytech",
 ];
@@ -159,6 +160,7 @@ export const assosNames = [
   "desndes",
   "enactus",
   "etugouv",
+  "fablab",
   "gobee",
   "heforshe",
   "interreagir",
