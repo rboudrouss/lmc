@@ -3,7 +3,7 @@ import styles from "./Actu.module.css";
 import { assosToImg, dateToStringFromToday } from "@/helpers";
 
 export default function Actu(props: {
-  key?: any,
+  key?: any;
   title: string;
   content?: string;
   date?: Date;
@@ -32,6 +32,7 @@ export default function Actu(props: {
                     alt={asso}
                     className={styles.asso}
                     key={asso}
+                    loading="lazy"
                   />
                 )
             )}
@@ -49,7 +50,9 @@ export default function Actu(props: {
               ></div>
             </div>
           )}
-          {img && <img src={img} alt="" className={styles.img} />}
+          {img && (
+            <img src={img} alt={title} className={styles.img} loading="lazy" />
+          )}
           {source && (
             <a href={source} className={styles.source}>
               Source / pour plus d'info
