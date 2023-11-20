@@ -1,8 +1,8 @@
 ---
 title: Chimie - Coaching
 source: https://www.instagram.com/p/Czyt8oJCywW/
-date: 19-11-2023
-img: /assets/infos/1119-acidsu.png
+date: 18-11-2023 00:00
+img: /assets/infos/1118-acidsu.png
 assos:
   - acidsu
 ---

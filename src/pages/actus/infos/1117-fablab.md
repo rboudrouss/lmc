@@ -1,7 +1,7 @@
 ---
 title: Interview Fablab
 source: https://www.instagram.com/p/Czvpm2nuM0P/
-date: 17-11-2023
+date: 17-11-2023 00:00
 img: /assets/infos/1117-fablab.png
 assos:
   - fablab
