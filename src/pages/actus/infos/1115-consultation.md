@@ -1,20 +1,14 @@
 ---
-title: Jeu de 7 Familles Version Paléontologie
-source: https://www.instagram.com/p/CztUGQMitFC/
-date: 16-11-2023 00:00
-img: /assets/infos/1116-aeg.png
+title: Consultation Sexologie
+source: https://www.instagram.com/p/CzqvSZotd2L/
+date: 15-11-2023 00:00
+img: /assets/infos/1115-consultation.png
 assos:
-  - aeg
+  - su
 ---
 
-Coucou les ammonitelovers,
+NOUVEAUTÉ AU SSE
 
-L’AEG propose une vente flash du jeu de 7 familles de fossiles créé par Loïc Villier et Coline Poulette.
+Votre Service de Santé Étudiante vous propose désormais une consultation sexologie le lundi après-midi !
 
-Revivez les temps passés au travers d'illustrations magnifiques. Les révisions des cours de paléo n'auront jamais été aussi amusantes !🐚
-
-[Lien pour précommander ce jeu incroyable](https://docs.google.com/forms/d/e/1FAIpQLSegQB5BbdM7eBXXNX4WXVi1pR7p19bn_0Og70ol1b4XQYDZmg/viewform)
-
-⚠️Attention pour confirmer la commande passer au local, paiement seulement en espèces.
-
-Trilobisous❤️🔨
+N'hésitez pas à prendre rendez-vous ou à venir voir nos autres motifs de consultation sur Doctolib en tapant "SSE SU" dans la barre de recherche !
