@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/ActuL.astro
-title: Café Prof : Paulin Yzombard
+title: Café Prof avec Pauline Yzombard
 source: https://www.instagram.com/p/Czl82WwLvL_/
 date: 22-11-2023 12:30
 img: /assets/actus/1122-curieosity.png
