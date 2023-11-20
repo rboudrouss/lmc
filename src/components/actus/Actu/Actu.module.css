@@ -52,3 +52,7 @@
 .source {
   color: blue;
 }
+
+.text p {
+  padding: 5px 0;
+}

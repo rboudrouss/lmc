@@ -3,7 +3,7 @@ import styles from "./Actu.module.css";
 import { assosToImg, dateToStringFromToday } from "@/helpers";
 
 export default function Actu(props: {
-  key: any,
+  key?: any,
   title: string;
   content?: string;
   date?: Date;
@@ -43,10 +43,10 @@ export default function Actu(props: {
         <div className={styles.body}>
           {content && (
             <div className={styles.textWrapper}>
-              <p
+              <div
                 className={styles.text}
                 dangerouslySetInnerHTML={{ __html: content }} // FIXME find a better way
-              ></p>
+              ></div>
             </div>
           )}
           {img && <img src={img} alt="" className={styles.img} />}
