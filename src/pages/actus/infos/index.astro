@@ -11,7 +11,7 @@ interface frontmatter {
   date?: string;
   img?: string;
   source?: string;
-  assos: AssosName[];
+  assos?: AssosName[];
   persistant?: boolean;
   fac?: FacType[];
 }
@@ -22,10 +22,13 @@ let posts = (await Astro.glob<frontmatter>("./*.md")).map((p): ActuT => {
     date: parseDateFromString(p.frontmatter.date),
     img: p.frontmatter.img,
     source: p.frontmatter.source,
-    assos: p.frontmatter.assos ?? [],
+    assos:
+      p.frontmatter.assos?.map((a) => a.trim().toLowerCase() as AssosName) ??
+      [],
     content: p.compiledContent(),
     persistant: p.frontmatter.persistant,
-    facType: p.frontmatter.fac ?? [],
+    facType:
+      p.frontmatter.fac?.map((a) => a.trim().toLowerCase() as FacType) ?? [],
     link: p.url,
   };
 });
