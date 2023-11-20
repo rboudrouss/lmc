@@ -10,6 +10,9 @@ export default function DateSelector(props: {
   return (
     <LocalizationProvider dateAdapter={AdapterDayjs}>
       <DatePicker
+      sx={{
+        padding: "10px 0",
+      }}
         className={props.className}
         label={props.label}
         slotProps={{

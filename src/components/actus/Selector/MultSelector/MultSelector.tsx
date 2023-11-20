@@ -8,6 +8,9 @@ export default function MultSelector<T extends string>(props: {
 }) {
   return (
     <Autocomplete
+      sx={{
+        padding: "10px 0",
+      }}
       multiple
       options={props.selection}
       getOptionLabel={(option) => option.toUpperCase()}

@@ -58,7 +58,6 @@ export default function Selector(props: {
   };
 
   return (
-    <ThemeProvider theme={theme}>
       <div className={styles.wrapper}>
         <div className={styles.selection}>
           <CheckBox
@@ -108,7 +107,6 @@ export default function Selector(props: {
           label="Facultés"
         />
       </div>
-    </ThemeProvider>
   );
 }
 
@@ -141,17 +139,6 @@ export function filterActus(selection: SelectionT, actus: ActuT[]): ActuT[] {
     return !yeet;
   });
 }
-
-const theme = createTheme({
-  palette: {
-    primary: {
-      main: "#ffffff",
-    },
-    secondary: {
-      main: "#ffffff",
-    },
-  },
-});
 
 // transform "DD-MM-YYYY" to Date
 function stringToDate(date?: string): Date | undefined {
