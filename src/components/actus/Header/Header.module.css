@@ -21,8 +21,9 @@
   cursor: pointer;
 }
 
-.arrow {
+.bars {
   height: 100%;
   width: 59px;
   aspect-ratio: 1;
+  filter: invert(1);
 }
