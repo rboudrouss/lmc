@@ -132,10 +132,6 @@ export const assosSvg = [
   "fablab",
   "lfdt",
   "polytech",
-  "su",
-  "susciences",
-  "sulettres",
-  "susante",
 ];
 
 export const assosNames = [
