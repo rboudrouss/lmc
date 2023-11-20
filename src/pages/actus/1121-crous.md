@@ -8,7 +8,7 @@ assos:
   - crous
 ---
 
-🏠 Rendez-vous mardi 21 novembre à 18h00 en #visio pour votre nouvel atelier !
+🏠 Rendez-vous __Mardi 21 Novembre__ à 18h00 en #visio pour votre nouvel atelier !
  
 🤔 J'ai des difficultés à payer mon loyer, comment je fais ?
  
