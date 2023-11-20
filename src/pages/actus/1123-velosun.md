@@ -32,7 +32,7 @@ Métro Jussieu – ligne 7 & 10
 Bus 67 et 89  
 [Événement facebook](https://fb.me/e/1qiKFvSxt)
 
-ATTENTION, CASH ONLY ( pas de carte bancaire – pas de chèque )
+__ATTENTION, CASH ONLY__ ( pas de carte bancaire – pas de chèque )
 
 – Vente limitée à 4 vélos par personne (pour les vendeurs·euses)  
 – Apporter une pièce d’identité (pour les vendeurs·euses )

@@ -12,7 +12,8 @@ assos:
  
 🤔 J'ai des difficultés à payer mon loyer, comment je fais ?
  
-🗣 Au programme :▪️ Comprendre les dispositifs d’aides au logement existants  
+🗣 Au programme :  
+▪️ Comprendre les dispositifs d’aides au logement existants  
 ▪️ Connaitre les démarches à réaliser pour signaler votre changement de situation et vous donner des pistes d’actions
  
 🫂 Le service social et l'association #ADAC vous proposent cet Atelier-conseils en visio-conférence pour vous accompagner dans vos démarches
