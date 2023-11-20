@@ -131,9 +131,11 @@ export function filterActus(selection: SelectionT, actus: ActuT[]): ActuT[] {
 
     yeet = true;
     if (selection.facType.length > 0) {
-      for (let facType of selection.facType) {
-        if (actu.facType.includes(facType)) yeet = false;
-      }
+      if (actu.facType.length === 0) yeet = false;
+      else
+        for (let facType of selection.facType) {
+          if (actu.facType.includes(facType)) yeet = false;
+        }
     } else yeet = false;
 
     return !yeet;
