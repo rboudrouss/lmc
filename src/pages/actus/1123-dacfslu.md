@@ -5,7 +5,7 @@ source: https://www.instagram.com/p/Czy_I1nBmT6/
 date: 23-11-2023 18:00
 img: /assets/actus/1123-dacfslu.png
 assos:
-  - amsu
+  - sulettres
 ---
 
 🎥🌟Préparez-vous pour une soirée courts métrages exceptionnelle au cœur du Quartier Latin !

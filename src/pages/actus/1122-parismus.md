@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/ActuL.astro
-title: Apérismus #5
+title: Apérismus 5
 source: https://www.instagram.com/p/CzrSVrmono7/
 date: 22-11-2023 20:00
 img: /assets/actus/1122-parismus.png
