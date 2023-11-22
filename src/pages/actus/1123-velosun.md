@@ -2,7 +2,7 @@
 layout: ../../layouts/ActuL.astro
 title: Bourse aux vélos
 source: https://www.instagram.com/p/CznysJErd5r/
-date: 23-11-2023 09:30
+date: 23-11-2023 23:59
 img: /assets/actus/1123-velosun.png
 ---
 

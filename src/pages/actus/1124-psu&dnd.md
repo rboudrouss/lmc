@@ -2,7 +2,7 @@
 layout: ../../layouts/ActuL.astro
 title: Animations PSU & DnD (Expo GOT)
 source: https://www.instagram.com/p/Cztq5Ixooyi/
-date: 24-11-2023 11:00
+date: 24-11-2023 23:59
 img: /assets/actus/1124-psu&dnd.png
 assos:
   - psu
