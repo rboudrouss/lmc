@@ -2,7 +2,7 @@
 layout: ../../layouts/ActuL.astro
 title: Élections étudiantes
 source: https://guideetudiant.sorbonne-universite.fr/actualites/elections-etudiantes
-date: 22-11-2023 09:00
+date: 23-11-2023 18:00
 img: /assets/actus/1122-elections.png
 assos:
   - su
