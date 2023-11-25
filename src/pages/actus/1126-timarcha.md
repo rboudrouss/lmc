@@ -2,7 +2,7 @@
 layout: ../../layouts/ActuL.astro
 title: Sortie Corneille
 source: https://www.instagram.com/p/CztsnEkiZfp/
-date: 26-11-2023 14:00
+date: 26-11-2023 23:00
 img: /assets/actus/1126-timarcha.png
 assos:
   - timarcha
