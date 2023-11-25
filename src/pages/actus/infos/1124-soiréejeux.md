@@ -12,7 +12,7 @@ Elle a un succès fou sur le campus et vous êtes toujours de plus en plus nombr
 Je nomme...  
 LA SOIRÉE JEUX  
 Chaque semaine des jeux à tester, découvrir et expérimenter à plusieurs !  
-Avec l'association étudiante @play_sorbonne_u
+Avec l'association étudiante [Play Sorbonne Université](https://www.instagram.com/play_sorbonne_u/)
 
 🎲 Soirée jeux  
 __Tous les Jeudis de 18h à 21h__  
