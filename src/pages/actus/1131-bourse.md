@@ -2,7 +2,6 @@
 layout: ../../layouts/ActuL.astro
 title: Bourse
 source: https://www.instagram.com/p/Czqt0eUtvrv/
-date: 31-11-2023 00:00
 img: /assets/actus/1131-bourse.png
 assos:
   - etugouv

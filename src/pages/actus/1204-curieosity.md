@@ -3,7 +3,7 @@ layout: ../../layouts/ActuL.astro
 title: "Café prof : Jérôme Beugnon"
 source: https://www.instagram.com/p/C0Eu3ZzisCU/
 date: 04-12-2023 23:59
-img: /assets/actus/1207-curieosity.png
+img: /assets/actus/1204-curieosity.png
 assos :
   - curieosity
 ---

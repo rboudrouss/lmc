@@ -2,7 +2,6 @@
 layout: ../../layouts/ActuL.astro
 title: "Dispositif Places Offertes #5"
 source: https://www.instagram.com/p/C0Eu3ZzisCU/
-date: 29-11-2023 12:00
 img: /assets/actus/1129-dacflsu.png
 ---
 

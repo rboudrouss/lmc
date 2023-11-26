@@ -1,8 +1,8 @@
 ---
 title: "Violences Sexistes et Sexuelles : ON DIT STOP"
 source: https://www.instagram.com/p/C0B4-wgtZA0/
-date: 24-10-2023 10:00
-img: /assets/infos/1024-stopvss.png
+date: 24-11-2023 10:00
+img: /assets/infos/1124-stopvss.png
 assos:
   - etugouv
 ---
