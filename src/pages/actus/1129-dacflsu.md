@@ -12,4 +12,4 @@ Pour participer au dispositif, il suffit de réserver vos places sur la platefor
 
 📸 EXTRA LIFE / Théâtre Chaillot © Estelle Hanania
 
-(PLUS D'INFO)[https://www.instagram.com/p/Cz9PawdNR2A/]
+[PLUS D'INFO](https://www.instagram.com/p/Cz9PawdNR2A/)
