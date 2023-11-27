@@ -8,7 +8,7 @@ img: /assets/actus/1208-dacflsu.png
 
 🎶 Découvrez les trésors de la Renaissance Musicale avec les Octonaires de Claude Le Jeune ✨
 
-Rejoignez-nous les 8 décembre à 20h pour un voyage dans le temps au cœur de la spiritualité et de l'art de la fin de la Renaissance.  
+Rejoignez-nous le _Vendredi 8 Décembre à 20h__ pour un voyage dans le temps au cœur de la spiritualité et de l'art de la fin de la Renaissance.  
 Profitez de l'opportunité unique d'explorer les Octonaires de Claude Le Jeune, magnifiquement mis en musique par Antoine de Chandieu, révélant la polyphonie raffinée et l'expressivité de la tendance humaniste de cette époque.
 
 🔍 Organisé par Julien Goeury, Professeur à l’UFR de littérature française et comparée, cet événement est une partie intégrante du colloque « Penser en chantant : poésie, musique et philosophie morale en Europe » à la Faculté des Lettres de Sorbonne Université.

@@ -1,21 +1,26 @@
 ---
 layout: ../../layouts/ActuL.astro
-title: Voyage Strasbourg
-source: https://www.instagram.com/p/CzTOsLrIcbG/
-date: 8-12-2023 00:00
-img: /assets/actus/1208-parismus.png
+title: Candidatures Erasmus
+source: https://www.instagram.com/p/Cz0z1Q6oM6-/
+img: /assets/actus/1211-parismus.png
 assos:
   - parismus
 ---
 
-TRAVEL TIME 🗺
+Hi everyone !☀️
 
-✨ Vivez la magie de Noël à Strasbourg avec nous ! ✨
+Les candidatures pour partir en Erasmus ont débuté! N’oubliez pas que le dépôt du dossier doit être fait __entre le 6 Novembre et le 11 Décembre 2023__
 
-Salut tout le monde ! 👋
+__Ci-dessous les liens importants__ :  
+[Lien du formulaire Erasmus](https://paris4.moveonfr.com/form/651d5f5464819ee5500f0197/fra) (il faut créer un compte avant d’avoir accès au formulaire)  
+[Carte interactive des destinations](https://paris4.moveonfr.com/publisher/1/fra)  
+[Pour les aides financières](https://ent.sorbonne-universite.fr/lettresetudiants/fr/relationsinternationales/partir-a-etranger/aides-ala-mobilite-sur-criteres-sociaux.html)  
 
-Parismus est ravi de vous emmener du __8 au 10 Décembre__ dans l'une des destinations les plus féériques de la saison des fêtes : Strasbourg ! ❄️
+__Autres possibilités pour partir__ :  
+[Stages à l’étranger Erasmus](https://erasmusintern.org/)  
+[Programme d’assistant de langue française à l’étranger](https://www.france-educationinternational.fr/partir-letranger/devenirassistant-de-langue-francaiseletranger?langue=fr)
 
-Découvrez les marchés de Noël les plus emblématiques, ornés de décorations étincelantes.🎄
+Pour toutes autres demandes, n’hésitez pas à nous demander ou à contacter la direction des Relations Internationales!  
 
-Tu peux prendre ta place pour 105€ (transports, hébergement, petit déjeuner et activités inclus) dans la [billeterie](https://www.billetweb.fr/voyage-strasbourg1) !
+Bon dimanche💙  
+Parismus💙  
