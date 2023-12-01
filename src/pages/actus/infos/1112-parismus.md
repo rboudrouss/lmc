@@ -2,7 +2,7 @@
 title: Journalmus
 source: https://www.instagram.com/p/CzjifThJogd/
 date: 12-11-2023 00:00
-img: /assets/infos/1211-parismus.png
+img: /assets/infos/1112-parismus.png
 assos:
   - parismus
 ---
