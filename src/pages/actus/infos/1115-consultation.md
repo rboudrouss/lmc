@@ -3,8 +3,6 @@ title: Consultation Sexologie
 source: https://www.instagram.com/p/CzqvSZotd2L/
 date: 15-11-2023 00:00
 img: /assets/infos/1115-consultation.png
-assos:
-  - su
 ---
 
 NOUVEAUTÉ AU SSE
