@@ -3,7 +3,7 @@ layout: ../../layouts/ActuL.astro
 title: Noël au FABLAB
 source: https://www.instagram.com/p/C0RLbzJoqrk/
 date: 07-12-2023 23:00
-img: /assets/actus/fablab.png
+img: /assets/actus/1215-fablab.png
 assos:
   - fablab
 ---
