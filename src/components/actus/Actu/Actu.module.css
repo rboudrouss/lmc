@@ -24,7 +24,8 @@
 }
 
 .asso {
-  height: 100px;
+  max-height: 120px;
+  max-height: 250px;
   padding: 5px;
 }
 
@@ -45,7 +46,7 @@
 }
 
 .img {
-  max-height: 50%;
+  max-height: 1000px;
   padding: 20px;
 }
 
