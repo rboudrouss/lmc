@@ -2,7 +2,7 @@
 title: Journée mondiale de lutte contre le sida
 source: https://www.instagram.com/p/C0TfMz-Ngat/
 date: 01-12-2023 11:00
-img: /assets/infos/1201-etugouv.png
+img: /assets/infos/1203-etugouv.png
 assos:
   - etugouv
 ---
