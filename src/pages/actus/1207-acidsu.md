@@ -4,6 +4,8 @@ title: Soirée Parrainage
 source: https://www.instagram.com/p/C0E3wG3Miak/
 date: 07-12-2023 23:59
 img: /assets/actus/1207-acidsu.png
+assos:
+  - acidsu
 ---
 
 Bonjour les ami.es,
