@@ -131,7 +131,11 @@ export const assosSvg = [
   "curieosity",
   "fablab",
   "lfdt",
-  "polytech",
+  "bdepolytech",
+  "su",
+  "susciences",
+  "sulettres",
+  "susante",
 ];
 
 export const assosNames = [
@@ -184,6 +188,7 @@ export const assosNames = [
   "psu_champi_final",
   "pwb",
   "robotech",
+  "scdr",
   "sgmi",
   "solsu",
   "sprint",

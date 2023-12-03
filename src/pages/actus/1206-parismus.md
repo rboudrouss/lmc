@@ -4,6 +4,8 @@ title: Aperismus 6
 source: https://www.instagram.com/p/C0Pa-nlI0DV/
 date: 06-12-2023 23:00
 img: /assets/actus/1206-parismus.png
+assos:
+  - parismus
 ---
 
 It’s winter time!🤍
