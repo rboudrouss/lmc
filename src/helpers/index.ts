@@ -183,7 +183,7 @@ export const assosNames = [
   "parismus",
   "polycoeur",
   "polypeip",
-  "polytech",
+  "bdepolytech",
   "psu",
   "psu_champi_final",
   "pwb",
