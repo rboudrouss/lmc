@@ -1,17 +1,16 @@
 ---
-title: Journée mondiale de lutte contre le sida
-source: https://www.instagram.com/p/C0TfMz-Ngat/
-date: 01-12-2023 11:00
+title: Journée mondiale des personnes handicapées
+source: https://www.instagram.com/p/C0YotP9tWbw/
+date: 03-12-2023 10:00
 img: /assets/infos/1203-etugouv.png
 assos:
   - etugouv
 ---
 
-🎗🔴 Le saviez-vous ? Vous pouvez vous faire dépister sur votre campus dans votre Service de santé étudiante.
+Journée mondiale des personnes handicapées
 
-D’autres possibilités existent également :  
-🎗🔴 Sans ordonnance, gratuit et sans avance de frais dans tous les laboratoires d'analyse médicale  
-🎗🔴 Le « TROD » : Test rapide d'orientation diagnostique réalisé dans un Centre gratuit d’information, de dépistage et de diagnostic  
-🎗🔴 L’autotest acheté en pharmacie
+🔴 Étudiants en situation de handicap : accueil et accompagnements, orientation et Insertion Professionnelle, comment ça se passe ?
 
-Cc [@sida_info_service](https://www.instagram.com/sida_info_service/)
+Une carte interactive vous permet de trouver toutes les informations région par région 👉 [Lien](https://www.etudiant.gouv.fr/fr/etudiants-en-situation-de-handicap-2059)
+
+🔴 Les étudiants autistes sont accompagnés pour faciliter leur entrée dans l'Enseignement Supérieur, améliorer leur vie sociale, bénéficier d'un cursus aménagé et encourager leur insertion professionnelle. Ça s’appelle Atypie Friendly et ça se passe sur le site : atypie-friendly.fr. Le dispositif s'étend progressivement aux autres TND, comme le trouble du déficit de l'attention avec ou sans hyperactivité ainsi que les troubles "dys".
