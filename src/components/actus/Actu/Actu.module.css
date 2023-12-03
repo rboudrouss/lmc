@@ -24,8 +24,8 @@
 }
 
 .asso {
-  max-height: 5%;
-  max-height: 10%;
+  max-height: 100px;
+  max-height: 200px;
   padding: 5px;
 }
 
