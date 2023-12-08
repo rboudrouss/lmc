@@ -7,7 +7,6 @@ Conférences avec des invités prestigieux, rencontres avec les enseignants (caf
 - Local : 22-32 115 | 9h-18h  
 - [Vidéo de Présentation](https://www.youtube.com/watch?v=GKun9E9Vz7I)  
 - [Linktree](https://linktr.ee/curieosity)  
-- [Linktree](https://linktr.ee/curieosity)  
 - [Youtube](https://www.youtube.com/@curieositysorbonneu477)  
 - [Site](https://curieosity.github.io/)  
 - [Discord](https://discord.gg/U5NvHDTnwM)  
