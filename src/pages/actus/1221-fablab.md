@@ -11,7 +11,7 @@ assos:
 Le __Jeudi 21 Décembre__, les ateliers à l’espace prototypage font leur grand retour !
 
 Venez découvrir les bases de ARDUINO 💡⚙️  
-Ce sera l’occasion de faire vos premier pas en #éléctronique ⚡️
+Ce sera l’occasion de faire vos premier pas en éléctronique ⚡️
 
 📧 Inscrivez-vous à cet atelier en envoyant un email à l’adresse suivante :  
 fablab-contact@sorbonne-universite.fr
