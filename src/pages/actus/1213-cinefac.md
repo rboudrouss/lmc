@@ -14,6 +14,6 @@ img: /assets/actus/1213-cinefac.png
 
 🖋️Actuellement scénariste pour le prochain long métrage du film Fugue, de Jérôme de Genevray, il est également coordinateur d’écriture et auteur du prochain jeu vidéo starwars : Eclipse, et a aussi co-écrit la pièce de théâtre « Mémoires de sorcière » avec Camélia Acef.
 
-🗓️__Mercredi 13 Décembre | 20h00__  
+🗓️ __Mercredi 13 Décembre | 20h00__  
 📍Cinéma les 3 Luxembourg, Paris 6e  
 🎟️Tarifs (-25ans) : 6€ (lien dans la bio)
