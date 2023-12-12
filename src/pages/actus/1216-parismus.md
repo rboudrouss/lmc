@@ -3,6 +3,8 @@ title: Marché de Noël
 source: https://www.instagram.com/p/C0rtv4_oW1G/
 date: 16-12-2023 23:00
 img: /assets/actus/1216-parismus.png
+assos:
+  - parismus
 ---
 
 Parismus te convie à découvrir la magie du marché de Noël des Tuileries le __Samedi 16 Décembre__ ! ⛄️  
