@@ -21,8 +21,8 @@ export default function JeuPage() {
   }
 
   function ratio(d, r, b) {
-    if (d <= r * 2) return 1;
-    else if (d <= r * 2 + b * 2) return 1 - (d - r * 2) / (b * 2);
+    if (d <= r) return 1;
+    else if (d <= r + b) return 1 - (d - r) / b;
     return 0;
   }
 
@@ -34,8 +34,7 @@ export default function JeuPage() {
 
   const guess = (x: number, y: number) => {
     let d = distance(x, y, answers[i][0], answers[i][1]);
-    let r = ratio(d, rayon[i], buffer[i]);
-    console.log("dr", d, r, rayon[i], buffer[i]);
+    let r = ratio(d, 20, 20);
     setScore(score + r);
   };
 
@@ -142,22 +141,4 @@ let answers = [
   [2625, 475],
   [2620, 2650],
   [700, 3600],
-];
-
-let points = [
-  1, 3, 1, 1, 2, 1, 3, 3, 2, 3, 3, 3, 1, 3, 2, 2, 2, 3, 1, 2, 1, 2, 2, 1, 1, 1,
-  1, 3, 2, 2, 3, 3, 2, 3, 3, 2, 2, 2, 3, 3, 3, 1, 3, 1, 1, 3, 1, 3, 2, 3, 3, 1,
-  3, 2, 3, 1, 3,
-];
-
-let rayon = [
-  15, 15, 15, 15, 20, 15, 15, 15, 15, 45, 15, 15, 15, 20, 20, 20, 15, 45, 15,
-  15, 25, 20, 30, 15, 20, 15, 15, 15, 20, 25, 25, 25, 20, 25, 25, 15, 15, 35,
-  20, 25, 25, 15, 15, 20, 30, 20, 15, 25, 15, 25, 20, 15, 30, 20, 20, 15, 15,
-];
-
-let buffer = [
-  25, 30, 10, 10, 20, 5, 10, 10, 5, 5, 10, 10, 10, 5, 5, 10, 10, 10, 5, 10, 20,
-  5, 5, 10, 10, 5, 5, 5, 10, 5, 5, 5, 5, 5, 5, 10, 10, 5, 5, 5, 5, 10, 10, 5, 5,
-  5, 10, 5, 10, 5, 5, 5, 5, 5, 10, 10, 10,
 ];
