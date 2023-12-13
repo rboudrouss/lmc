@@ -21,7 +21,13 @@ export default function Canva({
 }: CanvaProps) {
   let [lastClick, setLastClick] = useState({ x: 0, y: 0 });
   let [guessed, setGuessed] = useState(false);
+  let [scoreA, setScoreA] = useState(score);
   let bgRef = useRef<HTMLImageElement>(null);
+
+  useEffect(() => {
+    setScoreA(score);
+  }
+  , [score]);
 
   const guess = (x: number, y: number) => {
     const revScale = min(
@@ -76,7 +82,7 @@ export default function Canva({
           alt="Guess"
           style={{ maxWidth: "300px", maxHeight: "300px" }}
         />
-        <p style={{ background: "white" }}>Score : {score} </p>
+        <p style={{ background: "white" }}>Score : {score.toFixed(2)} </p>
       </div>
       <button
         style={{
