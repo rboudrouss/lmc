@@ -1,7 +1,10 @@
 import React, { useEffect, useRef, useState } from "react";
 
+const MAPLink = "/assets/jeu/plan.png";
+const MAPWidth = 5320;
+const MAPHeight = 5067;
+
 interface CanvaProps {
-  MapImage: ImageMetadata;
   GuessImage: string;
   onGuess?: (x: number, y: number) => void;
   onContinue?: () => void;
@@ -10,22 +13,20 @@ interface CanvaProps {
 }
 
 export default function Canva({
-  MapImage,
   GuessImage,
   onGuess,
   answer,
   score,
-  onContinue
+  onContinue,
 }: CanvaProps) {
-  console.log(score);
   let [lastClick, setLastClick] = useState({ x: 0, y: 0 });
   let [guessed, setGuessed] = useState(false);
   let bgRef = useRef<HTMLImageElement>(null);
 
   const guess = (x: number, y: number) => {
     const revScale = min(
-      MapImage.width / bgRef.current!.clientWidth,
-      MapImage.height / bgRef.current!.clientHeight
+      MAPWidth / bgRef.current!.clientWidth,
+      MAPHeight / bgRef.current!.clientHeight
     );
     if (onGuess) onGuess(lastClick.x * revScale, lastClick.y * revScale);
     setGuessed(true);
@@ -46,7 +47,7 @@ export default function Canva({
     >
       <img
         ref={bgRef}
-        src={MapImage.src}
+        src={MAPLink}
         alt="Map"
         style={{
           maxWidth: "100%",
@@ -54,16 +55,12 @@ export default function Canva({
         }}
         onClick={(e) => {
           if (guessed) return;
-          const revScale = min(
-            MapImage.width / bgRef.current!.clientWidth,
-            MapImage.height / bgRef.current!.clientHeight
-          );
 
           const rect = e.currentTarget.getBoundingClientRect();
           const x = e.clientX - rect.left;
           const y = e.clientY - rect.top;
           setLastClick({ x, y });
-          console.log(x, y, x * revScale, y * revScale);
+          console.log(x, y);
         }}
       />
       <div
@@ -74,7 +71,11 @@ export default function Canva({
           maxWidth: "300px",
         }}
       >
-        <img src={GuessImage} alt="Guess" style={{ maxWidth: "300px", maxHeight: "300px" }} />
+        <img
+          src={GuessImage}
+          alt="Guess"
+          style={{ maxWidth: "300px", maxHeight: "300px" }}
+        />
         <p style={{ background: "white" }}>Score : {score} </p>
       </div>
       <button
@@ -87,10 +88,10 @@ export default function Canva({
           cursor: "pointer",
         }}
         onClick={() => {
-          console.log("guess")
-          if (guessed) onContinue?.();
-          else
-          guess(lastClick.x, lastClick.y);
+          if (guessed) {
+            setGuessed(false);
+            onContinue?.();
+          } else guess(lastClick.x, lastClick.y);
         }}
       >
         {guessed ? "continuer" : "Réponse"}
@@ -121,9 +122,13 @@ export default function Canva({
     // bottom right
     var x1 = coo1.x + (bgRef.current?.offsetLeft ?? 0);
     var y1 = coo1.y + (bgRef.current?.offsetTop ?? 0);
-    // top right
-    var x2 = coo2.x + (bgRef.current?.offsetLeft ?? 0);
-    var y2 = coo2.y + (bgRef.current?.offsetTop ?? 0);
+
+    const revScale = min(
+      MAPWidth / bgRef.current!.clientWidth,
+      MAPHeight / bgRef.current!.clientHeight
+    );
+    var x2 = (coo2.x/revScale) + (bgRef.current?.offsetLeft ?? 0);
+    var y2 = (coo2.y/revScale) + (bgRef.current?.offsetTop ?? 0);
     // distance
     var length = Math.sqrt((x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1));
     // center
