@@ -9,7 +9,13 @@ export default function JeuPage() {
 
   return (
     <div style={{ width: "100%", height: "90vh" }}>
-      <Canva MapImage={Plan.src} GuessImage={Guess.src} onClick={onClick} />
+      <Canva
+        MapImage={{ ...Plan }}
+        GuessImage={Guess.src}
+        onGuess={onClick}
+        answer={{ x: 0, y: 0 }}
+        score={0}
+      />
     </div>
   );
 }
