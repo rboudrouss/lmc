@@ -71,10 +71,10 @@ export default function Canva({
           position: "absolute",
           top: "10px",
           right: "10px",
-          width: "200px",
+          maxWidth: "300px",
         }}
       >
-        <img src={GuessImage} alt="Guess" style={{ maxWidth: "100%" }} />
+        <img src={GuessImage} alt="Guess" style={{ maxWidth: "300px", maxHeight: "300px" }} />
         <p style={{ background: "white" }}>Score : {score} </p>
       </div>
       <button
