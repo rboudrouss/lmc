@@ -10,6 +10,8 @@ interface CanvaProps {
   onContinue?: () => void;
   answer: { x: number; y: number };
   score: number;
+  round: number;
+  rounds: number;
 }
 
 export default function Canva({
@@ -18,6 +20,8 @@ export default function Canva({
   answer,
   score,
   onContinue,
+  round,
+  rounds,
 }: CanvaProps) {
   let [lastClick, setLastClick] = useState({ x: 0, y: 0 });
   let [guessed, setGuessed] = useState(false);
@@ -26,8 +30,7 @@ export default function Canva({
 
   useEffect(() => {
     setScoreA(score);
-  }
-  , [score]);
+  }, [score]);
 
   const guess = (x: number, y: number) => {
     const revScale = min(
@@ -51,6 +54,17 @@ export default function Canva({
         alignItems: "center",
       }}
     >
+      <p
+        style={{
+          position: "absolute",
+          top: "10px",
+          left: "10px",
+          background: "grey",
+        }}
+      >
+        {round}/{rounds}
+      </p>
+
       <img
         ref={bgRef}
         src={MAPLink}
@@ -133,8 +147,8 @@ export default function Canva({
       MAPWidth / bgRef.current!.clientWidth,
       MAPHeight / bgRef.current!.clientHeight
     );
-    var x2 = (coo2.x/revScale) + (bgRef.current?.offsetLeft ?? 0);
-    var y2 = (coo2.y/revScale) + (bgRef.current?.offsetTop ?? 0);
+    var x2 = coo2.x / revScale + (bgRef.current?.offsetLeft ?? 0);
+    var y2 = coo2.y / revScale + (bgRef.current?.offsetTop ?? 0);
     // distance
     var length = Math.sqrt((x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1));
     // center

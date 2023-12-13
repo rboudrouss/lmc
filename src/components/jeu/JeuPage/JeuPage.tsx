@@ -2,6 +2,8 @@ import { useEffect, useState } from "react";
 import Canva from "../Canva/Canva";
 
 const NBImg = 57;
+const NBPartie = 15;
+
 function link(i: number) {
   return `/assets/jeu/${i}.jpg`;
 }
@@ -10,7 +12,7 @@ export default function JeuPage() {
   let [i, setI] = useState(0);
   let [finished, setFinished] = useState(false);
   let [turns, setTurns] = useState(
-    Array.from({ length: NBImg }, (_, i) => i).sort(() => Math.random() - 0.5)
+    Array.from({ length: NBImg }, (_, i) => i).sort(() => Math.random() - 0.5).slice(0, NBPartie)
   );
   let [score, setScore] = useState(0);
 
@@ -34,7 +36,7 @@ export default function JeuPage() {
 
   const guess = (x: number, y: number) => {
     let d = distance(x, y, answers[i][0], answers[i][1]);
-    let r = ratio(d, 20, 20);
+    let r = 10 * ratio(d, 20, 150);
     setScore(score + r);
   };
 
@@ -77,6 +79,8 @@ export default function JeuPage() {
           answer={{ x: answers[i][0], y: answers[i][1] }}
           score={score}
           onContinue={continueGame}
+          round={NBPartie - turns.length}
+          rounds={NBPartie}
         />
       )}
     </div>
