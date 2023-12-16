@@ -1,0 +1,11 @@
+---
+import Footer from "@/components/general/Footer.astro";
+import Header from "@/components/general/Header.astro";
+import JeuPage from "@/components/jeu/JeuPage/JeuPage";
+import Layout from "@/layouts/Layout.astro";
+---
+
+<Layout title="jeu">
+  <Header title="jeu" />
+  <JeuPage client:load/>
+</Layout>
