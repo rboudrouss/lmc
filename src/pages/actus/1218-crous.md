@@ -2,6 +2,7 @@
 layout: ../../layouts/ActuL.astro
 title: Mise à jour Izly
 source: https://www.instagram.com/p/C0zLiCfNc_X/
+date: 18-12-2023 23:00
 img: /assets/actus/1218-crous.png
 assos:
   - crous
