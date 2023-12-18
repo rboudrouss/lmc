@@ -2,6 +2,7 @@
 layout: ../../layouts/ActuL.astro
 title: Voyage à Athènes
 source: https://www.instagram.com/p/C09jVkVohD5/
+date: 21-01-2024 23:00
 img: /assets/actus/0121-parismus.png
 assos:
   - parismus
