@@ -17,6 +17,6 @@ Le calcul quantique offre des perspectives enthousiasmantes en matière de trait
 
 La journée veut être aussi un moment d’échange interdisciplinaire autour du calcul quantique : son évolution, ses challenges et son potentiel pour la science et l'industrie. Nous serions honorés de vous compter parmi nous pour cette exploration conjointe des horizons quantiques.
 
-[Lien D'inscription](DATE LIMITE D'INSCRIPTION  AU 9 JANVIER 2024) __DATE LIMITE D'INSCRIPTION  AU 9 JANVIER 2024__
+[Lien D'inscription](https://docs.google.com/forms/d/e/1FAIpQLSf_q8GHE_H2l77LuUBeeWqNy30A11HLqkIFrbGO3UUJk-wSVw/viewform) __DATE LIMITE D'INSCRIPTION  AU 9 JANVIER 2024__
 
 [PLUS D'INFOS](https://sciences.sorbonne-universite.fr/evenements/ip2ct-journee-quantique-quantum-day)
