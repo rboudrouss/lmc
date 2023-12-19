@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/ActuL.astro
 title: "Conférence : À quoi servent les réacteurs nucléaires du futur ?"
 date: 25-01-2024 23:00
 source: https://www.instagram.com/p/C1CvHnMi8nr/

@@ -1,8 +1,9 @@
 ---
-layout: ../../layouts/ActuL.astro
 title: "Dispositif Places Offertes #5"
 source: https://www.instagram.com/p/C0Eu3ZzisCU/
+date:
 img: /assets/actus/1223-dacflsu.png
+assos:
 ---
 
 Du __29 Novembre au 23 Décembre__, profitez du dispositif places offertes proposé par la Direction des affaires culturelles de la Faculté des Lettres de Sorbonne Université et assistez à l’événement de votre choix ! Concert, théâtre, exposition, choisissez parmi une sélection variée de spectacles organisés par nos structures partenaires.

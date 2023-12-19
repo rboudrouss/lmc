@@ -1,12 +1,12 @@
 ---
-layout: ../../layouts/ActuL.astro
 title: "Webinaire : Dérèglement climatique et systèmes de soins"
 date: 17-01-2024 23:00
 source: https://sante.sorbonne-universite.fr/evenements/dereglement-climatique-et-systemes-de-soins
 img: /assets/actus/0117-webinaire.png
+assos:
 ---
 
-__Le Mercredi 17 Janvier__ de 13h30 à 15h30
+__Mercredi 17 Janvier__ de 13h30 à 15h30
 
 [LIEN D'INSCRIPTION](https://lime3-app2.sorbonne-universite.fr/index.php/679919)
 

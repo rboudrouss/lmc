@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/ActuL.astro
 title: Atelier ARDUINO
 source: https://www.instagram.com/p/C0wCKzUNRJ5/
 date: 21-12-2023 23:00

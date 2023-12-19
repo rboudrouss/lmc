@@ -1,13 +1,13 @@
 ---
-layout: ../../layouts/ActuL.astro
 title: "IP2CT | Journée Quantique - Quantum Day !"
 date: 25-01-2024 23:00
 source: https://sciences.sorbonne-universite.fr/evenements/ip2ct-journee-quantique-quantum-day
 img: /assets/actus/0125-colloque.png
 assos:
+assos:
 ---
 
-Le __Jeudi 25 Janvier__ de 9h à 17h
+__Jeudi 25 Janvier__ de 9h à 17h
 
 Campus Pierre et Marie Curie, Centre International de Conférences, Salle 108 , Barre 44-45 1er étage
 

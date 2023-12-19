@@ -1,12 +1,12 @@
 ---
-layout: ../../layouts/ActuL.astro
 title: "Sorbonne Quantum Information Day - SQUID 2024"
 date: 15-01-2024 23:00
 source: https://www.sorbonne-universite.fr/evenements/sorbonne-quantum-information-day-squid-2024
 img: /assets/actus/0115-seminaire.png
+assos:
 ---
 
-__Le Lundi 15 Janvier__ de 8h30 à 19h30
+__Lundi 15 Janvier__ de 8h30 à 19h30
 
 Sur le Campus Pierre et Marie Curie
 

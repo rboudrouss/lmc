@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/ActuL.astro
 title: Voyage à Athènes
 source: https://www.instagram.com/p/C09jVkVohD5/
 date: 21-01-2024 23:00

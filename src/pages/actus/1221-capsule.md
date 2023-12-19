@@ -1,9 +1,9 @@
 ---
-layout: ../../layouts/ActuL.astro
 title: "Impromptu CAPSULE : Ikigai.games, une plateforme au service de nos étudiant.e.s"
 source: https://capsule.sorbonne-universite.fr/impromptu-capsule-ikigai-flashcards-gamification/
 date: 21-12-2023 23:00
 img: /assets/actus/1221-capsule.png
+assos:
 ---
 
 __Jeudi 21 Decembre de 12h45 à 13h45__
