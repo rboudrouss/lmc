@@ -55,7 +55,7 @@ export default function Actu(props: {
           )}
           {source && (
             <a href={source} className={styles.source}>
-              Source / pour plus d'info
+              SOURCE
             </a>
           )}
         </div>
