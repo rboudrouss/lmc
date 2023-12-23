@@ -3,6 +3,8 @@ title: "Étudiants, bénéficiez des offres à tarif Crous !"
 source: https://www.instagram.com/p/C0_jIWlNE5r/
 date: 18-12-2023 12:00
 img: /assets/infos/1218-crous.png
+assos:
+  - crous
 ---
 
 🤩🎪 Découvrez toutes les offres de la billetterie à tarif Crous !
