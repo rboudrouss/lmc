@@ -15,4 +15,4 @@ Avec Zeynep Or, directrice de recherche, économiste, Institut de recherche et d
 
 En France, le système de santé est responsable de plus de 8 % des émissions nationales de gaz à effet de serre. L’offre de soins représente environ 45 % de ces émissions, le reste étant dû aux médicaments et dispositifs médicaux. Selon le ministère de la santé, les Accords de Paris impliquent que le pays baisse ses émissions de santé de 5 % par an jusqu’en 2050. Un effort considérable doit aussi être accompli pour réduire les impacts du système de santé sur la biodiversité et les  milieux, les ressources naturelles et l’eau douce. De la transformation énergétique du parc immobilier, des équipements et des transports de santé à la réduction des déchets, en passant par l'essor des pratiques soutenables, quelles sont les pistes de travail pour accélérer la transition des systèmes de soins ?
 
-[PLUS D'INFOS](https://sante.sorbonne-universite.fr/evenements/dereglement-climatique-et-systemes-de-soins)
+[POUR PLUS D'INFOS](https://sante.sorbonne-universite.fr/evenements/dereglement-climatique-et-systemes-de-soins)
