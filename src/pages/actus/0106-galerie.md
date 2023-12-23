@@ -8,4 +8,4 @@ assos:
 
 Un project art et science à ne pas rater 👁️👁️🖼️
 
-[POUR PLUS D'INFOS](https://sciences.sorbonne-universite.fr/evenements/infra-terre-incursion-chromatique)
+[POUR PLUS D'INFO](https://sciences.sorbonne-universite.fr/evenements/infra-terre-incursion-chromatique)
