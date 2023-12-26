@@ -4,6 +4,7 @@ source: https://www.instagram.com/p/C1JsW5jLZvI/
 date:
 img: /assets/actus/0128-crous.png
 assos:
+  - crous
 ---
 
 💡Vous regorgez d'idées dans le domaine de la culture ? Proposez vos idées de projets !🌟
