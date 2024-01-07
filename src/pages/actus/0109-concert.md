@@ -7,10 +7,10 @@ assos:
 ---
 
 Découvrez des styles et talents de la faculté et encouragez-les en concert live !  
-de 18h30 à 20h au Foyer étudiant (tour 53)
+de __18h30 à 20h__ au Foyer étudiant (tour 53)
 
 Prochaines dates :  
-Mardi 09 Janvier  
+__Mardi 09 Janvier__
 Mardi 06 Février  
 Mardi 19 Mars  
 Mardi 14 Mai

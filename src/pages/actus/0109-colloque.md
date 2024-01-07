@@ -1,8 +1,8 @@
 ---
 title: "IP2CT | Journée Quantique - Quantum Day !"
-date: 25-01-2024 23:00
+date: 09-01-2024 23:00
 source: https://sciences.sorbonne-universite.fr/evenements/ip2ct-journee-quantique-quantum-day
-img: /assets/actus/0125-colloque.png
+img: /assets/actus/0109-colloque.png
 assos:
 ---
 
