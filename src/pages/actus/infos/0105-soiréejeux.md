@@ -7,10 +7,10 @@ assos:
   - psu
 ---
 
-Retrouvez les soirées jeux en 2024 à la MVE !
-Chaque semaine des jeux à tester, découvrir et expérimenter à plusieurs !
+Retrouvez les soirées jeux en 2024 à la MVE !  
+Chaque semaine des jeux à tester, découvrir et expérimenter à plusieurs !  
 Avec l'association étudiante [@play_sorbonne_u](https://www.instagram.com/play_sorbonne_u/)
 
-🎲 Soirée jeux
-Tous les jeudis de 18h à 21h
+🎲 Soirée jeux  
+__Tous les Jeudis de 18h à 21h__  
 Maison de la Vie Étudiante (entre les tours 23 et 24)
