@@ -1,7 +1,7 @@
 ---
 title: Soirée Jeux Tous les Jeudis
 source: https://www.instagram.com/p/C1udtc3tAcf/
-date: 05-01-2023 14:00
+date: 05-01-2024 14:00
 img: /assets/infos/0105-soiréejeux.png
 assos:
   - psu
