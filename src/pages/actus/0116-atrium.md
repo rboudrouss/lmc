@@ -7,7 +7,7 @@ assos:
   - sciences
 ---
 
-Rendez-vous le __Mardi 16 Janvier__ à l'Atrium de 10h à 14h pour découvrir toutes les formations en apprentissage de la Faculté des Sciences et Ingénierie :
+Rendez-vous le __Mardi 16 Janvier de 10h à 14h__ à l'Atrium pour découvrir toutes les formations en apprentissage de la Faculté des Sciences et Ingénierie :
 
 - Licences générales en apprentissage  
 - Licences professionnelles  

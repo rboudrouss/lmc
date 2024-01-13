@@ -40,9 +40,9 @@ export const Element_Keys = ["title", "opened", "isPage"] as const;
 export function assosToImg(assos: string) {
   if (assosNames.includes(<AssosName> assos) === false) return Default.src; // HACK kinda but hey
 
-  if (assosSvg.includes(assos)) return `/assets/assos/${assos}.svg`;
+  if (assosSvg.includes(assos)) return `/assets/logos/${assos}.svg`;
 
-  return `/assets/assos/${assos}.png`;
+  return `/assets/logos/${assos}.png`;
 }
 
 export function parseDateFromString(dateString?: string): Date | null {
