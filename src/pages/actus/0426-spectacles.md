@@ -8,4 +8,4 @@ assos:
 ---
 
 Présentation des différents spectacles du 2nd semestre !! 🎭💃🎪  
-Pensez à prendre vos billets sur: [https://activites.sorbonne-universite.fr/](https://activites.sorbonne-universite.fr/]
+Pensez à prendre vos billets sur: https://activites.sorbonne-universite.fr/

@@ -8,4 +8,4 @@ assos:
 ---
 
 Présentation des différents ateliers du 2nd semestre !!📸🎨🎶  
-Vous pouvez dès maintenant vous inscrire sur ce lien: [https://activites.sorbonne-universite.fr/](https://activites.sorbonne-universite.fr/)
+Vous pouvez dès maintenant vous inscrire sur ce lien: [https://activites.sorbonne-universite.fr/]
