@@ -1,7 +1,7 @@
 ---
 title: "Plange Regni Respublica : Musiques politiques du XIIIe au XVe siècle"
 source: https://lettres.sorbonne-universite.fr/evenements/concert%20plange-regni-respublica-musiques-politiques-du-xiiie-au-xve-siecle
-date:
+date: 18-01-2024 23:00
 img: /assets/actus/0118-concert.png
 assos:
   - lettres
