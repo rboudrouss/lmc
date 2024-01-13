@@ -3,6 +3,8 @@ title: Programmation 2024 Foyer de Clignancourt
 source: https://www.instagram.com/p/C01Hx06KgcC/
 date: 14-12-2023 12:00
 img: /assets/infos/1214-foyer.png
+assos:
+  - lettres
 ---
 
 🎲 Découvrez ce que le foyer vous réserve pour l’année 2024 !

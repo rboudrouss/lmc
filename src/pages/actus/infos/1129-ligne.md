@@ -3,6 +3,7 @@ title: Ligne d'Écoute
 source: https://www.instagram.com/p/C0Ohhz3M53b/
 date: 29-11-2023 12:00
 img: /assets/infos/1129-ligne.png
+  - sse
 ---
 
 SOUTIEN PSYCHOLOGIQUE  

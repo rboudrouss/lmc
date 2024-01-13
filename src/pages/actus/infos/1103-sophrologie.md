@@ -3,6 +3,8 @@ title: Atelier Sophrologie
 source: https://www.instagram.com/p/CzL-alCtScZ/
 date: 03-11-2023 00:00
 img: /assets/infos/1103-sophrologie.png
+assos:
+  - sse
 ---
 
 [SAVE THE DATE] 📅

@@ -4,6 +4,7 @@ date: 17-01-2024 23:00
 source: https://sante.sorbonne-universite.fr/evenements/dereglement-climatique-et-systemes-de-soins
 img: /assets/actus/0117-webinaire.png
 assos:
+  - sciences
 ---
 
 __Mercredi 17 Janvier__ de 13h30 à 15h30

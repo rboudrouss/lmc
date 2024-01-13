@@ -4,6 +4,7 @@ source: https://www.instagram.com/p/C1-ENrqrIku/
 date: 10-03-2024 23:00
 img: /assets/actus/0310-candidature.png
 assos:
+  - lettres
 ---
 
 À vos marques, prêts, brillez ! ✨  
