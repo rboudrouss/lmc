@@ -1,5 +1,5 @@
 ---
-title: "Conf CAPSULE : Hybrider nos enseignements, pour qui ? Pour quoi ?"
+title: "Conférence : Hybrider nos enseignements, pour qui ? Pour quoi ?"
 date: 24-01-2024 23:00
 source: https://capsule.sorbonne-universite.fr/conf-capsule-hybrider-enseignements-pour-qui-pour-quoi/
 img: /assets/actus/0124-capsule.png

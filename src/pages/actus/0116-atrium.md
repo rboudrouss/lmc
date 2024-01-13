@@ -4,6 +4,7 @@ date: 16-01-2024 23:00
 source: https://www.instagram.com/p/C14sFzxIbwA/
 img: /assets/actus/0116-atrium.png
 assos:
+  - sciences
 ---
 
 Rendez-vous le __Mardi 16 Janvier__ à l'Atrium de 10h à 14h pour découvrir toutes les formations en apprentissage de la Faculté des Sciences et Ingénierie :
