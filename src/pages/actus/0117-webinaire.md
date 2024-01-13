@@ -7,7 +7,7 @@ assos:
   - sciences
 ---
 
-__Mercredi 17 Janvier__ de 13h30 à 15h30
+__Mercredi 17 Janvier de 13h30 à 15h30__
 
 [LIEN D'INSCRIPTION](https://lime3-app2.sorbonne-universite.fr/index.php/679919)
 

@@ -1,6 +1,5 @@
 ---
 title: "Planning Soirée Concert"
-date: 14-05-2024 23:00
 source: https://www.instagram.com/p/C1pTM9HND9K/
 img: /assets/actus/0514-concert.png
 assos:

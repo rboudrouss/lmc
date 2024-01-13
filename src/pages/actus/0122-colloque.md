@@ -7,7 +7,7 @@ assos:
   - sciences
 ---
 
-__Jeudi 25 Janvier__ de 9h à 17h
+__Jeudi 25 Janvier de 9h à 17h__
 
 Campus Pierre et Marie Curie, Centre International de Conférences, Salle 108 , Barre 44-45 1er étage
 

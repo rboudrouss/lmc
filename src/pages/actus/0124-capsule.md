@@ -8,8 +8,7 @@ assos:
 ---
 
 Animée par Bernadette Charlier  
-__Mardi 23 Janvier__  
-__de 12h45 à 14h15__  
+__Mardi 23 Janvier de 12h45 à 14h15__  
 Salle RC27 à l’Atrium du campus Pierre et Marie Curie
 
 ENTRÉE LIBRE  
