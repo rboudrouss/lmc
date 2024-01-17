@@ -171,6 +171,7 @@ export const assosNames = [
   "amsu",
   "apeo",
   "apeps",
+  "aromaths",
   "arrimage",
   "as",
   "aumoneriecelsa",
