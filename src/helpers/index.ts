@@ -155,7 +155,7 @@ export const assosNames = [
   "adal",
   "addhm",
   "adlsd",
-  "aebip"
+  "aebip",
   "aeg",
   "aehsu",
   "aeosu",
