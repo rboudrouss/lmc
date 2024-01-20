@@ -71,8 +71,6 @@ de l'ENT :
 
 - [Se déplacer à vélo (Subvention, Location et Vélib)](https://ent.sorbonne-universite.fr/sciences-etudiants/fr/en-pratique/se-deplacer-a-velo.html)
 
-- [Myriam Abitbol, Vice-doyenne étudiante de la FSI (contact utile)](https://ent.sorbonne-universite.fr/sciences-etudiants/fr/index/myriam-abitbol-vice-doyenne-etudiante-de-la-faculte-des-sciences-et-ingenierie.html)
-
 - [Vie Associative (comment créer son association)](https://ent.sorbonne-universite.fr/sciences-etudiants/fr/vie-etudiante/vie-associative.html)
 
 - [Harcèlement : comment agir ?](https://ent.sorbonne-universite.fr/sciences-etudiants/fr/vie-etudiante/egalite-et-lutte-contre-les-discriminations/harcelement-comment-agir.html)
