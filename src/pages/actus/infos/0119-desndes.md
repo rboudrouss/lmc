@@ -2,7 +2,7 @@
 title: "Atelier d'écriture & projet jeu"
 source: https://www.instagram.com/p/C2R-XLDIsFS/
 date: 19-01-2024 12:00
-img: /assets/infos/0116-desndes.png
+img: /assets/infos/0119-desndes.png
 assos:
   - desndes
 ---
