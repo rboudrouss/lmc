@@ -1,5 +1,5 @@
 ---
-title: Culture ActionS
+title: Install Party
 source: https://www.instagram.com/p/C2KE-lhirsw/
 date: 27-01-2024 23:00
 img: /assets/actus/0127-alias.png
