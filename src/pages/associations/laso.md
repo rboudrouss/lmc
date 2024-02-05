@@ -4,6 +4,8 @@ affiliation : "su","lettres"
 
 typeasso : "evenementiel"
 
+logo : "/assets/logos/laso.png"
+
 description : "LA SO’ anime la vie étudiante sur et hors campus grâce à des ateliers et des afterwork. Elle vous aide également en vous fournissant des informations et conseils sur l’administration, votre orientation et la vie universitaire."
 
 video : "https://www.youtube.com/watch?v=6nsbgG581pA"
