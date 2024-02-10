@@ -4,7 +4,7 @@ titre : "Play Sorbonne Université"
 
 affiliation : "su","sciences"
 
-typeasso : "ludique"
+typeasso : "ludique","artistique"
 
 logo : "/assets/logos/psu.png"
 

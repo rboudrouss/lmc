@@ -2,7 +2,7 @@ titre : "Green Wave Sorbonne"
 
 affiliation : "lettres"
 
-typeasso : "ecologique"
+typeasso : "ecologie"
 
 logo : "/assets/logos/greenwave.png"
 

@@ -4,7 +4,7 @@ titre : "Sorbonne Model United Nations"
 
 affiliation : "lettres"
 
-typeasso : "autre"
+typeasso : "debat"
 
 logo : "/assets/logos/somun.png"
 

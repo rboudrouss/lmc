@@ -2,7 +2,7 @@ titre : "La Madeleine"
 
 affiliation : "su","celsa"
 
-typeasso : "litteraire"
+typeasso : "autre"
 
 logo : "/assets/logos/lamadeleine.png"
 

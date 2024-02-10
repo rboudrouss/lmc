@@ -2,7 +2,7 @@ titre : "Fais pas genre"
 
 affiliation : "celsa"
 
-typeasso : "feministe"
+typeasso : "feminisme","autre"
 
 logo : "/assets/logos/faispasgenre.png"
 

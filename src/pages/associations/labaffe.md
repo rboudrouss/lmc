@@ -2,7 +2,7 @@ titre : "La BAFFE"
 
 affiliation : "su"
 
-typeasso : "feministe"
+typeasso : "feminisme"
 
 logo : "/assets/logos/labaffe.png"
 

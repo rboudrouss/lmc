@@ -4,7 +4,7 @@ affiliation : "sciences"
 
 typeasso : "filiere"
 
-logo : "/assets/logos/topaero.svg"
+logo : "/assets/logos/topaero.png"
 
 description : "Top Aéro a pour objet l'accompagnement des initiatives étudiantes touchant à amL8/l'aéronautique et l'aérospatiale et à les promouvoir auprès de la communauté étudiante."
 

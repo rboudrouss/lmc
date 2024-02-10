@@ -2,7 +2,7 @@ titre : "Sorbonne Sciences debate club"
 
 affiliation : "sciences"
 
-typeasso : "autre"
+typeasso : "debat"
 
 logo : "/assets/logos/debateclub.png"
 

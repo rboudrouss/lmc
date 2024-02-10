@@ -2,7 +2,7 @@ titre : "Le Cels’Green
 
 affiliation : "celsa"
 
-typeasso : "ecologique"
+typeasso : "ecologie"
 
 logo : "/assets/logos/celsgreen.png"
 

@@ -2,7 +2,7 @@ titre : "PSA Green"
 
 affiliation : "sante"
 
-typeasso : "ecologique"
+typeasso : "ecologie"
 
 logo : "/assets/logos/psagreen.png"
 

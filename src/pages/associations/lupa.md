@@ -4,7 +4,7 @@ titre : "Les Universitaires Planteurs d'Alternatives"
 
 affiliation : "sciences"
 
-typeasso : "ecologique","solidarite"
+typeasso : "ecologie","solidarite"
 
 logo : "/assets/logos/lupa.png"
 

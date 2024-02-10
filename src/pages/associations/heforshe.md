@@ -4,7 +4,7 @@ titre : "He for She"
 
 affiliation : "polytech"
 
-typeasso : "feministe"
+typeasso : "feminisme"
 
 logo : "/assets/logos/heforshe.png"
 

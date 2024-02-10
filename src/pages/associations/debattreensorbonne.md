@@ -2,7 +2,7 @@ titre : "Débattre en Sorbonne"
 
 affiliation : "lettres"
 
-typeasso : "autre"
+typeasso : "debat"
 
 logo : "/assets/logos/debattreensorbonne.png"
 

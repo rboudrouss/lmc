@@ -2,7 +2,7 @@ titre : "Révolte-Toi Sorbonne"
 
 affiliation : "lettres"
 
-typeasso : "autre"
+typeasso : "debat"
 
 logo : "/assets/logos/revoltetoisorbonne.png"
 

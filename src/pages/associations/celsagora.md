@@ -2,7 +2,7 @@ titre : "Cels’Agora"
 
 affiliation : "celsa"
 
-typeasso : "autre"
+typeasso : "debat"
 
 logo : "/assets/logos/celsagora.png"
 

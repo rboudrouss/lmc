@@ -4,7 +4,7 @@ titre : "Association de l'informatique compétitive et entrepreneuriale"
 
 affiliation : "sciences"
 
-typeasso : "autre"
+typeasso : "entrepreneuriat"
 
 logo : "/assets/logos/aces.png"
 

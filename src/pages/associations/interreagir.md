@@ -2,7 +2,7 @@ titre : "InTerreAgir"
 
 affiliation : "polytech"
 
-typeasso : "ecologique"
+typeasso : "ecologie"
 
 logo : "/assets/logos/interragir.png"
 

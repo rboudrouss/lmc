@@ -2,7 +2,7 @@ titre : "Les Faloppes"
 
 affiliation : "sante"
 
-typeasso : "feministe"
+typeasso : "feminisme","autre"
 
 logo : "/assets/logos/lesfaloppes.png"
 
