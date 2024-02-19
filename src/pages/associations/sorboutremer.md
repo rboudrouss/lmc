@@ -10,6 +10,8 @@ linktree : "https://linktr.ee/Sorboutremer"
 
 site : "https://sorboutremer.wordpress.com/"
 
+helloasso : "https://www.helloasso.com/associations/sorb-outremer/"
+
 instagram : "https://www.instagram.com/sorboutremer/"
 
 linkedin : "https://www.linkedin.com/company/sorb%E2%80%99outremer/"
