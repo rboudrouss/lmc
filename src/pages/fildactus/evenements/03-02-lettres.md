@@ -25,4 +25,4 @@ JPO MASTER
 
 🌐 Restez connectés, la Faculté des Lettres vous dévoilera son programme JPO et des informations sur les études en master tout au long du mois de février.
 
-👉 [Pour plus d’informations, rendez-vous sur le site internet de la Faculté des Lettres.](https://lettres.sorbonne-universite.fr/)
+👉 [POUR PLUS D'INFOS](https://lettres.sorbonne-universite.fr/evenements/journee-portes-ouvertes-masters-2024-programme)

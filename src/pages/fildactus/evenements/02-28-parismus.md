@@ -26,3 +26,5 @@ Cette séance sera précédée par un quiz sur le thème du voyage.
 📍Cinéma les 3 Luxembourg, Paris 6e  
 📌 20 places gratuites pour la communauté de Sorbonne Université  
 🎟️ [Tarifs -25 ans et communauté Sorbonne Université : 6€](https://www.lestroisluxembourg.com/reserver/F5146/D1709146800/VO/269614/)
+
+[PLUS D'INFOS](https://lettres.sorbonne-universite.fr/evenements/cine-club-parismus-mamma-mia-de-phyllida-lloyd)
