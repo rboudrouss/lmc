@@ -7,7 +7,7 @@ auteur : "parismus"
 
 affiliation : 
 
-image : "/assets/fildactus/evenements/03-28-parismus.png"
+image : "/assets/fildactus/evenements/02-28-parismus.png"
 
 source : "https://www.instagram.com/p/C3QRzDjNICt/"
 ---
