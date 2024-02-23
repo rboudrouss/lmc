@@ -2,7 +2,7 @@ titre : "Alliance"
 
 affiliation : "su"
 
-typeasso : "evenementiel","autre"
+typeasso : "autre"
 
 logo : "/assets/logos/alliance.png"
 
