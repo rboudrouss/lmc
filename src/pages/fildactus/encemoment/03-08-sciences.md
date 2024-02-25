@@ -5,7 +5,7 @@ title: "Exposition ARIA à la passerelle"
 
 auteur : "sciences" 
 
-affiliation :
+
 
 image : "/assets/fildactus/encemoment/03-08-sciences.png"
 

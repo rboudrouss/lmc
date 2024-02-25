@@ -5,7 +5,7 @@ title: "Conférence : Global Ukraine"
 
 auteur : "lettres"
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/evenements/02-29-lettres2.png"
 

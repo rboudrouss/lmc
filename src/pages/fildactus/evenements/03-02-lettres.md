@@ -5,7 +5,7 @@ title: "JPO Master"
 
 auteur : "lettres" 
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/evenements/03-02-lettres.png"
 

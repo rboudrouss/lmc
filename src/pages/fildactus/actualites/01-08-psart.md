@@ -5,7 +5,7 @@ title: "Atelier Orchestre"
 
 auteur : "psart"
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/actualites/01-08-psart.png"
 

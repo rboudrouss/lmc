@@ -5,7 +5,7 @@ title: "Le Repas des fauves"
 
 auteur : "lentracte" 
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/evenements/03-09-lentracte.png"
 

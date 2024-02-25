@@ -5,7 +5,7 @@ title: "Concours de danse et de théâtre"
 
 auteur : "crous" 
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/encemoment/02-26-crous.png"
 

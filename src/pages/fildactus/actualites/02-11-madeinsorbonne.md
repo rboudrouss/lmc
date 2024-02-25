@@ -5,7 +5,7 @@ title: "Ateliers à visée caritative"
 
 auteur : "madeinsorbonne" 
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/actualites/02-11-madeinsorbonne.png"
 

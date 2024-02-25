@@ -5,7 +5,7 @@ title: "Coffee in English"
 
 auteur : "englishsociety"
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/evenements/02-28-englishsociety.png"
 

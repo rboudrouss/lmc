@@ -5,7 +5,7 @@ title: "Travel to Lille"
 
 auteur : "parismus" 
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/evenements/03-09-parismus.png"
 

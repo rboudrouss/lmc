@@ -5,7 +5,7 @@ title: "Ateliers 2nd Semestre"
 
 auteur : "sante"
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/actualites/01-10-sante.png"
 

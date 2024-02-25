@@ -5,7 +5,7 @@ title: "Conférence : L’irrésistible ascension de l’intégrité scientifiqu
 
 auteur : "sante"
 
-affiliation :
+
 
 image : "/assets/fildactus/evenements/03-14-sante.png"
 

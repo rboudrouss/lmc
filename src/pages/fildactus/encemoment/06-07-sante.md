@@ -5,7 +5,7 @@ title: "Diplôme d'Infirmer(e) en Pratique Avancée"
 
 auteur : "sante" 
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/encemoment/06-07-sante.png"
 

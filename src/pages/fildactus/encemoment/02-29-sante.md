@@ -5,7 +5,7 @@ title: "Semaine Thématique sur le Cancer à la Bibliothèque Saint Antoine"
 
 auteur : "sante"
 
-affiliation :
+
 
 image : "/assets/fildactus/encemoment/02-29-sante.png"
 

@@ -5,7 +5,7 @@ title: "Forum de l'opération Phénix 2024 : à la découverte des métiers de l
 
 auteur : "lettres" 
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/evenements/02-27-lettres.png"
 

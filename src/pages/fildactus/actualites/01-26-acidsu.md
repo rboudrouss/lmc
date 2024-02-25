@@ -5,7 +5,7 @@ title: "Coaching de Chimir"
 
 auteur : "acidsu"
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/actualites/01-26-acidsu.png"
 

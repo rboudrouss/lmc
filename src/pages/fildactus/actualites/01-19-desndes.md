@@ -5,7 +5,7 @@ title: "Atelier d'écriture & projet jeu"
 
 auteur : "desndes"
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/actualites/01-19-desndes.png"
 

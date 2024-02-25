@@ -5,7 +5,7 @@ title: "Découvrez la Maison de la Recherche lors des JPO Master"
 
 auteur : "lettres" 
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/evenements/03-02-lettres2.png"
 

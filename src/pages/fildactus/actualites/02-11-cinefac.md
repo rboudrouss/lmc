@@ -5,7 +5,7 @@ title: "Groupe de Lecture de Scénario"
 
 auteur : "cinefac" 
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/actualites/02-11-cinefac.png"
 

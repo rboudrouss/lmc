@@ -5,7 +5,7 @@ title: "Atelier BIOPUCE"
 
 auteur : "fablab"
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/evenements/02-28-fablab.png"
 

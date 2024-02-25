@@ -5,7 +5,7 @@ title: "Comment s'inscrire en Master ?"
 
 auteur : "sciences" 
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/actualites/02-13-sciences.png"
 

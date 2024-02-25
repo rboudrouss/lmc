@@ -5,7 +5,7 @@ title: "Ateliers Conseils du Mardi"
 
 auteur : "crous"
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/actualites/01-17-crous.png"
 

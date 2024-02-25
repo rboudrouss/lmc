@@ -5,7 +5,7 @@ title: "Dispositif Places Offertes #7"
 
 auteur : "lettres" 
 
-affiliation :
+
 
 image : "/assets/fildactus/encemoment/03-30-lettres.png"
 

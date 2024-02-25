@@ -5,7 +5,7 @@ title: "Stage étudiant : quels sont vos droits"
 
 auteur : "etugouv" 
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/actualites/02-21-etugouv.png"
 

@@ -5,7 +5,7 @@ title: "Les aides financières + pack numérique"
 
 auteur : "sciences" 
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/actualites/02-01-sciences.png"
 

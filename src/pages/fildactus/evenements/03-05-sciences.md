@@ -5,7 +5,9 @@ title: "Ciné-Débat : L'IA, miroir de nos préjugés ?"
 
 auteur : "sciences"
 
-affiliation : "su","sciences"
+affiliation :
+  - su
+  - sciences
 
 image : "/assets/fildactus/evenements/03-05-sciences.png"
 

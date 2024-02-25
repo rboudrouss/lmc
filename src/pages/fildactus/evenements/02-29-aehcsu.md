@@ -5,7 +5,7 @@ title: "Bah Loulou Pub"
 
 auteur : "aehcsu"
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/evenements/02-29-aehcsu.png"
 

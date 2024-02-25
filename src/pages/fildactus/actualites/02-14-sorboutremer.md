@@ -5,7 +5,7 @@ title: "Guide Étudiants Ultramarins"
 
 auteur : "sorboutremer" 
 
-affiliation : 
+ 
 
 image :
 

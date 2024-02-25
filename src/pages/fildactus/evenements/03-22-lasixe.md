@@ -5,7 +5,7 @@ title: "GENEIVS"
 
 auteur : "lasixe" 
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/evenements/03-22-lasixe.png"
 

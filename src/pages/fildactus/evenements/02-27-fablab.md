@@ -5,7 +5,7 @@ title: "Initiation à la découpeuse Laser et au Dessin Vectoriel"
 
 auteur : "fablab"
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/evenements/02-27-fablab.png"
 

@@ -5,7 +5,7 @@ title: "Conférence : Situations sanitaires exceptionnelles"
 
 auteur : "sante"
 
-affiliation :
+
 
 image : "/assets/fildactus/evenements/05-18-sante.png"
 

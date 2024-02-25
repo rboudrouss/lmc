@@ -5,7 +5,7 @@ title: "Santé et Politique : un mariage de raison ?"
 
 auteur : "sante"
 
-affiliation :
+
 
 image : "/assets/fildactus/evenements/04-04-sante.png"
 

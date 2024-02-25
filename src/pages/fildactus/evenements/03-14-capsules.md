@@ -5,7 +5,7 @@ title: "Conf CAPSULE : Mettre en cohérence l'approche par compétence"
 
 auteur : "capsules"
 
-affiliation :
+
 
 image : "/assets/fildactus/evenements/03-14-capsules.png"
 

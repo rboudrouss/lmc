@@ -5,7 +5,7 @@ title: "Hoodie Timarcha"
 
 auteur : "timarcha" 
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/actualites/02-22-timarcha.png"
 

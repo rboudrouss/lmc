@@ -5,7 +5,7 @@ title: "Café Prof : Lauren Coolen"
 
 auteur : "curieosity"
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/evenements/02-28-curieosity.png"
 

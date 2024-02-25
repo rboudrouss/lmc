@@ -5,7 +5,7 @@ title: "Ciné Club Parismus : Mamma Mia"
 
 auteur : "parismus"
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/evenements/02-28-parismus.png"
 

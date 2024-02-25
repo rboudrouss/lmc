@@ -5,7 +5,7 @@ title: "Question pour un Celsien"
 
 auteur : "lecomptoir" 
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/evenements/02-26-lecomptoir.png"
 

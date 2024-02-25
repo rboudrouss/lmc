@@ -5,7 +5,7 @@ title: "UFR Chimie | Global Women's Breakfast 2024"
 
 auteur : "sciences" 
 
-affiliation :
+
 
 image : "/assets/fildactus/evenements/02-27-sciences.png"
 

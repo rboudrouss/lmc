@@ -5,7 +5,7 @@ title: "Garantir la sécurité de l'éducation dans le monde arabe : Perspective
 
 auteur : "aladab"
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/evenements/03-07-aladab.png"
 

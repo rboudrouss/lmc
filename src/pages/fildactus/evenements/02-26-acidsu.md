@@ -5,7 +5,7 @@ title: "Rencontre L3-Master"
 
 auteur : "acidsu" 
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/evenements/02-26-acidsu.png"
 

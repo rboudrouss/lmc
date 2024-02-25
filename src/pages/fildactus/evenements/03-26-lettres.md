@@ -5,7 +5,7 @@ title: "Concert : Nuits"
 
 auteur : "lettres"
 
-affiliation :
+
 
 image : "/assets/fildactus/evenements/03-26-lettres.png"
 

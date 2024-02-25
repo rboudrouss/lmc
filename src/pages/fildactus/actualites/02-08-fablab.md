@@ -5,7 +5,7 @@ title: "Le Repair Café"
 
 auteur : "fablab" 
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/actualites/02-08-fablab.png"
 

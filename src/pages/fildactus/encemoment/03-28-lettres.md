@@ -5,7 +5,7 @@ title: "Certification Niveau de Français"
 
 auteur : "lettres" 
 
-affiliation :
+
 
 image : "/assets/fildactus/encemoment/03-28-lettres.png"
 

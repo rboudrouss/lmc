@@ -5,7 +5,7 @@ title: "Projection Courts-Métrages"
 
 auteur : "cinefac"
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/evenements/02-28-cinefac.png"
 

@@ -5,7 +5,7 @@ title: "Destins croisés : Dvořák / Tchaïkovsky"
 
 auteur : "lettres"
 
-affiliation :
+
 
 image : "/assets/fildactus/evenements/03-12-lettres.png"
 

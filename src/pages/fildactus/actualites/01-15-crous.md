@@ -5,7 +5,7 @@ title: "Service Social du Crous de Paris"
 
 auteur : "crous"
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/actualites/01-15-crous.png"
 

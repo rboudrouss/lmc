@@ -5,7 +5,7 @@ title: "Appel à Films : envoie-nous ton court-métrage !"
 
 auteur : "cinefac" 
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/encemoment/03-31-cinefac.png"
 

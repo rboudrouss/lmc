@@ -5,7 +5,7 @@ title: "Impromptu CAPSULE : Ikigai.games, une plateforme au service de nos étud
 
 auteur : "capsules"
 
-affiliation :
+
 
 image : "/assets/fildactus/evenements/02-29-capsules.png"
 

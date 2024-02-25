@@ -5,7 +5,7 @@ title: "Informations Importantes Mon Master"
 
 auteur : "geonautes" 
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/actualites/02-13-geonautes.png"
 

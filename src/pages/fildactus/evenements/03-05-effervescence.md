@@ -5,7 +5,7 @@ title: "Table Ronde"
 
 auteur : "effervescence" 
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/evenements/03-05-effervescence.png"
 

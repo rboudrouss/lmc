@@ -3,9 +3,12 @@ date : "29-02-2024 23:00"
 
 title: "Apéro Bissextile"
 
-auteur : "parismus","telesorbonne","sorbinouze"
+auteur :
+  - parismus
+  - telesorbonne
+  - sorbinouze
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/evenements/02-29-event.png"
 

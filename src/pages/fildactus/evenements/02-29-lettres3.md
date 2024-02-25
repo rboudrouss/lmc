@@ -5,7 +5,7 @@ title: "Réunions d'information sur la formation professionnelle continue"
 
 auteur : "lettres"
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/evenements/02-29-lettres3.png"
 

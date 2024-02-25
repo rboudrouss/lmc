@@ -5,7 +5,7 @@ title: "Tendem Musical Franco-Allemand : Appel à Candidature"
 
 auteur : "crous" 
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/encemoment/02-26-crous.png"
 

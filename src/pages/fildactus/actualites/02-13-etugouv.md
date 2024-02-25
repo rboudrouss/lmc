@@ -5,7 +5,7 @@ title: "Journée Mondiale de la Radio"
 
 auteur : "etugouv" 
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/actualites/02-13-etugouv.png"
 

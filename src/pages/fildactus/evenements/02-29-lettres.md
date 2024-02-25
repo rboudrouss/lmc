@@ -5,7 +5,7 @@ title: "Écopoétique des contes : porosités du merveilleux"
 
 auteur : "lettres"
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/evenements/02-29-lettres.png"
 

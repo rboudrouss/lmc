@@ -5,7 +5,7 @@ title: "Université Inter-Âges : Cycle de Conférence en Distanciel"
 
 auteur : "lettres" 
 
-affiliation :
+
 
 image : "/assets/fildactus/encemoment/03-25-lettres.png"
 

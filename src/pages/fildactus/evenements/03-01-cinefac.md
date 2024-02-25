@@ -5,7 +5,7 @@ title: "Projection : Guetter l'Aurore"
 
 auteur : "cinefac"
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/evenements/03-01-cinefac.png"
 

@@ -5,7 +5,7 @@ title: "Journée Internationale des Maladie Rares"
 
 auteur : "sante"
 
-affiliation :
+
 
 image : "/assets/fildactus/evenements/02-29-sante.png"
 

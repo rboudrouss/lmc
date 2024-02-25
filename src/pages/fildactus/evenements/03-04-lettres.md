@@ -5,7 +5,7 @@ title: "Rencontre autour de Ombre pour ombre en présence d'Annie Le Brun"
 
 auteur : "lettres"
 
-affiliation :
+
 
 image : "/assets/fildactus/evenements/03-04-lettres.png"
 

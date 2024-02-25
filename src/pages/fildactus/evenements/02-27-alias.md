@@ -5,7 +5,7 @@ title: "Mini-Games #1"
 
 auteur : "alias" 
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/evenements/02-27-alias.png"
 

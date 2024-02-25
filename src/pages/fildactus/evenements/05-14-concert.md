@@ -5,7 +5,7 @@ title: "Soirée Concert"
 
 auteur : "sciences"
 
-affiliation :
+
 
 image : "/assets/fildactus/evenements/concert.png"
 

@@ -5,7 +5,7 @@ title: "Brunch des Orientations Scientifiques"
 
 auteur : "avebmc"
 
-affiliation :
+
 
 image : "/assets/fildactus/evenements/03-08-avebmc.png"
 

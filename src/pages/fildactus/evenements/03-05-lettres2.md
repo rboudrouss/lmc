@@ -5,7 +5,7 @@ title: "Pause-musique du COSU #2"
 
 auteur : "lettres"
 
-affiliation :
+
 
 image : "/assets/fildactus/evenements/03-05-lettres2.png"
 

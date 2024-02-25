@@ -5,7 +5,7 @@ title: "Chaussettes Psychomot"
 
 auteur : "apeps" 
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/actualites/02-17-apeps.png"
 

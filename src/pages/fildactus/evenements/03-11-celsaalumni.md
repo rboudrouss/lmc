@@ -5,7 +5,7 @@ title: "Atelier Carrière : <<Quels sont vos atouts concurrentiels>>"
 
 auteur : "celsaalumni"
 
-affiliation :
+
 
 image : "/assets/fildactus/evenements/03-11-celsaalumni.png"
 

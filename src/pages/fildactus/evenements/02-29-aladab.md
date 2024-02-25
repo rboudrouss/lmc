@@ -5,7 +5,7 @@ title: "Projection & Débat"
 
 auteur : "aladab"
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/evenements/02-29-aladab.png"
 

@@ -5,7 +5,7 @@ title: "Le Prix Effervescence : Concours de nouvelles"
 
 auteur : "effervescence" 
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/encemoment/03-31-effervescence.png"
 

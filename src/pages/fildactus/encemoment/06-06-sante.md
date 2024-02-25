@@ -5,7 +5,9 @@ title: "Un semestre avec les académiciens"
 
 auteur : "sante" 
 
-affiliation : "su","sante"
+affiliation : 
+  - su
+  - sante
 
 image : "/assets/fildactus/encemoment/06-06-sante.png"
 

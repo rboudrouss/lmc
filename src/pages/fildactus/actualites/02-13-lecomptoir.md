@@ -5,7 +5,7 @@ title: "Pull de Promo CELSA"
 
 auteur : "lecomptoir"
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/actualites/02-13-lecomptoir.png"
 

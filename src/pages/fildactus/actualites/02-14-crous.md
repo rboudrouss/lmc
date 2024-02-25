@@ -5,7 +5,7 @@ title: "Recensement de la population 2024"
 
 auteur : "crous" 
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/actualites/02-14-crous.png"
 

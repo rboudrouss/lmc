@@ -5,7 +5,7 @@ title: "Conférence : L’influence du poème médiéval sur l'œuvre de Tolkien
 
 auteur : "lettres"
 
-affiliation : 
+ 
 
 image : "/assets/fildactus/evenements/02-28-lettres.png"
 
