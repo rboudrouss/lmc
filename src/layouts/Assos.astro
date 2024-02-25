@@ -20,7 +20,7 @@ type Props = MarkdownLayoutProps<{
 }>;
 
 let {
-  frontmatter: { title, short, image, mail, links },
+  frontmatter: { title, short="", image, mail, links=[] },
   url,
 } = Astro.props;
 
