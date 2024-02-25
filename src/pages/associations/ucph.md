@@ -1,29 +1,21 @@
-acronyme : "UCPH"
+---
+acronyme: UCPH
+titre: Une couverture pour l’hiver
+affiliation: 
+   - su
 
-titre : "Une couverture pour l’hiver"
+typeasso: 
+   - solidarite
 
-affiliation : "su"
-
-typeasso : "solidarite"
-
-logo : "/assets/logos/ucph.png"
-
-description : "Une Couverture Pour l'Hiver est une association d’aide aux personnes sans-abri. Lors de maraudes hebdomadaires, les bénévoles distribuent des produits de première nécessité et échangent avec les personnes rencontrées. UCPH assure aussi différents formats de temps de rencontres, pour échanger au sujet des personnes sans-abri et écouter celles qui ont vécu à la rue."
-
-video : "https://www.youtube.com/watch?v=JmrXAWwsXxQ"
-
-linktree : "https://linktr.ee/unecouverture_ucph"
-
-site : "https://www.unecouverture.fr/"
-
-helloasso : "https://www.helloasso.com/associations/une-couverture-pour-l-hiver"
-
-instagram : "https://www.instagram.com/unecouverture_ucph/"
-
-linkedin : "https://www.linkedin.com/company/unecouverturepourl'hiverucph/"
-
-facebook : "https://www.facebook.com/unecouverturepourlhiver/"
-
-twitter : "https://twitter.com/unecouverture"
-
-mail : "unecouverture@gmail.com"
+logo: /assets/logos/ucph.png
+description: "Une Couverture Pour l'Hiver est une association d’aide aux personnes sans-abri. Lors de maraudes hebdomadaires, les bénévoles distribuent des produits de première nécessité et échangent avec les personnes rencontrées. UCPH assure aussi différents formats de temps de rencontres, pour échanger au sujet des personnes sans-abri et écouter celles qui ont vécu à la rue."
+video: https://www.youtube.com/watch?v=JmrXAWwsXxQ
+linktree: https://linktr.ee/unecouverture_ucph
+site: https://www.unecouverture.fr/
+helloasso: https://www.helloasso.com/associations/une-couverture-pour-l-hiver
+instagram: https://www.instagram.com/unecouverture_ucph/
+linkedin: https://www.linkedin.com/company/unecouverturepourl'hiverucph/
+facebook: https://www.facebook.com/unecouverturepourlhiver/
+twitter: https://twitter.com/unecouverture
+mail: unecouverture@gmail.com
+---

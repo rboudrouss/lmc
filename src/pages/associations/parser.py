@@ -1,7 +1,7 @@
 # parser convertie la syntaxe rotor en syntaxe valide md
+MAYARRAY = ["affiliation", "typeasso"]
 
 import os
-import json
 
 files = os.listdir(".")
 mds = list(filter(lambda x : x.endswith("md") and not x.startswith("index"), files)) # on garde que les fichiers du dossier qui sont des .md
@@ -25,15 +25,21 @@ for md in mds:
       lastKey = key
       outJson[key] = value
     else:
-      outJson[lastKey] += "\n"
+      outJson[lastKey] += "\\n"
       outJson[lastKey] += line
-    
+
+  for may in MAYARRAY:
+    if may not in outJson: continue
+    value = map(lambda x:f"   - {x}\n", outJson[may].split(","))
+    outJson[may] = "\n" + "".join(list(value))
   
-  lines = map(lambda x:f"{x} : \"{outJson[x]}\"\n", outJson)
+  lines = map(lambda x: f"{x}: {outJson[x]}\n" if x != "description" else f"{x}: \"{outJson[x]}\"\n", outJson)
   out = "---\n"
   out += "".join(lines)
   out += "---"
 
-  print(out)
+  # print(out)
+
+  with open(md, "w") as f:
+    f.write(out)
     
-  # print(json.dumps(outJson, ensure_ascii=False))

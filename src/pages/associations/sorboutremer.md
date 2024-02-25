@@ -1,23 +1,18 @@
-titre : "Sorboutremer"
+---
+titre: Sorboutremer
+affiliation: 
+   - lettres
 
-affiliation : "lettres"
+typeasso: 
+   - autre
 
-typeasso : "autre"
-
-logo : "/assets/logos/sorboutremer.png"
-
-linktree : "https://linktr.ee/Sorboutremer"
-
-site : "https://sorboutremer.wordpress.com/"
-
-helloasso : "https://www.helloasso.com/associations/sorb-outremer/"
-
-instagram : "https://www.instagram.com/sorboutremer/"
-
-linkedin : "https://www.linkedin.com/company/sorb%E2%80%99outremer/"
-
-facebook : "https://www.facebook.com/SorbOutremer"
-
-twitter : "https://twitter.com/sorboutremer"
-
-mail : "sorb.outremer@gmail.com"
+logo: /assets/logos/sorboutremer.png
+linktree: https://linktr.ee/Sorboutremer
+site: https://sorboutremer.wordpress.com/
+helloasso: https://www.helloasso.com/associations/sorb-outremer/
+instagram: https://www.instagram.com/sorboutremer/
+linkedin: https://www.linkedin.com/company/sorb%E2%80%99outremer/
+facebook: https://www.facebook.com/SorbOutremer
+twitter: https://twitter.com/sorboutremer
+mail: sorb.outremer@gmail.com
+---

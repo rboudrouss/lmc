@@ -1,9 +1,11 @@
-titre : "Bunny’s Cheers"
+---
+titre: Bunny’s Cheers
+affiliation: 
+   - polytech
 
-affiliation : "polytech"
+typeasso: 
+   - sports
 
-typeasso : "sports"
-
-instagram : "https://www.instagram.com/bunnyscheers/"
-
-facebook : "https://www.facebook.com/bunnyscheers/"
+instagram: https://www.instagram.com/bunnyscheers/
+facebook: https://www.facebook.com/bunnyscheers/
+---

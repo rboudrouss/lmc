@@ -1,17 +1,15 @@
-titre : "Wolfpack"
+---
+titre: Wolfpack
+affiliation: 
+   - su
 
-affiliation : "su"
+typeasso: 
+   - sports
 
-typeasso : "sports"
-
-logo : "/assets/logos/wolfpack.png"
-
-linktree : "https://linktr.ee/wolfpackSU"
-
-instagram : "https://www.instagram.com/wolfpacksorbonne/"
-
-facebook : "https://www.facebook.com/PompomsSorbonneU/"
-
-tiktok : "https://www.tiktok.com/@wolfpacksorbonne"
-
-mail : "wolfpackupmc@gmail.com"
+logo: /assets/logos/wolfpack.png
+linktree: https://linktr.ee/wolfpackSU
+instagram: https://www.instagram.com/wolfpacksorbonne/
+facebook: https://www.facebook.com/PompomsSorbonneU/
+tiktok: https://www.tiktok.com/@wolfpacksorbonne
+mail: wolfpackupmc@gmail.com
+---

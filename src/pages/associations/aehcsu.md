@@ -1,13 +1,13 @@
-acronyme : "AEHCSU"
+---
+acronyme: AEHCSU
+titre: Association des Étudiants en Histoire Contemporaine de Sorbonne Université
+affiliation: 
+   - lettres
 
-titre : "Association des Étudiants en Histoire Contemporaine de Sorbonne Université"
+typeasso: 
+   - filière
 
-affiliation : "lettres"
-
-typeasso : "filière"
-
-logo : "/assets/logos/aehcsu.png"
-
-logooriginal : "/assets/logos/aehcsu_o.png"
-
-instagram : "https://www.instagram.com/aehcsu/"
+logo: /assets/logos/aehcsu.png
+logooriginal: /assets/logos/aehcsu_o.png
+instagram: https://www.instagram.com/aehcsu/
+---

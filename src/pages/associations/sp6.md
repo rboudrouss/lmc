@@ -1,13 +1,13 @@
-acronyme : "SP6"
+---
+acronyme: SP6
+titre: Stade Paris 6 Rugby
+affiliation: 
+   - sciences
 
-titre : "Stade Paris 6 Rugby"
+typeasso: 
+   - sports
 
-affiliation : "sciences"
-
-typeasso : "sports"
-
-logo : "/assets/logos/sp6.png"
-
-instagram : "https://www.instagram.com/sp6_rugby/"
-
-facebook : "https://www.facebook.com/stadeparis6/"
+logo: /assets/logos/sp6.png
+instagram: https://www.instagram.com/sp6_rugby/
+facebook: https://www.facebook.com/stadeparis6/
+---

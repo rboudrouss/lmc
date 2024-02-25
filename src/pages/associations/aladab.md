@@ -1,13 +1,13 @@
-titre : "Al-Adab"
+---
+titre: Al-Adab
+affiliation: 
+   - lettres
 
-affiliation : "lettres"
+typeasso: 
+   - autre
 
-typeasso : "autre"
-
-logo : "/assets/logos/aladab.png"
-
-linktree : "https://linktr.ee/adab.su"
-
-instagram : "https://www.instagram.com/adab_su/"
-
-mail : "adab.sorbonne@gmail.com"
+logo: /assets/logos/aladab.png
+linktree: https://linktr.ee/adab.su
+instagram: https://www.instagram.com/adab_su/
+mail: adab.sorbonne@gmail.com
+---

@@ -1,11 +1,12 @@
-titre : "Le Studio"
+---
+titre: Le Studio
+affiliation: 
+   - celsa
 
-affiliation : "celsa"
+typeasso: 
+   - artistique
 
-typeasso : "artistique"
-
-logo : "/assets/logos/lestudio.png"
-
-instagram : "https://www.instagram.com/lestudiocelsa/"
-
-linkedin : "https://www.linkedin.com/company/le-studio-celsa/"
+logo: /assets/logos/lestudio.png
+instagram: https://www.instagram.com/lestudiocelsa/
+linkedin: https://www.linkedin.com/company/le-studio-celsa/
+---
