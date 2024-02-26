@@ -4,7 +4,7 @@ affiliation:
    - polytech
 
 typeasso: 
-   - fillere
+   - filiere
 
 logo: /assets/logos/robotech.png
 logooriginal: /assets/logos/robotech_o.png
