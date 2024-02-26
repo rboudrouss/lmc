@@ -6,6 +6,7 @@ import twitter from "../icons/twitter.svg";
 import youtube from "../icons/youtube.svg";
 import linkedin from "../icons/linkedin.svg";
 import Default from "../icons/default.svg";
+import type { MDXInstance, MarkdownInstance } from "astro";
 
 export interface Element_Drop {
   title: string;
@@ -15,6 +16,82 @@ export interface Element_Drop {
   content: ReactNode;
   isMd?: boolean;
   persistant?: boolean;
+}
+
+export type TypeAsso =
+  | "filiere"
+  | "cursus"
+  | "ludique"
+  | "artistique"
+  | "evenementiel"
+  | "sports"
+  | "solidarite"
+  | "entrepreneuriat"
+  | "feminisme"
+  | "syndicat"
+  | "autre";
+
+export type Affiliations =
+  | "su"
+  | "sciences"
+  | "lettres"
+  | "sante"
+  | "polytech"
+  | "celsa";
+
+export interface LinksAssos {
+  helloasso?: string;
+  instagram?: string;
+  discord?: string;
+  youtube?: string;
+  twitch?: string;
+  linkedin?: string;
+  facebook?: string;
+  twitter?: string;
+  tiktok?: string;
+  mail?: string;
+  site?: string;
+}
+
+export interface Assos {
+  acronyme?: string;
+  titre: string;
+  affiliation?: Affiliations[];
+  typeasso?: TypeAsso[];
+  logo: string;
+  logooriginal?: string;
+  description?: string;
+  video?: string;
+  links?: LinksAssos;
+  url: string;
+}
+
+export function rawMDAssosToAssos(e: MarkdownInstance<Assos>): Assos {
+  return {
+    acronyme: e.frontmatter.acronyme,
+    titre: e.frontmatter.titre,
+    affiliation: e.frontmatter.affiliation ?? [],
+    typeasso: e.frontmatter.typeasso ?? [],
+    logo: e.frontmatter.logo,
+    logooriginal: e.frontmatter.logooriginal,
+    description: e.frontmatter.description,
+    video: e.frontmatter.video,
+    links: e.frontmatter.links,
+    url: e.url,
+  }
+}
+
+export function rawMDsToAssos(e: MarkdownInstance<Assos>[]): Assos[] {
+  return e.map(rawMDAssosToAssos);
+}
+
+export function filterAssos(l: Assos[], aff: Affiliations, type: TypeAsso): Assos[] {
+  if (!aff && !type) return l;
+  return l.filter((asso) => {
+    if (aff && asso.affiliation?.includes(aff) === false) return false;
+    if (type && asso.typeasso?.includes(type) === false) return false;
+    return true;
+  });
 }
 
 export const Empty_Element: Element_Drop = {
@@ -38,7 +115,7 @@ export interface ActuT {
 export const Element_Keys = ["title", "opened", "isPage"] as const;
 
 export function assosToImg(assos: string) {
-  if (assosNames.includes(<AssosName> assos) === false) return Default.src; // HACK kinda but hey
+  if (assosNames.includes(<AssosName>assos) === false) return Default.src; // HACK kinda but hey
 
   if (assosSvg.includes(assos)) return `/assets/logos/${assos}.svg`;
 
@@ -77,7 +154,8 @@ export function dateToStringFromToday(date?: Date): string {
 
   const diff = date.getTime() - today.getTime();
 
-  const diffDays = Math.sign(diff) * Math.floor(Math.abs(diff / (1000 * 60 * 60 * 24)));
+  const diffDays =
+    Math.sign(diff) * Math.floor(Math.abs(diff / (1000 * 60 * 60 * 24)));
 
   if (diffDays === 0) return "Aujourd'hui";
   if (diffDays === 1) return "Demain";
@@ -322,8 +400,8 @@ export const assosNames = [
   "capsule",
 ] as const;
 
-export type AssosName = typeof assosNames[number];
+export type AssosName = (typeof assosNames)[number];
 
 export const facTypes = ["lettre", "sciences", "medecine", "polytech"] as const;
 
-export type FacType = typeof facTypes[number];
+export type FacType = (typeof facTypes)[number];

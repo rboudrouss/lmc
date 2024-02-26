@@ -1,0 +1,55 @@
+---
+import Layout from "./Layout.astro";
+
+import Header from "../components/general/Header.astro";
+import Footer from "../components/general/Footer.astro";
+import TreeLink from "../components/assos/TreeLink.astro";
+import AssosLink from "../components/assos/AssosLink.astro";
+import FakeSelector from "../components/assos/FakeSelector.astro";
+
+import type { TypeAsso, Affiliations } from "../helpers";
+import { filterAssos, rawMDsToAssos } from "../helpers";
+import type { MarkdownInstance } from "astro";
+
+type Props = MarkdownInstance<{
+  typeFilter: TypeAsso;
+  affiliationFilter: Affiliations;
+}>;
+
+const titre = "Annuaire des associations";
+
+let { frontmatter: {typeFilter, affiliationFilter} } = Astro.props;
+
+console.log(typeFilter, affiliationFilter);
+
+let assoList = filterAssos(
+  rawMDsToAssos(await Astro.glob("../pages/associations/*.md")),
+  affiliationFilter,
+  typeFilter
+);
+---
+
+<Layout title={titre}>
+  <Header title={titre} />
+  <FakeSelector typeSelected={typeFilter} affSelected={affiliationFilter} />
+  <main class="content">
+    {assoList.map((asso) => <AssosLink assos={asso} />)}
+  </main>
+  <Footer />
+</Layout>
+
+<style>
+  .content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    min-height: calc(
+      100vh - 50px - 150px
+    ); /* 50px for header, 150px for footer */
+  }
+
+  h1 {
+    padding: 10px;
+  }
+</style>

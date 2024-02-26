@@ -1,0 +1,66 @@
+---
+import type { TypeAsso, Affiliations } from "../../helpers";
+interface Props {
+  typeSelected?: TypeAsso;
+  affSelected?: Affiliations;
+}
+
+const typeAssos: TypeAsso[] = [
+  "filiere",
+  "cursus",
+  "ludique",
+  "artistique",
+  "evenementiel",
+  "sports",
+  "solidarite",
+  "entrepreneuriat",
+  "feminisme",
+  "syndicat",
+  "autre",
+];
+
+const { typeSelected, affSelected } = Astro.props;
+
+const baseLink = "/associations" + (affSelected ? `/${affSelected}/` : "/");
+
+const showAll = typeSelected && affSelected;
+---
+
+<div class="affsWrapper"></div>
+
+<div class="typesWrapper">
+  {
+    typeAssos.map((type) => (
+      <a
+        href={type === typeSelected ? baseLink : baseLink + type}
+        class={`typeWrapper ${!showAll && type !== typeSelected ? "transparent" : ""}`}
+      >
+        {type}
+      </a>
+    ))
+  }
+</div>
+
+<style>
+  .typesWrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem;
+    padding: 1rem;
+  }
+
+  .typeWrapper {
+    padding: 0.5rem 1rem;
+    border-radius: 1rem;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    transition: 0.2s;
+    border: 2px solid black;
+  }
+
+  .transparent {
+    background: rgba(0, 0, 0, 0.5);
+  }
+</style>

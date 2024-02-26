@@ -1,0 +1,86 @@
+---
+import type { Assos } from "../../helpers";
+import { CelsaC, LettresC, PolyC, SanteC, SciencesC, SuC } from "./affCercles";
+
+interface Props {
+  assos: Assos;
+}
+
+const { assos } = Astro.props;
+---
+
+<div class="all">
+  {
+    assos.affiliation?.map((aff: string) => {
+      if (aff === "celsa") return <CelsaC />;
+      if (aff === "lettres") return <LettresC />;
+      if (aff === "polytech") return <PolyC />;
+      if (aff === "sante") return <SanteC />;
+      if (aff === "sciences") return <SciencesC />;
+      if (aff === "su") return <SuC />;
+    })
+  }
+
+  <a class="wrapper" href={assos.url}>
+    <img
+      src={assos.logooriginal ?? assos.logo}
+      alt={assos.titre + " logo"}
+      class="logo"
+    />
+    <p class="titre">{assos.titre}</p>
+    <p class="acronyme">{assos.acronyme && `(${assos.acronyme})`}</p>
+  </a>
+
+  {
+    assos.affiliation?.map((aff: string) => {
+      if (aff === "celsa") return <CelsaC />;
+      if (aff === "lettres") return <LettresC />;
+      if (aff === "polytech") return <PolyC />;
+      if (aff === "sante") return <SanteC />;
+      if (aff === "sciences") return <SciencesC />;
+      if (aff === "su") return <SuC />;
+    })
+  }
+</div>
+
+<style>
+  .all {
+    display: flex;
+    align-items: center;
+  }
+  .wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    outline: 1px solid black;
+    width: 60vw;
+    margin: 0.5rem 0;
+    border-radius: 50px;
+  }
+
+  @media (max-width: 900px) {
+    .wrapper {
+      width: 80vw;
+    }
+  }
+
+  .logo {
+    height: 100px;
+    object-fit: contain;
+    padding: 1rem;
+  }
+
+  .titre {
+    font-size: 1.2rem;
+    font-weight: bolder;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+
+  .acronyme {
+    font-size: 1.5rem;
+    padding: 1rem;
+    white-space: nowrap;
+  }
+</style>
