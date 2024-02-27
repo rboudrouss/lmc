@@ -7,7 +7,7 @@ typeasso:
    - artistique
    - mediatique
 
-logo: https://drive.google.com/file/d/1wLPVld19d_8crGltyIl6fdLFApmoswHM/
+logo: /assets/logos/invivo.png
 video: https://www.youtube.com/watch?v=--fri43vEuU
 site: https://www.polytech.sorbonne-universite.fr/vie-associative/invivo
 instagram: https://www.instagram.com/invivo.polytech/
