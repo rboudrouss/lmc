@@ -10,5 +10,6 @@ typeasso:
 
 logo: /assets/logos/aehcsu.png
 logooriginal: /assets/logos/aehcsu_o.png
-instagram: https://www.instagram.com/aehcsu/
+links:
+  instagram: https://www.instagram.com/aehcsu/
 ---

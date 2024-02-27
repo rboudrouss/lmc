@@ -10,7 +10,8 @@ typeasso:
 
 logo: /assets/logos/apeps.png
 description: "L'APEPS a pour objectif de faire profiter les étudiantes et étudiants en psychomotricité de la Pitié-Salpêtrière de leurs études, organiser des soirées mais aussi un gala, des événements sportifs, culturels et solidaires."
-instagram: https://www.instagram.com/apepsbde/
-facebook: https://www.facebook.com/apeps.bde
+links:
+  instagram: https://www.instagram.com/apepsbde/
+  facebook: https://www.facebook.com/apeps.bde
 mail: apepsbde@gmail.com
 ---

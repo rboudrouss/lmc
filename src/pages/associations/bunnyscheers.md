@@ -7,6 +7,7 @@ affiliation:
 typeasso: 
    - sports
 
-instagram: https://www.instagram.com/bunnyscheers/
-facebook: https://www.facebook.com/bunnyscheers/
+links:
+  instagram: https://www.instagram.com/bunnyscheers/
+  facebook: https://www.facebook.com/bunnyscheers/
 ---

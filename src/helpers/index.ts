@@ -39,19 +39,7 @@ export type Affiliations =
   | "polytech"
   | "celsa";
 
-export interface LinksAssos {
-  helloasso?: string;
-  instagram?: string;
-  discord?: string;
-  youtube?: string;
-  twitch?: string;
-  linkedin?: string;
-  facebook?: string;
-  twitter?: string;
-  tiktok?: string;
-  mail?: string;
-  site?: string;
-}
+export type LinksAssos = Record<string, string>;
 
 export interface Assos {
   acronyme?: string;

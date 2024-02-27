@@ -8,9 +8,10 @@ typeasso:
    - mediatique
 
 logo: /assets/logos/comair.png
-linktree: https://linktr.ee/comair
-instagram: https://www.instagram.com/comair_celsa/
-linkedin: https://www.linkedin.com/company/comair-radio-du-celsa/
-facebook: https://www.facebook.com/Comaircelsa/
+links:
+  linktree: https://linktr.ee/comair
+  instagram: https://www.instagram.com/comair_celsa/
+  linkedin: https://www.linkedin.com/company/comair-radio-du-celsa/
+  facebook: https://www.facebook.com/Comaircelsa/
 mail: radiosonar18@gmail.com
 ---

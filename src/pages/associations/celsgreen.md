@@ -8,7 +8,8 @@ typeasso:
    - ecologie
 
 logo: /assets/logos/celsgreen.png
-instagram: https://www.instagram.com/le_celsgreen/
-linkedin: https://www.linkedin.com/company/le-cels-green/
-tiktok: https://www.tiktok.com/@le.celsgreen
+links:
+  instagram: https://www.instagram.com/le_celsgreen/
+  linkedin: https://www.linkedin.com/company/le-cels-green/
+  tiktok: https://www.tiktok.com/@le.celsgreen
 ---

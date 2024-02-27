@@ -2,8 +2,9 @@
 import Layout from "./Layout.astro";
 import Header from "../components/general/Header.astro";
 import Footer from "../components/general/Footer.astro";
+import TreeLink from "../components/assos/TreeLink.astro";
 
-import { MarkdownInstance } from "astro";
+import type { MarkdownInstance } from "astro";
 import type { Assos } from "../helpers";
 import { ViewTransitions } from "astro:transitions";
 import Bar from "../components/assos/Bar.astro";
@@ -27,10 +28,17 @@ assos.url = Astro.props.url;
     </div>
     <main class="wrapper">
       <div class="assosInfo">
-        <img src={assos.logooriginal ?? assos.logo} alt="logo" class="logo">
+        <img src={assos.logooriginal ?? assos.logo} alt="logo" class="logo" />
         <h1 class="titre">{assos.titre}</h1>
         {assos.acronyme && <h2 class="acronyme">({assos.acronyme})</h2>}
         {assos.description && <p class="description">{assos.description}</p>}
+      </div>
+      <div class="links">
+        {
+          Object.entries(assos.links ?? {}).map(([title, link]) => (
+            <TreeLink title={title} link={link} />
+          ))
+        }
       </div>
     </main>
     <div class="bars">
@@ -40,7 +48,6 @@ assos.url = Astro.props.url;
 
   <Footer />
 </Layout>
-
 
 <style>
   .content {
@@ -59,23 +66,24 @@ assos.url = Astro.props.url;
   }
 
   .assosInfo {
-    max-width: 1000px;
+    max-width: 600px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 2rem;
+    padding: 1rem 1rem 0 1rem;
   }
 
   .titre {
     padding-top: 1rem;
+    text-align: center;
+    padding-bottom: 0.5rem;
   }
 
   .description {
     padding-top: 1rem;
     text-align: center;
   }
-
 
   .logo {
     width: 250px;
