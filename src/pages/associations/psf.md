@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: PSF
 titre: Psychomotricité Sans Frontière
 affiliation: 

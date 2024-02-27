@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: SGMI
 titre: Association de cursus en Sciences, Gestion et Management de l’Innovation
 affiliation: 

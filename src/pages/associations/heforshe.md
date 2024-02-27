@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: HFS
 titre: He for She
 affiliation: 

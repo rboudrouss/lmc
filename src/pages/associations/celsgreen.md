@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 titre: Le Cels’Green
 affiliation: 
    - celsa

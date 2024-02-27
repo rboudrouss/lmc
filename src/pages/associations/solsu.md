@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: SOL’SU
 titre: Solidarité internationale de Sorbonne Université
 affiliation: 

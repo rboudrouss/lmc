@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: ACID-SU
 titre: Association des étudiants et étudiantes en Chimie de Sorbonne Université
 affiliation: 

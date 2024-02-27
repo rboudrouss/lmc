@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: COP1
 titre: COP1 - Solidarités Étudiantes
 affiliation: 

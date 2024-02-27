@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 titre: Les Med’Alo
 affiliation: 
    - sante

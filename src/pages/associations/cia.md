@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: CIA
 titre: Club d’Informatique et d'Agrément de Polytech
 affiliation: 

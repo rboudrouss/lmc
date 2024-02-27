@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: ADDHM
 titre: Association du double diplôme Histoire-Médias
 affiliation: 

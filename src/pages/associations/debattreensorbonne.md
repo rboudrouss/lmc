@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 titre: Débattre en Sorbonne
 affiliation: 
    - lettres

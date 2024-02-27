@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: SPIV
 titre: Association des bicursus Sciences Po Paris - Sorbonne Université
 affiliation: 

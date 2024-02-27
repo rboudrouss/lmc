@@ -1,0 +1,36 @@
+---
+import type { Affiliations } from "../../helpers";
+
+interface Props {
+  affiliation: Affiliations;
+}
+
+const { affiliation } = Astro.props;
+---
+
+<div class={affiliation}></div>
+<style>
+  div {
+    width: 1.5rem;
+    height: 100%;
+    display: inline-block;
+    margin-right: 0.5em;
+  }
+
+  .su {
+    background-color: #112970;
+  }
+
+  .sciences {
+    background-color: #56b7e6;
+  }
+
+  .celsa,
+  .lettres {
+    background-color: #ffb500;
+  }
+
+  .sante {
+    background-color: #a6192e;
+  }
+</style>

@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 titre: Association des étudiants et diplômés de la Double Licence Droit-Histoire (P2-P4)
 affiliation: 
    - lettres

@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 titre: Super8
 typeasso: 
    - artistique

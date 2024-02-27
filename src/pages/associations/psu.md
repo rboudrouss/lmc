@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: PSU
 titre: Play Sorbonne Université
 affiliation: 

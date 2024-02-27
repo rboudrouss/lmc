@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: SPRINT
 titre: Association du cursus SPRINT
 affiliation: 

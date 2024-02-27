@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 titre: 6ème étage sans ascenseur
 typeasso: 
    - mediatique

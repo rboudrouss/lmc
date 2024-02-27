@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: AEG
 titre: Association des étudiants en Géosciences
 affiliation: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 titre: Vert la Science
 affiliation: 
    - polytech

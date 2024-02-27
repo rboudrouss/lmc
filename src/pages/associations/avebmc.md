@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: AvéBMC
 titre: Association du master de biologie moléculaire et cellulaire
 affiliation: 

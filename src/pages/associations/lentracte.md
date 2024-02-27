@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 titre: L’Entracte étudiante
 affiliation: 
    - celsa

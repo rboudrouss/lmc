@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: AEO SU
 titre: Association des Étudiantes et Étudiants en Orthoptie de Sorbonne Université
 affiliation: 

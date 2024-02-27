@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 titre: Symbiose6
 affiliation: 
    - sciences

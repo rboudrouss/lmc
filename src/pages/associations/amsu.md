@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: AMSU
 titre: Association Mathématique de Sorbonne Université
 affiliation: 

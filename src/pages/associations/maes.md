@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: MAES
 titre: Association du Master Affaires Européennes-Sorbonne
 affiliation: 

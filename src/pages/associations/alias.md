@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: ALIAS
 titre: Association Ludique et Informatique
 affiliation: 

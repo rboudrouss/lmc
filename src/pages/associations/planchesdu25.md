@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 titre: Planches du 25
 affiliation: 
    - su

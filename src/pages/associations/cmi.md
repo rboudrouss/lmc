@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: CMI
 titre: Association du cursus master en ingénierie
 affiliation: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: LFDT
 titre: Les Fous Des Tours
 affiliation: 

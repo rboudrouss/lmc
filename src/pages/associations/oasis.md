@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: OASIS
 titre: Orthophonistes Actant pour la Solidarité Internationale au Sud
 affiliation: 

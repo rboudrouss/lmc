@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: SONU
 titre: Sorbonne ONU
 affiliation: 

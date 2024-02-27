@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: MEGEN
 titre: Association des étudiantes et étudiants du master MEGEN
 affiliation: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 titre: Junior Sorbonne Université Conseil
 affiliation: 
    - sciences

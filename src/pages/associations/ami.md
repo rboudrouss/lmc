@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: AMI
 titre: Association de cursus du master Science de l’Ingénieur
 affiliation: 

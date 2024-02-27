@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 titre: Le Banquet des étudiant·e·s
 affiliation: 
    - lettres

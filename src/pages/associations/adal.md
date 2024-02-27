@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: ADAL
 titre: Association pour la Danse et les Arts Lyriques
 affiliation: 

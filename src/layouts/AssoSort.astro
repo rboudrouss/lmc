@@ -3,7 +3,6 @@ import Layout from "./Layout.astro";
 
 import Header from "../components/general/Header.astro";
 import Footer from "../components/general/Footer.astro";
-import TreeLink from "../components/assos/TreeLink.astro";
 import AssosLink from "../components/assos/AssosLink.astro";
 import FakeSelector from "../components/assos/FakeSelector.astro";
 
@@ -19,7 +18,9 @@ type Props = MarkdownInstance<{
 
 const titre = "Annuaire des associations";
 
-let { frontmatter: {typeFilter, affiliationFilter} } = Astro.props;
+let {
+  frontmatter: { typeFilter, affiliationFilter },
+} = Astro.props;
 
 console.log(typeFilter, affiliationFilter);
 

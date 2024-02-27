@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: BDAC
 titre: Bureau Des Arts et de la Culture
 affiliation: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 titre: Sorbonne Music Days Festival
 affiliation: 
    - lettres

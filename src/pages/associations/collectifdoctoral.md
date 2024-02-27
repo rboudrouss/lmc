@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 titre: Collectif Doctoral de Sorbonne Université
 affiliation: 
    - lettres

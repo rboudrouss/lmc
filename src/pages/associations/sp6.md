@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: SP6
 titre: Stade Paris 6 Rugby
 affiliation: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: BDE ISUP
 titre: Bureau des élèves de l'Institut de Statistique de Sorbonne Université
 affiliation: 

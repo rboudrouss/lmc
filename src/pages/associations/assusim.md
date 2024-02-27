@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: ASSUSIM
 titre: Association Sportive de Sorbonne Université Sciences Ingénierie et Médecine
 affiliation: 

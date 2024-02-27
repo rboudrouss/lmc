@@ -63,7 +63,7 @@ export interface Assos {
   description?: string;
   video?: string;
   links?: LinksAssos;
-  url: string;
+  url?: string;
 }
 
 export function rawMDAssosToAssos(e: MarkdownInstance<Assos>): Assos {

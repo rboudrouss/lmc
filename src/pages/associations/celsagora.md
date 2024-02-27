@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 titre: Cels’Agora
 affiliation: 
    - celsa

@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: ADS
 titre: Défis Sorbonne
 affiliation: 

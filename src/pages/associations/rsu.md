@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: RSU
 titre: Radio Sorbonne Université
 affiliation: 

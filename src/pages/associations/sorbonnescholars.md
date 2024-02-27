@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 titre: Les Sorbonne Scholars
 affiliation: 
    - lettres

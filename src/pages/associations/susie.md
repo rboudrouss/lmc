@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: Susie
 titre: Sorbonne Université Syndicat Indépendant Étudiant
 affiliation: 

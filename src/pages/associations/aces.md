@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: ACES
 titre: Association de l'informatique compétitive et entrepreneuriale
 affiliation: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 titre: Ciné Fac
 affiliation: 
    - su

@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 titre: Les Théâtreux de la Paillasse
 affiliation: 
    - su

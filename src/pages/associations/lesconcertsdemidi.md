@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 titre: Les Concerts de Midi
 affiliation: 
    - su

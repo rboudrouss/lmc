@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: C2SU
 titre: Corporation des Carabins de Sorbonne Université
 typeasso: 

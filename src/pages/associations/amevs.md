@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: AMEVS
 titre: Association Musicale et Éducative à Vocation Sociale
 affiliation: 

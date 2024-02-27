@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 titre: Galerie Sorbonne
 affiliation: 
    - lettres

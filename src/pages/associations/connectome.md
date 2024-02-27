@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 titre: Connectome in Science
 affiliation: 
    - sciences

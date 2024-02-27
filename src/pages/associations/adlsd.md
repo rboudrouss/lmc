@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: ADLSD
 titre: Association de la Double Licence Sciences et Droit
 affiliation: 

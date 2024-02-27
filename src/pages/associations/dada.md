@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: DADA
 titre: Association de la Double-licence Art/Droit Assas-Sorbonne
 affiliation: 

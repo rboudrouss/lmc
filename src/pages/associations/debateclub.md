@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 titre: Sorbonne Sciences debate club
 affiliation: 
    - sciences

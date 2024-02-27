@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: BDE Polytech
 titre: Bureau Des Élèves de Polytech Sorbonne
 affiliation: 

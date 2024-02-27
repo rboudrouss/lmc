@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: JS²
 titre: Je Science donc Je Suis
 affiliation: 

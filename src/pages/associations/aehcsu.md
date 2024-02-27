@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: AEHCSU
 titre: Association des Étudiants en Histoire Contemporaine de Sorbonne Université
 affiliation: 

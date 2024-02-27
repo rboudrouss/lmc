@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: SOMUN
 titre: Sorbonne Model United Nations
 affiliation: 

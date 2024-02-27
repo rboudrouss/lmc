@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: APEO
 titre: Association Parisienne des Étudiantes et Étudiants en Orthophonie
 affiliation: 

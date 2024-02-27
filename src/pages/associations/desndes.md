@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: DnD
 titre: Dés’n”Dés
 affiliation: 

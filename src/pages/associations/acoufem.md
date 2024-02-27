@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: ACOUFEM
 titre: Association du concours des fanfares de médecine
 affiliation: 

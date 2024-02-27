@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: AJUCA
 titre: Association des Jeunes Ultramarins pour le Cinéma et l’Audiovisuel
 affiliation: 

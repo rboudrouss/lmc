@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 titre: Théâtrallemand Vôtre !
 affiliation: 
    - lettres

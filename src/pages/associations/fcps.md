@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: FCPS
 titre: Football Club Pitié-Salpêtrière
 affiliation: 

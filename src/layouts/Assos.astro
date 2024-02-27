@@ -1,0 +1,87 @@
+---
+import Layout from "./Layout.astro";
+import Header from "../components/general/Header.astro";
+import Footer from "../components/general/Footer.astro";
+
+import { MarkdownInstance } from "astro";
+import type { Assos } from "../helpers";
+import { ViewTransitions } from "astro:transitions";
+import Bar from "../components/assos/Bar.astro";
+
+type Props = MarkdownInstance<Assos>;
+
+const assos = Astro.props.frontmatter;
+assos.url = Astro.props.url;
+---
+
+<Layout
+  title={assos.titre}
+  description={assos.description}
+  image={assos.logooriginal ?? assos.logo}
+>
+  <ViewTransitions />
+  <Header title={assos.acronyme ?? assos.titre} url={assos.url} />
+  <div class="content">
+    <div class="bars">
+      {assos.affiliation?.map((aff) => <Bar affiliation={aff} />)}
+    </div>
+    <main class="wrapper">
+      <div class="assosInfo">
+        <img src={assos.logooriginal ?? assos.logo} alt="logo" class="logo">
+        <h1 class="titre">{assos.titre}</h1>
+        {assos.acronyme && <h2 class="acronyme">({assos.acronyme})</h2>}
+        {assos.description && <p class="description">{assos.description}</p>}
+      </div>
+    </main>
+    <div class="bars">
+      {assos.affiliation?.reverse().map((aff) => <Bar affiliation={aff} />)}
+    </div>
+  </div>
+
+  <Footer />
+</Layout>
+
+
+<style>
+  .content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    min-height: calc(
+      100vh - 50px - 150px
+    ); /* 50px for header, 150px for footer */
+  }
+
+  .bars {
+    height: 100%;
+    outline: 1px solid red;
+  }
+
+  .assosInfo {
+    max-width: 1000px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+  }
+
+  .titre {
+    padding-top: 1rem;
+  }
+
+  .description {
+    padding-top: 1rem;
+    text-align: center;
+  }
+
+
+  .logo {
+    width: 250px;
+    height: 250px;
+    object-fit: contain;
+    margin-bottom: 20px;
+    margin: 2rem;
+  }
+</style>

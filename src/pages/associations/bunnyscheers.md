@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 titre: Bunny’s Cheers
 affiliation: 
    - polytech

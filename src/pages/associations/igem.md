@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: iGEM SU
 titre: Association de Biologie Synthétique de Sorbonne Université
 affiliation: 

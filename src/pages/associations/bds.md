@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: BDS
 titre: Bureau Des Sports Polytech Sorbonne
 affiliation: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: LUPA
 titre: Les Universitaires Planteurs d'Alternatives
 affiliation: 

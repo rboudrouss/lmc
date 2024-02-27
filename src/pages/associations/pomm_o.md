@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: POMM
 titre: Psychomotricité et Ouverture sur le Monde du Maternage
 typeasso: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: ASSUL
 titre: Association Sportive de Sorbonne Université Lettres
 affiliation: 

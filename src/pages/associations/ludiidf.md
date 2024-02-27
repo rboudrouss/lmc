@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: LUDI IDF
 titre: Ligue Universitaire d'Improvisation d'Île de France
 affiliation: 

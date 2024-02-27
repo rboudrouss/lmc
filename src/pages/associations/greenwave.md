@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 titre: Green Wave Sorbonne
 affiliation: 
    - lettres

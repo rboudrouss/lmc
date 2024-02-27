@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: AGEP
 titre: Association générale des étudiants de Paris
 affiliation: 

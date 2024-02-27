@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: AVC PSA
 titre: Association pour la vie du Crit Pitié Saint-Antoine
 affiliation: 

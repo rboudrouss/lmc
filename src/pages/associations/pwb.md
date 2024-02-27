@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: PWB
 titre: Polytech Without Borders
 affiliation: 

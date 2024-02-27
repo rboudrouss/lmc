@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 titre: Solidaires étudiant-e-s Sorbonne Université
 affiliation: 
    - su

@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 titre: Fais pas genre
 affiliation: 
    - celsa

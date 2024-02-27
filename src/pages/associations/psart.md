@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: PS’Art
 titre: Bureau des Arts
 affiliation: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Assos.astro
 acronyme: GoBEE
 titre: Association du master de biodiversité, écologie et évolution
 affiliation: 
