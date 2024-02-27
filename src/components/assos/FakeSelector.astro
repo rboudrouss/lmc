@@ -1,4 +1,6 @@
 ---
+import { LettresS } from "./AffSelect"
+
 import type { TypeAsso, Affiliations } from "../../helpers";
 interface Props {
   typeSelected?: TypeAsso;
@@ -22,11 +24,14 @@ const typeAssos: TypeAsso[] = [
 const { typeSelected, affSelected } = Astro.props;
 
 const baseLink = "/associations" + (affSelected ? `/${affSelected}/` : "/");
+const LinkAff = (name: string) => `/associations/${name}/${affSelected ?? ""}`
 
 const showAll = !typeSelected && !affSelected;
 ---
 
-<div class="affsWrapper"></div>
+<div class="affsWrapper">
+  <LettresS link={LinkAff("Lettres")}/>
+</div>
 
 <div class="typesWrapper">
   {

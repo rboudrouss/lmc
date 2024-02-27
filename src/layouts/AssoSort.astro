@@ -10,6 +10,7 @@ import FakeSelector from "../components/assos/FakeSelector.astro";
 import type { TypeAsso, Affiliations } from "../helpers";
 import { filterAssos, rawMDsToAssos } from "../helpers";
 import type { MarkdownInstance } from "astro";
+import { ViewTransitions } from "astro:transitions";
 
 type Props = MarkdownInstance<{
   typeFilter: TypeAsso;
@@ -30,6 +31,7 @@ let assoList = filterAssos(
 ---
 
 <Layout title={titre}>
+  <ViewTransitions />
   <Header title={titre} />
   <FakeSelector typeSelected={typeFilter} affSelected={affiliationFilter} />
   <main class="content">
