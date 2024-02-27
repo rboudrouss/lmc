@@ -1,0 +1,27 @@
+---
+interface Props {
+  link: string;
+  transparent?: boolean;
+}
+let { link, transparent = false } = Astro.props;
+---
+
+<a class={`wrapper ${transparent ? "transparent" : ""}`} href={link}
+  ><p>Celsa</p></a
+>
+
+<style>
+  .wrapper {
+    background: rgb(255,181,0); 
+    width: fit-content;
+    font-size: 3rem;
+    font-weight: bolder;
+    padding: 0.5rem 2rem;
+    border-radius: 2rem;
+    color: white;
+  }
+
+  .transparent {
+    background: rgba(255,181,0, 0.5); 
+  }
+</style>

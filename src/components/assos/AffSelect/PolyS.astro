@@ -7,12 +7,12 @@ let { link, transparent = false } = Astro.props;
 ---
 
 <a class={`wrapper ${transparent ? "transparent" : ""}`} href={link}
-  ><p>Lettres</p></a
+  ><p>Polytech</p></a
 >
 
 <style>
   .wrapper {
-    background: rgb(255,181,0); 
+    background: rgb(0,173,239);
     width: fit-content;
     font-size: 3rem;
     font-weight: bolder;
@@ -22,6 +22,6 @@ let { link, transparent = false } = Astro.props;
   }
 
   .transparent {
-    background: rgba(255,181,0, 0.5); 
+    background: rgba(0,173,239,0.5);
   }
 </style>

@@ -1,5 +1,5 @@
 ---
-import { LettresS } from "./AffSelect"
+import { LettresS, CelsaS, SciencesS, SuS, SanteS, PolyS } from "./AffSelect";
 
 import type { TypeAsso, Affiliations } from "../../helpers";
 interface Props {
@@ -24,13 +24,20 @@ const typeAssos: TypeAsso[] = [
 const { typeSelected, affSelected } = Astro.props;
 
 const baseLink = "/associations" + (affSelected ? `/${affSelected}/` : "/");
-const LinkAff = (name: string) => `/associations/${name}/${affSelected ?? ""}`
+const LinkAff = (name: Affiliations) => name !== affSelected ? `/associations/${name}/${typeSelected ?? ""}` : `/associations/${typeSelected ?? ""}`;
 
 const showAll = !typeSelected && !affSelected;
+
+console.log(!showAll && affSelected !== "lettres")
 ---
 
 <div class="affsWrapper">
-  <LettresS link={LinkAff("Lettres")}/>
+  <SuS link={LinkAff("su")} transparent={!showAll && affSelected !== "su"}/>
+  <LettresS link={LinkAff("lettres")} transparent={!showAll && affSelected !== "lettres"}/>
+  <SciencesS link={LinkAff("sciences")} transparent={!showAll && affSelected !== "sciences"}/>
+  <CelsaS link={LinkAff("celsa")} transparent={!showAll && affSelected !== "celsa"}/>
+  <PolyS link={LinkAff("polytech")} transparent={!showAll && affSelected !== "polytech"}/>
+  <SanteS link={LinkAff("sante")} transparent={!showAll && affSelected !== "sante"}/>
 </div>
 
 <div class="typesWrapper">
@@ -47,6 +54,7 @@ const showAll = !typeSelected && !affSelected;
 </div>
 
 <style>
+  .affsWrapper,
   .typesWrapper {
     display: flex;
     flex-wrap: wrap;

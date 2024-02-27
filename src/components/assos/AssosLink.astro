@@ -26,6 +26,7 @@ const { assos } = Astro.props;
       src={assos.logooriginal ?? assos.logo}
       alt={(assos?.acronyme ?? assos.titre.slice(0, 10)) + " logo"}
       class="logo"
+      loading="lazy"
     />
     <p class="titre">{assos.titre}</p>
     <p class="acronyme">{assos.acronyme && `(${assos.acronyme})`}</p>
