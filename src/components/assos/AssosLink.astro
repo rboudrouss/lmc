@@ -31,9 +31,18 @@ const { assos } = Astro.props;
     <p class="titre">{assos.titre}</p>
     <p class="acronyme">{assos.acronyme && `(${assos.acronyme})`}</p>
   </a>
+  <a href={assos.url} class="wrapperMobile">
+    <img
+      src={assos.logooriginal ?? assos.logo}
+      alt={(assos?.acronyme ?? assos.titre.slice(0, 10)) + " logo"}
+      class="logoM"
+      loading="lazy"
+    />
+    <p class="titre">{assos.acronyme ?? assos.titre}</p>
+  </a>
 
   {
-    assos.affiliation?.map((aff: string) => {
+    assos.affiliation?.reverse().map((aff: string) => {
       if (aff === "celsa") return <CelsaC />;
       if (aff === "lettres") return <LettresC />;
       if (aff === "polytech") return <PolyC />;
@@ -48,7 +57,10 @@ const { assos } = Astro.props;
   .all {
     display: flex;
     align-items: center;
+    overflow: hidden;
   }
+
+  .wrapperMobile,
   .wrapper {
     display: flex;
     align-items: center;
@@ -60,18 +72,33 @@ const { assos } = Astro.props;
     height: 100px;
   }
 
+  .wrapperMobile {
+    display: none;
+    widows: 80vw;
+    justify-content: flex-start;
+  }
+
   @media (max-width: 900px) {
     .wrapper {
-      width: 80vw;
+      display: none;
+    }
+    .wrapperMobile {
+      display: flex;
     }
   }
 
+  .logoM,
   .logo {
     max-height: 100px;
     width: 150px;
     object-fit: contain;
     padding: 1rem;
     overflow: hidden;
+  }
+
+  .logoM {
+    max-height: 80px;
+    width: 80px;
   }
 
   .titre {
