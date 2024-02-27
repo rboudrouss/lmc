@@ -7,7 +7,7 @@ affiliation:
 typeasso: 
    - cursus
 
-logo: /assets/logos/bircursiosite.svg
+logo: /assets/logos/bicursiosite.svg
 description: "Bicursiosité, association des doubles-cursus et des majeures-mineures en Sciences et Humanités à Sorbonne Université, a pour but d’accompagner les primo-arrivants en double-cursus, décloisonner le double-cursus et le rendre visite à Sorbonne Université. Elle organise également des événements explorant l’interdisciplinarité et facilitant le dialogue entre disciplines."
 video: https://www.youtube.com/watch?v=t7rMpCVgjy8
 site: http://bicursiosite.com/

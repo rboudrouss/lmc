@@ -8,7 +8,7 @@ typeasso:
    - autre
 
 logo: /assets/logos/sonu.png
-logooriginal: /assets/logos/somu_o.png
+logooriginal: /assets/logos/sonu_o.png
 description: "Association étudiante qui promeut les valeurs des Nations Unies, la coopération internationale et le développement."
 site: https://sorbonneonu.fr/
 helloasso: https://www.helloasso.com/associations/sorbonne-pour-l-organisation-des-nations-unies/

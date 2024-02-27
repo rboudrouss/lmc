@@ -7,7 +7,7 @@ affiliation:
 typeasso: 
    - cursus
 
-logo: /assets/logos/addhim.png
+logo: /assets/logos/addhm.png
 description: "L’ADDHM est le BDE des doubles diplômés de l’Institut français de presse (Panthéon-Assas) et d’histoire-sciences politiques et sociales mention Médias (faculté des Lettres de Sorbonne Université). L’association organise de nombreux événements:intégration, rencontres avec des alumni, soirées avec d’autres associations, etc."
 site: https://sites.google.com/view/addhm/
 instagram: https://www.instagram.com/addhm.assas/

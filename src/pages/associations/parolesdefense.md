@@ -6,7 +6,7 @@ affiliation:
 typeasso: 
    - autre
 
-logo: /assets/logos/parolesdefense.png
+logo: /assets/logos/parolesdedefense.png
 description: "Sorbonne Paroles de Défense favorise les échanges entre les professionnels, les étudiantes et étudiants dans les domaines de la défense, de la sécurité et des relations internationales."
 instagram: https://www.instagram.com/sorbonneparolesdedefense/
 linkedin: https://www.linkedin.com/company/sorbonne-paroles-de-d%C3%A9fense/
