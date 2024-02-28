@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Assos.astro
 acronyme: I’SEE
-titre: Assciation du master sol, eau et environnement
+titre: Association du master sol, eau et environnement
 affiliation: 
    - sciences
 
