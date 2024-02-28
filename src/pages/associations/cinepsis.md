@@ -2,7 +2,7 @@
 layout: ../../layouts/Assos.astro
 titre: Cinepsis
 affiliation: 
-   - CELSA
+   - celsa
 
 typeasso: 
    - artistique
