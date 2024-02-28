@@ -3,7 +3,7 @@ date : "05-03-2024 23:00"
 
 title: "Pause-musique du COSU #2"
 
-auteur : "bsu","lettres"
+auteur : "bsu"
 
 
 
