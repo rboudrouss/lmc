@@ -6,6 +6,6 @@ childs:
     href: "/questions"
   - title: "Guide CPMC"
     href: "/guide"
-  - title: "Annuaire des Associations"
+  - title: "Annuaire des Associations Non Officiel"
     href: "/associations"
 ---

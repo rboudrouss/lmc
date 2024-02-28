@@ -6,7 +6,7 @@ affiliation:
    - lettres
 
 typeasso: 
-   - filière
+   - filiere
 
 logo: /assets/logos/aehcsu.png
 logooriginal: /assets/logos/aehcsu_o.png
