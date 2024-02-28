@@ -1,0 +1,28 @@
+---
+import { ViewTransitions } from "astro:transitions";
+import Layout from "./Layout.astro";
+import type { MarkdownInstance } from "astro";
+
+import Header from "../components/general/Header.astro";
+import Footer from "../components/general/Footer.astro";
+
+type Props = MarkdownInstance<{
+  type?: string;
+}>;
+
+const {
+  frontmatter: { type },
+  url,
+} = Astro.props;
+
+let title = "Fil d'actualité";
+---
+
+<Layout title={title + " " + type ?? ""}>
+  <ViewTransitions />
+  <Header title={title + " " + type ?? ""} url={url} />
+  
+
+
+  <Footer />
+</Layout>
