@@ -1,0 +1,89 @@
+---
+import type { ActuT2 } from "../../helpers";
+
+interface Props {
+  actu: ActuT2;
+}
+const { actu } = Astro.props;
+---
+
+<div class="wrapper">
+  <div class="content">
+    <div class="title">
+      <div class="icons">
+        {
+          actu.icons?.map((icon, i) => (
+            <img src={icon} alt={actu.auteur[i]} class="icon" />
+          ))
+        }
+      </div>
+      <a href={actu.url}>{actu.title}</a>
+    </div>
+    <img src={actu.image} alt={actu.title} class="mainImg" />
+    <div class="md">
+      <actu.content />
+    </div>
+    {
+      actu.source && (
+        <a href={actu.source} target="_blank">
+          source
+        </a>
+      )
+    }
+  </div>
+</div>
+
+<!-- <script define:vars={{date: actu.date}}>
+
+  if (date < new Date()) {
+    document.querySelector('.wrapperUwU').style.display = 'none';
+  }
+
+</script> -->
+
+<style>
+  .wrapper {
+    display: flex;
+    justify-content: center;
+    padding: 30px 0;
+    outline: 10px solid black;
+  }
+  .content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  .icons {
+    display: flex;
+    gap: 10px;
+  }
+  .title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .wrapper {
+    width: 100%;
+  }
+
+  .content {
+    max-width: 800px;
+  }
+
+  .mainImg {
+    max-width: 30vw;
+    padding: 20px;
+  }
+
+  .icon {
+    max-width: 90px;
+    maw-heigh: 60px;
+  }
+
+  @media (max-width: 800px) {
+    .mainImg {
+      max-width: 80vw;
+    }
+  }
+</style>

@@ -1,4 +1,6 @@
 import type { ReactNode } from "react";
+import Astro from "astro";
+
 import discord from "../icons/discord.svg";
 import facebook from "../icons/facebook.svg";
 import instagram from "../icons/instagram.svg";
@@ -18,32 +20,6 @@ export interface Element_Drop {
   persistant?: boolean;
 }
 
-export type TypeAsso =
-  | "filiere"
-  | "cursus"
-  | "ludique"
-  | "mediatique"
-  | "artistique"
-  | "evenementiel"
-  | "sports"
-  | "solidarite"
-  | "ecologie"
-  | "entrepreneuriat"
-  | "debat"
-  | "feminisme"
-  | "syndicat"
-  | "autre";
-
-export type Affiliations =
-  | "su"
-  | "sciences"
-  | "lettres"
-  | "sante"
-  | "polytech"
-  | "celsa";
-
-export type LinksAssos = Record<string, string>;
-
 export interface Assos {
   acronyme?: string;
   titre: string;
@@ -55,6 +31,7 @@ export interface Assos {
   video?: string;
   links?: LinksAssos;
   url?: string;
+  filename: string;
 }
 
 export function rawMDAssosToAssos(e: MarkdownInstance<Assos>): Assos {
@@ -69,20 +46,61 @@ export function rawMDAssosToAssos(e: MarkdownInstance<Assos>): Assos {
     video: e.frontmatter.video,
     links: e.frontmatter.links,
     url: e.url,
-  }
+    filename: e.file.split("/").pop().split(".")[0],
+  };
 }
 
 export function rawMDsToAssos(e: MarkdownInstance<Assos>[]): Assos[] {
   return e.map(rawMDAssosToAssos);
 }
 
-export function filterAssos(l: Assos[], aff: Affiliations, type: TypeAsso): Assos[] {
+export function filterAssos(
+  l: Assos[],
+  aff: Affiliations,
+  type: TypeAsso
+): Assos[] {
   if (!aff && !type) return l;
   return l.filter((asso) => {
     if (aff && asso.affiliation?.includes(aff) === false) return false;
     if (type && asso.typeasso?.includes(type) === false) return false;
     return true;
   });
+}
+
+export interface ActuT2 {
+  date?: Date;
+  title: string;
+  auteur: string[];
+  image?: string;
+  source?: string;
+  affiliation?: Affiliations[];
+  url: string;
+  icons?: string[];
+  content: any; // TODO
+}
+
+export function rawMdToActu(e: MarkdownInstance<any>): ActuT2 {
+  return {
+    date: parseDateFromString(e.frontmatter.date),
+    title: e.frontmatter.title,
+    auteur:
+      typeof e.frontmatter.auteur === "string"
+        ? [e.frontmatter.auteur]
+        : e.frontmatter.auteur ?? [],
+    image: e.frontmatter.image,
+    source: e.frontmatter.source,
+    affiliation:
+      typeof e.frontmatter.affiliation === "string"
+        ? [e.frontmatter.affiliation]
+        : e.frontmatter.affiliation ?? [],
+    url: e.url,
+    icons: [],
+    content: e.Content,
+  };
+}
+
+export function rawMdsToActus(e: MarkdownInstance<any>[]): ActuT2[] {
+  return e.map(rawMdToActu);
 }
 
 export const Empty_Element: Element_Drop = {
@@ -190,6 +208,38 @@ export const icons = {
   linkedin,
   default: Default,
 };
+
+export type TypeAsso =
+  | "filiere"
+  | "cursus"
+  | "ludique"
+  | "mediatique"
+  | "artistique"
+  | "evenementiel"
+  | "sports"
+  | "solidarite"
+  | "ecologie"
+  | "entrepreneuriat"
+  | "debat"
+  | "feminisme"
+  | "syndicat"
+  | "autre";
+
+export type Affiliations =
+  | "su"
+  | "sciences"
+  | "lettres"
+  | "sante"
+  | "polytech"
+  | "celsa";
+
+export type LinksAssos = Record<string, string>;
+
+export type AssosName = (typeof assosNames)[number];
+
+export const facTypes = ["lettre", "sciences", "medecine", "polytech"] as const;
+
+export type FacType = (typeof facTypes)[number];
 
 export const assosSvg = [
   "alias",
@@ -390,9 +440,3 @@ export const assosNames = [
   "fablab",
   "capsule",
 ] as const;
-
-export type AssosName = (typeof assosNames)[number];
-
-export const facTypes = ["lettre", "sciences", "medecine", "polytech"] as const;
-
-export type FacType = (typeof facTypes)[number];

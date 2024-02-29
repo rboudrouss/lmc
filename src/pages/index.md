@@ -8,4 +8,6 @@ childs:
     href: "/guide"
   - title: "Annuaire des Associations (Non Officiel)"
     href: "/associations"
+  - title: "Fil d'actualité"
+    href: "/fildactus"
 ---
