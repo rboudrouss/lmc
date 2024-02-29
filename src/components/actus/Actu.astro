@@ -13,13 +13,13 @@ const { actu } = Astro.props;
       <div class="icons">
         {
           actu.icons?.map((icon, i) => (
-            <img src={icon} alt={actu.auteur[i]} class="icon" />
+            <img loading="lazy" src={icon} alt={actu.auteur[i]} class="icon" />
           ))
         }
       </div>
       <a href={actu.url}>{actu.title}</a>
     </div>
-    <img src={actu.image} alt={actu.title} class="mainImg" />
+    <img src={actu.image} alt={actu.title} class="mainImg" loading="lazy" />
     <div class="md">
       <actu.content />
     </div>

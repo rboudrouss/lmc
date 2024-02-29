@@ -2,6 +2,7 @@
 import { ViewTransitions } from "astro:transitions";
 import Layout from "./Layout.astro";
 import type { MarkdownInstance } from "astro";
+import FakeSelector from "@/components/actus/FakeSelector.astro";
 
 import Header from "../components/general/Header.astro";
 import Footer from "../components/general/Footer.astro";
@@ -10,15 +11,15 @@ import Actu from "../components/actus/Actu.astro";
 import { rawMDsToAssos, rawMdsToActus } from "@/helpers";
 
 type Props = MarkdownInstance<{
-  type?: "actualites" | "encemoment" | "evenements";
+  typeA?: "actualites" | "encemoment" | "evenements";
 }>;
 
 const {
-  frontmatter: { type },
+  frontmatter: { typeA },
   url,
 } = Astro.props;
 
-let title = `Fil d'actualité ${type ?? ""} (non officiel)`;
+let title = `Fil d'actualité ${typeA ?? ""} (non officiel)`;
 
 const assosIcons = {
   ...rawMDsToAssos(await Astro.glob("../pages/associations/*.md")).reduce(
@@ -45,7 +46,7 @@ const assosIcons = {
 
 const actus = rawMdsToActus(
   await Astro.glob("../pages/fildactus/**/*.md")
-).filter((actu) => !type || actu.url.split("/").includes(type));
+).filter((actu) => !typeA || actu.url.split("/").includes(typeA));
 
 actus.forEach((actu) => {
   actu.icons = actu.auteur.map((auteur) => assosIcons[auteur]);
@@ -56,6 +57,7 @@ actus.forEach((actu) => {
   <ViewTransitions />
   <Header title={title} url={url} />
   <div class="content">
+    <FakeSelector typeASelected={typeA} />
     <main class="wrapper">
       {actus.map((actu) => <Actu actu={actu} />)}
     </main>

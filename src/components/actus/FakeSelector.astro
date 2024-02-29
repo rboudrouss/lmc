@@ -1,0 +1,124 @@
+---
+import {
+  LettresS,
+  CelsaS,
+  SciencesS,
+  SuS,
+  SanteS,
+  PolyS,
+} from "../assos/AffSelect"; // FIXME
+
+import type { TypeAsso, Affiliations } from "../../helpers";
+interface Props {
+  typeSelected?: TypeAsso;
+  affSelected?: Affiliations;
+  typeASelected?: string;
+}
+
+const typeActus = [
+  { name: "Actualités", link: "actualites" },
+  { name: "Évènement", link: "evenements" },
+  { name: "En ce moment", link: "encemoment" },
+];
+
+const typeAssos: TypeAsso[] = [
+  "filiere",
+  "cursus",
+  "ludique",
+  "mediatique",
+  "artistique",
+  "evenementiel",
+  "sports",
+  "solidarite",
+  "ecologie",
+  "entrepreneuriat",
+  "debat",
+  "feminisme",
+  "syndicat",
+  "autre",
+];
+
+const { typeSelected, affSelected, typeASelected } = Astro.props;
+
+const baseLink = "/associations" + (affSelected ? `/${affSelected}/` : "/");
+const LinkAff = (name: Affiliations) =>
+  name !== affSelected
+    ? `/associations/${name}/${typeSelected ?? ""}`
+    : `/associations/${typeSelected ?? ""}`;
+
+const showAll = !typeSelected && !affSelected;
+
+console.log(!showAll && affSelected !== "lettres");
+---
+
+<div class="typesAWrapper">
+  {
+    typeActus.map((type) => (
+      <a
+        href={"/fildactus/" + (typeASelected === type.link ? "" : type.link)}
+        class={`typeAWrapper ${typeASelected && typeASelected !== type.link ? "transparent" : ""}`}
+      >
+        {type.name}
+      </a>
+    ))
+  }
+</div>
+
+<div class="affsWrapper">
+  <SuS link="#" />
+  <LettresS link="#" />
+  <SciencesS link="#" />
+  <CelsaS link="#" />
+  <PolyS link="#" />
+  <SanteS link="#" />
+</div>
+
+<div class="typesWrapper">
+  {
+    typeAssos.map((type) => (
+      <a href="#" class={`typeWrapper`}>
+        {type}
+      </a>
+    ))
+  }
+</div>
+
+<style>
+  .typesAWrapper,
+  .affsWrapper,
+  .typesWrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem;
+    padding: 1rem;
+  }
+
+  .typeAWrapper,
+  .typeWrapper {
+    padding: 0.5rem 1rem;
+    border-radius: 1rem;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    transition: 0.2s;
+
+    font-size: 1.2rem;
+  }
+
+  .typeAWrapper {
+    font-size: 2rem;
+    padding: 1.5rem 2rem;
+  }
+
+  @media (max-width: 900px) {
+    .typeWrapper {
+      font-size: 1.5rem;
+      padding: 1rem 1.5rem;
+    }
+  }
+
+  .transparent {
+    background: rgba(0, 0, 0, 0.5);
+  }
+</style>
