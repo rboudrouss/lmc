@@ -3,9 +3,9 @@ date : "24-04-2024 23:00"
 
 title: "Rencontre avec Aurore Koechlin"
 
-auteur : "lesfallopes"
+auteur : "lesfaloppes"
 
-image : "/assets/fildactus/evenements/04-24-lesfallopes.png"
+image : "/assets/fildactus/evenements/04-24-lesfalopes.png"
 
 source : "https://www.instagram.com/p/C3uuJ_bIDwp/"
 ---

@@ -3,11 +3,11 @@ date : "29-02-2024 23:00"
 
 title: "Impromptu CAPSULE : Ikigai.games, une plateforme au service de nos étudiant·e·s"
 
-auteur : "capsules"
+auteur : "capsule"
 
 
 
-image : "/assets/fildactus/evenements/02-29-capsules.png"
+image : "/assets/fildactus/evenements/02-29-capsule.png"
 
 source : "https://capsule.sorbonne-universite.fr/ikigai-flashcards-gamification/"
 ---

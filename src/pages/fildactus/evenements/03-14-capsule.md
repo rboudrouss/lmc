@@ -3,11 +3,11 @@ date : "14-03-2024 23:00"
 
 title: "Conf CAPSULE : Mettre en cohérence l'approche par compétence"
 
-auteur : "capsules"
+auteur : "capsule"
 
 
 
-image : "/assets/fildactus/evenements/03-14-capsules.png"
+image : "/assets/fildactus/evenements/03-14-capsule.png"
 
 source : "https://capsule.sorbonne-universite.fr/confs-capsule-coherence-approche-competences/"
 ---

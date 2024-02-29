@@ -7,7 +7,7 @@ auteur : "crous"
 
  
 
-image : "/assets/fildactus/actualites/05-31-crous.png"
+image : "/assets/fildactus/encemoment/05-31-crous.png"
 
 source : "https://www.instagram.com/p/C3F6nWMi5wd/"
 ---
