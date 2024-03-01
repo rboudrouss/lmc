@@ -268,11 +268,9 @@ export const assosSvg = [
 
 export const assosNames = [
   "6eme",
-  "aces",
   "acidsu",
   "acoufem",
   "adal",
-  "addhm",
   "adlsd",
   "aebip",
   "aeg",
