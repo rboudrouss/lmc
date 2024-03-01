@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Assos.astro
 acronyme: UCPH
-titre: Une couverture pour l’hiver
+titre: Une Couverture Pour l’Hiver
 affiliation: 
    - su
 

@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Assos.astro
 acronyme: AEBIP
-titre: Association étudiante du master biologie intégrative et physiologie
+titre: Association Étudiante du master Biologie Intégrative et Physiologie
 affiliation: 
    - sciences
 
