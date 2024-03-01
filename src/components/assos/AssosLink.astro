@@ -23,7 +23,7 @@ const { assos } = Astro.props;
 
   <a class="wrapper" href={assos.url}>
     <img
-      src={assos.logooriginal ?? assos.logo}
+      src={assos.logo}
       alt={(assos?.acronyme ?? assos.titre?.slice(0, 10)) + " logo"}
       class="logo"
       loading="lazy"
@@ -33,7 +33,7 @@ const { assos } = Astro.props;
   </a>
   <a href={assos.url} class="wrapperMobile">
     <img
-      src={assos.logooriginal ?? assos.logo}
+      src={assos.logo}
       alt={(assos?.acronyme ?? assos.titre?.slice(0, 10)) + " logo"}
       class="logoM"
       loading="lazy"

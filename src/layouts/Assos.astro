@@ -1,4 +1,4 @@
-	---
+---
 import Layout from "./Layout.astro";
 import Header from "../components/general/Header.astro";
 import Footer from "../components/general/Footer.astro";
@@ -18,7 +18,7 @@ assos.url = Astro.props.url;
 <Layout
   title={assos.titre}
   description={assos.description}
-  image={assos.logo}
+  image={assos.logooriginal ?? assos.logo}
 >
   <ViewTransitions />
   <Header title={assos.acronyme ?? assos.titre} url={assos.url} />
@@ -28,7 +28,7 @@ assos.url = Astro.props.url;
     </div>
     <main class="wrapper">
       <div class="assosInfo">
-        <img src={assos.logo} alt="logo" class="logo" />
+        <img src={assos.logooriginal ?? assos.logo} alt="logo" class="logo" />
         <h1 class="titre">{assos.titre}</h1>
         {assos.acronyme && <h2 class="acronyme">({assos.acronyme})</h2>}
         {assos.description && <p class="description">{assos.description}</p>}

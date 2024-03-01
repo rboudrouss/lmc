@@ -8,7 +8,7 @@ typeasso:
    - entrepreneuriat
 
 logo: /assets/logos/enactus.png
-logo_original: /assets/logos/enactus_o.png
+logooriginal: /assets/logos/enactus_o.png
 description: "Enactus a pour objet d’inciter les étudiants et étudiantes de l’école et de l’université à réaliser des projets entrepreneuriaux qui tiennent compte des facteurs économiques, sociaux et environnementaux du territoire."
 links:
   site: https://www.polytech.sorbonne-universite.fr/vie-associative/enactus-polytech-sorbonne
