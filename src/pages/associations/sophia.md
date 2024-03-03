@@ -5,7 +5,7 @@ affiliation:
    - sciences
 
 typeasso: 
-   - autre
+   - filiere
 
 logo: /assets/logos/sophia.png
 logooriginal: /assets/logos/sophia_o.png

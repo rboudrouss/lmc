@@ -16,5 +16,4 @@ links:
   instagram: https://www.instagram.com/_aeosu_/
   facebook: https://www.facebook.com/aeosuorthoptie
 mail: secretariat@aeosu.com
-# https: //www.instagram.com/pedaeosu/
 ---
