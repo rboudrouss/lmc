@@ -7,7 +7,6 @@ affiliation:
 typeasso: 
    - filiere
 
-logo: /assets/logos/telesorbonne.svg
 description: "Association archéologique, intercivilisationnelle et universitaire"
 links:
   linktree: https://linktr.ee/terraantiqueessu
