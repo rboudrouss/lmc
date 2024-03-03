@@ -19,7 +19,7 @@ const {
   url,
 } = Astro.props;
 
-let title = `Fil d'actualité ${typeA ?? ""} (non officiel)`;
+let title = `Fil d'actualité ${typeA ?? ""} (Non Officiel)`;
 
 const assosIcons = {
   ...rawMDsToAssos(await Astro.glob("../pages/associations/*.md")).reduce(

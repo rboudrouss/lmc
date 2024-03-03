@@ -7,6 +7,7 @@ affiliation:
 typeasso: 
    - filiere
 
+logo: /assets/logos/pas2logo.png
 description: "Association archéologique, intercivilisationnelle et universitaire"
 links:
   linktree: https://linktr.ee/terraantiqueessu
