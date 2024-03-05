@@ -3,6 +3,7 @@ layout: ../../layouts/Assos.astro
 titre: InVivo
 affiliation: 
    - polytech
+   - sciences
 
 typeasso: 
    - artistique
