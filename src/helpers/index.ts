@@ -442,4 +442,5 @@ export const assosNames = [
   "celsa",
   "fablab",
   "capsule",
+  "pepite",
 ] as const;
