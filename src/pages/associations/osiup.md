@@ -3,7 +3,7 @@ layout: ../../layouts/Assos.astro
 acronyme : OSIUP
 titre: Orchestre Symphonique Inter-Universitaire de Paris
 affiliation: 
-   - lettres
+   - SU
 
 typeasso: 
    - artistique
