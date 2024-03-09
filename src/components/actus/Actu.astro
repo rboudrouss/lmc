@@ -76,7 +76,7 @@ const { actu } = Astro.props;
   .mainImg {
     max-height: 60vh;
     max-width: 100%;
-    padding: 5px;
+    padding: 20px 5px;
   }
 
   .icon {
@@ -85,11 +85,17 @@ const { actu } = Astro.props;
 
   .md {
     width: 70%;
+    font-size: 1.15rem;
   }
 
   .source {
     font-size: large;
     font-weight: bold;
+  }
+
+  .md :global(p),
+  .md :global(ul) {
+    padding-bottom: 10px;
   }
 
   .md :global(a),
