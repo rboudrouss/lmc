@@ -1,4 +1,5 @@
 ---
+layout: ../../../layouts/Actu.astro
 date : "21-03-2024 23:00"
 
 title: "Conférence : l'Univers a-t-il vraiment eu un commencement ?"

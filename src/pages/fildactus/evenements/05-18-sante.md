@@ -1,4 +1,5 @@
 ---
+layout: ../../../layouts/Actu.astro
 date : "18-05-2024 23:00"
 
 title: "Conférence : Situations sanitaires exceptionnelles"

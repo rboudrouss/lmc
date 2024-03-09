@@ -1,4 +1,5 @@
 ---
+layout: ../../../layouts/Actu.astro
 date : "01-02-2024 23:00"
 
 title: "Les aides financières + pack numérique"

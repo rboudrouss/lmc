@@ -1,4 +1,5 @@
 ---
+layout: ../../../layouts/Actu.astro
 date : "30-03-2024 23:00"
 
 title: "Dispositif Places Offertes #7"

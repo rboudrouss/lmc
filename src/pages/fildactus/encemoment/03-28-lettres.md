@@ -1,4 +1,5 @@
 ---
+layout: ../../../layouts/Actu.astro
 date : "28-03-2024 23:00"
 
 title: "Certification Niveau de Français"

@@ -1,4 +1,5 @@
 ---
+layout: ../../../layouts/Actu.astro
 date : "14-03-2024 23:00"
 
 title: "Conf CAPSULE : Mettre en cohérence l'approche par compétence"

@@ -1,4 +1,5 @@
 ---
+layout: ../../../layouts/Actu.astro
 date : "15-01-2024 23:00"
 
 title: "Service Social du Crous de Paris"

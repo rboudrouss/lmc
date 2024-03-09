@@ -1,4 +1,5 @@
 ---
+layout: ../../../layouts/Actu.astro
 date : "14-02-2024 23:00"
 
 title: "Recensement de la population 2024"

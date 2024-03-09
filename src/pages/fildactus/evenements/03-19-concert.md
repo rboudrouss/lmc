@@ -1,4 +1,5 @@
 ---
+layout: ../../../layouts/Actu.astro
 date : "19-03-2024 23:00"
 
 title: "Soirée Concert"

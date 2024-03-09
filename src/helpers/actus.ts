@@ -35,7 +35,7 @@ export function rawMdToActu(e: MarkdownInstance<any>): ActuT {
         : e.frontmatter.affiliation ?? [],
     url: e.url,
     icons: [],
-    content: e.Content,
+    content: e.compiledContent(),
   };
 }
 

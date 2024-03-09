@@ -1,4 +1,5 @@
 ---
+layout: ../../../layouts/Actu.astro
 date : "06-06-2024 23:00"
 
 title: "Un semestre avec les académiciens"

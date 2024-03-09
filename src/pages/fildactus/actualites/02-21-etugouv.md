@@ -1,4 +1,5 @@
 ---
+layout: ../../../layouts/Actu.astro
 date : "21-02-2024 23:00"
 
 title: "Stage étudiant : quels sont vos droits"

@@ -1,4 +1,5 @@
 ---
+layout: ../../../layouts/Actu.astro
 date : "31-03-2024 23:00"
 
 title: "Le Prix Effervescence : Concours de nouvelles"

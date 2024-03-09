@@ -1,4 +1,5 @@
 ---
+layout: ../../../layouts/Actu.astro
 date : "11-02-2024 23:00"
 
 title: "Groupe de Lecture de Scénario"

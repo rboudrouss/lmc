@@ -1,4 +1,5 @@
 ---
+layout: ../../../layouts/Actu.astro
 date : "19-01-2024 23:00"
 
 title: "Atelier d'écriture & projet jeu"

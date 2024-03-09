@@ -1,4 +1,5 @@
 ---
+layout: ../../../layouts/Actu.astro
 date : "17-02-2024 23:00"
 
 title: "Chaussettes Psychomot"

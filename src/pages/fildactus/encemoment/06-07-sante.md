@@ -1,4 +1,5 @@
 ---
+layout: ../../../layouts/Actu.astro
 date : "07-06-2024 23:00"
 
 title: "Diplôme d'Infirmer(e) en Pratique Avancée"

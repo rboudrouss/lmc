@@ -21,7 +21,7 @@ const { actu } = Astro.props;
     </div>
     <img src={actu.image} alt={actu.title} class="mainImg" loading="lazy" />
     <div class="md">
-      <actu.content />
+      <div set:html={actu.content} />
     </div>
     {
       actu.source && (

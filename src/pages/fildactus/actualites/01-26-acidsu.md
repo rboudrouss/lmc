@@ -1,4 +1,5 @@
 ---
+layout: ../../../layouts/Actu.astro
 date : "26-01-2024 23:00"
 
 title: "Coaching de Chimie"

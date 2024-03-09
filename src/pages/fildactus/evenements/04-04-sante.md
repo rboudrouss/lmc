@@ -1,4 +1,5 @@
 ---
+layout: ../../../layouts/Actu.astro
 date : "04-04-2024 23:00"
 
 title: "Santé et Politique : un mariage de raison ?"

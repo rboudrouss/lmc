@@ -1,4 +1,5 @@
 ---
+layout: ../../../layouts/Actu.astro
 date : "11-03-2024 23:00"
 
 title: "Atelier Carrière : <<Quels sont vos atouts concurrentiels>>"

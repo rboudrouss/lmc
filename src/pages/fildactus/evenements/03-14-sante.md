@@ -1,4 +1,5 @@
 ---
+layout: ../../../layouts/Actu.astro
 date : "14-03-2024 23:00"
 
 title: "Conférence : L’irrésistible ascension de l’intégrité scientifique"

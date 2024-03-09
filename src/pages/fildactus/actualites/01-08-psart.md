@@ -1,4 +1,5 @@
 ---
+layout: ../../../layouts/Actu.astro
 date : "08-01-2024 23:00"
 
 title: "Atelier Orchestre"

@@ -1,4 +1,5 @@
 ---
+layout: ../../../layouts/Actu.astro
 date : "10-01-2024 23:00"
 
 title: "Ateliers 2nd Semestre"
