@@ -9,13 +9,15 @@ import Footer from "../components/general/Footer.astro";
 import Actu from "../components/actus/Actu.astro";
 
 import { rawMDsToAssos, rawMdsToActus } from "@/helpers";
+import type { Affiliations } from "@/helpers";
 
 type Props = MarkdownInstance<{
   typeA?: "actualites" | "encemoment" | "evenements";
+  aff?: Affiliations;
 }>;
 
 const {
-  frontmatter: { typeA },
+  frontmatter: { typeA, aff },
   url,
 } = Astro.props;
 
@@ -27,7 +29,7 @@ const assosIcons = {
       ...acc,
       [asso.filename]: asso.logo,
     }),
-    {}
+    {},
   ),
   bsu: "/assets/logos/bsu.png",
   lettres: "/assets/logos/lettres.svg",
@@ -45,7 +47,7 @@ const assosIcons = {
 };
 
 const actus = rawMdsToActus(
-  await Astro.glob("../pages/fildactus/**/*.md")
+  await Astro.glob("../pages/fildactus/**/*.md"),
 ).filter((actu) => !typeA || actu.url.split("/").includes(typeA));
 
 actus.forEach((actu) => {
@@ -57,7 +59,7 @@ actus.forEach((actu) => {
   <ViewTransitions />
   <Header title={title} url={url} />
   <div class="content">
-    <FakeSelector typeASelected={typeA} />
+    <FakeSelector typeASelected={typeA} affSelected={aff} />
     <main class="wrapper">
       {actus.map((actu) => <Actu actu={actu} />)}
     </main>

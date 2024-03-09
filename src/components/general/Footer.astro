@@ -1,6 +1,6 @@
 ---
 import footerData from "@/data/footer.json";
-import { getIconSource } from "@/helpers";
+import { getMiscIcon } from "@/assets/misc";
 ---
 
 <footer>
@@ -16,7 +16,7 @@ import { getIconSource } from "@/helpers";
               target="_blank"
               rel="noreferrer"
             >
-              <img src={getIconSource(link.icon)} alt={link.icon} />
+              <img src={getMiscIcon(link.icon).src} alt={link.icon} />
             </a>
           </li>
         );

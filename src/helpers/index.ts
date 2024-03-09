@@ -1,38 +1,12 @@
-import type { ReactNode } from "react";
-import Astro from "astro";
+import type { MarkdownInstance } from "astro";
+import type {
+  Assos,
+  Affiliations,
+  TypeAsso,
+  ActuT,
+} from "./types";
 
-import discord from "../icons/discord.svg";
-import facebook from "../icons/facebook.svg";
-import instagram from "../icons/instagram.svg";
-import twitter from "../icons/twitter.svg";
-import youtube from "../icons/youtube.svg";
-import linkedin from "../icons/linkedin.svg";
-import Default from "../icons/default.svg";
-import type { MDXInstance, MarkdownInstance } from "astro";
-
-export interface Element_Drop {
-  title: string;
-  childs: Element_Drop[]; // using childs cause children is a reserved word
-  opened?: boolean;
-  isPage?: boolean;
-  content: ReactNode;
-  isMd?: boolean;
-  persistant?: boolean;
-}
-
-export interface Assos {
-  acronyme?: string;
-  titre: string;
-  affiliation?: Affiliations[];
-  typeasso?: TypeAsso[];
-  logo: string;
-  logooriginal?: string;
-  description?: string;
-  video?: string;
-  links?: LinksAssos;
-  url?: string;
-  filename: string;
-}
+export * from "./types";
 
 export function rawMDAssosToAssos(e: MarkdownInstance<Assos>): Assos {
   return {
@@ -67,19 +41,20 @@ export function filterAssos(
   });
 }
 
-export interface ActuT2 {
-  date?: Date;
-  title: string;
-  auteur: string[];
-  image?: string;
-  source?: string;
-  affiliation?: Affiliations[];
-  url: string;
-  icons?: string[];
-  content: any; // TODO
+export function filterActus(
+  l: ActuT[],
+  aff: Affiliations,
+  typeA: TypeAsso
+): ActuT[] {
+  if (!aff && !typeA) return l;
+  return l.filter((actu) => {
+    if (aff && actu.affiliation?.includes(aff) === false) return false;
+    if (typeA && actu.url.split("/").includes(typeA) === false) return false;
+    return true;
+  });
 }
 
-export function rawMdToActu(e: MarkdownInstance<any>): ActuT2 {
+export function rawMdToActu(e: MarkdownInstance<any>): ActuT {
   return {
     date: parseDateFromString(e.frontmatter.date),
     title: e.frontmatter.title,
@@ -99,36 +74,8 @@ export function rawMdToActu(e: MarkdownInstance<any>): ActuT2 {
   };
 }
 
-export function rawMdsToActus(e: MarkdownInstance<any>[]): ActuT2[] {
+export function rawMdsToActus(e: MarkdownInstance<any>[]): ActuT[] {
   return e.map(rawMdToActu);
-}
-
-export const Empty_Element: Element_Drop = {
-  title: "",
-  childs: [],
-  content: "",
-};
-
-export interface ActuT {
-  title: string;
-  date?: Date;
-  img?: string;
-  source?: string;
-  assos: AssosName[];
-  persistant?: boolean;
-  content?: string; // UNSAFE HTML
-  link?: string;
-  facType?: FacType[];
-}
-
-export const Element_Keys = ["title", "opened", "isPage"] as const;
-
-export function assosToImg(assos: string) {
-  if (assosNames.includes(<AssosName>assos) === false) return Default.src; // HACK kinda but hey
-
-  if (assosSvg.includes(assos)) return `/assets/logos/${assos}.svg`;
-
-  return `/assets/logos/${assos}.png`;
 }
 
 export function parseDateFromString(dateString?: string): Date | null {
@@ -193,254 +140,3 @@ export function sortListPostByDate(list: ActuT[]): ActuT[] {
     return a.date.getTime() - b.date.getTime();
   });
 }
-
-export function getIconSource(name: string) {
-  if (icons[name]) return icons[name].src;
-  return icons.default.src;
-}
-
-export const icons = {
-  discord,
-  facebook,
-  instagram,
-  twitter,
-  youtube,
-  linkedin,
-  default: Default,
-};
-
-export type TypeAsso =
-  | "filiere"
-  | "cursus"
-  | "ludique"
-  | "mediatique"
-  | "artistique"
-  | "evenementiel"
-  | "sports"
-  | "solidarite"
-  | "ecologie"
-  | "entrepreneuriat"
-  | "debat"
-  | "feminisme"
-  | "syndicat"
-  | "autre";
-
-export type Affiliations =
-  | "su"
-  | "sciences"
-  | "lettres"
-  | "sante"
-  | "polytech"
-  | "celsa";
-
-export type LinksAssos = Record<string, string>;
-
-export type AssosName = (typeof assosNames)[number];
-
-export const facTypes = ["lettre", "sciences", "medecine", "polytech"] as const;
-
-export type FacType = (typeof facTypes)[number];
-
-export const assosSvg = [
-  "alias",
-  "amsu",
-  "bdac",
-  "bdepolytech",
-  "bds",
-  "bicursiosite",
-  "cinefac",
-  "cop1",
-  "curieosity",
-  "lfdt",
-  "lmc",
-  "telesorbonne",
-  "topaero",
-  "su",
-  "sse",
-  "sciences",
-  "lettres",
-  "sante",
-  "polytech",
-  "celsa",
-  "fablab",
-  "capsule",
-];
-
-export const assosNames = [
-  "6eme",
-  "acidsu",
-  "acoufem",
-  "adal",
-  "adlsd",
-  "aebip",
-  "aeg",
-  "aeaelc",
-  "aehsu",
-  "aeosu",
-  "aesf",
-  "aesfpsa",
-  "agep",
-  "ajuca",
-  "aladab",
-  "alias",
-  "alliance",
-  "almamater",
-  "amevs",
-  "ami",
-  "amsu",
-  "apeo",
-  "apeps",
-  "aromaths",
-  "arrimage",
-  "as",
-  "aumoneriecelsa",
-  "avcpsa",
-  "avebmc",
-  "axio",
-  "bdac",
-  "bdeinspe",
-  "bdeisup",
-  "bdepolytech",
-  "bds",
-  "bicursiosite",
-  "c2su",
-  "celsaalumni",
-  "celsaagora",
-  "celsahuma",
-  "cia",
-  "cinefac",
-  "cinepsis",
-  "cmi",
-  "collectifdoctoral",
-  "comair",
-  "comedscene",
-  "connectome",
-  "cop1",
-  "curieosity",
-  "dada",
-  "debateclub",
-  "debattreensorbonne",
-  "defissorbonne",
-  "demodocos",
-  "desndes",
-  "droithistoire",
-  "effervescence",
-  "effeuillage",
-  "enactus",
-  "encorps",
-  "englishsociety",
-  "epsu",
-  "faispasgenre",
-  "fcos",
-  "galeriesorbonne",
-  "geonautes",
-  "gobee",
-  "greenwave",
-  "heforshe",
-  "historia",
-  "igem",
-  "interreagir",
-  "invivo",
-  "isee",
-  "jam",
-  "js2",
-  "junior",
-  "kulturiste",
-  "labaffe",
-  "laclefdeschantsensemble",
-  "lagazelle",
-  "lamadeleine",
-  "lasixe",
-  "lasorbonnesonore",
-  "lebanquet",
-  "lecelsgreen",
-  "lecomptoir",
-  "lentracte",
-  "lesconcertsdemidi",
-  "lesfallopes",
-  "lestudio",
-  "lfdt",
-  "lmc",
-  "fablab",
-  "gobee",
-  "heforshe",
-  "interreagir",
-  "invivo",
-  "isee",
-  "isup",
-  "jam",
-  "js2",
-  "lasixe",
-  "lfdt",
-  "lpcpsa",
-  "lpcsa",
-  "ludiidf",
-  "lupa",
-  "luxfabrica",
-  "madeinsorbonne",
-  "maes",
-  "medalo",
-  "megen",
-  "moktar",
-  "neolectes",
-  "oasis",
-  "opiumphilosophie",
-  "osiup",
-  "parismus",
-  "parolesdedefense",
-  "pea",
-  "philodoctes",
-  "pmp6",
-  "polycoeur",
-  "polypeip",
-  "pomm",
-  "psagreen",
-  "psart",
-  "psf",
-  "psu",
-  "pwb",
-  "revoltetoisorbonne",
-  "robotech",
-  "rsu",
-  "scdr",
-  "sgmi",
-  "solidaires",
-  "solsu",
-  "sophia",
-  "sorbonneantique",
-  "sorbonnemusicdays",
-  "sorboutremer",
-  "sp6",
-  "spiv",
-  "splaaash",
-  "sprint",
-  "suesport",
-  "super8",
-  "susie",
-  "symbiose6",
-  "telesorbonne",
-  "terraantiqua",
-  "theatreallemand",
-  "theatreux",
-  "timarcha",
-  "topaero",
-  "tvjussieu",
-  "uefj",
-  "ucph",
-  "vertlascience",
-  "winenot",
-  "wolfpack",
-  "crous",
-  "etugouv",
-  "su",
-  "sse",
-  "bsu",
-  "sciences",
-  "lettres",
-  "sante",
-  "polytech",
-  "celsa",
-  "fablab",
-  "capsule",
-  "pepite",
-] as const;
