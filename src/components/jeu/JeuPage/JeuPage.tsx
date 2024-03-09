@@ -41,7 +41,6 @@ export default function JeuPage() {
   };
 
   const continueGame = () => {
-    console.log("continue", i);
     if (turns.length === 0) {
       setFinished(true);
       return;
@@ -50,8 +49,6 @@ export default function JeuPage() {
     let [temp, ...rest] = turns;
     setTurns(rest);
     setI(temp);
-
-    console.log(answers[i]);
   };
 
   return (

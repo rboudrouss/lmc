@@ -80,7 +80,6 @@ export default function Canva({
           const x = e.clientX - rect.left;
           const y = e.clientY - rect.top;
           setLastClick({ x, y });
-          console.log(x, y);
         }}
       />
       <div

@@ -22,8 +22,6 @@ let {
   frontmatter: { typeFilter, affiliationFilter },
 } = Astro.props;
 
-console.log(typeFilter, affiliationFilter);
-
 let assoList = filterAssos(
   rawMDsToAssos(await Astro.glob("../pages/associations/*.md")),
   affiliationFilter,
