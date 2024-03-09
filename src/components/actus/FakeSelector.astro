@@ -8,53 +8,35 @@ import {
   PolyS,
 } from "../assos/AffSelect"; // FIXME
 
-import type { TypeAsso, Affiliations } from "../../helpers";
+import type { Affiliations, TypeActus } from "../../helpers";
 interface Props {
-  typeSelected?: TypeAsso;
   affSelected?: Affiliations;
   typeASelected?: string;
 }
 
-const typeActus = [
+const typeActus: { name: string; link: TypeActus }[] = [
   { name: "Actualités", link: "actualites" },
   { name: "Évènement", link: "evenements" },
   { name: "En ce moment", link: "encemoment" },
 ];
 
-const typeAssos: TypeAsso[] = [
-  "filiere",
-  "cursus",
-  "ludique",
-  "mediatique",
-  "artistique",
-  "evenementiel",
-  "sports",
-  "solidarite",
-  "ecologie",
-  "entrepreneuriat",
-  "debat",
-  "feminisme",
-  "syndicat",
-  "autre",
-];
+const { affSelected, typeASelected } = Astro.props;
 
-const { typeSelected, affSelected, typeASelected } = Astro.props;
+const baseLink = "/fildactus" + (typeASelected ? `/${typeASelected}/` : "/");
+const linkTypeA = (name: TypeActus) =>
+  name !== typeASelected
+    ? `/fildactus/${name}/${affSelected ?? ""}`
+    : `/fildactus/${affSelected ?? ""}`;
 
-const baseLink = "/associations" + (affSelected ? `/${affSelected}/` : "/");
-const LinkAff = (name: Affiliations) =>
-  name !== affSelected
-    ? `/associations/${name}/${typeSelected ?? ""}`
-    : `/associations/${typeSelected ?? ""}`;
-
-const showAll = !typeSelected && !affSelected;
+const showAll = !typeASelected && !affSelected;
 ---
 
 <div class="typesAWrapper">
   {
     typeActus.map((type) => (
       <a
-        href={"/fildactus/" + (typeASelected === type.link ? "" : type.link)}
-        class={`typeAWrapper ${typeASelected && typeASelected !== type.link ? "transparent" : ""}`}
+        href={linkTypeA(type.link)}
+        class={`typeAWrapper ${!showAll && typeASelected !== type.link ? "transparent" : ""}`}
       >
         {type.name}
       </a>
@@ -63,14 +45,31 @@ const showAll = !typeSelected && !affSelected;
 </div>
 
 <div class="affsWrapper">
-  <SuS link="#" />
-  <LettresS link="#" />
-  <SciencesS link="#" />
-  <CelsaS link="#" />
-  <PolyS link="#" />
-  <SanteS link="#" />
+  <SuS
+    link={baseLink + (affSelected !== "su" ? "su" : "")}
+    transparent={!showAll && affSelected !== "su"}
+  />
+  <LettresS
+    link={baseLink + (affSelected !== "lettres" ? "lettres" : "")}
+    transparent={!showAll && affSelected !== "lettres"}
+  />
+  <SciencesS
+    link={baseLink + (affSelected !== "sciences" ? "sciences" : "")}
+    transparent={!showAll && affSelected !== "sciences"}
+  />
+  <CelsaS
+    link={baseLink + (affSelected !== "celsa" ? "celsa" : "")}
+    transparent={!showAll && affSelected !== "celsa"}
+  />
+  <PolyS
+    link={baseLink + (affSelected !== "polytech" ? "polytech" : "")}
+    transparent={!showAll && affSelected !== "polytech"}
+  />
+  <SanteS
+    link={baseLink + (affSelected !== "sante" ? "sante" : "")}
+    transparent={!showAll && affSelected !== "sante"}
+  />
 </div>
-
 
 <style>
   .typesAWrapper,
