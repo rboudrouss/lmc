@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Assos.astro
+layout: ../../../layouts/Assos.astro
 acronyme: BSU
 titre: Bibliothèques Sorbonne Université
 affiliation: 

@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Assos.astro
+layout: ../../../layouts/Assos.astro
 acronyme: SSE
 titre: Service Santé Étudiant
 affiliation: 

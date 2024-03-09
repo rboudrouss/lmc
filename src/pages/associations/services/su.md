@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Assos.astro
+layout: ../../../layouts/Assos.astro
 acronyme: SU
 titre: Sorbonne Université
 affiliation: 

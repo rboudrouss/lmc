@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Assos.astro
+layout: ../../../layouts/Assos.astro
 acronyme: DAC
 titre: Département des Arts et de la Culture
 affiliation: 

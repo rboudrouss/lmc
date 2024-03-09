@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Assos.astro
+layout: ../../../layouts/Assos.astro
 acronyme: CAPSULE
 titre: Centre d’Accompagnement à la Pédagogie et SUpport à L’Expérimentation
 affiliation: 
