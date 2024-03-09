@@ -23,7 +23,7 @@ const {
 
 let title = `Fil d'Actus ${typeA ?? ""} (Non Officiel)`;
 
-const assosIcons = {
+const assosIcons: Record<string, string>= {
   ...rawMDsToAssos(await Astro.glob("../pages/associations/*.md")).reduce(
     (acc, asso) => ({
       ...acc,

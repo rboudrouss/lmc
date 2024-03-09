@@ -9,7 +9,7 @@ const { actu } = Astro.props;
 
 <div class="wrapper">
   <div class="content">
-    <div class="title">
+    <div class="titleWrapper">
       <div class="icons">
         {
           actu.icons?.map((icon, i) => (
@@ -17,7 +17,7 @@ const { actu } = Astro.props;
           ))
         }
       </div>
-      <a href={actu.url}>{actu.title}</a>
+      <a href={actu.url} class="title">{actu.title}</a>
     </div>
     <img src={actu.image} alt={actu.title} class="mainImg" loading="lazy" />
     <div class="md">
@@ -25,7 +25,7 @@ const { actu } = Astro.props;
     </div>
     {
       actu.source && (
-        <a href={actu.source} target="_blank">
+        <a href={actu.source} target="_blank" class="source">
           SOURCE
         </a>
       )
@@ -33,49 +33,42 @@ const { actu } = Astro.props;
   </div>
 </div>
 
-<!-- <script define:vars={{date: actu.date}}>
-
-  if (date < new Date()) {
-    document.querySelector('.wrapperUwU').style.display = 'none';
-  }
-
-</script> -->
-
 <style>
   .wrapper {
     display: flex;
     justify-content: center;
     padding: 30px 0;
     outline: 10px solid black;
+    width: 100%;
   }
+
   .content {
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 20px;
+    width: 100%;
   }
   .icons {
     display: flex;
     gap: 10px;
   }
-  .title {
-    font-weight: bold;
-    font-size: xx-large;
+
+  .titleWrapper {
     display: flex;
     align-items: center;
     gap: 10px;
   }
-  .wrapper {
-    width: 100%;
-  }
 
-  .content {
-    max-width: 1000px;
+  .title {
+    font-size: xx-large;
+    font-weight: bold;
+    color: blue;
   }
 
   .mainImg {
-    max-height: 600px;
-    max-width: 110%;
+    max-height: 60vh;
+    max-width: 100%;
     padding: 5px;
   }
 
@@ -83,9 +76,28 @@ const { actu } = Astro.props;
     height: 100px;
   }
 
+  .md {
+    width: 70%;
+  }
+
+  .source {
+    font-size: large;
+    font-weight: bold;
+  }
+
+  .md :global(a),
+  .source {
+    color: blue;
+    text-decoration: underline;
+  }
+
   @media (max-width: 800px) {
     .mainImg {
       max-width: 80vw;
+    }
+
+    .md {
+      width: 100%;
     }
   }
 </style>
