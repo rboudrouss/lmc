@@ -8,11 +8,11 @@ import Header from "../components/general/Header.astro";
 import Footer from "../components/general/Footer.astro";
 import Actu from "../components/actus/Actu.astro";
 
-import { rawMDsToAssos, rawMdsToActus } from "@/helpers";
-import type { Affiliations } from "@/helpers";
+import { rawMDsToAssos, treatRawActus } from "@/helpers";
+import type { Affiliations, TypeActus } from "@/helpers";
 
 type Props = MarkdownInstance<{
-  typeA?: "actualites" | "encemoment" | "evenements";
+  typeA?: TypeActus;
   aff?: Affiliations;
 }>;
 
@@ -23,13 +23,13 @@ const {
 
 let title = `Fil d'Actus ${typeA ?? ""} (Non Officiel)`;
 
-const assosIcons: Record<string, string>= {
+const assosIcons: Record<string, string> = {
   ...rawMDsToAssos(await Astro.glob("../pages/associations/*.md")).reduce(
     (acc, asso) => ({
       ...acc,
       [asso.filename]: asso.logo,
     }),
-    {},
+    {}
   ),
   bsu: "/assets/logos/bsu.png",
   lettres: "/assets/logos/lettres.svg",
@@ -46,9 +46,11 @@ const assosIcons: Record<string, string>= {
   pepite: "/assets/logos/pepite.png",
 };
 
-const actus = rawMdsToActus(
+const actus = treatRawActus(
   await Astro.glob("../pages/fildactus/**/*.md"),
-).filter((actu) => !typeA || actu.url.split("/").includes(typeA));
+  aff,
+  typeA
+);
 
 actus.forEach((actu) => {
   actu.icons = actu.auteur.map((auteur) => assosIcons[auteur]);

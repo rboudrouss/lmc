@@ -53,3 +53,5 @@ export type LinksAssos = Record<string, string>;
 export const facTypes = ["lettre", "sciences", "medecine", "polytech"] as const;
 
 export type FacType = (typeof facTypes)[number];
+
+export type TypeActus = "actualites" | "encemoment" | "evenements";
