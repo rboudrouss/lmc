@@ -12,8 +12,15 @@ const { actu } = Astro.props;
     <div class="titleWrapper">
       <div class="icons">
         {
-          actu.icons?.map((icon, i) => (
-            <img loading="lazy" src={icon} alt={actu.auteur[i]} class="icon" />
+          actu.auteurInfo?.map((auteur, i) => (
+            <a href={auteur.url}>
+              <img
+                loading="lazy"
+                src={auteur.logooriginal ?? auteur.logo}
+                alt={actu.auteur[i]}
+                class="icon"
+              />
+            </a>
           ))
         }
       </div>

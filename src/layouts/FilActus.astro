@@ -23,38 +23,22 @@ const {
 
 let title = `Fil d'Actus ${typeA ?? ""} (Non Officiel)`;
 
-const assosIcons: Record<string, string> = {
-  ...rawMDsToAssos(await Astro.glob("../pages/associations/*.md")).reduce(
+const assos = {
+  ...rawMDsToAssos(await Astro.glob("../pages/associations/**/*.md")).reduce(
     (acc, asso) => ({
       ...acc,
-      [asso.filename]: asso.logo,
+      [asso.filename]: asso
     }),
     {}
-  ),
-  bsu: "/assets/logos/bsu.png",
-  lettres: "/assets/logos/lettres.svg",
-  sciences: "/assets/logos/sciences.svg",
-  sante: "/assets/logos/sante.svg",
-  polytech: "/assets/logos/polytech.svg",
-  fablab: "/assets/logos/fablab.svg",
-  celsa: "/assets/logos/celsa.svg",
-  su: "/assets/logos/su.svg",
-  sse: "/assets/logos/sse.svg",
-  capsule: "/assets/logos/capsule.svg",
-  etugouv: "/assets/logos/etugouv.png",
-  crous: "/assets/logos/crous.png",
-  pepite: "/assets/logos/pepite.png",
+  )
 };
 
 const actus = treatRawActus(
   await Astro.glob("../pages/fildactus/**/*.md"),
+  assos,
   aff,
   typeA
 );
-
-actus.forEach((actu) => {
-  actu.icons = actu.auteur.map((auteur) => assosIcons[auteur]);
-});
 ---
 
 <Layout title={title}>

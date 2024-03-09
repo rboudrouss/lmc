@@ -20,8 +20,8 @@ export interface ActuT {
   source?: string;
   affiliation?: Affiliations[];
   url: string;
-  icons?: string[];
   content: any; // TODO
+  auteurInfo: Assos[];
 }
 
 export type TypeAsso =

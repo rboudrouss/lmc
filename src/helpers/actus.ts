@@ -4,6 +4,7 @@ import {
   type Affiliations,
   type TypeActus,
   parseDateFromString,
+  type Assos,
 } from ".";
 
 export function filterActus(
@@ -19,8 +20,11 @@ export function filterActus(
   });
 }
 
-export function rawMdToActu(e: MarkdownInstance<any>): ActuT {
-  return {
+export function rawMdToActu(
+  e: MarkdownInstance<any>,
+  assos: Record<string, Assos>
+): ActuT {
+  const actu: ActuT = {
     date: parseDateFromString(e.frontmatter.date),
     title: e.frontmatter.title,
     auteur:
@@ -34,13 +38,26 @@ export function rawMdToActu(e: MarkdownInstance<any>): ActuT {
         ? [e.frontmatter.affiliation]
         : e.frontmatter.affiliation ?? [],
     url: e.url,
-    icons: [],
     content: e.compiledContent(),
+    auteurInfo: (typeof e.frontmatter.auteur === "string"
+      ? [e.frontmatter.auteur]
+      : e.frontmatter.auteur ?? []
+    )?.map((auteur: string) => assos[auteur]),
   };
+
+  if (actu.affiliation.length === 0)
+    actu.affiliation = actu.auteurInfo
+      .map((auteur) => auteur.affiliation)
+      .reduce((acc, val) => acc.concat(val), []);
+
+  return actu;
 }
 
-export function rawMdsToActus(e: MarkdownInstance<any>[]): ActuT[] {
-  return e.map(rawMdToActu);
+export function rawMdsToActus(
+  e: MarkdownInstance<any>[],
+  assos: Record<string, Assos>
+): ActuT[] {
+  return e.map((actu) => rawMdToActu(actu, assos));
 }
 
 export function filterActusBeforeYesterday(list: ActuT[]): ActuT[] {
@@ -65,10 +82,13 @@ export function sortListActusByDate(list: ActuT[]): ActuT[] {
 
 export function treatRawActus(
   list: MarkdownInstance<any>[],
+  assos: Record<string, Assos>,
   aff?: Affiliations,
   typeA?: TypeActus
 ): ActuT[] {
-  let actus = sortListActusByDate(filterActus(rawMdsToActus(list), aff, typeA));
+  let actus = sortListActusByDate(
+    filterActus(rawMdsToActus(list, assos), aff, typeA)
+  );
   if (typeA !== "actualites") return filterActusBeforeYesterday(actus);
   return actus;
 }
