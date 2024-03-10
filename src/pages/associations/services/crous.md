@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Assos.astro
+layout: ../../../layouts/Assos.astro
 titre: Crous Paris
 
 logo: /assets/logos/crous.png

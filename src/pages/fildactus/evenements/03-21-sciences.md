@@ -16,7 +16,7 @@ auteur :
   - acidsu
   - axio
   - topaero
-  - igemsu
+  - igem
   - bicursiosite
   - parismus
   - desndes

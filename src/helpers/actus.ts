@@ -26,6 +26,11 @@ export function rawMdToActu(
   e: MarkdownInstance<any>,
   assos: Record<string, Assos>
 ): ActuT {
+  if (!e || !e.frontmatter) throw new Error("Invalid actu");
+  if (!assos)
+    console.warn(
+      "<!> liens des assos non donnés, les auteurs seront manquants <!>"
+    );
   const actu: ActuT = {
     date: parseDateFromString(e.frontmatter.date),
     title: e.frontmatter.title,
@@ -44,12 +49,18 @@ export function rawMdToActu(
     auteurInfo: (typeof e.frontmatter.auteur === "string"
       ? [e.frontmatter.auteur]
       : e.frontmatter.auteur ?? []
-    )?.map((auteur: string) => assos[auteur]),
+    )
+      ?.map((auteur: string) => {
+        let a = assos[auteur];
+        if (!a) console.warn(`Auteur ${auteur} not found`);
+        return a;
+      })
+      ?.filter((auteur) => auteur), // on enlève les auteurs non trouvés
   };
 
   if (actu.affiliation.length === 0)
     actu.affiliation = actu.auteurInfo
-      .map((auteur) => auteur.affiliation)
+      .map((auteur) => auteur?.affiliation)
       .reduce((acc, val) => acc.concat(val), []);
 
   return actu;
