@@ -21,17 +21,18 @@ if (assos.affiliation && assos.affiliation.length > 1) {
 ---
 
 <div class="all">
-  {
-    assos.affiliation?.slice(0,1).map((aff: string) => {
-      if (aff === "celsa") return <CelsaC />;
-      if (aff === "lettres") return <LettresC />;
-      if (aff === "polytech") return <PolyC />;
-      if (aff === "sante") return <SanteC />;
-      if (aff === "sciences") return <SciencesC />;
-      if (aff === "su") return <SuC />;
-    })
-  }
-
+  <div class="cercles">
+    {
+      assos.affiliation?.slice(0, 1).map((aff: string) => {
+        if (aff === "celsa") return <CelsaC />;
+        if (aff === "lettres") return <LettresC />;
+        if (aff === "polytech") return <PolyC />;
+        if (aff === "sante") return <SanteC />;
+        if (aff === "sciences") return <SciencesC />;
+        if (aff === "su") return <SuC />;
+      })
+    }
+  </div>
   <a class={"wrapper colorByAff"} href={assos.url}>
     <img
       src={assos.logo}
@@ -52,16 +53,21 @@ if (assos.affiliation && assos.affiliation.length > 1) {
     <p class="titre">{assos.acronyme ?? assos.titre}</p>
   </a>
 
-  {
-    assos.affiliation?.reverse().slice(0,1).map((aff: string) => {
-      if (aff === "celsa") return <CelsaC />;
-      if (aff === "lettres") return <LettresC />;
-      if (aff === "polytech") return <PolyC />;
-      if (aff === "sante") return <SanteC />;
-      if (aff === "sciences") return <SciencesC />;
-      if (aff === "su") return <SuC />;
-    })
-  }
+  <div class="cercles">
+    {
+      assos.affiliation
+        ?.reverse()
+        .slice(0, 1)
+        .map((aff: string) => {
+          if (aff === "celsa") return <CelsaC />;
+          if (aff === "lettres") return <LettresC />;
+          if (aff === "polytech") return <PolyC />;
+          if (aff === "sante") return <SanteC />;
+          if (aff === "sciences") return <SciencesC />;
+          if (aff === "su") return <SuC />;
+        })
+    }
+  </div>
 </div>
 
 <style define:vars={{ firstColor, secondColor }}>
@@ -72,8 +78,11 @@ if (assos.affiliation && assos.affiliation.length > 1) {
 
     padding: 10px; /* Adding padding to maintain space inside the border */
 
-
-    border-image: linear-gradient(to right, var(--firstColor), var(--secondColor));
+    border-image: linear-gradient(
+      to right,
+      var(--firstColor),
+      var(--secondColor)
+    );
     border-image-slice: 1;
   }
 </style>
@@ -82,7 +91,9 @@ if (assos.affiliation && assos.affiliation.length > 1) {
   .all {
     display: flex;
     align-items: center;
+    justify-content: center;
     overflow: hidden;
+    width: 100%;
   }
 
   .wrapperMobile,
@@ -97,7 +108,7 @@ if (assos.affiliation && assos.affiliation.length > 1) {
 
   .wrapperMobile {
     display: none;
-    widows: 80vw;
+    width: 90%;
     justify-content: flex-start;
   }
 
@@ -107,6 +118,9 @@ if (assos.affiliation && assos.affiliation.length > 1) {
     }
     .wrapperMobile {
       display: flex;
+    }
+    .cercles {
+      display: none;
     }
   }
 
