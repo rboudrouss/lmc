@@ -23,6 +23,9 @@ auteur :
   - bdac
   - lmc
 
+affiliation :
+  - sciences
+
 image : "/assets/fildactus/evenements/03-21-sciences.png"
 
 source : "https://www.instagram.com/p/C4LXK2UIy7l/"
