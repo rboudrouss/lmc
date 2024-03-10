@@ -7,7 +7,7 @@ import Header from "../components/general/Header.astro";
 import Footer from "../components/general/Footer.astro";
 import ActuC from "../components/actus/Actu.astro";
 
-import { ActuT, rawMDsToAssos, rawMdToActu } from "../helpers";
+import { type ActuT, rawMDsToAssos, rawMdToActu } from "../helpers";
 
 type Props = MarkdownInstance<ActuT>;
 
@@ -24,7 +24,7 @@ const assos = {
 const actu = rawMdToActu(Astro.props, assos);
 ---
 
-<Layout title={actu.title} image={actu.image} description={Astro.props.rawContent()}>
+<Layout title={"LMC - " + actu.title} image={actu.image} description={Astro.props.rawContent()}>
   <ViewTransitions />
   <Header title={actu.title} url={actu.url} />
   <div class="content">
