@@ -40,3 +40,25 @@ export function dateToStringFromToday(date?: Date): string {
   if (diffDays > 0) return `Dans ${diffDays} jours`;
   return `Il y a ${-diffDays} jours`;
 }
+
+export function numberToMonth(n: number) {
+  console.log(n);
+  if (n < 0 || n > 11) return undefined;
+
+  const months = [
+    "Janvier",
+    "Février",
+    "Mars",
+    "Avril",
+    "Mai",
+    "Juin",
+    "Juillet",
+    "Août",
+    "Septembre",
+    "Octobre",
+    "Novembre",
+    "Décembre",
+  ];
+
+  return months[n];
+}

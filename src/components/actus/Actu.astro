@@ -1,14 +1,20 @@
 ---
-import type { ActuT } from "../../helpers";
+import {
+  type ActuT,
+  dateStringActus,
+} from "../../helpers";
 
 interface Props {
   actu: ActuT;
 }
 const { actu } = Astro.props;
+
+let dateString = dateStringActus(actu);
 ---
 
 <div class="wrapper">
   <div class="content">
+    {dateString && <span class="date">{dateString}</span>}
     <div class="titleWrapper">
       <div class="icons">
         {
@@ -56,6 +62,7 @@ const { actu } = Astro.props;
     padding: 20px;
     width: 100%;
   }
+
   .icons {
     display: flex;
     gap: 10px;
@@ -65,6 +72,7 @@ const { actu } = Astro.props;
     display: flex;
     align-items: center;
     gap: 10px;
+    overflow: hidden;
   }
 
   .title {
@@ -80,12 +88,20 @@ const { actu } = Astro.props;
   }
 
   .icon {
-    height: 100px;
+    max-height: 100px;
+    max-width: 10vw;
   }
 
   .md {
     width: 70%;
     font-size: 1.15rem;
+    overflow: hidden;
+  }
+
+  .date {
+    font-size: small;
+    width: 70%;
+    padding: 10px 0;
   }
 
   .source {

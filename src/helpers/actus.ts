@@ -5,6 +5,8 @@ import {
   type TypeActus,
   parseDateFromString,
   type Assos,
+  dateToStringFromToday,
+  numberToMonth,
 } from ".";
 
 export function filterActus(
@@ -91,4 +93,14 @@ export function treatRawActus(
   );
   if (typeA !== "actualites") return filterActusBeforeYesterday(actus);
   return actus;
+}
+
+export function dateStringActus(actu: ActuT) {
+  if (!actu.date) return undefined;
+  if (!actu.url.split("/").includes("actualites")) {
+    return dateToStringFromToday(actu.date);
+  }
+  return `Posté le ${actu.date?.getDay()} ${numberToMonth(
+    actu.date?.getMonth()
+  )}`;
 }
