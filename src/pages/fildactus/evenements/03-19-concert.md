@@ -6,12 +6,11 @@ title: "Soirée Concert"
 
 auteur : "sciences"
 
+image : "/assets/fildactus/evenements/03-19-sciences2.png"
 
-
-image : "/assets/fildactus/evenements/concert.png"
-
-source : "https://www.instagram.com/p/C1pTM9HND9K/"
+source : "https://www.instagram.com/p/C3-gnFkKdp0/"
 ---
 
-Découvrez des styles et talents de la faculté et encouragez-les en concert live !  
-de __18h30 à 20h au Foyer étudiant__ (tour 53)
+🎸 Une soirée concert avec vos artistes préférés de la fac ?
+
+Retrouvez-nous __Mardi 19 Mars__ au foyer étudiant de 18h30 à 20h !

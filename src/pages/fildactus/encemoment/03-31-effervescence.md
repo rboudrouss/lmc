@@ -4,9 +4,9 @@ date : "31-03-2024 23:00"
 
 title: "Le Prix Effervescence : Concours de nouvelles"
 
-auteur : "effervescence" 
-
- 
+auteur :
+  - effervescence
+  - almamater
 
 image : "/assets/fildactus/encemoment/03-31-effervescence.png"
 
