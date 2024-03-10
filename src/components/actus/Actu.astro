@@ -14,7 +14,7 @@ let dateString = dateStringActus(actu);
 
 <div class="wrapper">
   <div class="content">
-    {dateString && <span class="date" font-size="large">{dateString}</span>}
+    {dateString && <span class="date">{dateString}</span>}
     <div class="titleWrapper">
       <div class="icons">
         {
@@ -99,7 +99,8 @@ let dateString = dateStringActus(actu);
   }
 
   .date {
-    font-size: small;
+    font-size: large;
+    font-weight: bold
     width: 70%;
     padding: 10px 0;
   }
