@@ -6,7 +6,7 @@ title: "Rencontre avec Aurore Koechlin"
 
 auteur : "lesfaloppes"
 
-image : "/assets/fildactus/evenements/04-24-lesfalopes.png"
+image : "/assets/fildactus/evenements/04-24-lesfallopes.png"
 
 source : "https://www.instagram.com/p/C3uuJ_bIDwp/"
 ---
