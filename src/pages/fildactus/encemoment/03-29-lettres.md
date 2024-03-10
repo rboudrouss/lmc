@@ -9,7 +9,7 @@ auteur :
 
 image : "/assets/fildactus/encemoment/03-29-lettres.png"
 
-source : "https://www.instagram.com/p/C4Puvn-IOUA/"
+source : "https://www.instagram.com/p/C4OCQvYqkeF/"
 ---
 
 ℹ️ Séminaires, tables-rondes, expositions, projections, ateliers, spectacles … vous sont proposés gratuitement durant tout le mois de mars pour sensibiliser à la lutte contre les discriminations et les violences.
