@@ -10,7 +10,7 @@ typeasso:
    - ludique
    - artistique
 
-logo: /assets/logos/psu.png
+logo: /assets/logos/psu.svg
 Description: Play Sorbonne U met en place des projets de tous types centrés sur la culture vidéoludique (expositions, rencontres, etc.).
 video: https://www.youtube.com/watch?v=hpsjzXgIPAg
 links:
