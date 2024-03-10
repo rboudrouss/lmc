@@ -37,12 +37,13 @@ export function dateToStringFromToday(date?: Date): string {
   if (diffDays === 1) return "Demain";
   if (diffDays === -1) return "Hier";
 
+  if (diffDays > 7) return `Le ${date.getDate()} ${numberToMonth(date.getMonth())}`
+
   if (diffDays > 0) return `Dans ${diffDays} jours`;
   return `Il y a ${-diffDays} jours`;
 }
 
 export function numberToMonth(n: number) {
-  console.log(n);
   if (n < 0 || n > 11) return undefined;
 
   const months = [
