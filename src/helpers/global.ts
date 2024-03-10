@@ -63,3 +63,12 @@ export function numberToMonth(n: number) {
 
   return months[n];
 }
+
+export const AffColor = {
+  su: "#112970",
+  sciences: "#56B7E6",
+  lettres: "#FFB500",
+  sante: "#A6192E",
+  polytech: "#00ADEF",
+  celsa: "#FFB500",
+}

@@ -1,5 +1,5 @@
 ---
-import type { Assos } from "../../helpers";
+import { AffColor, type Affiliations, type Assos } from "../../helpers";
 import { CelsaC, LettresC, PolyC, SanteC, SciencesC, SuC } from "./affCercles";
 
 interface Props {
@@ -7,11 +7,22 @@ interface Props {
 }
 
 const { assos } = Astro.props;
+
+let firstColor =
+  assos.affiliation && assos.affiliation.length > 0
+    ? AffColor[assos.affiliation[0]]
+    : "black";
+let secondColor = "black";
+if (assos.affiliation && assos.affiliation.length > 1) {
+  secondColor = AffColor[assos.affiliation[1]];
+} else {
+  secondColor = firstColor;
+}
 ---
 
 <div class="all">
   {
-    assos.affiliation?.map((aff: string) => {
+    assos.affiliation?.slice(0,1).map((aff: string) => {
       if (aff === "celsa") return <CelsaC />;
       if (aff === "lettres") return <LettresC />;
       if (aff === "polytech") return <PolyC />;
@@ -21,7 +32,7 @@ const { assos } = Astro.props;
     })
   }
 
-  <a class="wrapper" href={assos.url}>
+  <a class={"wrapper colorByAff"} href={assos.url}>
     <img
       src={assos.logo}
       alt={(assos?.acronyme ?? assos.titre?.slice(0, 10)) + " logo"}
@@ -31,7 +42,7 @@ const { assos } = Astro.props;
     <p class="titre">{assos.titre}</p>
     <p class="acronyme">{assos.acronyme && `(${assos.acronyme})`}</p>
   </a>
-  <a href={assos.url} class="wrapperMobile">
+  <a href={assos.url} class={"wrapperMobile colorByAff"}>
     <img
       src={assos.logo}
       alt={(assos?.acronyme ?? assos.titre?.slice(0, 10)) + " logo"}
@@ -42,7 +53,7 @@ const { assos } = Astro.props;
   </a>
 
   {
-    assos.affiliation?.reverse().map((aff: string) => {
+    assos.affiliation?.reverse().slice(0,1).map((aff: string) => {
       if (aff === "celsa") return <CelsaC />;
       if (aff === "lettres") return <LettresC />;
       if (aff === "polytech") return <PolyC />;
@@ -52,6 +63,20 @@ const { assos } = Astro.props;
     })
   }
 </div>
+
+<style define:vars={{ firstColor, secondColor }}>
+  .colorByAff {
+    border-radius: 50px;
+    border-collapse: separate;
+    border: 3px solid;
+
+    padding: 10px; /* Adding padding to maintain space inside the border */
+
+
+    border-image: linear-gradient(to right, var(--firstColor), var(--secondColor));
+    border-image-slice: 1;
+  }
+</style>
 
 <style>
   .all {
@@ -65,10 +90,8 @@ const { assos } = Astro.props;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    outline: 1px solid black;
     width: 60vw;
     margin: 0.5rem 0;
-    border-radius: 50px;
     height: 100px;
   }
 
