@@ -14,30 +14,37 @@ const { title, link } = Astro.props;
   <img src={getMiscIcon(title).src} alt={title} class="icon" />
   <p class="title">{title}</p>
   <div class="hackCenter"></div>
-
-  <style>
-    .wrapper {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      text-decoration: none;
-      background-color: black;
-      color: white;
-      border-radius: 2rem;
-      padding: 1rem;
-      margin: 1rem;
-      text-transform: capitalize;
-      font-size: 1.2rem;
-      font-weight: bold;
-
-    }
-    .icon {
-      width: 40px;
-      height: 40px;
-      filter: invert(1);
-    }
-    .hackCenter {
-      width: 40px;
-    }
-  </style>
 </a>
+
+<style>
+  .wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    border-radius: 2rem;
+    padding: 1rem;
+    margin: 1rem;
+    text-transform: capitalize;
+    font-size: 1.2rem;
+    font-weight: bold;
+
+    transform: scale(1);
+    transition: all 0.5s ease-in-out;
+  }
+
+  .wrapper:hover {
+    transform: scale(1.1);
+    transition: all 0.5s ease-in-out;
+  }
+  .icon {
+    width: 40px;
+    height: 40px;
+    filter: invert(1);
+  }
+  .hackCenter {
+    width: 40px;
+  }
+</style>

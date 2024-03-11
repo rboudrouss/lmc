@@ -72,6 +72,18 @@ const showAll = !typeASelected && !affSelected;
 </div>
 
 <style>
+  .typesAWrapper :global(a),
+  .affsWrapper :global(a) {
+    transform: scale(1);
+    transition: all 0.5s ease-in-out;
+  }
+
+  .typesAWrapper :global(a:hover),
+  .affsWrapper :global(a:hover) {
+    transform: scale(1.1);
+    transition: all 0.5s ease-in-out;
+  }
+
   .typesAWrapper,
   .affsWrapper,
   .typesWrapper {

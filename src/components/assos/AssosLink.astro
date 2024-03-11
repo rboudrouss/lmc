@@ -88,6 +88,10 @@ if (assos.affiliation && assos.affiliation.length > 1) {
 </style>
 
 <style>
+  .cercles {
+    display : none
+  }
+
   .all {
     display: flex;
     align-items: center;
@@ -104,6 +108,15 @@ if (assos.affiliation && assos.affiliation.length > 1) {
     width: 60vw;
     margin: 0.5rem 0;
     height: 100px;
+
+    transform: scale(1);
+    transition: all 0.5s ease-in-out;
+  }
+
+  .wrapper:hover,
+  .wrapperMobile:hover {
+    transform: scale(1.1);
+    transition: all 0.5s ease-in-out;
   }
 
   .wrapperMobile {
