@@ -8,9 +8,11 @@ import tiktok from "./tiktok.svg";
 import twitch from "./twitch.svg";
 import twitter from "./x-twitter.svg";
 import youtube from "./youtube.svg";
+import house from "./house.svg";
 
 export const miscIcons = {
   default: Default,
+  local: house,
   discord,
   facebook,
   instagram,
