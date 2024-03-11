@@ -1,8 +1,6 @@
 ---
-import {
-  type ActuT,
-  dateStringActus,
-} from "../../helpers";
+import { type ActuT, dateStringActus } from "../../helpers";
+import Bar from "../assos/Bar.astro";
 
 interface Props {
   actu: ActuT;
@@ -13,6 +11,9 @@ let dateString = dateStringActus(actu);
 ---
 
 <div class="wrapper">
+  <div class="bars">
+    {actu.affiliation?.slice(0, 2).map((aff) => <Bar affiliation={aff} />)}
+  </div>
   <div class="content">
     {dateString && <span class="date">{dateString}</span>}
     <div class="titleWrapper">
@@ -42,6 +43,14 @@ let dateString = dateStringActus(actu);
           SOURCE
         </a>
       )
+    }
+  </div>
+  <div class="bars">
+    {
+      actu.affiliation
+        ?.slice(0, 2)
+        .reverse()
+        .map((aff) => <Bar affiliation={aff} />)
     }
   </div>
 </div>
@@ -121,6 +130,10 @@ let dateString = dateStringActus(actu);
     text-decoration: underline;
   }
 
+  .bars {
+    display: flex;
+  }
+
   @media (max-width: 800px) {
     .mainImg {
       max-width: 80vw;
@@ -128,6 +141,10 @@ let dateString = dateStringActus(actu);
 
     .md {
       width: 100%;
+    }
+
+    .bars {
+      display: none;
     }
   }
 </style>
