@@ -14,5 +14,6 @@ links:
   instagram: https://www.instagram.com/effervescence.sorbonne/
   linkedin: https://www.linkedin.com/in/effervescencesorbonne/
   facebook: https://www.facebook.com/association.effervescence.sorbonne
-mail: effervescencesorbonne@gmail.com
+info:
+  mail: effervescencesorbonne@gmail.com
 ---

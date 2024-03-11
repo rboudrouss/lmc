@@ -13,5 +13,6 @@ description: "L'APEPS a pour objectif de faire profiter les étudiantes et étud
 links:
   instagram: https://www.instagram.com/apepsbde/
   facebook: https://www.facebook.com/apeps.bde
-mail: apepsbde@gmail.com
+info:
+  mail: apepsbde@gmail.com
 ---

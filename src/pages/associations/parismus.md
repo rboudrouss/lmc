@@ -15,5 +15,6 @@ links:
   instagram: https://www.instagram.com/parismus_sorbonne/
   facebook: https://www.facebook.com/parismus
   tiktok: https://www.tiktok.com/@parismus.sorbonne
-mail: parismus.sorbonne@gmail.com
+info:
+  mail: parismus.sorbonne@gmail.com
 ---

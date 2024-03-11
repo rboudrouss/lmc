@@ -16,5 +16,6 @@ links:
   linkedin: https://www.linkedin.com/in/philo-doctes
   facebook: https://www.facebook.com/PhiloDoctes/
   twitter: https://twitter.com/PhiloDoctes
-mail: philodoctes@gmail.com
+info:
+  mail: philodoctes@gmail.com
 ---

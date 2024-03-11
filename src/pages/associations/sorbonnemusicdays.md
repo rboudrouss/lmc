@@ -12,5 +12,6 @@ description: "L’association Sorbonne Music Days a été créée en 2018 par le
 links:
   instagram: https://www.instagram.com/sorbonnemusicdays/
   facebook: https://www.facebook.com/SorbonneMusicDays
-mail: contact.sumfestival@gmail.com
+info:
+  mail: contact.sumfestival@gmail.com
 ---

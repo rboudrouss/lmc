@@ -19,5 +19,6 @@ links:
   instagram: https://www.instagram.com/bdepolytechsorbonne/
   linkedin: https://fr.linkedin.com/company/bde-polytech-sorbonne
   facebook: https://www.facebook.com/BDEPolytechSorbonne
-mail: bde.polytech.paris@gmail.com
+info:
+  mail: bde.polytech.paris@gmail.com
 ---

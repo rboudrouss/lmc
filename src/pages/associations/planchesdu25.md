@@ -13,5 +13,6 @@ video: https://www.youtube.com/watch?v=Sv7OnUPOauA
 links:
   helloasso: https://www.helloasso.com/associations/planches-du-25
   instagram: https://www.instagram.com/planchesdu25/
-mail: planches25@gmail.com
+info:
+  mail: planches25@gmail.com
 ---

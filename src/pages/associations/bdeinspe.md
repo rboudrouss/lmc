@@ -12,5 +12,6 @@ description: "Le BDE Inspé souhaite promouvoir et animer la vie étudiante, coo
 links:
   helloasso: https://www.helloasso.com/associations/bde-inspe-paris
   instagram: https://www.instagram.com/bde_inspe_paris/
-mail: bde.inspe.paris@gmail.com
+info:
+  mail: bde.inspe.paris@gmail.com
 ---

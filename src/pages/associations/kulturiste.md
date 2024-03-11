@@ -16,5 +16,6 @@ links:
   instagram: https://www.instagram.com/kulturiste_celsa/
   linkedin: https://www.linkedin.com/company/kulturiste-celsa-sorbonne-universit%C3%A9/
   facebook: https://www.facebook.com/KulturisteCELSA/
-mail: association.kulturiste@gmail.com
+info:
+  mail: association.kulturiste@gmail.com
 ---

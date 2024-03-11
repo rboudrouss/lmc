@@ -17,5 +17,6 @@ links:
   instagram: https://www.instagram.com/aesf_psa/
   youtube: https://www.youtube.com/@aesfpsa8413
   facebook: https://www.facebook.com/Sagefemme.StAntoine
-mail: aesfpsa@gmail.com
+info:
+  mail: aesfpsa@gmail.com
 ---

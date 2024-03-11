@@ -17,5 +17,6 @@ links:
   youtube: https://www.youtube.com/@radioinvivo
   twitch: https://www.twitch.tv/radio_invivo
   facebook: https://www.facebook.com/invivo.polytech
-mail: in.vivo.polytech.sorbonne@gmail.com
+info:
+  mail: in.vivo.polytech.sorbonne@gmail.com
 ---

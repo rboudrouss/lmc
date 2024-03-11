@@ -15,5 +15,6 @@ links:
   helloasso: https://www.helloasso.com/associations/bdeisup
   instagram: https://www.instagram.com/bde_isupien/
   facebook: https://www.facebook.com/bdelevesisup
-mail: bdeisup.contact@gmail.com
+info:
+  mail: bdeisup.contact@gmail.com
 ---

@@ -16,5 +16,6 @@ links:
   helloasso: https://www.helloasso.com/associations/axio
   instagram: https://www.instagram.com/Axiosu_bde/
   facebook: https://www.facebook.com/AXIOBDF
-mail: axiobdf@gmail.com
+info:
+  mail: axiobdf@gmail.com
 ---

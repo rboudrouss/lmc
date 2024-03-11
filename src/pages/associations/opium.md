@@ -19,5 +19,6 @@ links:
   linkedin: https://www.linkedin.com/company/opiumphilo/
   facebook: https://www.facebook.com/opiumphilosophie
   twitter: https://twitter.com/opiumphilo
-mail: opium.philosophie@gmail.com
+info:
+  mail: opium.philosophie@gmail.com
 ---

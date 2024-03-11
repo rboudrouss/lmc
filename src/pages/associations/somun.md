@@ -16,5 +16,6 @@ links:
   instagram: https://www.instagram.com/sorbonnemun/
   linkedin: https://www.linkedin.com/company/sorbonne-model-united-nations/
   facebook: https://www.facebook.com/SorbonneModelUN/
-mail: sorbonnemodelun@gmail.com
+info:
+  mail: sorbonnemodelun@gmail.com
 ---

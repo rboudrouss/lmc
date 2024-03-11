@@ -18,5 +18,6 @@ links:
   linkedin: https://www.linkedin.com/company/sorbonneantique/
   facebook: https://www.facebook.com/sorbonneantique/
   twitter: https://twitter.com/sorbonneantique
-mail: sorbonnantique@gmail.com
+info:
+  mail: sorbonnantique@gmail.com
 ---

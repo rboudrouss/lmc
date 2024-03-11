@@ -15,5 +15,6 @@ links:
   site: https://associationdada.wordpress.com/
   instagram: https://www.instagram.com/asso.dada/
   facebook: https://www.facebook.com/associationdada/
-mail: dadassasorbonne@gmail.com
+info:
+  mail: dadassasorbonne@gmail.com
 ---

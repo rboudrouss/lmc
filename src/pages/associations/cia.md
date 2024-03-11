@@ -15,5 +15,6 @@ links:
   instagram: https://www.instagram.com/cia_polytechsorbonne/
   discord: https://discord.gg/uZQwBrPH8e
   facebook: https://www.facebook.com/ClubDInformatiqueEtDAgrement
-mail: polytechupmccia@gmail.com
+info:
+  mail: polytechupmccia@gmail.com
 ---

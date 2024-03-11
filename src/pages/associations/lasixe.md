@@ -16,5 +16,6 @@ links:
   helloasso: https://www.helloasso.com/associations/la-sixe-bde-jussieu
   instagram: https://www.instagram.com/Lasixe_bdejussieu/
   facebook: https://www.facebook.com/LaSixeBdeJussieu
-mail: lasixebdejussieu@gmail.com
+info:
+  mail: lasixebdejussieu@gmail.com
 ---

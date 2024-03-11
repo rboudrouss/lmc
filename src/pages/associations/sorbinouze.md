@@ -13,5 +13,6 @@ description: "Sorbinouze est une association étudiante qui a pour objectif de p
 links:
   helloasso: https://www.helloasso.com/associations/sorbinouze
   instagram: https://www.instagram.com/timarcha_asso/
-mail: sorbinouze@gmail.com
+info:
+  mail: sorbinouze@gmail.com
 ---

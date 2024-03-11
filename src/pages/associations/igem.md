@@ -16,5 +16,6 @@ links:
   helloasso: https://www.helloasso.com/associations/abiosup
   instagram: https://www.instagram.com/igemsorbonne/
   linkedin: https://www.linkedin.com/company/igem-sorbonne/
-mail: sorbonne.igem@gmail.com
+info:
+  mail: sorbonne.igem@gmail.com
 ---

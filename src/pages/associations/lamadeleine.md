@@ -14,5 +14,6 @@ links:
   site: https://lamadeleinecelsa.wixsite.com/blog
   instagram: https://www.instagram.com/lamadeleine_celsa/
   linkedin: https://www.linkedin.com/company/la-madeleine-celsa/
-mail: lamadeleinecelsa@gmail.com
+info:
+  mail: lamadeleinecelsa@gmail.com
 ---

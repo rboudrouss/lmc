@@ -15,5 +15,6 @@ links:
   helloasso: https://www.helloasso.com/associations/pea
   instagram: https://www.instagram.com/psychomotriciteenaction/
   facebook: https://www.facebook.com/profile.php?id=100064550751745
-mail: psychomotriciteenaction@gmail.com
+info:
+  mail: psychomotriciteenaction@gmail.com
 ---

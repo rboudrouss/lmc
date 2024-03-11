@@ -13,5 +13,6 @@ links:
   helloasso: https://www.helloasso.com/associations/la-sorbonne-sonore
   youtube: https://www.youtube.com/channel/UCehbOUMcRdgyFs52bonLYqg
   facebook: https://www.facebook.com/Lasorbonnesonore
-mail: lasorbonnesonore@gmail.com
+info:
+  mail: lasorbonnesonore@gmail.com
 ---

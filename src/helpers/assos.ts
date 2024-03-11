@@ -14,6 +14,7 @@ export function rawMDAssosToAssos(e: MarkdownInstance<Assos>): Assos {
     links: e.frontmatter.links,
     url: e.url,
     filename: e.file.split("/").pop().split(".")[0],
+    info: e.frontmatter.info,
   };
 }
 

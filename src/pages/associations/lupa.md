@@ -19,5 +19,6 @@ links:
   helloasso: https://www.helloasso.com/associations/lupa
   instagram: https://www.instagram.com/lupa.association/
   facebook: https://www.facebook.com/lupa.association
-mail: lupa.asso@gmail.com
+info:
+  mail: lupa.asso@gmail.com
 ---

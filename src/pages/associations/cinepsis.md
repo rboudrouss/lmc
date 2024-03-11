@@ -17,5 +17,6 @@ links:
   linkedin: https://www.linkedin.com/company/cin%C3%A9psis-celsa/
   facebook: https://www.facebook.com/cinepsiscelsa/
   twitter: https://twitter.com/CINEPSIS_CELSA
-mail: cinepsis.celsa@gmail.com
+info:
+  mail: cinepsis.celsa@gmail.com
 ---

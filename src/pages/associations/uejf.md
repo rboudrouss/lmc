@@ -14,5 +14,6 @@ links:
   site: https://uejf.org/
   instagram: https://www.instagram.com/uejfsorbonneuniversite/
   facebook: https://www.facebook.com/J.Sorbonne
-mail: uejf.sorbonneuniversite@gmail.com
+info:
+  mail: uejf.sorbonneuniversite@gmail.com
 ---

@@ -17,5 +17,6 @@ links:
   linkedin: https://fr.linkedin.com/company/symbiose-6
   facebook: https://www.facebook.com/symbiose.six
   twitter: https://twitter.com/symbiose6
-mail: contact@symbiose6.fr
+info:
+  mail: contact@symbiose6.fr
 ---

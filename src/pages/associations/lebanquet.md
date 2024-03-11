@@ -13,5 +13,6 @@ video: https://www.youtube.com/watch?v=dIckKHY9GgA
 links:
   helloasso: https://www.helloasso.com/associations/le-banquet-des-etudiant-e-s
   instagram: https://www.instagram.com/lebanquetsu/
-mail: lebanquetasso@gmail.com
+info:
+  mail: lebanquetasso@gmail.com
 ---

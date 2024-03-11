@@ -14,5 +14,6 @@ video: https://www.youtube.com/watch?v=DP6MW5P1Yag
 links:
   instagram: https://www.instagram.com/sorbonnelettressports/
   facebook: https://www.facebook.com/AS.SorbonneU.Sces.Inge.Med/
-mail: philippe.berthelot@sorbonne-universite.fr
+info:
+  mail: philippe.berthelot@sorbonne-universite.fr
 ---

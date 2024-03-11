@@ -14,5 +14,6 @@ links:
   site: https://solsu.jimdosite.com/
   instagram: https://www.instagram.com/solsu.p6/
   facebook: https://www.facebook.com/assosol6
-mail: assosol6@gmail.com
+info:
+  mail: assosol6@gmail.com
 ---

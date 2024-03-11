@@ -16,5 +16,6 @@ links:
   instagram: https://www.instagram.com/labaffe.asso
   linkedin: https://www.linkedin.com/company/labaffe/
   twitter: https://twitter.com/BAFFEasso
-mail: labaffe.asso@gmail.com
+info:
+  mail: labaffe.asso@gmail.com
 ---

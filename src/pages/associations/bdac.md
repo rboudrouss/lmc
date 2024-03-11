@@ -19,5 +19,6 @@ links:
   instagram: https://www.instagram.com/bdacpolytech/
   youtube: https://www.youtube.com/channel/UC_Wcag32Y1AEEH8hho8Fv5Q
   facebook: https://www.facebook.com/BdacPolytechSorbonne
-mail: bdac.polytech.sorbonne@gmail.com
+info:
+  mail: bdac.polytech.sorbonne@gmail.com
 ---

@@ -19,5 +19,6 @@ links:
   dailymotion: https://www.dailymotion.com/CINEFAC
   facebook: https://www.facebook.com/CineFac.NouveauxCinemas
   twitter: https://twitter.com/CineFac
-mail: info@cinefac.fr
+info:
+  mail: info@cinefac.fr
 ---

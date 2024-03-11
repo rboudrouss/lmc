@@ -17,5 +17,6 @@ links:
   youtube: https://www.youtube.com/channel/UCQaXtVgj6ctzNRu7cyYOpPA/
   linkedin: https://fr.linkedin.com/company/connectome-in-science
   facebook: https://www.facebook.com/Connectome.in.Science
-mail: connectome.science@gmail.com
+info:
+  mail: connectome.science@gmail.com
 ---

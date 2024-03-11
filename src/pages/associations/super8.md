@@ -16,5 +16,6 @@ links:
   discord: https://discord.com/invite/8fzbzFr4BA
   instagram: https://www.instagram.com/super8sorbonne/
   facebook: https://www.facebook.com/super8sorbonne/
-mail: super8sorbonne@gmail.com
+info:
+  mail: super8sorbonne@gmail.com
 ---

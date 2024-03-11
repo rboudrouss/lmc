@@ -16,5 +16,6 @@ links:
   helloasso: https://www.helloasso.com/associations/asso-pomm/
   instagram: https://www.instagram.com/assopomm/
   facebook: https://www.facebook.com/asso.pomm/
-mail: assopomm@gmail.com
+info:
+  mail: assopomm@gmail.com
 ---

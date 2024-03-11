@@ -13,5 +13,6 @@ links:
   instagram: https://www.instagram.com/sorbonneparolesdedefense/
   linkedin: https://www.linkedin.com/company/sorbonne-paroles-de-d%C3%A9fense/
   facebook: https://www.facebook.com/profile.php?id=100044102185237
-mail: sorbonneparolesdedefense@gmail.com
+info:
+  mail: sorbonneparolesdedefense@gmail.com
 ---

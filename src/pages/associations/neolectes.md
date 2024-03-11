@@ -15,5 +15,6 @@ links:
   instagram: https://www.instagram.com/neo_lectes/
   linkedin: https://www.linkedin.com/company/n%C3%A9olectes/
   twitter: https://twitter.com/neo_lectes
-mail: neolectes@gmail.com
+info:
+  mail: neolectes@gmail.com
 ---

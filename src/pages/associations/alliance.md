@@ -15,5 +15,6 @@ links:
   helloasso: https://www.helloasso.com/associations/alliance-sorbonne
   instagram: https://www.instagram.com/alliancesorbonneuniversite/
   facebook: https://www.facebook.com/J.Sorbonne
-mail: sorbonne-universite@alliance-asso.fr
+info:
+  mail: sorbonne-universite@alliance-asso.fr
 ---

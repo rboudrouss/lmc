@@ -17,5 +17,6 @@ links:
   discord: https://discord.gg/xMRqt7Ehwu
   facebook: https://www.facebook.com/solidairesetudiantes
   twitter: https://twitter.com/solidairesetu
-mail: solidaires-etu.su@protonmail.com
+info:
+  mail: solidaires-etu.su@protonmail.com
 ---

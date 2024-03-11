@@ -16,5 +16,6 @@ links:
   instagram: https://www.instagram.com/assomegen/
   youtube: https://www.youtube.com/@associationmegen5336/
   facebook: https://www.facebook.com/Asso.MEGEN
-mail: asso.megen@gmail.com
+info:
+  mail: asso.megen@gmail.com
 ---

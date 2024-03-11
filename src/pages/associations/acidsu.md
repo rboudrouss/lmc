@@ -18,5 +18,6 @@ links:
   discord: https://discord.gg/GVT8ZdQmg9
   youtube: https://www.youtube.com/channel/UClkFABRpMr5YUIrf0-ebrtQ
   linkedin: https://www.linkedin.com/in/acid-su/
-mail: contact.acid.su@gmail.com
+info:
+  mail: contact.acid.su@gmail.com
 ---

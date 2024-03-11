@@ -18,5 +18,6 @@ links:
   linkedin: https://www.linkedin.com/company/la-so-bde-sorbonne-universit%C3%A9/
   facebook: https://www.facebook.com/profile.php?id=100064573878585
   tiktok: https://www.tiktok.com/@lasobdesorbonne
-mail: laso.bdesorbonne@gmail.com
+info:
+  mail: laso.bdesorbonne@gmail.com
 ---

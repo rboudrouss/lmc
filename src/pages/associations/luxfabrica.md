@@ -13,5 +13,6 @@ video: https://www.youtube.com/watch?v=W8_IYlazgew
 links:
   instagram: https://www.instagram.com/luxfabricasu/
   facebook: https://www.facebook.com/APP6-Atelier-Photo-Paris-6-145771368825291/
-mail: luxfabricasu@gmail.com
+info:
+  mail: luxfabricasu@gmail.com
 ---

@@ -16,5 +16,6 @@ links:
   instagram: https://www.instagram.com/polycoeur.sorbonne/
   linkedin: https://www.linkedin.com/company/polycoeur/
   facebook: https://www.facebook.com/polycoeur.sorbonne
-mail: polycoeur.paris.upmc@gmail.com
+info:
+  mail: polycoeur.paris.upmc@gmail.com
 ---

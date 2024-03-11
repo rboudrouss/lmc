@@ -14,5 +14,6 @@ links:
   helloasso: https://www.helloasso.com/associations/association-de-la-double-licence-sciences-et-droit
   instagram: https://www.instagram.com/sciencesdroit/
   facebook: https://www.facebook.com/sciencesetdroit
-mail: adlsdcontact@gmail.com
+info:
+  mail: adlsdcontact@gmail.com
 ---

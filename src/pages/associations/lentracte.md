@@ -13,5 +13,6 @@ links:
   helloasso: https://www.helloasso.com/associations/l-entracte-etudiante
   instagram: https://www.instagram.com/entracte_celsa/
   facebook: https://www.facebook.com/EntracteCelsa/
-mail: troupe.entracte@gmail.com
+info:
+  mail: troupe.entracte@gmail.com
 ---

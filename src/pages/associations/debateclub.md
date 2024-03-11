@@ -16,5 +16,6 @@ links:
   youtube: https://www.youtube.com/@sorbonnesciencesdebateclub4656/
   linkedin: https://www.linkedin.com/company/sorbonne-sciences-debate-club/
   facebook: https://www.facebook.com/theupmcunion
-mail: theupmcunion@gmail.com
+info:
+  mail: theupmcunion@gmail.com
 ---

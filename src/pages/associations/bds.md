@@ -15,5 +15,6 @@ links:
   site: https://www.polytech.sorbonne-universite.fr/vie-associative/bds
   instagram: https://www.instagram.com/bds_polytech_sorbonne/
   facebook: https://www.facebook.com/bds.polytechparisupmc
-mail: bds.polytechsorbonne@gmail.com
+info:
+  mail: bds.polytechsorbonne@gmail.com
 ---

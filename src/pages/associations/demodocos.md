@@ -16,5 +16,6 @@ links:
   youtube: https://www.youtube.com/channel/UCBpx2V7Ir8Tg893X1wwrVTg
   facebook: https://www.facebook.com/compagniedemodocos/
   twitter: https://twitter.com/demodocos2015
-mail: theatredemodocos@gmail.com
+info:
+  mail: theatredemodocos@gmail.com
 ---

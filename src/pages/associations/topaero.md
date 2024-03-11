@@ -16,5 +16,6 @@ links:
   instagram: https://www.instagram.com/top_aero/
   discord: https://discord.gg/m7my3pP2ec
   facebook: https://www.facebook.com/TopAeroSU
-mail: contact@top-aero.com
+info:
+  mail: contact@top-aero.com
 ---

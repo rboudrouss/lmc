@@ -7,9 +7,10 @@ export interface Assos {
   logooriginal?: string;
   description?: string;
   video?: string;
-  links?: LinksAssos;
+  links?: Record<string, string>;
   url?: string;
   filename: string;
+  info?: Record<string, string>;
 }
 
 export interface ActuT {
@@ -47,8 +48,6 @@ export type Affiliations =
   | "sante"
   | "polytech"
   | "celsa";
-
-export type LinksAssos = Record<string, string>;
 
 export const facTypes = ["lettre", "sciences", "medecine", "polytech"] as const;
 

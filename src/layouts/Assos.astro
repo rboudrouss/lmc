@@ -39,6 +39,11 @@ assos.url = Astro.props.url;
             <TreeLink title={title} link={link} />
           ))
         }
+        {
+          Object.entries(assos.info ?? {}).map(([title, content]) => (
+            <TreeLink title={title} content={content} />
+          ))
+        }
       </div>
     </main>
     <div class="bars">

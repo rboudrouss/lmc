@@ -17,5 +17,6 @@ links:
   linkedin: https://www.linkedin.com/company/junior-communication/
   facebook: https://www.facebook.com/celsa.junior.communication/
   twitter: https://twitter.com/celsajuniorcom
-mail: contact@junior-communication.com
+info:
+  mail: contact@junior-communication.com
 ---

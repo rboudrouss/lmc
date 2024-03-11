@@ -14,5 +14,6 @@ video: https://www.youtube.com/watch?v=Y7PZIfyYYzE
 links:
   instagram: https://www.instagram.com/defissorbonne/
   facebook: https://www.facebook.com/defissorbonne/
-mail: defis.sorbonne@gmail.com
+info:
+  mail: defis.sorbonne@gmail.com
 ---

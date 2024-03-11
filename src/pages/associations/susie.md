@@ -15,5 +15,6 @@ links:
   linktree: https://linktr.ee/susie.sorbonneuniversite
   instagram: https://www.instagram.com/susie.syndicat/
   twitter: https://twitter.com/susiesorbonne
-mail: susie.syndicat@gmail.com
+info:
+  mail: susie.syndicat@gmail.com
 ---

@@ -15,5 +15,6 @@ links:
   site: https://splaaashetu.wixsite.com/website
   instagram: https://www.instagram.com/splaaash_association/
   facebook: https://www.facebook.com/groups/plongeesorbonne/
-mail: splaaashetu@gmail.com
+info:
+  mail: splaaashetu@gmail.com
 ---

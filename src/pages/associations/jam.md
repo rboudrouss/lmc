@@ -12,5 +12,6 @@ description: "Jam Jussieu est une association d'étudiantes et étudiants réuni
 links:
   instagram: https://www.instagram.com/lajamjussieu/
   facebook: https://www.facebook.com/lajamjussieu
-mail: jam.jussieu@gmail.com
+info:
+  mail: jam.jussieu@gmail.com
 ---

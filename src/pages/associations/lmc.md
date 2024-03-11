@@ -19,5 +19,6 @@ links:
   linkedin: https://fr.linkedin.com/company/la-matrice-carr%C3%A9e
   facebook: https://www.facebook.com/LaMatriceCarree/
   twitter: https://twitter.com/LaMatriceCarree
-mail: lamatricecarree@gmail.com
+info:
+  mail: lamatricecarree@gmail.com
 ---

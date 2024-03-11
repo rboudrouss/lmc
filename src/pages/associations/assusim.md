@@ -15,5 +15,6 @@ video: https://www.youtube.com/watch?v=DP6MW5P1Yag
 links:
   instagram: https://www.instagram.com/sorbonne_univ.sport/
   facebook: https://www.facebook.com/AS.SorbonneU.Sces.Inge.Med/
-mail: sciences-assosport@sorbonne-universite.fr
+info:
+  mail: sciences-assosport@sorbonne-universite.fr
 ---

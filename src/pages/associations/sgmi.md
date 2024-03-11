@@ -16,5 +16,6 @@ links:
   helloasso: https://www.helloasso.com/associations/sgmi
   instagram: https://www.instagram.com/sgmi_su/
   linkedin: https://www.linkedin.com/company/sgmi-sorbonne-universit%C3%A9/
-mail: contact@sgmi-su.com
+info:
+  mail: contact@sgmi-su.com
 ---

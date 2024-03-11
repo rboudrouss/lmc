@@ -13,5 +13,6 @@ links:
   instagram: https://www.instagram.com/wolfpacksorbonne/
   facebook: https://www.facebook.com/PompomsSorbonneU/
   tiktok: https://www.tiktok.com/@wolfpacksorbonne
-mail: wolfpackupmc@gmail.com
+info:
+  mail: wolfpackupmc@gmail.com
 ---

@@ -19,5 +19,6 @@ links:
   linkedin: https://www.linkedin.com/company/bicursiosite/
   facebook: https://www.facebook.com/bicursiosite
   twitter: https://twitter.com/bicursiosite
-mail: bicursiosite@gmail.com
+info:
+  mail: bicursiosite@gmail.com
 ---

@@ -14,5 +14,6 @@ links:
   site: https://associationpourlav.wixsite.com/avcpsa
   instagram: https://www.instagram.com/avc.psa/
   facebook: https://www.facebook.com/profile.php?id=100013781707283
-mail: associationpourlavieducrit.psa@gmail.com
+info:
+  mail: associationpourlavieducrit.psa@gmail.com
 ---

@@ -18,5 +18,6 @@ links:
   youtube: https://www.youtube.com/channel/UCQELK7ORi0Xd6M_H7N0r9eQ
   linkedin: https://www.linkedin.com/company/18754617
   facebook: https://www.facebook.com/jesciencedoncjesuis/
-mail: presidence@js2-sciences.com
+info:
+  mail: presidence@js2-sciences.com
 ---

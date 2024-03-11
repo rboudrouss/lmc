@@ -14,5 +14,6 @@ links:
   instagram: https://www.instagram.com/revtoisorbonne/
   linkedin: https://www.linkedin.com/company/rvts/
   facebook: https://www.facebook.com/revoltetoi.sorbonne
-mail: revoltetoi.sorbonne@gmail.com
+info:
+  mail: revoltetoi.sorbonne@gmail.com
 ---

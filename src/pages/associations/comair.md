@@ -13,5 +13,6 @@ links:
   instagram: https://www.instagram.com/comair_celsa/
   linkedin: https://www.linkedin.com/company/comair-radio-du-celsa/
   facebook: https://www.facebook.com/Comaircelsa/
-mail: radiosonar18@gmail.com
+info:
+  mail: radiosonar18@gmail.com
 ---

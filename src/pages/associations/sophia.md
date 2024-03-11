@@ -13,5 +13,6 @@ description: "Pour informer, promouvoir, et diffuser la culture de l'intelligenc
 video: https://www.youtube.com/watch?v=mAfkOJTdiT8
 links:
   helloasso: https://www.helloasso.com/associations/association-etudiante-intelligence-artificielle-de-sorbonne-universite
-mail: asso-sophia@protonmail.com
+info:
+  mail: asso-sophia@protonmail.com
 ---

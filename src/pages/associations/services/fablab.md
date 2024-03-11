@@ -8,5 +8,6 @@ logo: /assets/logos/fablab.svg
 links:
   site: https://fablab.sorbonne-universite.fr/
   instagram: https://www.instagram.com/fablabsu/
-mail: fablab@sorbonne-universite.fr
+info:
+  mail: fablab@sorbonne-universite.fr
 ---

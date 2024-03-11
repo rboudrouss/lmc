@@ -14,5 +14,6 @@ links:
   linktree: https://linktr.ee/ps.art
   instagram: https://www.instagram.com/psart_su/
   facebook: https://www.facebook.com/PSArt.BDA.SU/
-mail: pehessearte@gmail.com
+info:
+  mail: pehessearte@gmail.com
 ---

@@ -14,5 +14,6 @@ links:
   site: https://www.polytech.sorbonne-universite.fr/vie-associative/enactus-polytech-sorbonne
   instagram: https://www.instagram.com/enactuspolytechsorbonne/
   facebook: https://www.facebook.com/Enactus-Polytech-Sorbonne-488533267865303
-mail: enactuspolytechparis@gmail.com
+info:
+  mail: enactuspolytechparis@gmail.com
 ---

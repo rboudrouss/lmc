@@ -15,5 +15,6 @@ links:
   discord: https://discord.gg/Edu5AGbqss
   linkedin: https://www.linkedin.com/company/timarcha/
   facebook: https://www.facebook.com/TimarchaParis
-mail: contact@timarcha.org
+info:
+  mail: contact@timarcha.org
 ---

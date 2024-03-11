@@ -21,5 +21,6 @@ links:
   facebook: https://www.facebook.com/debatensorbonne/
   twitter: https://twitter.com/DebatEnSorbonne
   tiktok: https://www.tiktok.com/@debattre_en_sorbonne
-mail: debatensorbonne@gmail.com
+info:
+  mail: debatensorbonne@gmail.com
 ---

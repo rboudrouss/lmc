@@ -14,5 +14,6 @@ links:
   helloasso: https://www.helloasso.com/associations/i-see
   instagram: https://www.instagram.com/association.isee/
   facebook: https://www.facebook.com/isee.association
-mail: isee.association@gmail.com
+info:
+  mail: isee.association@gmail.com
 ---

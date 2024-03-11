@@ -19,5 +19,6 @@ links:
   discord: https://discord.com/invite/MfFnaJqtFt
   linkedin: https://www.linkedin.com/company/association-green-wave-sorbonne/
   facebook: https://www.facebook.com/greenwavesorbonne/
-mail: greenwavesorbonne@gmail.com
+info:
+  mail: greenwavesorbonne@gmail.com
 ---

@@ -16,5 +16,6 @@ links:
   site: https://oasisparis13.wordpress.com/
   instagram: https://www.instagram.com/oasis_orthoparis/
   facebook: https://www.facebook.com/oasisortho/
-mail: oasis_paris@yahoo.fr
+info:
+  mail: oasis_paris@yahoo.fr
 ---

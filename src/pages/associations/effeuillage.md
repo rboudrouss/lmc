@@ -17,5 +17,6 @@ links:
   linkedin: https://www.linkedin.com/company/effeuillage/
   facebook: https://www.facebook.com/EffeuillageLaRevue/
   twitter: https://twitter.com/revueffeuillage
-mail: communication.effeuillage@gmail.com
+info:
+  mail: communication.effeuillage@gmail.com
 ---

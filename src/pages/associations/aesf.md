@@ -17,5 +17,6 @@ links:
   instagram: https://www.instagram.com/aesf__/
   linkedin: https://www.linkedin.com/in/aesf-association-des-%C3%A9tudiants-s%C3%A9n%C3%A9galais-en-france-044a391a4/
   facebook: https://www.facebook.com/associationdesetudiantssenegalaisenfrance/
-mail: masteraesf@gmail.com
+info:
+  mail: masteraesf@gmail.com
 ---

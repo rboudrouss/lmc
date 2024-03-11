@@ -13,5 +13,6 @@ description: "Section plongée sous-marine de l’association sportive de Sorbon
 links:
   instagram: https://www.instagram.com/sp6_rugby/
   facebook: https://www.facebook.com/stadeparis6/
-mail:
+info:
+  mail:
 ---

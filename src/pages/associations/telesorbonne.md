@@ -22,5 +22,6 @@ links:
   facebook: https://www.facebook.com/telesorbonne/
   twitter: https://twitter.com/TeleSorbonne
   tiktok: https://www.tiktok.com/@telesorbonne
-mail: contact.telesorbonne@gmail.com
+info:
+  mail: contact.telesorbonne@gmail.com
 ---

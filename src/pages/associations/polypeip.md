@@ -14,5 +14,6 @@ links:
   site: https://www.polytech.sorbonne-universite.fr/vie-associative/polypeip
   instagram: https://www.instagram.com/polypeip_sorbonne/
   facebook: https://www.facebook.com/polypeipsorbonne
-mail: polypeip.sorbonne@gmail.com
+info:
+  mail: polypeip.sorbonne@gmail.com
 ---

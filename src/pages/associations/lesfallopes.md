@@ -14,5 +14,6 @@ links:
   linktree: https://linktr.ee/fallopes.psa
   instagram: https://www.instagram.com/lesfallopes.psa/
   facebook: https://www.facebook.com/profile.php?id=100085616791862
-mail: lesfallopes.psa@gmail.com
+info:
+  mail: lesfallopes.psa@gmail.com
 ---

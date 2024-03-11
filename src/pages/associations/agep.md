@@ -18,5 +18,6 @@ links:
   instagram: https://www.instagram.com/agep_fede/
   facebook: https://www.facebook.com/agepfede
   twitter: https://twitter.com/AGEParis
-mail: contact@ageparis.org
+info:
+  mail: contact@ageparis.org
 ---

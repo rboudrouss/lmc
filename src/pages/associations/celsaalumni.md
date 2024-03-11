@@ -15,5 +15,6 @@ links:
   linkedin: https://www.linkedin.com/company/celsa-paris-sorbonne-alumni/
   facebook: https://www.facebook.com/celsaalumni/
   twitter: https://twitter.com/CelsaAlumni
-mail: contact@celsa-alumni.fr
+info:
+  mail: contact@celsa-alumni.fr
 ---

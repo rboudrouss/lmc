@@ -19,5 +19,6 @@ links:
   linkedin: https://www.linkedin.com/company/la-clef-des-chants-ensemble/
   facebook: https://twitter.com/clefdeschants
   twitter: https://twitter.com/opiumphilo
-mail: contact1@clefdeschants.fr
+info:
+  mail: contact1@clefdeschants.fr
 ---

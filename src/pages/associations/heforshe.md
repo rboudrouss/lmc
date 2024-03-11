@@ -15,5 +15,6 @@ links:
   site: https://heforshepolytechsorbonne.odoo.com/
   instagram: https://www.instagram.com/heforshepolytechsorbonne/
   facebook: https://www.facebook.com/heforshepolytechsorbonne/
-mail: heforshepolytechsorbonne@gmail.com
+info:
+  mail: heforshepolytechsorbonne@gmail.com
 ---

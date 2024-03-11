@@ -14,5 +14,6 @@ links:
   site: https://galeriesorbonne.wixsite.com/galeriesorbonne
   instagram: https://www.instagram.com/galerie_sorbonne/
   facebook: https://www.facebook.com/Galerie.Sorbonne/
-mail: galerie.sorbonne@gmail.com
+info:
+  mail: galerie.sorbonne@gmail.com
 ---

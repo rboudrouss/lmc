@@ -19,5 +19,6 @@ links:
   discord: https://discord.com/invite/Ja7CQvKnne
   linkedin: https://www.linkedin.com/company/amsu/
   facebook: https://www.facebook.com/amsu.fr
-mail: contacteramsu@gmail.com
+info:
+  mail: contacteramsu@gmail.com
 ---

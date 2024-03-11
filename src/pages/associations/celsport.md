@@ -12,5 +12,6 @@ description: "CEL’SPORT est l’association sportive du CELSA Sorbonne Univers
 links:
   instagram: https://www.instagram.com/lecelsport/
   linkedin: https://www.linkedin.com/company/lecelsport/
-mail: celsportsorbonneuniversite@gmail.com
+info:
+  mail: celsportsorbonneuniversite@gmail.com
 ---

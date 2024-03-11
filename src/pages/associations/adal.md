@@ -13,5 +13,6 @@ description: "L’association a pour objet la promotion des arts que sont la Dan
 links:
   helloasso: https://www.helloasso.com/associations/association-pour-la-danse-et-les-arts-lyriques
   instagram: https://www.instagram.com/adal_sorbonne/
-mail: adal.sorbonne@gmail.com
+info:
+  mail: adal.sorbonne@gmail.com
 ---

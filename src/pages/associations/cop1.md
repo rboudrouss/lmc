@@ -21,5 +21,6 @@ links:
   facebook: https://www.facebook.com/Cop1.Solidarites.Etudiantes/
   twitter: https://twitter.com/Cop1_Soli_Etu
   tiktok: https://www.tiktok.com/@cop1_soli_etu
-mail: contact@cop1.fr
+info:
+  mail: contact@cop1.fr
 ---

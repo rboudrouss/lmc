@@ -19,5 +19,6 @@ links:
   linkedin: https://www.linkedin.com/company/av%C3%A9bmc-association-de-la-vie-%C3%A9tudiante-du-master-bmc/
   facebook: https://www.facebook.com/AveBMC
   tiktok: https://www.tiktok.com/@avebmc_sorbonne
-mail: asso.avebmc@gmail.com
+info:
+  mail: asso.avebmc@gmail.com
 ---

@@ -14,5 +14,6 @@ links:
   linktree: https://linktr.ee/APEO202
   instagram: https://www.instagram.com/apeoparis/
   facebook: https://www.facebook.com/apeoparis
-mail: associationapeo@gmail.com
+info:
+  mail: associationapeo@gmail.com
 ---

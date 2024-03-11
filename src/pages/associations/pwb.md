@@ -16,5 +16,6 @@ links:
   helloasso: https://www.helloasso.com/associations/polytech-without-borders
   instagram: https://www.instagram.com/polytechwithoutborders/
   facebook: https://www.facebook.com/polytechwithoutborders
-mail: polytechwithoutborderss@gmail.com
+info:
+  mail: polytechwithoutborderss@gmail.com
 ---

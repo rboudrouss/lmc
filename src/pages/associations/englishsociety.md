@@ -14,5 +14,6 @@ links:
   helloasso: https://www.helloasso.com/associations/english-society-sorbonne-universite
   instagram: https://www.instagram.com/englishsociety_su/
   linkedin: https://www.linkedin.com/company/english-society-sorbonne-universit%C3%A9/
-mail: asso.anglo.su@gmail.com
+info:
+  mail: asso.anglo.su@gmail.com
 ---

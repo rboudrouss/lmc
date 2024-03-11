@@ -13,5 +13,6 @@ links:
   instagram: https://www.instagram.com/comedscene_su/
   facebook: https://www.facebook.com/profile.php?id=100057167751263
   tiktok: https://www.tiktok.com/@comedscene_su
-mail: comedscene@gmail.com
+info:
+  mail: comedscene@gmail.com
 ---

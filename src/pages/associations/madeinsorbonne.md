@@ -11,5 +11,6 @@ logo: /assets/logos/madeinsorbonne.png
 links:
   helloasso: https://www.helloasso.com/associations/made-in-sorbonne
   instagram: https://www.instagram.com/madeinsorbonne/
-mail: madeinsorbonne@gmail.com
+info:
+  mail: madeinsorbonne@gmail.com
 ---

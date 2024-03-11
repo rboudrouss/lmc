@@ -18,5 +18,6 @@ links:
   instagram: https://www.instagram.com/aebip_asso
   linkedin: https://www.linkedin.com/company/aebip/
   facebook: https://www.facebook.com/asso.aebip
-mail: asso.aebip@gmail.com
+info:
+  mail: asso.aebip@gmail.com
 ---

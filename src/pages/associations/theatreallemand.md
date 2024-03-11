@@ -13,5 +13,6 @@ links:
   site: https://theatrallemandvotr.wixsite.com/theatrallemandvotre
   helloasso: https://www.helloasso.com/associations/theatrallemand-votre
   instagram: https://www.instagram.com/theatrallemand_votre/
-mail: theatrallemandvotre99@gmail.com
+info:
+  mail: theatrallemandvotre99@gmail.com
 ---

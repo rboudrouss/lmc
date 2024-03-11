@@ -17,5 +17,6 @@ links:
   instagram: https://www.instagram.com/robotech.sorbonne/
   linkedin: https://fr.linkedin.com/company/robotech-sorbonne
   facebook: https://www.facebook.com/RobotechSorbonne
-mail: contact@robotech-sorbonne.com
+info:
+  mail: contact@robotech-sorbonne.com
 ---

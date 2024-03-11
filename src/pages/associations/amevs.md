@@ -17,5 +17,6 @@ links:
   instagram: https://www.instagram.com/amevs_su/
   youtube: https://www.youtube.com/channel/UCxDAcVhJmiNFJoCRLG6J-oQ
   facebook: https://www.facebook.com/AMEVS.SU/
-mail: pierrenoeljericho@gmail.com
+info:
+  mail: pierrenoeljericho@gmail.com
 ---

@@ -18,5 +18,6 @@ links:
   instagram: https://www.instagram.com/cmi.sorbonne
   discord: https://discord.gg/xjj9U8NAAg
   facebook: https://www.facebook.com/cmi.sorbonne
-mail: cmi.sorbonne@gmail.com
+info:
+  mail: cmi.sorbonne@gmail.com
 ---

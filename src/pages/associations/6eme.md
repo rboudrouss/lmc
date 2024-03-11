@@ -14,5 +14,8 @@ links:
   site: https://6emeetagesansascenseur.fr/
   helloasso: https://www.helloasso.com/associations/6-eme-etage-sans-ascenseur
   instagram: https://www.instagram.com/6etagesansascenseur/
-mail: 6etagesansasceneur@gmail.com
+
+
+info:
+  mail: 6etagesansasceneur@gmail.com
 ---

@@ -13,5 +13,6 @@ description: "L’association les théâtreux de la Paillasse est ouverte à tou
 links:
   instagram: https://www.instagram.com/theatreux_de_la_paillasse.psa/
   facebook: https://www.facebook.com/theatreux.delapaillasse.50
-mail: theatreuxpaillasse.med@gmail.com
+info:
+  mail: theatreuxpaillasse.med@gmail.com
 ---

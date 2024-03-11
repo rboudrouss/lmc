@@ -19,5 +19,6 @@ links:
   youtube: https://www.youtube.com/c/TVJussieu
   facebook: https://www.facebook.com/tvjussieu
   tiktok: https://www.tiktok.com/@tvjussieu
-mail: tvjussieu@gmail.com
+info:
+  mail: tvjussieu@gmail.com
 ---

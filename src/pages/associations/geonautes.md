@@ -17,5 +17,6 @@ links:
   linkedin: https://www.linkedin.com/company/geonautes-sorbonne-universit%C3%A9/
   facebook: https://www.facebook.com/geonautesparis4/
   twitter: https://twitter.com/geonautes
-mail: geonautesparis4@gmail.com
+info:
+  mail: geonautesparis4@gmail.com
 ---

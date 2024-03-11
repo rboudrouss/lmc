@@ -14,5 +14,6 @@ links:
   site: https://la-gazelle-journal.fr/
   instagram: https://www.instagram.com/journal_lagazelle/
   facebook: https://www.facebook.com/journal.lagazelle
-mail: redaction.lagazelle@gmail.com
+info:
+  mail: redaction.lagazelle@gmail.com
 ---

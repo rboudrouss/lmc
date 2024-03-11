@@ -16,5 +16,6 @@ links:
   helloasso: https://www.helloasso.com/associations/osiup-orchestre-symphonique-inter-universitaire-de-paris
   instagram: https://www.instagram.com/osiup_officiel/
   facebook: https://www.facebook.com/Osiup
-mail: orchestre@upmc.fr
+info:
+  mail: orchestre@upmc.fr
 ---

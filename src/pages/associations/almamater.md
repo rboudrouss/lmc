@@ -16,5 +16,6 @@ links:
   instagram: https://www.instagram.com/journalmamater/
   facebook: https://www.facebook.com/journalmamater
   twitter: https://twitter.com/JournAlmaMater
-mail: almamater.redaction@gmail.com
+info:
+  mail: almamater.redaction@gmail.com
 ---

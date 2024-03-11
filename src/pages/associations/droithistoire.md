@@ -14,5 +14,6 @@ links:
   instagram: https://www.instagram.com/droithistoire/
   linkedin: https://www.linkedin.com/company/double-cursus-droit-histoire/
   facebook: https://www.facebook.com/double.cursus.droit.histoire/
-mail: bicursusdroithistoire@gmail.com
+info:
+  mail: bicursusdroithistoire@gmail.com
 ---

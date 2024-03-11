@@ -19,5 +19,6 @@ links:
   twitch: https://www.twitch.tv/su_esport
   facebook: https://www.facebook.com/Sorbonne-Universit%C3%A9-Esport-104710681733488
   twitter: https://twitter.com/SUEsport_
-mail: contact@suesport.fr
+info:
+  mail: contact@suesport.fr
 ---

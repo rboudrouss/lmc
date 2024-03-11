@@ -1,18 +1,17 @@
 ---
-import { getIconSource } from "@/helpers";
-
-import { miscIcons, getMiscIcon } from "../../assets/misc";
+import { getMiscIcon } from "../../assets/misc";
 interface Props {
   title: string;
+  content?: string;
   link?: string;
 }
 
-const { title, link } = Astro.props;
+const { title, link, content } = Astro.props;
 ---
 
-<a class="wrapper" href={link}>
+<a class={"wrapper " + (link ? "animate" : "")} href={link}>
   <img src={getMiscIcon(title).src} alt={title} class="icon" />
-  <p class="title">{title}</p>
+    <p class="title">{content ?? title}</p>
   <div class="hackCenter"></div>
 </a>
 
@@ -27,15 +26,16 @@ const { title, link } = Astro.props;
     border-radius: 2rem;
     padding: 1rem;
     margin: 1rem;
-    text-transform: capitalize;
     font-size: 1.2rem;
     font-weight: bold;
+  }
 
+  .animate {
     transform: scale(1);
     transition: all 0.5s ease-in-out;
   }
 
-  .wrapper:hover {
+  .animate:hover {
     transform: scale(1.1);
     transition: all 0.5s ease-in-out;
   }

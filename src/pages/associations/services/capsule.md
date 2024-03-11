@@ -9,5 +9,6 @@ logo: /assets/logos/capsule.svg
 links:
   site: https://capsule.sorbonne-universite.fr/
   instagram: https://www.instagram.com/capsule_sciences_sorbonne/
-mail: sciences-capsule@sorbonne-universite.fr
+info:
+  mail: sciences-capsule@sorbonne-universite.fr
 ---

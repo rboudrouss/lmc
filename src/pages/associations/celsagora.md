@@ -12,5 +12,6 @@ links:
   helloasso: https://www.helloasso.com/associations/cels-agora/
   instagram: https://www.instagram.com/cels_agora/
   linkedin: https://www.linkedin.com/company/le-cels-green/
-mail: celsagora20@gmail.com
+info:
+  mail: celsagora20@gmail.com
 ---

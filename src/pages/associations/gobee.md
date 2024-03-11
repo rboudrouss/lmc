@@ -20,5 +20,6 @@ links:
   youtube: https://www.youtube.com/channel/UCQ1LnZxoM3rpNTGMFhRcf_g
   linkedin: https://fr.linkedin.com/company/gobee-su
   facebook: https://www.facebook.com/GobeeSU
-mail: administration@association-gobee.fr
+info:
+  mail: administration@association-gobee.fr
 ---

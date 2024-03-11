@@ -17,5 +17,6 @@ links:
   instagram: https://www.instagram.com/moktar_su/
   youtube: https://www.youtube.com/channel/UCvOXc7vlSgn2LTr08jJY6Hw
   facebook: https://www.facebook.com/MoktarSoundSystem
-mail: fanfarep6@gmail.com
+info:
+  mail: fanfarep6@gmail.com
 ---

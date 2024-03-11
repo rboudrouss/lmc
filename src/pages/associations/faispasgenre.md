@@ -14,5 +14,6 @@ links:
   instagram: https://www.instagram.com/faispasgenre.celsa/
   linkedin: https://www.linkedin.com/company/fais-pas-genre-celsa/
   facebook: https://www.facebook.com/FPGCelsa/
-mail: faispasgenrecelsa@gmail.com
+info:
+  mail: faispasgenrecelsa@gmail.com
 ---

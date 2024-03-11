@@ -19,5 +19,6 @@ links:
   linkedin: https://www.linkedin.com/company/unecouverturepourl'hiverucph/
   facebook: https://www.facebook.com/unecouverturepourlhiver/
   twitter: https://twitter.com/unecouverture
-mail: unecouverture@gmail.com
+info:
+  mail: unecouverture@gmail.com
 ---

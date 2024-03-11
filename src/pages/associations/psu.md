@@ -20,5 +20,6 @@ links:
   twitch: https://www.twitch.tv/play_sorbonne
   facebook: https://www.facebook.com/PlaySorbonneUniversite/
   twitter: https://twitter.com/PlaySorbonneU
-mail: playsorbonnefestival@gmail.com
+info:
+  mail: playsorbonnefestival@gmail.com
 ---

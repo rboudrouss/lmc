@@ -13,5 +13,6 @@ links:
   helloasso: https://www.helloasso.com/associations/spiv
   instagram: https://www.instagram.com/spiv_sciences_po/
   facebook: https://www.facebook.com/association.spiv/
-mail: association.spiv@gmail.com
+info:
+  mail: association.spiv@gmail.com
 ---

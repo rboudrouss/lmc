@@ -16,5 +16,6 @@ links:
   linkedin: https://www.linkedin.com/company/vert-science
   facebook: https://www.facebook.com/VertLaScience
   tiktok: https://www.tiktok.com/@vertlascience
-mail: vert.la.science@gmail.com
+info:
+  mail: vert.la.science@gmail.com
 ---

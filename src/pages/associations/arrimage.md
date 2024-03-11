@@ -15,5 +15,6 @@ links:
   helloasso: https://www.helloasso.com/associations/arrimage
   instagram: https://www.instagram.com/Arrimage_Asso/
   facebook: https://www.facebook.com/assoarrimage
-mail: asso.arrimage@gmail.com
+info:
+  mail: asso.arrimage@gmail.com
 ---

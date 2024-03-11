@@ -18,5 +18,6 @@ links:
   instagram: https://www.instagram.com/ajuca.um/
   linkedin: https://www.linkedin.com/in/ajuca-jeunes-ultramarins-pour-le-cinema/
   facebook: https://www.facebook.com/people/Jeunesse-Ultramarine-pour-le-Cin%C3%A9ma-et-lAudiovisuel/100090493292033/
-mail: contact.ajuca@gmail.com
+info:
+  mail: contact.ajuca@gmail.com
 ---

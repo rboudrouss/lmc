@@ -17,5 +17,6 @@ links:
   linkedin: https://www.linkedin.com/company/ami-sorbonne
   facebook: https://www.facebook.com/AMISorbonneUniversite
   twitter: https://twitter.com/AmiSorbonne
-mail: ami.sorbonne.universite@gmail.com
+info:
+  mail: ami.sorbonne.universite@gmail.com
 ---

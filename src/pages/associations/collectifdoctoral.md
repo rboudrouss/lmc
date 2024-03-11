@@ -13,5 +13,6 @@ links:
   site: https://doctoratp4.hypotheses.org/
   helloasso: https://www.helloasso.com/associations/collectif-doctoral-de-sorbonne-universite
   twitter: https://twitter.com/collectifSU
-mail: collectifdoctoral@gmail.com
+info:
+  mail: collectifdoctoral@gmail.com
 ---

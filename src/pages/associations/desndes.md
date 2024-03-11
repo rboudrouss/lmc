@@ -15,5 +15,6 @@ links:
   helloasso: https://www.helloasso.com/associations/des-n-des
   instagram: https://www.instagram.com/des_n_des_su/
   discord: https://discord.com/invite/s5n7evcZ5r
-mail: des.n.des.upmc@gmail.com
+info:
+  mail: des.n.des.upmc@gmail.com
 ---
