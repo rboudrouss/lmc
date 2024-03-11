@@ -6,22 +6,6 @@ title: "CARTE BLANCHE DES ASSOS"
 
 auteur :
   - sciences
-  - symbiose6
-  - lasixe
-  - tvjussieu
-  - psu
-  - fbi
-  - junior
-  - ami
-  - acidsu
-  - axio
-  - topaero
-  - igem
-  - bicursiosite
-  - parismus
-  - desndes
-  - bdac
-  - lmc
 
 affiliation :
   - sciences
