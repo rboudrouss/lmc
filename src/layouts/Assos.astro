@@ -88,8 +88,20 @@ assos.url = Astro.props.url;
   .logo {
     max-height: 500px;
     max-width: 500px;
-    object-fit: contain;
     margin-bottom: 20px;
     margin: 2rem;
+  }
+
+  @media (max-width: 800px) {
+    .content {
+      justify-content: center;
+    }
+    .bars {
+      display: none;
+    }
+
+    .logo {
+      max-width: 50vw;
+    }
   }
 </style>
