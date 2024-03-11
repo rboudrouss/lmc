@@ -9,7 +9,7 @@ interface Props {
 const { title, link, content } = Astro.props;
 ---
 
-<a class={"wrapper " + (link ? "animate" : "")} href={link}>
+<a target="_blank" class={"wrapper " + (link ? "animate" : "")} href={link}>
   <img src={getMiscIcon(title).src} alt={title} class="icon" />
     <p class="title">{content ?? title}</p>
   <div class="hackCenter"></div>
