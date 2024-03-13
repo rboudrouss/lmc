@@ -2,7 +2,7 @@
 layout: ../../../layouts/Actu.astro
 date : "20-03-2024 23:00"
 
-title: "Webinaires pour futur(e)s Doctorants"
+title: "Webinaires pour futur(e)s Doctorant(e)s"
 
 auteur :
   - etugouv
