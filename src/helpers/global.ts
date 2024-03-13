@@ -67,11 +67,11 @@ export function DateActualites(date?: Date): string {
   const diff = date.getTime() - today.getTime();
 
   const diffDays =
-    Math.sign(diff) * Math.floor(Math.abs(diff / (1000 * 60 * 60 * 24)));
+    Math.floor(diff / (1000 * 60 * 60 * 24));
 
   if (diffDays === 0) return "Posté Aujourd'hui";
   if (diffDays === -1) return "Posté Hier";
-  if (diffDays === -1) return "Posté Avant-Hier";
+  if (diffDays === -2) return "Posté Avant-Hier";
 
   if (diffDays < -7) return `Posté le ${date.getDate()} ${numberToMonth(date.getMonth())}`;
 
