@@ -112,7 +112,7 @@ export function dateStringActus(actu: ActuT) {
     return dateToStringFromToday(actu.date);
   }
   if (actu.url.split("/").includes("encemoment")) {
-    return dateToStringFromToday(actu.date);
+    return dateToStringFromTodayEnCeMoment(actu.date);
   }
   return `Posté le ${actu.date?.getDay()} ${numberToMonth(actu.date?.getMonth())}`;
 }
