@@ -116,5 +116,5 @@ export function dateStringActus(actu: ActuT) {
   if (actu.url.split("/").includes("encemoment")) {
     return DateEnCeMoment(actu.date);
   }
-  return `Posté le ${actu.date?.getDay()} ${numberToMonth(actu.date?.getMonth())}`;
+  return return DateActualites(actu.date);
 }
