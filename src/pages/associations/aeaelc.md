@@ -8,7 +8,8 @@ affiliation:
 typeasso: 
    - filiere
 
-logo: /assets/logos/pas2logo.png
+logo: /assets/logos/aeaelc.png
+logooriginal: /assets/logos/aeaelc_o.png
 links:
   instagram: https://www.instagram.com/aeaelc_sorbonne/
   facebook: https://www.facebook.com/people/Association-des-%C3%89tudiants-de-Lettres-Classiques-de-Sorbonne-Universit%C3%A9/61552598295543/
