@@ -22,3 +22,5 @@ Pas besoin de vous inscrire à l'avance !
 Venez réparer vos objets du quotidien avec nos experts réparateurs et expertes réparatrices. 👩‍🔧👨‍🔧🧑‍🔧
 
 Cet événement est ouvert à tous les étudiants et étudiantes, et le personnel de Sorbonne Université. 🏫
+
+[PLUS D'INFOS](https://fablab.sorbonne-universite.fr/actualites-fablab/le-fablab-su-lance-son-repair-cafe)
