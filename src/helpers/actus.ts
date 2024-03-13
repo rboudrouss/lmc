@@ -5,7 +5,9 @@ import {
   type TypeActus,
   parseDateFromString,
   type Assos,
-  dateToStringFromToday,
+  DateEvenements,
+  DateEnCeMoment,
+  DateActualites,
   numberToMonth,
 } from ".";
 
@@ -109,10 +111,10 @@ export function treatRawActus(
 export function dateStringActus(actu: ActuT) {
   if (!actu.date) return undefined;
   if (actu.url.split("/").includes("evenements")) {
-    return dateToStringFromToday(actu.date);
+    return DateEvenements(actu.date);
   }
   if (actu.url.split("/").includes("encemoment")) {
-    return dateToStringFromTodayEnCeMoment(actu.date);
+    return DateEnCeMoment(actu.date);
   }
   return `Posté le ${actu.date?.getDay()} ${numberToMonth(actu.date?.getMonth())}`;
 }
