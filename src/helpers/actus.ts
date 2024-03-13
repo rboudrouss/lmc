@@ -108,7 +108,10 @@ export function treatRawActus(
 
 export function dateStringActus(actu: ActuT) {
   if (!actu.date) return undefined;
-  if (!actu.url.split("/").includes("actualites")) {
+  if (actu.url.split("/").includes("evenements")) {
+    return dateToStringFromToday(actu.date);
+  }
+  if (actu.url.split("/").includes("encemoment")) {
     return dateToStringFromToday(actu.date);
   }
   return `Posté le ${actu.date?.getDay()} ${numberToMonth(actu.date?.getMonth())}`;
