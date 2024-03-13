@@ -75,7 +75,7 @@ export function DateActualites(date?: Date): string {
 
   if (diffDays < -7) return `Posté le ${date.getDate()} ${numberToMonth(date.getMonth())}`;
 
-  if (diffDays < 0) return `Posté il y a ${diffDays} jours`;
+  if (diffDays < 0) return `Posté il y a ${-diffDays} jours`;
 }
 
 export function numberToMonth(n: number) {
