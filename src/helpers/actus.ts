@@ -116,5 +116,5 @@ export function dateStringActus(actu: ActuT) {
   if (actu.url.split("/").includes("encemoment")) {
     return DateEnCeMoment(actu.date);
   }
-  return return DateActualites(actu.date);
+  return DateActualites(actu.date);
 }
