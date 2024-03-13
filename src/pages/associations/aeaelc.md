@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Assos.astro
 acronyme: AEAELC
-titre: Association des étudiants de Lettres Classiques de la Sorbonne
+titre: Association des Étudiants et Anciens Étudiants de Lettres Classiques de la Sorbonne
 affiliation: 
    - lettres
 
