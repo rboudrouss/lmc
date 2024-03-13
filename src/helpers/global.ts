@@ -36,7 +36,7 @@ export function dateToStringFromTodayEvenements(date?: Date): string {
   if (diffDays === 0) return "Aujourd'hui";
   if (diffDays === 1) return "Demain";
 
-  if (diffDays > 7) return `Le ${date.getDate()} ${numberToMonth(date.getMonth())}`;
+  if (diffDays > 7) return `Le ${date.getDate()} ${numberToMonth(date.getMonth())}`
 }
 
 export function dateToStringFromTodayEnCeMoment(date?: Date): string {
@@ -52,7 +52,7 @@ export function dateToStringFromTodayEnCeMoment(date?: Date): string {
   if (diffDays === 0) return "Fini Aujourd'hui";
   if (diffDays === 1) return "Jusqu'à Demain";
 
-  if (diffDays > 7) return `Jusq'au ${date.getDate()} ${numberToMonth(date.getMonth())}`;
+  if (diffDays > 7) return `Jusq'au ${date.getDate()} ${numberToMonth(date.getMonth())}`
 }
 
 export function numberToMonth(n: number) {
