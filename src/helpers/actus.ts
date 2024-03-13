@@ -109,7 +109,7 @@ export function treatRawActus(
 export function dateStringActus(actu: ActuT) {
   if (!actu.date) return undefined;
   if (actu.url.split("/").includes("evenements")) {
-    return dateToStringFromTodayEvenement(actu.date);
+    return dateToStringFromTodayEvenements(actu.date);
   }
   if (actu.url.split("/").includes("encemoment")) {
     return dateToStringFromTodayEnCeMoment(actu.date);
