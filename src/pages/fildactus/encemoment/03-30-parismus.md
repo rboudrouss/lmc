@@ -1,13 +1,13 @@
 ---
 layout: ../../../layouts/Actu.astro
-date : "09-04-2024 23:00"
+date : "30-03-2024 23:00"
 
 title: "On The Way To NICE"
 
 auteur :
  - parismus
 
-image : "/assets/fildactus/encemoment/04-09-parismus.png"
+image : "/assets/fildactus/encemoment/03-30-parismus.png"
 
 source : "https://www.instagram.com/p/C4dn5J4IXfx/"
 ---
