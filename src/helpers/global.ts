@@ -23,7 +23,7 @@ export function parseDateFromString(dateString?: string): Date | null {
   );
 }
 
-export function dateToStringFromTodayEvenements(date?: Date): string {
+export function dateToStringFromToday(date?: Date): string {
   if (!date) return undefined;
 
   const today = new Date();
