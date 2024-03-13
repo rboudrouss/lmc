@@ -23,7 +23,7 @@ export function parseDateFromString(dateString?: string): Date | null {
   );
 }
 
-export function dateToStringFromToday(date?: Date): string {
+export function dateToStringFromTodayEvenements(date?: Date): string {
   if (!date) return undefined;
 
   const today = new Date();
@@ -35,13 +35,32 @@ export function dateToStringFromToday(date?: Date): string {
 
   if (diffDays === 0) return "Aujourd'hui";
   if (diffDays === 1) return "Demain";
-  if (diffDays === -1) return "Hier";
 
   if (diffDays > 7) return `Le ${date.getDate()} ${numberToMonth(date.getMonth())}`
 
   if (diffDays > 0) return `Dans ${diffDays} jours`;
   return `Il y a ${-diffDays} jours`;
 }
+
+export function dateToStringFromTodayEnCeMoment(date?: Date): string {
+  if (!date) return undefined;
+
+  const today = new Date();
+
+  const diff = date.getTime() - today.getTime();
+
+  const diffDays =
+    Math.sign(diff) * Math.floor(Math.abs(diff / (1000 * 60 * 60 * 24)));
+
+  if (diffDays === 0) return "Fini Aujourd'hui";
+  if (diffDays === 1) return "Jusqu'à Demain";
+
+  if (diffDays > 7) return `Jusq'au ${date.getDate()} ${numberToMonth(date.getMonth())}`
+
+  if (diffDays > 0) return `Plus que ${diffDays} jours`;
+  return `Il y a ${-diffDays} jours`;
+}
+
 
 export function numberToMonth(n: number) {
   if (n < 0 || n > 11) return undefined;
