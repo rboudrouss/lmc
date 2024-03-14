@@ -32,8 +32,7 @@ export function DateEvenements(date?: Date): string {
 
   const diff = date.getTime() - today.getTime();
 
-  const diffDays =
-    Math.sign(diff) * Math.floor(Math.abs(diff / (1000 * 60 * 60 * 24)));
+  const diffDays = Math.floor(diff / (1000 * 60 * 60 * 24));
 
   if (diffDays === 0) return "Aujourd'hui";
   if (diffDays === 1) return "Demain";
@@ -50,8 +49,7 @@ export function DateEnCeMoment(date?: Date): string {
 
   const diff = date.getTime() - today.getTime();
 
-  const diffDays =
-    Math.sign(diff) * Math.floor(Math.abs(diff / (1000 * 60 * 60 * 24)));
+  const diffDays = Math.floor(diff / (1000 * 60 * 60 * 24));
 
   if (diffDays === 0) return "Fini Aujourd'hui";
   if (diffDays === 1) return "Jusqu'à Demain";
