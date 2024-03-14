@@ -61,9 +61,13 @@ export function rawMdToActu(
   };
 
   if (actu.affiliation.length === 0)
-    actu.affiliation = actu.auteurInfo
-      .map((auteur) => auteur?.affiliation)
-      .reduce((acc, val) => acc.concat(val), []);
+    actu.affiliation = [
+      ...new Set(
+        actu.auteurInfo
+          .map((auteur) => auteur?.affiliation)
+          .reduce((acc, val) => acc.concat(val), [])
+      ),
+    ];
 
   return actu;
 }
