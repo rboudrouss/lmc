@@ -37,21 +37,21 @@ const showAll = !typeSelected && !affSelected;
 
 <div class="affsWrapper">
   <SuS link={LinkAff("su")} transparent={!showAll && affSelected !== "su"} />
-  <LettresS
-    link={LinkAff("lettres")}
-    transparent={!showAll && affSelected !== "lettres"}
-  />
   <SciencesS
     link={LinkAff("sciences")}
     transparent={!showAll && affSelected !== "sciences"}
   />
-  <CelsaS
-    link={LinkAff("celsa")}
-    transparent={!showAll && affSelected !== "celsa"}
-  />
   <PolyS
     link={LinkAff("polytech")}
     transparent={!showAll && affSelected !== "polytech"}
+  />
+  <LettresS
+    link={LinkAff("lettres")}
+    transparent={!showAll && affSelected !== "lettres"}
+  />
+  <CelsaS
+    link={LinkAff("celsa")}
+    transparent={!showAll && affSelected !== "celsa"}
   />
   <SanteS
     link={LinkAff("sante")}
