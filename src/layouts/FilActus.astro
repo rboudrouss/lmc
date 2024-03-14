@@ -33,12 +33,15 @@ const assos = {
   )
 };
 
-const actus = treatRawActus(
+let actus = treatRawActus(
   await Astro.glob("../pages/fildactus/**/*.md"),
   assos,
   aff,
   typeA
 );
+
+if (typeA === "actualites")
+  actus = actus.reverse();
 ---
 
 <Layout title={title}>
