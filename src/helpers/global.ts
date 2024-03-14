@@ -1,3 +1,5 @@
+import type { Affiliations } from ".";
+
 export function parseDateFromString(dateString?: string): Date | null {
   if (!dateString) return undefined;
 
@@ -106,4 +108,19 @@ export const AffColor = {
   sante: "#A6192E",
   polytech: "#00ADEF",
   celsa: "#FFB500",
+}
+
+const ordreAffiliation: Affiliations[] = [
+  "su",
+  "sciences",
+  "lettres",
+  "sante",
+  "polytech",
+  "celsa",
+]
+
+export function sortAffiliations(affiliations: Affiliations[]): Affiliations[] {
+  return affiliations.sort((a, b) => {
+    return ordreAffiliation.indexOf(a) - ordreAffiliation.indexOf(b);
+  });
 }

@@ -9,6 +9,7 @@ import {
   DateEnCeMoment,
   DateActualites,
   numberToMonth,
+  sortAffiliations,
 } from ".";
 
 export function filterActus(
@@ -43,9 +44,9 @@ export function rawMdToActu(
     image: e.frontmatter.image,
     source: e.frontmatter.source,
     affiliation:
-      typeof e.frontmatter.affiliation === "string"
+      sortAffiliations(typeof e.frontmatter.affiliation === "string"
         ? [e.frontmatter.affiliation]
-        : e.frontmatter.affiliation ?? [],
+        : e.frontmatter.affiliation ?? []),
     url: e.url,
     content: e.compiledContent(),
     auteurInfo: (typeof e.frontmatter.auteur === "string"

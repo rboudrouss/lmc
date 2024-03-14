@@ -1,12 +1,24 @@
 import type { MarkdownInstance } from "astro";
-import type { Assos, Affiliations, TypeAsso } from ".";
+import {
+  type Assos,
+  type Affiliations,
+  type TypeAsso,
+  sortAffiliations,
+} from ".";
 
 export function rawMDAssosToAssos(e: MarkdownInstance<Assos>): Assos {
   return {
     acronyme: e.frontmatter.acronyme,
     titre: e.frontmatter.titre,
-    affiliation: e.frontmatter.affiliation ?? [],
-    typeasso: e.frontmatter.typeasso ?? [],
+    affiliation: sortAffiliations(
+      typeof e.frontmatter.affiliation === "string"
+        ? [e.frontmatter.affiliation]
+        : e.frontmatter.affiliation ?? []
+    ),
+    typeasso:
+      typeof e.frontmatter.typeasso === "string"
+        ? [e.frontmatter.typeasso]
+        : e.frontmatter.typeasso ?? [],
     logo: e.frontmatter.logo,
     logooriginal: e.frontmatter.logooriginal,
     description: e.frontmatter.description,
