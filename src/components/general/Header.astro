@@ -19,17 +19,17 @@ links?.splice(0, 1);
   {
     links?.map((link, index) => {
       return (
-        <>
+        <div class={"slashElement " + (index === links.length - 1 ? "" : "notLast")}>
           <a class="link" href={`/${links.slice(0, index + 1).join("/")}`}>
             {link}
           </a>
           <span class="slash">/</span>
-        </>
+        </div>
       );
     })
   }
 
-  <h1 style={url === "" ? "width:100%; text-align:center;" : ""}>{title}</h1>
+  <h1 class="title" style={url === "" ? "width:100%; text-align:center;" : ""}>{title}</h1>
   <div class="space" style={url === "" ? "display: block;" : "display: none;"}>
   </div>
 </header>
@@ -57,9 +57,32 @@ links?.splice(0, 1);
     padding: 5px;
   }
 
-  h1 {
+  .title {
     height: min-content;
-    padding: 5px;
+    padding: 0 5px;
+  }
+
+  .slashElement {
+    display: flex;
+    align-items: center;
+    height: 100%
+  }
+
+
+  @media (max-width: 768px) {
+    .link {
+      font-size: 1rem;
+    }
+    .title {
+      font-size: 1rem;
+    }
+    .slash {
+      font-size: 1.5rem;
+    }
+
+    .notLast {
+      display: none;
+    }
   }
 
   img {
