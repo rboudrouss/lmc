@@ -17,5 +17,5 @@ links:
 
 
 info:
-  mail: 6etagesansasceneur@gmail.com
+  mail: 6etagesansascenseur@gmail.com
 ---

@@ -20,5 +20,5 @@ links:
   instagram: https://www.instagram.com/lupa.association/
   facebook: https://www.facebook.com/lupa.association
 info:
-  mail: lupa.asso@gmail.com
+  mail: lupa.association@gmail.com
 ---
