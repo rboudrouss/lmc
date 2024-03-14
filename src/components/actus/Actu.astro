@@ -1,5 +1,5 @@
 ---
-import { type ActuT, dateStringActus } from "../../helpers";
+import { type ActuT, dateStringActus, type TypeActus } from "../../helpers";
 import Bar from "../assos/Bar.astro";
 
 interface Props {
@@ -7,15 +7,29 @@ interface Props {
 }
 const { actu } = Astro.props;
 
-let dateString = dateStringActus(actu);
+let dateString = dateStringActus(
+  actu.date,
+  actu.url.split("/")[2] as TypeActus
+);
+// HACK type of actus is hardcoded as url.split("/")[2]
 ---
 
-<div class="wrapper">
+<div class="wrapperActu">
   <div class="bars">
     {actu.affiliation?.slice(0, 2).map((aff) => <Bar affiliation={aff} />)}
   </div>
   <div class="content">
-    {dateString && <span class="date">{dateString}</span>}
+    {
+      dateString && (
+        <span
+          class="dateActus"
+          data-date={actu.date?.toDateString()}
+          data-type={actu.url.split("/")[2]}
+        >
+          {dateString}
+        </span>
+      )
+    }
     <div class="titleWrapper">
       <div class="icons">
         {
@@ -55,8 +69,32 @@ let dateString = dateStringActus(actu);
   </div>
 </div>
 
+<script>
+  import { dateStringActus, type TypeActus } from "@/helpers";
+
+  document.addEventListener("astro:page-load", () => {
+    let dateActus = document.querySelectorAll<HTMLElement>(".dateActus");
+
+    dateActus.forEach((dateActu) => {
+      let date = Date.parse(dateActu.dataset.date);
+      const today = new Date();
+      today.setHours(0, 0, 0, 0);
+
+      if (date < today.getTime() && dateActu.dataset.type !== "actualites") {
+        dateActu.parentElement.parentElement.style.display = "none";
+        console.log("yeet", date);
+      }
+
+      dateActu.innerText = dateStringActus(
+        new Date(date),
+        dateActu.dataset.type as TypeActus
+      );
+    });
+  });
+</script>
+
 <style>
-  .wrapper {
+  .wrapperActu {
     display: flex;
     justify-content: center;
     padding: 0px;
@@ -107,7 +145,7 @@ let dateString = dateStringActus(actu);
     overflow: hidden;
   }
 
-  .date {
+  .dateActus {
     font-size: x-large;
     width: 70%;
     padding: 5px 0px;
@@ -147,7 +185,7 @@ let dateString = dateStringActus(actu);
       width: 90%;
     }
 
-    .date {
+    .dateActus {
       width: 100%;
     }
 
@@ -160,5 +198,4 @@ let dateString = dateStringActus(actu);
       max-width: 20vw;
     }
   }
-
 </style>

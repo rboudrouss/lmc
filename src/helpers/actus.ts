@@ -113,13 +113,13 @@ export function treatRawActus(
   return actus;
 }
 
-export function dateStringActus(actu: ActuT) {
-  if (!actu.date) return undefined;
-  if (actu.url.split("/").includes("evenements")) {
-    return DateEvenements(actu.date);
+export function dateStringActus(date: Date, typeA: TypeActus): string {
+  if (!date) return undefined;
+  if (typeA === "evenements") {
+    return DateEvenements(date);
   }
-  if (actu.url.split("/").includes("encemoment")) {
-    return DateEnCeMoment(actu.date);
+  if (typeA === "encemoment") {
+    return DateEnCeMoment(date);
   }
-  return DateActualites(actu.date);
+  return DateActualites(date);
 }
