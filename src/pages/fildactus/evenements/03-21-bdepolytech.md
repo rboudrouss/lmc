@@ -13,7 +13,7 @@ source : "https://www.instagram.com/p/C4eLGgHCfM4/"
 ---
 
 Hello à tous 👋🏼  
-Notre BDE est heureux de vous présenter la STUDENT NIGHT ADIDAS le __Jeudi 21 Mars__🎉  
+Notre BDE est heureux de vous présenter la STUDENT NIGHT ADIDAS le __Jeudi 21 Mars__ 🎉  
 📍ADIDAS de Beaugrenelle  
 🕦 __17h30 à 20h00__
 
