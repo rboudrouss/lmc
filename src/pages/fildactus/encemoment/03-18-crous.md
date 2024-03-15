@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/Actu.astro
-date : "18-03-2024 23:00"
+date : "17-03-2024 23:00"
 
 title: "Concours de Nouvelle"
 
