@@ -7,6 +7,8 @@ title: "Ajouter ce fil d'actu à Votre écran d'acceuil"
 auteur :
   - lmc
 
+affiliation :
+
 image : "/assets/fildactus/evenements/jaibesoindaidesvp.png"
 
 source : "https://lamatricecarree.com/fildactus/"
