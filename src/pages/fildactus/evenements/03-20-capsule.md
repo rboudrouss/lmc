@@ -15,7 +15,7 @@ source : "https://capsule.sorbonne-universite.fr/impromptu-capsule-enseignement-
 Cet Impromptu CAPSULE vous permettra de plonger dans l’univers du FabLab SU et de découvrir à travers des témoignages toutes les possibilités pour y réaliser une séquence d’enseignement en mode projet.  
 Animé par Christian Simon
 
-__Jeudi 20 Mars__  
+__Mercredi 20 Mars__  
 de 12h45 à 13h45  
 Salle RC27 à l'Atrium, Campus Pïerre et Marie Curie
 
