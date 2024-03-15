@@ -9,9 +9,6 @@ auteur :
 
 affiliation :
   - su
-  - sciences
-  - lettres
-  - sante
 
 image : "/assets/fildactus/evenements/jaibesoindaidesvp.png"
 
