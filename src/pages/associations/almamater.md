@@ -17,5 +17,5 @@ links:
   facebook: https://www.facebook.com/journalmamater
   twitter: https://twitter.com/JournAlmaMater
 info:
-  mail: almamater.redaction@gmail.com
+  mail: redaction@journalmamater.fr
 ---

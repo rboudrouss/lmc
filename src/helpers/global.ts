@@ -56,7 +56,7 @@ export function DateEnCeMoment(date?: Date): string {
 
   if (diffDays > 7) return `Jusq'au ${date.getDate()} ${numberToMonth(date.getMonth())}`;
 
-  if (diffDays > 0) return `Plus que ${diffDays} jours`;
+  if (diffDays > 0) return `Plus que ${diffDays+1} jours`;
 }
 
 export function DateActualites(date?: Date): string {
