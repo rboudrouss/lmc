@@ -13,8 +13,7 @@ image : "/assets/fildactus/evenements/04-04-sante.png"
 source : "https://sante.sorbonne-universite.fr/evenements/sante-et-politique-un-mariage-de-raison"
 ---
 
-__Jeudi 4 Avril__  
-de 17h00 à 18h00  
+__Jeudi 4 Avril de 17h à 18h__  
 Amphi E, Faculté de Santé, 105 Boulevard de l'Hôpital
 
 [Conférence gratuite et sur inscription (LIEN)](https://my.weezevent.com/conference-politique-et-sante)

@@ -15,8 +15,7 @@ source : "https://sante.sorbonne-universite.fr/evenements/situations-sanitaires-
 
 Conférence de Pierre Carli, professeur Émérite Université Paris Cité, membre de l’Académie Nationale de Médecine et président du CNUH
 
-__Samedi 18 Mai__  
-de 17h30 à 18h30  
+__Samedi 18 Mai de 17h30 à 18h30__  
 Amphi E, Faculté de Santé, 105 Boulevard de l'Hôpital
 
 [Conférence gratuite et sur reservation.](https://my.weezevent.com/situations-sanitaires-exceptionnelles-et-medecine-de-catastrophe)
