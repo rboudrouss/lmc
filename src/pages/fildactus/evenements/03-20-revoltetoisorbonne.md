@@ -21,7 +21,7 @@ Nos oratrices et orateurs devront plaider sur des sujets emprunts d’amour, ten
 
 Pour assister à cet événement n’oubliez pas de vous inscrire, le lien d’inscription est dans notre bio Instagram✨
 
-En espérant vous voir nombreux, mercredi 20 mars en amphithéâtre Bachelard !
+En espérant vous voir nombreux, __Mercredi 20 Mars__ en amphithéâtre Bachelard !
 
 Éloquemment votre depuis 10 ans,  
 Révolte-Toi Sorbonne
