@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Assos.astro
-acronyme: iGEM SU
+acronyme: ABIOSUP ou iGEM SU
 titre: Association de Biologie Synthétique de Sorbonne Université
 affiliation: 
    - sciences
