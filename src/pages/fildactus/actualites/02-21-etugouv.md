@@ -8,7 +8,7 @@ auteur : "etugouv"
 
  
 
-image : "/assets/fildactus/actualites/02-21-etugouv.png"
+image : "/assets/fildactus/actualites/02-21-etugouv.jpg"
 
 source : "https://www.instagram.com/p/C3nPPVCNnIi/"
 ---

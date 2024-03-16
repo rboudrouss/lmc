@@ -10,7 +10,7 @@ affiliation :
   - su
   - sante
 
-image : "/assets/fildactus/encemoment/06-06-sante.png"
+image : "/assets/fildactus/encemoment/06-06-sante.jpg"
 
 source : "https://www.instagram.com/p/C3IHsFCIHjP/"
 ---

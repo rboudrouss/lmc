@@ -8,7 +8,7 @@ auteur : "sciences"
 
  
 
-image : "/assets/fildactus/actualites/02-13-sciences.png"
+image : "/assets/fildactus/actualites/02-13-sciences.jpg"
 
 source : "https://www.instagram.com/p/C3S5bautxUp/"
 ---

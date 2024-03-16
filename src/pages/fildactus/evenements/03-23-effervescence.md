@@ -7,7 +7,7 @@ title: "Portes Ouvertes et Braderie"
 auteur :
   - effervescence
 
-image : "/assets/fildactus/evenements/03-23-effervescence.png"
+image : "/assets/fildactus/evenements/03-23-effervescence.jpg"
 
 source : "https://www.instagram.com/p/C4jD7-7qIXd/"
 ---

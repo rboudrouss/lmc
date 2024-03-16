@@ -8,7 +8,7 @@ auteur :
   - effervescence
   - almamater
 
-image : "/assets/fildactus/encemoment/03-31-effervescence.png"
+image : "/assets/fildactus/encemoment/03-31-effervescence.jpg"
 
 source : "https://www.instagram.com/p/C3PXwi_KZ3W/"
 ---

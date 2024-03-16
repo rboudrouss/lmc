@@ -7,7 +7,7 @@ title: "Soirée M1/M2"
 auteur :
   - aebip
 
-image : "/assets/fildactus/evenements/03-21-aebip.png"
+image : "/assets/fildactus/evenements/03-21-aebip.jpg"
 
 source : "https://www.instagram.com/p/C4dhDTti0Ak/"
 ---

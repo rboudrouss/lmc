@@ -7,7 +7,7 @@ title: "Afterwork Alumni de Formation Continue"
 auteur :
   - celsaalumni
 
-image : "/assets/fildactus/evenements/03-21-celsaalumni.png"
+image : "/assets/fildactus/evenements/03-21-celsaalumni.jpg"
 
 source : "https://www.instagram.com/p/C4OI_-WNvQ0/"
 ---

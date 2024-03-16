@@ -7,7 +7,7 @@ title: "Sortie Photo et Observations Naturalistes"
 auteur :
   - timarcha
 
-image : "/assets/fildactus/evenements/03-17-timarcha.png"
+image : "/assets/fildactus/evenements/03-17-timarcha.jpg"
 
 source : "https://www.instagram.com/p/C4WHWN3CWZw/"
 ---

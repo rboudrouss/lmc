@@ -8,7 +8,7 @@ auteur : "desndes"
 
  
 
-image : "/assets/fildactus/actualites/01-19-desndes.png"
+image : "/assets/fildactus/actualites/01-19-desndes.jpg"
 
 source : "https://www.instagram.com/p/C2R-XLDIsFS/"
 ---

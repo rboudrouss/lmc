@@ -7,7 +7,7 @@ title: "Le Festi'Vert"
 auteur :
   - celsgreen
 
-image : "/assets/fildactus/evenements/03-27-celsgreen.png"
+image : "/assets/fildactus/evenements/03-27-celsgreen.jpg"
 
 source : "https://www.instagram.com/p/C37mj15I_dX/"
 ---

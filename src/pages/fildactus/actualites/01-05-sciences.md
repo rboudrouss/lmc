@@ -6,7 +6,7 @@ title: "Soirée Jeux Tous les Jeudis"
 
 auteur : "psu"
 
-image : "/assets/fildactus/actualites/01-05-sciences.png"
+image : "/assets/fildactus/actualites/01-05-sciences.jpg"
 
 source : "https://www.instagram.com/p/C1udtc3tAcf/"
 ---

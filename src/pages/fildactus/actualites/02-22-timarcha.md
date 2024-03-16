@@ -8,7 +8,7 @@ auteur : "timarcha"
 
  
 
-image : "/assets/fildactus/actualites/02-22-timarcha.png"
+image : "/assets/fildactus/actualites/02-22-timarcha.jpg"
 
 source : "https://www.instagram.com/p/C3p8cTYClU0/"
 ---

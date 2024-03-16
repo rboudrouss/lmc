@@ -7,7 +7,7 @@ title: "Devenez Emploi Étudiant pour l'Année 2024/2025"
 auteur :
   - sciences
 
-image : "/assets/fildactus/encemoment/03-26-sciences.png"
+image : "/assets/fildactus/encemoment/03-26-sciences.jpg"
 
 source : "https://www.instagram.com/p/C4BQRqVNES-/"
 ---

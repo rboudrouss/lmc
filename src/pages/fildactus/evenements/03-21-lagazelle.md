@@ -7,7 +7,7 @@ title: "Soirée de Lancement : << Vices >>"
 auteur :
   - lagazelle
 
-image : "/assets/fildactus/evenements/03-21-lagazelle.png"
+image : "/assets/fildactus/evenements/03-21-lagazelle.jpg"
 
 source : "https://www.instagram.com/p/C4bXiI1IkpC/"
 ---

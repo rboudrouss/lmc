@@ -7,7 +7,7 @@ title: "Soirée Débat Projection"
 auteur :
   - sante
 
-image : "/assets/fildactus/evenements/03-21-sante.png"
+image : "/assets/fildactus/evenements/03-21-sante.jpg"
 
 source : "https://www.instagram.com/p/C4a7GkmLCyX/"
 ---

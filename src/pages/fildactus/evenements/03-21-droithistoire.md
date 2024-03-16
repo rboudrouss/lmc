@@ -7,7 +7,7 @@ title: "Conférence d'Isabelle Lasserre"
 auteur :
   - droithistoire
 
-image : "/assets/fildactus/evenements/03-21-droithistoire.png"
+image : "/assets/fildactus/evenements/03-21-droithistoire.jpg"
 
 source : "https://www.instagram.com/p/C4ItVbio2j5/"
 ---

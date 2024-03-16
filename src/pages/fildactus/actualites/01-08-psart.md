@@ -8,7 +8,7 @@ auteur : "psart"
 
  
 
-image : "/assets/fildactus/actualites/01-08-psart.png"
+image : "/assets/fildactus/actualites/01-08-psart.jpg"
 
 source : "https://www.instagram.com/p/C12hVRQISeL/"
 ---

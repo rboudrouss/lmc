@@ -8,7 +8,7 @@ auteur : "sante"
 
 
 
-image : "/assets/fildactus/evenements/04-04-sante.png"
+image : "/assets/fildactus/evenements/04-04-sante.jpg"
 
 source : "https://sante.sorbonne-universite.fr/evenements/sante-et-politique-un-mariage-de-raison"
 ---

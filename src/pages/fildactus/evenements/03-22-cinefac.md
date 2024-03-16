@@ -8,7 +8,7 @@ auteur :
   - cinefac
   - 6eme
 
-image : "/assets/fildactus/evenements/03-22-cinefac.png"
+image : "/assets/fildactus/evenements/03-22-cinefac.jpg"
 
 source : "https://www.instagram.com/p/C4k3IfptO2n/"
 ---

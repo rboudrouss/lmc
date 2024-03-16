@@ -7,7 +7,7 @@ title: "Les Pilotes Recrutent !"
 auteur :
   - sciences
 
-image : "/assets/fildactus/encemoment/03-29-sciences.png"
+image : "/assets/fildactus/encemoment/03-29-sciences.jpg"
 
 source : "https://www.instagram.com/p/C3zkt40IRgT/"
 ---

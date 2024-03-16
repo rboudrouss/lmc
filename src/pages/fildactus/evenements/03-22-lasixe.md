@@ -8,7 +8,7 @@ auteur : "lasixe"
 
  
 
-image : "/assets/fildactus/evenements/03-22-lasixe.png"
+image : "/assets/fildactus/evenements/03-22-lasixe.jpg"
 
 source : "https://www.instagram.com/p/C3f3tpdIUAj/"
 ---

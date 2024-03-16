@@ -10,7 +10,7 @@ auteur :
 affiliation :
   - sciences
 
-image : "/assets/fildactus/evenements/03-21-sciences.png"
+image : "/assets/fildactus/evenements/03-21-sciences.jpg"
 
 source : "https://www.instagram.com/p/C4LXK2UIy7l/"
 ---

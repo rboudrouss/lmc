@@ -7,7 +7,7 @@ title: "Impromptu CAPSULE : Enseignements par projets au FabLab SU, pourquoi, co
 auteur :
   - capsule
 
-image : "/assets/fildactus/evenements/03-20-capsule.png"
+image : "/assets/fildactus/evenements/03-20-capsule.jpg"
 
 source : "https://capsule.sorbonne-universite.fr/impromptu-capsule-enseignement-projets-fablab-su/"
 ---

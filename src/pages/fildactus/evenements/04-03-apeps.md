@@ -7,7 +7,7 @@ title: "GALA 2024"
 auteur :
   - apeps
 
-image : "/assets/fildactus/evenements/04-03-apeps.png"
+image : "/assets/fildactus/evenements/04-03-apeps.jpg"
 
 source : "https://www.instagram.com/p/C4bUivGolxr/"
 ---

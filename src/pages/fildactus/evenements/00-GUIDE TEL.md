@@ -10,7 +10,7 @@ auteur :
 affiliation :
   - su
 
-image : "/assets/fildactus/evenements/jaibesoindaidesvp.png"
+image : "/assets/fildactus/evenements/jaibesoindaidesvp.jpg"
 
 source : "https://lamatricecarree.com/fildactus/"
 ---

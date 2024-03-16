@@ -7,7 +7,7 @@ title: "Conférence sur la Conservation des Grands Prédateurs en France"
 auteur :
   - timarcha
 
-image : "/assets/fildactus/evenements/03-26-timarcha.png"
+image : "/assets/fildactus/evenements/03-26-timarcha.jpg"
 
 source : "https://www.instagram.com/p/C4IlpsbiJ9R/"
 ---

@@ -8,7 +8,7 @@ auteur :
   - sciences
   - curieosity
 
-image : "/assets/fildactus/actualites/03-08-sciences.png"
+image : "/assets/fildactus/actualites/03-08-sciences.jpg"
 
 source : "https://www.instagram.com/p/C4QFFVIsSou/"
 ---

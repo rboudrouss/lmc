@@ -8,7 +8,7 @@ auteur : "apeps"
 
  
 
-image : "/assets/fildactus/actualites/02-17-apeps.png"
+image : "/assets/fildactus/actualites/02-17-apeps.jpg"
 
 source : "https://www.instagram.com/p/C3dJQ6uIOeW/"
 ---

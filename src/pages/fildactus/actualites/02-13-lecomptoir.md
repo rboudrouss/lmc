@@ -8,7 +8,7 @@ auteur : "lecomptoir"
 
  
 
-image : "/assets/fildactus/actualites/02-13-lecomptoir.png"
+image : "/assets/fildactus/actualites/02-13-lecomptoir.jpg"
 
 source : "https://www.instagram.com/p/C3SQut-oWsj/"
 ---

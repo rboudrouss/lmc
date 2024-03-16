@@ -7,7 +7,7 @@ title: "Don du Sang"
 auteur :
   - sciences
 
-image : "/assets/fildactus/evenements/03-18-sciences.png"
+image : "/assets/fildactus/evenements/03-18-sciences.jpg"
 
 source : "https://www.instagram.com/p/C3-gnFkKdp0/"
 ---

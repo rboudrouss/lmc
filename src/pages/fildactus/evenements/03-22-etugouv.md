@@ -7,7 +7,7 @@ title: "Webinaires pour futur(e)s Doctorant(e)s"
 auteur :
   - etugouv
 
-image : "/assets/fildactus/evenements/03-20-etugouv.png"
+image : "/assets/fildactus/evenements/03-20-etugouv.jpg"
 
 source : "https://www.instagram.com/p/C4QT2YftFXS/"
 ---

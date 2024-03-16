@@ -7,7 +7,7 @@ title: "Les avantages d'être boursier"
 auteur :
   - etugouv
 
-image : "/assets/fildactus/encemoment/05-31-etugouv2.png"
+image : "/assets/fildactus/encemoment/05-31-etugouv2.jpg"
 
 source : "https://www.instagram.com/p/C4IKl0xqzvB/"
 ---

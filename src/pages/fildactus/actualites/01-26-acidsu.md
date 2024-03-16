@@ -8,7 +8,7 @@ auteur : "acidsu"
 
  
 
-image : "/assets/fildactus/actualites/01-26-acidsu.png"
+image : "/assets/fildactus/actualites/01-26-acidsu.jpg"
 
 source : "https://www.instagram.com/p/C2kXEfPogq0/"
 ---

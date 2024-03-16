@@ -7,7 +7,7 @@ title: "Visite Musée d'Orsay"
 auteur :
   - parismus
 
-image : "/assets/fildactus/evenements/03-16-parismus.png"
+image : "/assets/fildactus/evenements/03-16-parismus.jpg"
 
 source : "https://www.instagram.com/p/C4TSMkJIIdt/"
 ---

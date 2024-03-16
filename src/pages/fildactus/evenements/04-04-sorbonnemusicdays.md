@@ -7,7 +7,7 @@ title: "Sorbonne Music Days"
 auteur :
   - sorbonnemusicdays
 
-image : "/assets/fildactus/evenements/04-04-sorbonnemusicdays.png"
+image : "/assets/fildactus/evenements/04-04-sorbonnemusicdays.jpg"
 
 source : "https://www.instagram.com/p/C4V-FYaLLh9/"
 ---

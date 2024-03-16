@@ -7,7 +7,7 @@ title: "Projection"
 auteur :
   - cinefac
 
-image : "/assets/fildactus/evenements/03-18-cinefac.png"
+image : "/assets/fildactus/evenements/03-18-cinefac.jpg"
 
 source : "https://www.instagram.com/p/C4YXkF4NvaM/"
 ---

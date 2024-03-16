@@ -6,7 +6,7 @@ title: "Conférence : l'Univers a-t-il vraiment eu un commencement ?"
 
 auteur : "curieosity" 
 
-image : "/assets/fildactus/evenements/03-21-curieosity.png"
+image : "/assets/fildactus/evenements/03-21-curieosity.jpg"
 
 source : "https://www.instagram.com/p/C3ukpf0CHn1/"
 ---

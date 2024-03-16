@@ -9,7 +9,7 @@ auteur :
 
  
 
-image : "/assets/fildactus/evenements/03-22-avcpsa.png"
+image : "/assets/fildactus/evenements/03-22-avcpsa.jpg"
 
 source : "https://www.instagram.com/p/C4GL7ZJoqP-/"
 ---

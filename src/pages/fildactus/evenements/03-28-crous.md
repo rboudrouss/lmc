@@ -7,7 +7,7 @@ title: "Concert Classique Gratuit"
 auteur :
   - crous
 
-image : "/assets/fildactus/evenements/03-28-crous.png"
+image : "/assets/fildactus/evenements/03-28-crous.jpg"
 
 source : "https://www.instagram.com/p/C4c77jgsxF3/"
 ---

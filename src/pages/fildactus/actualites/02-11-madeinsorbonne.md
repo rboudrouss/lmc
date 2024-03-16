@@ -8,7 +8,7 @@ auteur : "madeinsorbonne"
 
  
 
-image : "/assets/fildactus/actualites/02-11-madeinsorbonne.png"
+image : "/assets/fildactus/actualites/02-11-madeinsorbonne.jpg"
 
 source : "https://www.instagram.com/p/C3Nxo_-I_yO/"
 ---

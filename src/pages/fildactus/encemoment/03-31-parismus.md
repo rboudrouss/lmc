@@ -7,7 +7,7 @@ title: "Défi Art Game"
 auteur :
   - parismus
 
-image : "/assets/fildactus/encemoment/03-31-parismus.png"
+image : "/assets/fildactus/encemoment/03-31-parismus.jpg"
 
 source : "https://www.instagram.com/p/C4BTLciI6Rv/"
 ---

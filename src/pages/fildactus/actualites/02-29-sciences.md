@@ -8,7 +8,7 @@ auteur :
   - sciences
   - lupa
 
-image : "/assets/fildactus/actualites/02-29-sciences.png"
+image : "/assets/fildactus/actualites/02-29-sciences.jpg"
 
 source : "https://www.instagram.com/p/C38CrqdN28z/"
 ---

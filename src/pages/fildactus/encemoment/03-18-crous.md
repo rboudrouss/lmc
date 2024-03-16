@@ -7,7 +7,7 @@ title: "Concours de Nouvelle"
 auteur :
   - crous
 
-image : "/assets/fildactus/encemoment/03-18-crous.png"
+image : "/assets/fildactus/encemoment/03-18-crous.jpg"
 
 source : "https://www.instagram.com/p/C4QshqrtqX7/"
 ---

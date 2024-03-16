@@ -7,7 +7,7 @@ title: "Demande de logement Crous"
 auteur :
   - crous
 
-image : "/assets/fildactus/encemoment/05-07-crous.png"
+image : "/assets/fildactus/encemoment/05-07-crous.jpg"
 
 source : "https://www.instagram.com/p/C4h-CNLIoJ3/"
 ---

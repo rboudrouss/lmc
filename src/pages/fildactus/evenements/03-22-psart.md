@@ -7,7 +7,7 @@ title: "Ateliers Poterie"
 auteur :
   - psart
 
-image : "/assets/fildactus/evenements/03-22-psart.png"
+image : "/assets/fildactus/evenements/03-22-psart.jpg"
 
 source : "https://www.instagram.com/p/C4YLAFrIkvj/"
 ---

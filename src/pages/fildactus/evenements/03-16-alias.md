@@ -7,7 +7,7 @@ title: "Install Party"
 auteur :
   - alias
 
-image : "/assets/fildactus/evenements/03-16-alias.png"
+image : "/assets/fildactus/evenements/03-16-alias.jpg"
 
 source : "https://www.instagram.com/p/C4D1n5zC6le/"
 ---

@@ -9,7 +9,7 @@ auteur :
 
 
 
-image : "/assets/fildactus/encemoment/05-02-sciences.png"
+image : "/assets/fildactus/encemoment/05-02-sciences.jpg"
 
 source : "https://www.instagram.com/p/C4Qw6eCIyEd/"
 ---

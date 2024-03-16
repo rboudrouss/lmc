@@ -7,7 +7,7 @@ title: "Repair Café"
 auteur :
   - fablab
 
-image : "/assets/fildactus/evenements/03-20-fablab.png"
+image : "/assets/fildactus/evenements/03-20-fablab.jpg"
 
 source : "https://fablab.sorbonne-universite.fr/actualites-fablab/le-fablab-su-lance-son-repair-cafe"
 ---

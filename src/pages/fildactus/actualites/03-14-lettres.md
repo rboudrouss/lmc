@@ -7,7 +7,7 @@ title: "Parutions"
 auteur :
   - lettres
 
-image : "/assets/fildactus/actualites/03-14-lettres.png"
+image : "/assets/fildactus/actualites/03-14-lettres.jpg"
 
 source : "https://www.instagram.com/p/C4f-rirqHuQ/"
 ---

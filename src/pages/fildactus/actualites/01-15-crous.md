@@ -8,7 +8,7 @@ auteur : "crous"
 
  
 
-image : "/assets/fildactus/actualites/01-15-crous.png"
+image : "/assets/fildactus/actualites/01-15-crous.jpg"
 
 source : "https://www.instagram.com/p/C2H9aJDNDsB/"
 ---

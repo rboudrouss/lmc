@@ -8,7 +8,7 @@ auteur : "cinefac"
 
  
 
-image : "/assets/fildactus/encemoment/03-31-cinefac.png"
+image : "/assets/fildactus/encemoment/03-31-cinefac.jpg"
 
 source : "https://www.instagram.com/p/C27OZ3LLxm8/"
 ---

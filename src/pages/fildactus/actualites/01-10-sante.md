@@ -8,7 +8,7 @@ auteur : "sante"
 
  
 
-image : "/assets/fildactus/actualites/01-10-sante.png"
+image : "/assets/fildactus/actualites/01-10-sante.jpg"
 
 source : "https://www.instagram.com/p/C17E4o8omPP/"
 ---

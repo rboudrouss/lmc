@@ -8,7 +8,7 @@ auteur : "lesfallopes"
 
  
 
-image : "/assets/fildactus/actualites/03-10-lesfallopes.png"
+image : "/assets/fildactus/actualites/03-10-lesfallopes.jpg"
 
 source : "https://www.instagram.com/p/C4UztD-o1Jo/"
 ---

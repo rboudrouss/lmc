@@ -7,7 +7,7 @@ title: "Sortie Théâtre : La Machine de Turing"
 auteur :
   - alias
 
-image : "/assets/fildactus/evenements/03-17-alias.png"
+image : "/assets/fildactus/evenements/03-17-alias.jpg"
 
 source : "https://www.instagram.com/p/C4F4yGEi2QU/"
 ---

@@ -7,7 +7,7 @@ title: "Finale Pulsations, Soirée de Concerts"
 auteur :
   - crous 
 
-image : "/assets/fildactus/evenements/03-21-crous.png"
+image : "/assets/fildactus/evenements/03-21-crous.jpg"
 
 source : "https://www.instagram.com/p/C4NbFP0oWN4/"
 ---

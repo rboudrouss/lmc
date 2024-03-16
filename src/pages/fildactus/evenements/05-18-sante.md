@@ -8,7 +8,7 @@ auteur : "sante"
 
 
 
-image : "/assets/fildactus/evenements/05-18-sante.png"
+image : "/assets/fildactus/evenements/05-18-sante.jpg"
 
 source : "https://sante.sorbonne-universite.fr/evenements/situations-sanitaires-exceptionnelles"
 ---

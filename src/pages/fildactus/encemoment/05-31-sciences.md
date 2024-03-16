@@ -8,7 +8,7 @@ auteur :
   - crous
   - sciences
 
-image : "/assets/fildactus/encemoment/05-31-sciences.png"
+image : "/assets/fildactus/encemoment/05-31-sciences.jpg"
 
 source : "https://www.instagram.com/p/C4KnYBPIMGJ/"
 ---

@@ -7,7 +7,7 @@ title: "KAFKA VERSE"
 auteur :
   - megen
 
-image : "/assets/fildactus/evenements/04-03-megen.png"
+image : "/assets/fildactus/evenements/04-03-megen.jpg"
 
 source : "https://www.instagram.com/p/C4bIkegsQkD/"
 ---

@@ -7,7 +7,7 @@ title: "Student Party"
 auteur :
   - bdepolytech
 
-image : "/assets/fildactus/evenements/03-21-bdepolytech.png"
+image : "/assets/fildactus/evenements/03-21-bdepolytech.jpg"
 
 source : "https://www.instagram.com/p/C4eLGgHCfM4/"
 ---

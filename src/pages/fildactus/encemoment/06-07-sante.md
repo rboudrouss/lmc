@@ -8,7 +8,7 @@ auteur : "sante"
 
  
 
-image : "/assets/fildactus/encemoment/06-07-sante.png"
+image : "/assets/fildactus/encemoment/06-07-sante.jpg"
 
 source : "https://www.instagram.com/p/C3Kh6P6MLdF/"
 ---

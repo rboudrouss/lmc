@@ -7,7 +7,7 @@ title: "Mois de l'Égalité"
 auteur :
   - lettres
 
-image : "/assets/fildactus/encemoment/03-29-lettres.png"
+image : "/assets/fildactus/encemoment/03-29-lettres.jpg"
 
 source : "https://www.instagram.com/p/C4OCQvYqkeF/"
 ---

@@ -8,7 +8,7 @@ auteur : "fablab"
 
  
 
-image : "/assets/fildactus/actualites/02-08-fablab.png"
+image : "/assets/fildactus/actualites/02-08-fablab.jpg"
 
 source : "https://www.instagram.com/p/C3FfYJnoSM1/"
 ---

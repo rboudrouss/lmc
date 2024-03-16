@@ -6,7 +6,7 @@ title: "Soirée Ciné RRRR"
 
 auteur : "sciences"
 
-image : "/assets/fildactus/evenements/03-20-sciences.png"
+image : "/assets/fildactus/evenements/03-20-sciences.jpg"
 
 source : "https://www.instagram.com/p/C3-gnFkKdp0/"
 ---

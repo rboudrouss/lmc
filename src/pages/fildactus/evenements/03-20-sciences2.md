@@ -6,7 +6,7 @@ title: "Atelier Mobilité"
 
 auteur : "sciences"
 
-image : "/assets/fildactus/evenements/03-20-sciences2.png"
+image : "/assets/fildactus/evenements/03-20-sciences2.jpg"
 
 source : "https://www.instagram.com/p/C4duv6ONqde/"
 ---

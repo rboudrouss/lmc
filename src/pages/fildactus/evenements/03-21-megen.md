@@ -7,7 +7,7 @@ title: "Rencontre avec Yevgeniy Breyger"
 auteur :
   - megen
 
-image : "/assets/fildactus/evenements/03-21-megen.png"
+image : "/assets/fildactus/evenements/03-21-megen.jpg"
 
 source : "https://www.instagram.com/p/C3-2Y_hMH-o/"
 ---

@@ -7,7 +7,7 @@ title: "On The Way To NICE"
 auteur :
  - parismus
 
-image : "/assets/fildactus/encemoment/03-30-parismus.png"
+image : "/assets/fildactus/encemoment/03-30-parismus.jpg"
 
 source : "https://www.instagram.com/p/C4dn5J4IXfx/"
 ---
