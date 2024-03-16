@@ -7,7 +7,7 @@ title: "Sorb'Outremer Talk : Le Journalisme dans les Outre-Mer"
 auteur :
   - sorboutremer
 
-image : "/assets/fildactus/evenements/03-21-sorboutremer.png"
+image : "/assets/fildactus/evenements/03-21-sorboutremer.jpg"
 
 source : "https://www.instagram.com/p/C4bKpz-ImgN/"
 ---
