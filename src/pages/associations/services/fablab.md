@@ -2,6 +2,7 @@
 layout: ../../../layouts/Assos.astro
 titre: Fablab Sorbonne Université
 affiliation: 
+   - su
    - sciences
 
 logo: /assets/logos/fablab.svg
