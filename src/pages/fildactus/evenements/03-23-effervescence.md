@@ -12,7 +12,7 @@ image : "/assets/fildactus/evenements/03-23-effervescence.png"
 source : "https://www.instagram.com/p/C4jD7-7qIXd/"
 ---
 
-✨Le __Samedi 23 Mars__, l'Asfored organise des portes ouvertes. Des étudiants du M1 CREM seront présents de __9h30 à 14h__ et tiendront un stand.
+✨Le __Samedi 23 Mars__, l'Asfored organise des portes ouvertes. Des étudiants du M1 CREM seront présents __de 9h30 à 14h__ et tiendront un stand.
 
 Rendez-vous 21 rue Charles Fourier, Paris 13e.
 
