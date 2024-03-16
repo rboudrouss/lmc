@@ -10,7 +10,7 @@ typeasso:
    - autre
 
 logo: /assets/logos/ajuca.png
-description: "L'AJUCA vise à rassembler les ultramarins en métropole issus des milieux de la création audiovisuelle et des arts qui lui sont associés. Ses objectifs touchent à la cohésion sociale entre les communautés et au partage de leurs cultures. Elle a pour but la création et la produ tion de connu audiovisuel."
+description: "L'AJUCA vise à rassembler les ultramarins en métropole issus des milieux de la création audiovisuelle et des arts qui lui sont associés. Ses objectifs touchent à la cohésion sociale entre les communautés et au partage de leurs cultures. Elle a pour but la création et la production de contenu audiovisuel."
 links:
   linktree: https://linktr.ee/ajuca
   site: https://testromainthilloy.my.canva.site/ajuca
