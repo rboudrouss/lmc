@@ -14,8 +14,7 @@ source : "https://lettres.sorbonne-universite.fr/evenements/la-russie-contempora
 
 A travers un cycle de 3 conférences, des membres de l’ONG russe Mémorial, présentent leur expérience et leur vision sur les processus politiques en cours dans la Russie contemporaine.
 
-__Lundi 22 Avril__  
-__de 18h à 19h30__  
+__Lundi 22 Avril  de 18h à 19h30__  
 Campus de Malesherbes, amphithéâtre 120  
 [Inscription obligatoire](https://www.billetweb.fr/conference-morozova)
 

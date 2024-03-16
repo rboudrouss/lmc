@@ -12,7 +12,8 @@ image : "/assets/fildactus/evenements/03-20-fablab.png"
 source : "https://fablab.sorbonne-universite.fr/actualites-fablab/le-fablab-su-lance-son-repair-cafe"
 ---
 
-__Comment ça se passe ?__  
+__Comment ça se passe ?__
+
 Les Repair Café du FabLab sont des ateliers d'entraide à la réparation pendant lesquels des experts et expertes mettent leurs compétences à la disposition de tout membre de la communauté SU apportant un objet en panne ou cassé.
 
 __Principe de co-repair :__ Les participantes et participants sont encouragés à venir réparer leurs objets en "co-repair". Cela signifie qu'ils devront faire la réparation eux-mêmes, tout en étant accompagnés par nos expertes et experts spécialement formés.

@@ -13,4 +13,4 @@ source : "https://www.instagram.com/p/C3-gnFkKdp0/"
 
 🎸 Une soirée concert avec vos artistes préférés de la fac ?
 
-Retrouvez-nous __Mardi 19 Mars__ au foyer étudiant de 18h30 à 20h !
+Retrouvez-nous __Mardi 19 Mars__ au foyer étudiant de __18h30 à 20h__ !

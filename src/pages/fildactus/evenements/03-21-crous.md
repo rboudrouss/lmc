@@ -14,7 +14,7 @@ source : "https://www.instagram.com/p/C4NbFP0oWN4/"
 
 🥁 La première édition en live de la Finale Pulsations débarque à Paris !
  
-🪩 Venez vivre une soirée de concerts gratuite __Jeudi 21 Mars à 20h__ au Hasard ludique !
+Venez vivre une soirée de concerts gratuite __Jeudi 21 Mars à 20h__ au Hasard ludique !
  
 La Finale Pulsations, c’est LE rendez-vous pour passer une soirée en musique, électrique et déjantée 🤩
  
