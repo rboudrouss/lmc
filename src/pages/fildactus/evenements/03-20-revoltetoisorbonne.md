@@ -19,7 +19,7 @@ Amour, Gloire et Débat ✨
 
 Nos oratrices et orateurs devront plaider sur des sujets emprunts d’amour, tendresse et parfois maladresse pour nous séduire ! User de ses charmes sera une nécessité pour remporter le titre de meilleur orateur.
 
-Pour assister à cet événement n’oubliez pas de vous inscrire, le lien d’inscription est dans notre bio Instagram✨
+Pour assister à cet événement n’oubliez pas de vous inscrire, [lien d’inscription](https://docs.google.com/forms/d/e/1FAIpQLSeXAY0Qz7H1naO7kyGU7HPhvYoJIdOZTxvDwzn_s-8TmsCKXA/viewform) ✨
 
 En espérant vous voir nombreux, __Mercredi 20 Mars__ en amphithéâtre Bachelard !
 

@@ -13,9 +13,9 @@ description: "TéléSorbonne est l’association médiatique des universités So
 video: https://www.youtube.com/watch?v=e70ys4kgzJk
 links:
   linktree: https://linktr.ee/telesorbonne
-  site: https://www.telesorbonne.fr/ + https://www.festival-courtechelle.fr/
+  site: https://www.telesorbonne.fr/
   helloasso: https://www.helloasso.com/associations/telesorbonne
-  instagram: https://www.instagram.com/telesorbonne/ + https://www.instagram.com/festivalcourtechelle/
+  instagram: https://www.instagram.com/telesorbonne/
   youtube: https://www.youtube.com/channel/UCnAc6XbrZt_Ry_oAing8YXg
   twitch: https://www.twitch.tv/telesorbonne
   linkedin: https://www.linkedin.com/company/t%C3%A9l%C3%A9sorbonne/

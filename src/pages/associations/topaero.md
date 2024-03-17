@@ -8,7 +8,7 @@ typeasso:
    - filiere
 
 logo: /assets/logos/topaero.png
-description: "Top Aéro a pour objet l'accompagnement des initiatives étudiantes touchant à amL8/l'aéronautique et l'aérospatiale et à les promouvoir auprès de la communauté étudiante."
+description: "Top Aéro a pour objet l'accompagnement des initiatives étudiantes touchant à l'aéronautique et l'aérospatiale et à les promouvoir auprès de la communauté étudiante."
 video: https://www.youtube.com/watch?v=gOpdM0qSnn4
 links:
   site: https://www.top-aero.com/
