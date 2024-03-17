@@ -7,8 +7,10 @@ affiliation:
 typeasso: 
    - autre
 
-logo: /assets/logos/pas2logo.png
+logo: /assets/logos/kryptosphere.png
 links:
   linktree: https://linktr.ee/kryptospherejussieu
   instagram: https://www.instagram.com/kryptospherejussieu/
+info:
+  mail: kryptospherejussieu@gmail.com
 ---
