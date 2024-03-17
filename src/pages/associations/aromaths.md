@@ -9,7 +9,6 @@ typeasso:
 
 logo: /assets/logos/aromaths.png
 links:
-  linktree: https://campsite.bio/connectome.science
   site: https://aromaths.wordpress.com/
   instagram: https://www.instagram.com/aromaths._/
   facebook: https://www.facebook.com/AromathsSU/
