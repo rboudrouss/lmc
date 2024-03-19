@@ -7,7 +7,7 @@ title: "Café Prof : Florent Brient"
 auteur :
   - curieosity
 
-image : "/assets/fildactus/evenements/03-26-timarcha.jpg"
+image : "/assets/fildactus/evenements/03-26-curieosity.jpg"
 
 source : "https://www.instagram.com/p/C4sn3LciUvS/"
 ---
