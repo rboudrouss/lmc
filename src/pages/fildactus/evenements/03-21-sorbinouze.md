@@ -23,7 +23,7 @@ Bref, que des bonnes choses alors prends vite ta place et à jeudi ! 🍀💚
 
 [lien d’inscription](https://docs.google.com/forms/d/e/1FAIpQLSeJ_t-zEF_EDxRx4lbQ1aSwiZ0oPDJOB2IohNtrWIoAbXnLDg/viewform)  
 ——————————  
-🗓️ Ce jeudi 21 mars  
+🗓️ __Ce Jeudi 21 Mars__  
 ⏰ __A partir de 20h__ (__jusqu’à 5h__ pour les plus téméraires)  
 📍Au Truskel, 12 rue Feydeau 75002  
 Ⓜ️ Sur les lignes 8, 9 (Grands Boullevards) et 3 (Bourse)  
