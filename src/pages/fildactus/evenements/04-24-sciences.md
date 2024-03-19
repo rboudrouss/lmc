@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/Actu.astro
-date : "20-03-2024 23:00"
+date : "24-04-2024 23:00"
 
 title: "Atelier Mobilité"
 
