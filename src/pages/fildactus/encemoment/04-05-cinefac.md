@@ -7,6 +7,10 @@ title: "Exposition : Damnein Gète / Épiméthéé"
 auteur :
   - cinefac
 
+affiliation :
+  - su
+  - sciences
+
 image : "/assets/fildactus/encemoment/04-05-cinefac.jpg"
 
 source : "https://www.instagram.com/p/C4p_WtjtZRw/"
