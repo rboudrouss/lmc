@@ -22,7 +22,7 @@ Le café prof est une rencontre entre enseignants chercheurs et étudiants hors 
 
 L'intervention s'organisant sur l'heure du déjeuner (__entre 12h45 et environ 14h__), l'association vous propose des snacks salés et sucrés sur place, ainsi que du thé et du café.
 
-Pour plus d'informations, n'hésitez pas à rejoindre notre Discord (lien dans le Linktr.ee en bio) ou à venir nous voir en 22-32-115.
+Pour plus d'informations, n'hésitez pas à rejoindre [notre Discord](https://discord.gg/uwAjHAG) ou à venir nous voir en 22-32-115.
 
 Nous vous attendons nombreux !
 
