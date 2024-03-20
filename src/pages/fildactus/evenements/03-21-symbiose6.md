@@ -2,7 +2,7 @@
 layout: ../../../layouts/Actu.astro
 date : "21-03-2024 23:00"
 
-title: "Certe Blanche des Associations"
+title: "Carte Blanche des Associations"
 
 auteur :
   - symbiose6
