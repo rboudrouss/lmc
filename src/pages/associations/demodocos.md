@@ -13,6 +13,7 @@ description: "Démodocos valorise le genre de l’épopée et le théâtre de l�
 links:
   site: https://www.demodocos.fr/
   helloasso: https://www.helloasso.com/associations/demodocos
+  instagram: https://www.instagram.com/demodocos_1/
   youtube: https://www.youtube.com/channel/UCBpx2V7Ir8Tg893X1wwrVTg
   facebook: https://www.facebook.com/compagniedemodocos/
   twitter: https://twitter.com/demodocos2015

@@ -6,6 +6,8 @@ title: "Jeux de Printemps"
 
 auteur :
   - desndes
+  - alias
+  - psu
 
 image : "/assets/fildactus/evenements/03-30-desndes.jpg"
 
