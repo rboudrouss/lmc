@@ -8,6 +8,9 @@ auteur :
   - sciences
   - assusim
 
+affiliation :
+  - sciences
+
 image : "/assets/fildactus/evenements/03-27-sciences.jpg"
 
 source : "https://www.instagram.com/p/C4yduvToDSP/"
