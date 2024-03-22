@@ -7,6 +7,10 @@ title: "Les Semaines Étudiantes de l'Écologie et de la Solidarité"
 auteur :
   - sante
 
+affiliation :
+  - su
+  - sante
+
 image : "/assets/fildactus/encemoment/04-14-sante.jpg"
 
 source : "https://www.instagram.com/p/C4xhLw2pe30/"
