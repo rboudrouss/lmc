@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/Actu.astro
-date : "04-05-2024 23:00"
+date : "05-04-2024 23:00"
 
 title: "Conférence : Politique territoriale en outre-mer, historique et défis à venir"
 
