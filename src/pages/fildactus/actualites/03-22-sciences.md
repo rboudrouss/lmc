@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/Actu.astro
-date : "21-03-2024 23:00"
+date : "22-03-2024 23:00"
 
 title: "1 Post / 1 Asso : Alma Mater"
 
