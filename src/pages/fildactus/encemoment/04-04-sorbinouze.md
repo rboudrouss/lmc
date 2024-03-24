@@ -32,10 +32,10 @@ Pour info, ce prix comprend les 5 pintes, 1 écocup Sorbibi trop stylée, 1 pass
 
 On vous sent chauds patate ce semestre alors prenez votre place dès maintenant !
 
-⚠️ FERMETURE de la billetterie __le 2 AVRIL__ !  
+⚠️ __FERMETURE de la billetterie LE 2 AVRIL__ !  
 ⚠️ Barathon __limité à 50 PLACES__, puisse le sort vous être favorable  
 ⚠️ Pas d’INSCRIPTION, pas de Barathon !  
 ⚠️ PAS BESOIN DE PAYER LES FRAIS HELLO ASSO LORS DU PAIEMENT !!  
 ⚠️ MAJORITÉ requise !
 
-[Lien d'Inscription](https://www.helloasso.com/associations/sorbinouze/evenements/barathon-sorbinouze-2023-2024-s2)
+[Lien de la Billeterie](https://www.helloasso.com/associations/sorbinouze/evenements/barathon-sorbinouze-2023-2024-s2)
