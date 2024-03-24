@@ -68,6 +68,7 @@ export function DateActualites(date?: Date): string {
 
   const diffDays = Math.floor(diff / (1000 * 60 * 60 * 24))+1;
 
+  if (diffDays === 1) return "Posté Aujourd'hui";
   if (diffDays === 0) return "Posté Aujourd'hui";
   if (diffDays === -1) return "Posté Hier";
   if (diffDays === -2) return "Posté Avant-Hier";
