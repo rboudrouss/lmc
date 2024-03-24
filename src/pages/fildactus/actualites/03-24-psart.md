@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/Actu.astro
-date : "24-03-2024 23:00"
+date : "24-03-2024 15:00"
 
 title: "Pole DJ : Apprends à Mixer"
 
