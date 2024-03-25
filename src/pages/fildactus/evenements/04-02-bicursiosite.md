@@ -2,7 +2,7 @@
 layout: ../../../layouts/Actu.astro
 date : "02-04-2024 23:00"
 
-title: "Conférence : Ecrire et Diffuser les savoirs Mathématiques dans les périodes Scientifiques (1663-1767)"
+title: "Conférence : Écrire et Diffuser les savoirs Mathématiques dans les périodiques Scientifiques (1663-1767)"
 
 auteur :
   - bicursiosite

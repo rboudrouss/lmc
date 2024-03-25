@@ -16,7 +16,7 @@ image : "/assets/fildactus/encemoment/04-14-sante.jpg"
 source : "https://www.instagram.com/p/C4xhLw2pe30/"
 ---
 
-Les Trophées SEES récompenseront 5 associations étudiantes ayant organisés des actions entre le 11 mars et le 14 avril 2024 (compris). 500€ et un accompagnement personnalisé seront décernés à chacune des associations gagnantes.  
+Les Trophées SEES récompenseront 5 associations étudiantes ayant organisés des actions __entre le 11 Mars et le 14 Avril__ (compris). 500€ et un accompagnement personnalisé seront décernés à chacune des associations gagnantes.  
 [LIEN](https://sees.le-reses.org/)
 
 Il y a 5 thématiques :  
