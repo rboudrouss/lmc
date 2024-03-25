@@ -10,10 +10,10 @@ auteur :
 
 image : "/assets/fildactus/evenements/03-27-neolectes.jpg"
 
-source : "https://www.instagram.com/p/C4vpdNhL0rX/"
+source : "https://www.instagram.com/p/C4xeRxYrX_7/"
 ---
 
-Rejoignez nous pour une nouvelle soirée ciné-club avec l’association @neo_lectes au Cinéma @les3lux le __Mercredi 27 Mars à 20h00__ !
+Rejoignez nous pour une nouvelle soirée ciné-club avec l’association [@neo_lectes](https://www.instagram.com/neo_lectes/) au Cinéma [@les3lux](https://www.instagram.com/les3lux/) le __Mercredi 27 Mars à 20h00__ !
 
 (Re)Découvrez « La Boum », l’un des films emblématiques des années 80, réalisé par Claude Pinoteau et avec Sophie Marceau, dans son tout premier rôle au cinéma interprétant le personnage principal de Vic.
 
