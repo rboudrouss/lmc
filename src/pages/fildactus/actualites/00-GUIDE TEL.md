@@ -15,4 +15,4 @@ image : "/assets/fildactus/evenements/jaibesoindaidesvp.jpg"
 source : "https://lamatricecarree.com/fildactus/"
 ---
 
-Petit Guide pour vous faciliter la vie et facilement retrouver ce fil d'actus sur Téléphone.
+Petit Guide pour vous simplifier la vie et facilement retrouver ce fil d'actus sur Téléphone.
