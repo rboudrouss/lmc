@@ -4,7 +4,6 @@ acronyme: COP1
 titre: COP1 - Solidarités Étudiantes
 affiliation: 
    - su
-   - sante
 
 typeasso: 
    - solidarite
