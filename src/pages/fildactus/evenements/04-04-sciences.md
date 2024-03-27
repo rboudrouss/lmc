@@ -7,7 +7,7 @@ title: "Le Sorbonne Comedy Club - Soirée Stand-Up"
 auteur :
   - sciences
 
-image : "/assets/fildactus/evenements/04-03-sciences.jpg"
+image : "/assets/fildactus/evenements/04-04-sciences.jpg"
 
 source : "https://www.instagram.com/p/C5A_fj1oKY3/"
 ---
