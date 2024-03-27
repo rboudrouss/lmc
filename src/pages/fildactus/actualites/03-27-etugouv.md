@@ -2,7 +2,7 @@
 layout: ../../../layouts/Actu.astro
 date : "27-03-2024 23:00"
 
-title: "Cours Séjours à Prix Crous"
+title: "Courts Séjours à Prix Crous"
 
 auteur :
   - etugouv
