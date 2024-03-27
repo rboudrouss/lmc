@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/Actu.astro
-date : "04-04-2024 23:00"
+date : "03-04-2024 23:00"
 
 title: "Sorbonne Music Days 2024"
 

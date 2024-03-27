@@ -22,5 +22,5 @@ links:
   facebook: https://www.facebook.com/Radiosorbonne/
   twitter: https://twitter.com/radiosorbonneu
 info:
-  mail: rsu.communication@gmail.com
+  mail: rsu.communication@outlook.com
 ---
