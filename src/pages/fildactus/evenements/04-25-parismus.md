@@ -7,7 +7,7 @@ title: "Cinéma Time"
 auteur :
   - parismus
 
-image : "/assets/fildactus/evenement/04-25-parismus.jpg"
+image : "/assets/fildactus/evenements/04-25-parismus.jpg"
 
 source : "https://www.instagram.com/p/C5BrE4dIWEv/"
 ---
