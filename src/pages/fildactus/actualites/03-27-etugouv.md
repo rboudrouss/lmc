@@ -15,4 +15,4 @@ source : "https://www.instagram.com/p/C5AwqHHtv_d/"
 Les résidences universitaires des Crous vous proposent des hébergements en court séjour 🏡  
 Profitez de tarifs préférentiels pour vous loger dans une autre ville : pratique pour un stage, un concours à passer ou pour votre job d'été ! 😉
 
-Réservez en ligne sur [courts-sejours.lescrous.fr](courts-sejours.lescrous.fr)
+Réservez en ligne sur [courts-sejours.lescrous.fr](https://courts-sejours.lescrous.fr)
