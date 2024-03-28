@@ -22,4 +22,4 @@ En participant à ce concours vous aurez l'opportunité d'expérimenter le déve
 
 📩 Concours ouvert __du 18 Mars au 3 Avril__  
 Attention, places limitée !  
-📲 Formulaire d'inscription à télécharger sur [CE LIEN](sciences.sorbonne-universite.fr/evenements/concours-photo-etudiant)
+📲 Formulaire d'inscription à télécharger sur [CE LIEN](https://sciences.sorbonne-universite.fr/evenements/concours-photo-etudiant)
