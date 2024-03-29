@@ -18,11 +18,11 @@ A l’occasion des journées de la Création Étudiante, CINEFAC vous invite à 
 
 Au programme :
 
+- Reportage de TéléSorbonne : "Nudes : la série choc sur le revenge porn". Tourné à l’occasion de la soirée organisée par CINE FAC en présence de l’équipe de la série.
+
 Courts-métrages de fiction produit par CINE FAC :  
 - 🎬 “Le discours de la Méduse” de Clara ROMAN  
 - 🎬 “Rivages Intérieurs” de Benjamin CHOISELAT-MEHOYAS
-
-- Reportage de TéléSorbonne : "Nudes : la série choc sur le revenge porn". Tourné à l’occasion de la soirée organisée par CINE FAC en présence de l’équipe de la série.
 
 Courts-métrages documentaires présentés par l’association Arrimage :  
 - 🎬 “La Cité Universitaire” de Vadim ESSAIAN-GROGNET  
