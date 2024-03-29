@@ -15,7 +15,7 @@ source : "https://www.instagram.com/p/C5G3JkzI88P/"
 Bonne nouvelle, tu les attendais, les sweats de promo 2023-2024 sont arrivés !
 
 La distribution aura lieu :  
-🗓️ __Mardi 2 Avril 🕕 de 16h à 19h__
+🗓️ __Mardi 2 Avril 🕕 de 16h à 19h__  
 🗓️ __Du Mercredi 3 au Vendredi 5 Avril 🕕 de 10h à 18h__  
 📍 Salle 54-55-104
 
