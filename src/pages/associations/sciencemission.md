@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Assos.astro
-titre: Symbiose6
+titre: Science'Mission
 affiliation: 
    - sciences
 
