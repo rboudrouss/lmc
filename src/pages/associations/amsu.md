@@ -16,7 +16,6 @@ links:
   site: https://www.amsu.fr/
   helloasso: https://www.helloasso.com/associations/association-des-etudiants-de-l-ufr-de-mathematiques-de-sorbonne-universite
   instagram: https://www.instagram.com/amsujussieu/
-  discord: https://discord.com/invite/Ja7CQvKnne
   linkedin: https://www.linkedin.com/company/amsu/
   facebook: https://www.facebook.com/amsu.fr
 info:
