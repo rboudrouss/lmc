@@ -7,7 +7,7 @@ title: "Afterwork Monkey Pigalle"
 auteur :
   - lecomptoir
 
-image : "/assets/fildactus/evenements/04-05-rsu.jpg"
+image : "/assets/fildactus/evenements/04-05-lecomptoir.jpg"
 
 source : "https://www.instagram.com/p/C5RVRBfpWoI/"
 ---
