@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/Actu.astro
-date : "31-05-2024 23:00"
+date : "30-05-2024 23:00"
 
 title: "Aide à l'Installation"
 
