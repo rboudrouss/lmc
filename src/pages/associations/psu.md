@@ -21,5 +21,5 @@ links:
   facebook: https://www.facebook.com/PlaySorbonneUniversite/
   twitter: https://twitter.com/PlaySorbonneU
 info:
-  mail: playsorbonnefestival@gmail.com
+  mail: contact@playsorbonne.fr
 ---
