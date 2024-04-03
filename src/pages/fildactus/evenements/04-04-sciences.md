@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/Actu.astro
-date : "03-04-2024 23:00"
+date : "04-04-2024 23:00"
 
 title: "Le Sorbonne Comedy Club - Soirée Stand-Up"
 
