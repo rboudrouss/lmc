@@ -2,7 +2,7 @@
 layout: ../../../layouts/Actu.astro
 date : "07-04-2024 23:00"
 
-title: "Sondage"
+title: "Sondage et Retour sur ce Fil d'Actus"
 
 auteur :
   - lmc
