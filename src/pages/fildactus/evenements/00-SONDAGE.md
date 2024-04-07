@@ -7,6 +7,9 @@ title: "Sondage sur ce Fil d'Actus, Vos retours sont appréciés !"
 auteur :
   - lmc
 
+affiliation :
+  - su
+
 image : "/assets/fildactus/evenements/JUSSIEU.png"
 
 source : "https://docs.google.com/forms/d/140F9gGR-dSqFsNkosR5CtP2HMcOFjbd5ZOuFy1XvXH0/viewform"
