@@ -2,7 +2,7 @@
 layout: ../../../layouts/Actu.astro
 date : "24-04-2024 23:00"
 
-title: "Lectures plurielles du "Palimpseste mémoriel""
+title: "Lectures plurielles du Palimpseste mémoriel"
 
 auteur :
  - lettres
