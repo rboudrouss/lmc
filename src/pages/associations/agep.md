@@ -16,6 +16,7 @@ links:
   site: https://ageparis.org/
   helloasso: https://www.helloasso.com/associations/agep
   instagram: https://www.instagram.com/agep_fede/
+  linkedin: https://www.linkedin.com/company/ageparis/
   facebook: https://www.facebook.com/agepfede
   twitter: https://twitter.com/AGEParis
 info:
