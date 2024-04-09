@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/Actu.astro
-date : "08-04-2024 23:00"
+date : "09-04-2024 23:00"
 
 title: "Recrutement contrats étudiants"
 

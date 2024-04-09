@@ -17,6 +17,7 @@ links:
   site: https://playsorbonne.fr/
   instagram: https://instagram.com/play_sorbonne_u
   discord: https://discord.gg/FPzyMjHTnu
+  linkedin: https://www.linkedin.com/company/playsorbonne/
   twitch: https://www.twitch.tv/play_sorbonne
   facebook: https://www.facebook.com/PlaySorbonneUniversite/
   twitter: https://twitter.com/PlaySorbonneU
