@@ -7,7 +7,7 @@ affiliation:
 typeasso: 
    - autre
 
-logo: /assets/logos/pas2logo.png
+logo: /assets/logos/lesversbrises.png
 description: ""
 links:
   helloasso: https://www.helloasso.com/associations/les-vers-brises/
