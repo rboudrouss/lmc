@@ -2,7 +2,7 @@
 layout: ../../../layouts/Actu.astro
 date : "11-04-2024 23:00"
 
-title: "À la recherche d'un job d'Été ?"
+title: "À la recherche d'un Job d'Été ?"
 
 auteur :
   - etugouv
