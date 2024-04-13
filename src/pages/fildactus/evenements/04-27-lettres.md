@@ -2,7 +2,7 @@
 layout: ../../../layouts/Actu.astro
 date : "27-04-2024 23:00"
 
-title: "Quartier Libre"
+title: "Quartiers Libres"
 
 auteur :
  - lettres
