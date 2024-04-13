@@ -45,5 +45,5 @@ Dans le cadre de la Semaine internationale de création musicale, ce workshop ac
 __le Mercredi 26 Avril de 16h30 à 18h__  
 Campus Clignancourt, salle R01.  
 __Inscription Oblogatoire par courriel__ (eric.maestri@sorbonne-universite.fr)  
-[https://lettres.sorbonne-universite.fr/evenements/les-avant-gardes-musicales-ukrainiennes-des-annees-1910-jusqu-a-la-scene-contemporaine-workshop)
+[Programme et Plus d'Infos](https://lettres.sorbonne-universite.fr/evenements/les-avant-gardes-musicales-ukrainiennes-des-annees-1910-jusqu-a-la-scene-contemporaine-workshop)
 
