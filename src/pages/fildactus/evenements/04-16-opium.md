@@ -7,7 +7,7 @@ title: "Ciné-Club : Chat Noir, Chat Blanc"
 auteur :
   - opium
 
-image : "/assets/fildactus/encemoment/04-16-opium.jpg"
+image : "/assets/fildactus/evenement/04-16-opium.jpg"
 
 source : "https://www.instagram.com/p/C5gVu8ptRJZ/"
 ---

@@ -7,7 +7,7 @@ title: "La Plaidoirie : Finale"
 auteur :
   - revoltetoisorbonne
 
-image : "/assets/fildactus/encemoment/04-17-revoltetoisorbonne.jpg"
+image : "/assets/fildactus/evenement/04-17-revoltetoisorbonne.jpg"
 
 source : "https://www.instagram.com/p/C5v8peRI1t3/"
 ---
