@@ -7,7 +7,7 @@ title: "Quartiers Libres"
 auteur :
  - lettres
 
-image : "/assets/fildactus/encemoment/04-27-lettres.jpg"
+image : "/assets/fildactus/evenements/04-27-lettres.jpg"
 
 source : "https://www.instagram.com/p/C5f0kOZKZki/"
 ---
