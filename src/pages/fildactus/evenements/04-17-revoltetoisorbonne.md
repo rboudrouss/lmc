@@ -2,7 +2,7 @@
 layout: ../../../layouts/Actu.astro
 date : "17-04-2024 23:00"
 
-title: "Ciné-Club : Chat Noir, Chat Blanc"
+title: "La Plaidoirie : Finale"
 
 auteur :
   - revoltetoisorbonne
