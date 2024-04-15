@@ -7,7 +7,7 @@ title: "34eme Festival d'Astronomie de Fleurance"
 auteur :
   - curieosity
 
-image : "/assets/fildactus/actualites/04-15-curieosityjpg"
+image : "/assets/fildactus/actualites/04-15-curieosity.jpg"
 
 source : "https://www.instagram.com/p/C5yHsuxC3oI/"
 ---
@@ -20,7 +20,8 @@ C'est un festival d'astronomie tout public (amateurs ou confirmés), où vous au
 Ce voyage est organisé en partenariat avec les associations de physique et d'astronomie des universités Paris-Cité et Saclay, respectivement [@phisis_upcite](https://www.instagram.com/phisis_upcite/) et [@alcor_asso](https://www.instagram.com/alcor_asso/), ainsi que CurieOsity.
 
 À cette occasion, nous disposons de 20 places avec un tarif préférentiel pour participer au festival :  
-90€ pour le tarif normal (10 places disponibles) et 25€ pour le tarif boursier (10 places également).  
+90€ pour le tarif normal (10 places disponibles) et 25€ pour le tarif boursier (10 places également).
+
 Cela comprend :  
 - Le ticket pour le festival  
 - Le transport en bus jusqu'au lieu du festival  
@@ -29,7 +30,7 @@ Cela comprend :
 Les bagages sont limités à une petite valise par personne.
 
 Si vous êtes intéressés pour bénéficier d'une de nos places, nous vous invitons à vous inscrire via les liens disponibles dans [notre linktr.ee](https://linktr.ee/curieosity).  
-❗__Attention__ : une fois la place réservée, il n'y a pas de remboursement possible❗
+❗ __Attention__ : une fois la place réservée, il n'y a pas de remboursement possible❗
 
 Pour toute information complémentaire, n'hésitez pas à consulter le site du festival https://www.festival-astronomie.com/ , à nous contacter à l'adresse curieositysu@gmail.com ou sur nos réseaux habituels !
 
