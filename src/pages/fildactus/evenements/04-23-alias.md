@@ -9,8 +9,8 @@ auteur :
 
 image : "/assets/fildactus/evenements/04-24-alias.jpg"
 
-source : "https://www.instagram.com/p/C5xeBUGocKO/"
+source : "https://www.instagram.com/p/C5xj49YIVAT/"
 ---
 
 Deuxième édition des mini games !!  
-Rejoignez-nous __le 24 Avril__ à la salle polyvalente de la MVE pour des jeux de combat 🎮
+Rejoignez-nous __le Mardi 23 Avril__ à la salle polyvalente de la MVE pour des jeux de combat 🎮
