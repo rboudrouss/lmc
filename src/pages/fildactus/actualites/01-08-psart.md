@@ -4,9 +4,8 @@ date : "08-01-2024 23:00"
 
 title: "Atelier Orchestre"
 
-auteur : "psart"
-
- 
+auteur :
+  - psart
 
 image : "/assets/fildactus/actualites/01-08-psart.jpg"
 
