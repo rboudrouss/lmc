@@ -16,6 +16,6 @@ source : "https://www.instagram.com/p/C524-MrtSw1/"
 
 ➡️ L'Imposition peut être de 0 % (payer 0 €)
 
-🔴 Bon à savoir, certains revenus ne sont pas à déclarer : bourses sur critères sociaux, aides au logement, revenus de votre JobEtudiant ne sont pas à déclarer si vous n'avez pas touché plus de 5 204 € (3 fois le SMIC), indemnités versées le cadre d’un VIE ou VIA ou VSI, indemnité versée dans le cadre d'un Service Civique, gratification et la prise en charge des frais versés dans le cadre d'une mission du Corps #européen de #solidarité, indemnité versée dans le cadre du volontariat associatif.
+🔴 Bon à savoir, certains revenus ne sont pas à déclarer : bourses sur critères sociaux, aides au logement, revenus de votre JobEtudiant ne sont pas à déclarer si vous n'avez pas touché plus de 5 204 € (3 fois le SMIC), indemnités versées le cadre d’un VIE ou VIA ou VSI, indemnité versée dans le cadre d'un Service Civique, gratification et la prise en charge des frais versés dans le cadre d'une mission du Corps européen de solidarité, indemnité versée dans le cadre du volontariat associatif.
 
 Pour en savoir plus 👉 [Lien en bio](https://www.etudiant.gouv.fr/fr/impot-sur-le-revenu-le-cas-des-etudiants-1837)
