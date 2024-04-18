@@ -10,12 +10,19 @@ auteur :
 
 image : "/assets/fildactus/evenements/04-25-lebanquet.jpg"
 
-source : "https://www.instagram.com/p/C5Sytf_r-y9/"
+source : "https://www.instagram.com/p/C55gCwvLIfJ/"
 ---
 
-🎥 Avec Cinefac nous vous invitons à venir regarder le film Hors normes réalisé par réalisé par Eric Toledano et Olivier Nakache sur la question de la prise en charge de l'autisme.
+Le Banquet des étudiant.e.s Le Banquet des étudiant.e.s & CINE FAC sont ravis de vous convier à une projection spéciale de Hors Normes d'Eric Toledano et Olivier Nakache 🍿
 
-🗓️ Nous vous donnons rendez-vous __le Jeudi 25 Avril à 19h__ en amphi Descartes.  
-L'entrée se fait au 17 rue de la Sorbonne.
+📆 Date : __Jeudi 25 avril à 19h__  
+📍 Lieu : Amphi Descartes, Sorbonne Université Lettres  
+🏛️ Adresse : 46 rue Saint-Jacques, 75005 Paris  
+🚇 Métro/RER : Cluny-La Sorbonne
 
-🔗 L'inscription est nécessaire pour les externes, [lien d'inscription](https://framaforms.org/cine-debat-hors-normes-jeudi-25-avril-2024-a-19h-1710363097)
+✍🏻 Synopsis : Bruno et Malik vivent depuis 20 ans dans un monde à part, celui des enfants et adolescents autistes. Au sein de leurs deux associations respectives, ils forment des jeunes issus des quartiers difficiles pour encadrer ces cas qualifiés "d'hyper complexes".
+
+💬Préparez vos questions et vos réflexions pour une discussion animée après la projection.
+
+🎟️L'entrée est gratuite, mais tu dois réserver ta place via [le lien dans notre bio](http://www.cinefac.fr/ap.asp?EvID=462) !  
+Les étudiants de Sorbonne Université peuvent accéder à la projection sans réservation sur présentation de leur carte étudiante.

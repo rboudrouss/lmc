@@ -28,8 +28,7 @@ Le programme des répétitions sera donc vaste et permettra autant de jouer de g
 ℹ️ Tous niveaux (débutants jusqu’aux plus expérimentés)
 
 🔍 Comment je m’inscris ?  
-Ici : https://chat.whatsapp.com/CyvAQjs9ssc6t2GsDVVZJm > “Pôle Orchestre”  
-ou : clique sur notre Linktree en bio Insta > “Rejoins notre groupe ici” > “Pôle Orchestre”
+Sur ce lien : https://chat.whatsapp.com/CyvAQjs9ssc6t2GsDVVZJm -> “Pôle Orchestre”
 
 On espère t’avoir convaincu et te revoir très vite parmi nous,  
 Orchestralement vôtre 🦜🎻  
