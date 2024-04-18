@@ -7,7 +7,7 @@ title: "Juan de Mariana et Antonio de Herrera y Tordesillas : deux inventeurs du
 auteur :
   - lettres
 
-image : "/assets/fildactus/evenements/04-27-lettres2.jpg"
+image : "/assets/fildactus/evenements/04-27-lettres3.jpg"
 
 source : "https://lettres.sorbonne-universite.fr/evenements/juan-de-mariana-et-antonio-de-herrera-y-tordesillas-deux-inventeurs"
 ---
