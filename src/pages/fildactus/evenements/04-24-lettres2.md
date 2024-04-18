@@ -7,9 +7,9 @@ title: "“A table!”: Eating and Culinary Practices in the Literatures and Art
 auteur :
  - lettres
 
-image : "/assets/fildactus/evenements/04-24-lettres.jpg"
+image : "/assets/fildactus/evenements/04-24-lettres2.jpg"
 
-source : "https://www.sorbonne-universite.fr/evenements/festival-numok-lia-dans-la-societe"
+source : "https://lettres.sorbonne-universite.fr/evenements/a-table-eating-and-culinary-practices-in-the-literatures-and-arts-of-the-english-speaking-world"
 ---
 
 En envisageant la table au sens large, dans une perspective irriguée par l’histoire, le colloque se propose de réfléchir aux enjeux de l’alimentation dans ses dimensions historiques, esthétique, sociale, politique et éthique dans les littératures et cultures anglophones. La période considérée permet de réfléchir dans la durée aux articulations entre histoire de l’alimentation et mise en scène des pratiques liées à la table dans la littérature anglophone.
@@ -23,4 +23,4 @@ Ce colloque s’intéresse autant aux représentations culinaires dans les litt�
 
 Malgré cette ré-orientation, les études littéraires ont tardé à considérer l’écriture culinaire comme objet littéraire et culturel (Coghlan 2020, 3). C’est précisément ce retard que nous souhaitons interroger dans le cadre du colloque. Alors que l’alimentation s’avère un enjeu crucial à penser dans la période de crises, notamment environnementale et économique, que nous traversons et que notre époque est obsédée par ce qui tourne autour de la table (blogs de cuisine, « foodie culture », « food porn », etc.).
 
-[PLUS D'INFOS](https://lettres.sorbonne-universite.fr/evenements/lectures-plurielles-du-palimpseste-memoriel)
+[Programme, Organisation, Intervenants et Plus d'Infos](https://lettres.sorbonne-universite.fr/evenements/la-philosophie-de-l-art-d-arthur-danto-actualite-perspectives-et-critiques)
