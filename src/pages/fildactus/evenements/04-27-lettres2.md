@@ -14,7 +14,7 @@ source : "https://lettres.sorbonne-universite.fr/evenements/la-philosophie-de-l-
 
 À l’occasion du centenaire de la naissance d’Arthur C. Danto, cette journée vise à explorer la richesse, la postérité, mais aussi les limites de sa philosophie de l’art.
 
-__Le Samedi 27 Avtil de 9h30 à 18h__  
+__Le Samedi 27 Avril de 9h30 à 18h__  
 Sorbonne, amphithéâtre Michelet.  
 __Inscription obligatoire par courriel.__ (thomas.mercier-bellevue@sorbonne-universite.fr)
 

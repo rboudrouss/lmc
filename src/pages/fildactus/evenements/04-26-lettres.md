@@ -14,7 +14,7 @@ source : "https://lettres.sorbonne-universite.fr/evenements/yo-se-quien-soy-l-af
 
 Le colloque décline une réflexion générale sur le « je » auctorial et textuel en plusieurs séquences génériques.
 
-__Le 26 de 9h à 19h et 27 Avril de 9h à 18h __  
+__Le 26 de 9h à 19h et 27 Avril de 9h à 18h__  
 26 avril : Maison de la Recherche, amphithéâtre Georges Molinié.  
 27 avril : Sorbonne, salle des Actes.  
 __Inscription obligatoire par courriel.__ (rmzsw.22@gmail.com)
