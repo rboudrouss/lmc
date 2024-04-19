@@ -7,6 +7,10 @@ title: "Exposition « Poser pour la liberté »"
 auteur :
   - su
 
+affiliation :
+  - su
+  - sciences
+
 image : "/assets/fildactus/encemoment/05-15-sciences.jpg"
 
 source : "https://www.sorbonne-universite.fr/evenements/poser-pour-la-liberte"
