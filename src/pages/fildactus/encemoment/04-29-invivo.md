@@ -2,7 +2,7 @@
 layout: ../../../layouts/Actu.astro
 date : "29-04-2024 23:00"
 
-title: "march InVivo"
+title: "Merch InVivo"
 
 auteur :
   - invivo
