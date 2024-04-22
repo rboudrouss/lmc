@@ -5,7 +5,7 @@ date : "29-04-2024 23:00"
 title: "Conférence à Distance : La méthylation de l'ARN m6a orchestre la régulation des microtubules par IMP1 pendant la différenciation des motoneurones humains"
 
 auteur :
-  - santé
+  - sante
 
 image : "/assets/fildactus/evenements/04-29-santé.jpg"
 
