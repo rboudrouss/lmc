@@ -13,4 +13,7 @@ logooriginal: /assets/logos/aehcsu_o.png
 links:
   linktree: https://linktr.ee/aehcsu
   instagram: https://www.instagram.com/aehcsu/
+info:
+  mail: aehcsu.asso@gmail.com
+
 ---
