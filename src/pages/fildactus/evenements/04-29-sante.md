@@ -7,7 +7,7 @@ title: "Conférence à Distance : La méthylation de l'ARN m6a orchestre la rég
 auteur :
   - sante
 
-image : "/assets/fildactus/evenements/04-29-santé.jpg"
+image : "/assets/fildactus/evenements/04-29-sante.jpg"
 
 source : "https://sante.sorbonne-universite.fr/evenements/la-methylation-de-larn-m6a-orchestre-la-regulation-des-microtubules-par-imp1-pendant-la"
 ---
