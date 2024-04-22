@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Assos.astro
 acronyme: FBI
-titre: Fédération des Bonnes Intéractions
+titre: Fédération des Bonnes Intéractions de Sorbonne Université
 typeasso:
   - evenementiel
 
