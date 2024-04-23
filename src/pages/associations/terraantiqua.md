@@ -8,7 +8,7 @@ typeasso:
    - filiere
 
 logo: /assets/logos/terraantiqua.png
-description: "L'association **Terra Antiqua - Études des Sociétés à Sorbonne Université**, implantée à l'Institut Michelet, vise à créer un espace de dialogue et de débats sur des sujets liés à l'archéologie, ouverte à tous les étudiants de Sorbonne Université. Elle cherche à promouvoir les recherches récentes et à permettre aux membres de découvrir les travaux des étudiants de niveau master et doctorat à travers des séminaires, conférences et réunions."
+description: "L'association Terra Antiqua - Études des Sociétés à Sorbonne Université, implantée à l'Institut Michelet, vise à créer un espace de dialogue et de débats sur des sujets liés à l'archéologie, ouverte à tous les étudiants de Sorbonne Université. Elle cherche à promouvoir les recherches récentes et à permettre aux membres de découvrir les travaux des étudiants de niveau master et doctorat à travers des séminaires, conférences et réunions."
 links:
   linktree: https://linktr.ee/terraantiqueessu
   site: https://terraantiqua.hypotheses.org/
