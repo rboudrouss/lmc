@@ -7,7 +7,7 @@ title: "Consentir ou ne pas consentir ? Acteurs, modalités et frontières du co
 auteur :
   - lettres
 
-image : "/assets/fildactus/evenements/04-27-lettres4.jpg"
+image : "/assets/fildactus/evenements/04-27-lettres5.jpg"
 
 source : "https://lettres.sorbonne-universite.fr/evenements/consentir-ou-ne-pas-consentir-acteurs-modalites-et-frontieres-du-consentement-en-histoire-moderne-et-contemporaine"
 ---
