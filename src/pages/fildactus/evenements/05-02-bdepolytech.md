@@ -13,9 +13,10 @@ source : "https://www.instagram.com/p/C6GWB8eihi6/"
 ---
 
 Hello tout le monde 😊😊  
-On vous propose aujourd’hui une soirée de SEINA SERATA qui aura lieu __le 2 mai__🎉  
+On vous propose aujourd’hui une soirée de SEINA SERATA qui aura lieu __le 2 mai__ 🎉  
 📍 4 Quai Saint-Bernard, 75005 Paris, France  
-🕦 __de 20h30 à 5h__
+🕦 __de 20h30 à 5h__  
+[Lien Billeterie](https://shotgun.live/fr/events/seina-serata-cruise-party?utm_source=promoter-3362)
 
 Cela comprend :  
 - Une croisière aller-retour du Jardin des Plantes jusqu’à la tour Eiffel, embarquement de 20h30 à 21h, départ du bateau à 21h et retour à quai à 23h30  
