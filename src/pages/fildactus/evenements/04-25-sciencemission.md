@@ -14,6 +14,4 @@ source : "https://www.instagram.com/science.mission/"
 
 __Le 25 Avril de 9h à 17h__ dans le grand Hall de l'Atrium
 
-[Lien du QR code](https://www.qrfy.com/GNSqD6JLgN)
-
 [Programme](https://www.canva.com/design/DAGAJexH_NE/FTU2-uYL9NpFh6UQ7kQK0A/view)
