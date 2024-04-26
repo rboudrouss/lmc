@@ -18,7 +18,7 @@ Brillez sur scène à titre personnel ou en groupe (asso étudiante, club), en m
 Faites parler votre talent et surprenez le jury pour remporter un des 3 prix !
 
 👉🏻 Inscrivez-vous dès maintenant ! [le lien vers le formulaire se trouve en bio](https://lime3-app2.sorbonne-universite.fr/index.php/833765) !  
-❗__Date limite : le 3 mai inclus !__
+❗ __Date limite : le 3 mai inclus !__
 
 🚀 Comment se déroule la soirée ?  
 À tour de rôle, vous réaliserez une courte représentation devant un public étudiant et un jury, avec, en prime, la possibilité de gagner des prix !
