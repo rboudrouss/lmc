@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/Actu.astro
-date : "20-04-2024 23:00"
+date : "26-04-2024 23:00"
 
 title: "Ouverture de Moodle Sciences 2024"
 
