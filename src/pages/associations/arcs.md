@@ -13,6 +13,7 @@ description: "L'ARCS a pour objet de mener une action culturelle et matérielle 
 links:
   helloasso: https://www.helloasso.com/associations/association-pour-le-rayonnement-de-la-chapelle-de-la-sorbonne
   instagram: https://www.instagram.com/asso_chapelle_sorbonne/
+  linkedin: https://www.linkedin.com/company/chapelle-sorbonne/
 info:
   mail: communications.arcs@gmail.com
 ---

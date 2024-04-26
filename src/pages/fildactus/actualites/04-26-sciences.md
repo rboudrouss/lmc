@@ -7,7 +7,7 @@ title: "Partagez votre expérience"
 auteur :
   - sciences
 
-image : "/assets/fildactus/actualites/04-26-capsule.jpg"
+image : "/assets/fildactus/actualites/04-26-sciences.jpg"
 
 source : "https://www.instagram.com/p/C6OEf3sN6-K/"
 ---
