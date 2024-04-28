@@ -20,8 +20,8 @@ Quelles sont les techniques utilisées ? Quels avenir pour la presse papier ? Qu
 
 Grégoire Pinson (rédacteur en chef au magazine Challenges), Pierre Poligone [@pierrepolie](https://www.instagram.com/pierrepolie/) (co-directeur de [@zonecritique](https://www.instagram.com/zonecritique/)), et Basil Burte (Reporter indépendant, travaillant notamment pour Brut) seront là pour enrichir ce débat.
 
-❗️__RDV à 19h__ à Sorbonne Nouvelle, campus Nation, à l’amphithéâtre BR06
+❗️ __RDV à 19h__ à Sorbonne Nouvelle, campus Nation, à l’amphithéâtre BR06
 
-❗️[Pour s’inscrire il suffit de remplir ce formulaire](https://docs.google.com/forms/d/e/1FAIpQLSezj9KpNwj6aprICaWGilJiNz5Azfjdsu82MARcwO4xCrhMlg/viewform)
+❗️ [Pour s’inscrire il suffit de remplir ce formulaire](https://docs.google.com/forms/d/e/1FAIpQLSezj9KpNwj6aprICaWGilJiNz5Azfjdsu82MARcwO4xCrhMlg/viewform)
 
 En espérant vous voir nombreux.ses !!
