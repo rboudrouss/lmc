@@ -6,6 +6,7 @@ affiliation:
 
 typeasso: 
    - cursus
+   - mediatique
 
 logo: /assets/logos/sciencemission.png
 description: ""
