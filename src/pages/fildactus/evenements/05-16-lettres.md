@@ -7,7 +7,7 @@ title: "Rencontre avec l'écrivain Loriano Macchiavelli"
 auteur :
   - lettres
 
-image : "/assets/fildactus/evenements/05-16-su.jpg"
+image : "/assets/fildactus/evenements/05-16-lettres.jpg"
 
 source : "https://lettres.sorbonne-universite.fr/evenements/rencontre-avec-l-ecrivain-loriano-macchiavelli"
 ---
