@@ -7,7 +7,7 @@ title: "Santhématique : la Santé de la Femme"
 auteur :
   - sante
 
-image : "/assets/fildactus/encemoment/05-30-bsu.jpg"
+image : "/assets/fildactus/encemoment/05-30-sante.jpg"
 
 source : "https://www.instagram.com/p/C6WGp5uoZIs/"
 ---
