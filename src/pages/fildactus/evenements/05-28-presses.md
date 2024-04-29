@@ -15,7 +15,7 @@ source : "https://sup.sorbonne-universite.fr/agenda/leurope-de-jacques-delors"
 __Mardi 28 mai de 18h à 20h__  
 Rendez-vous à la Maison de la Recherche, 28 rue serpente 75006 Paris, amphithéâtre Georges Molinié.  
 [Lien d'Inscription](https://docs.google.com/forms/d/e/1FAIpQLSffNf9TqOgTmxWerCS4hDl6tasyTWTJPptiUv_tStN5U5gNMA/viewform)
-  
+
 A l’approche des élections européennes, découvrez le portrait passionnant de l'homme qui permet aujourd'hui au Vieux Continent d'exister...
 
 Il a fallu près de dix ans pour construire l’union monétaire européenne telle qu’on la connaît :

@@ -1,13 +1,13 @@
 ---
 layout: ../../../layouts/Actu.astro
-date : "29-04-2024 23:00"
+date : "29-05-2024 23:00"
 
 title: "Fête ses 10 ans !"
 
 auteur :
   - curieosity
 
-image : "/assets/fildactus/evenements/04-29-curieosity.jpg"
+image : "/assets/fildactus/evenements/05-29-curieosity.jpg"
 
 source : "https://www.instagram.com/p/C6ECVK_i6l3/"
 ---
