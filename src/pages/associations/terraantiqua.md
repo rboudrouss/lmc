@@ -13,8 +13,8 @@ links:
   linktree: https://linktr.ee/terraantiqueessu
   site: https://terraantiqua.hypotheses.org/
   helloasso: https://www.helloasso.com/associations/terra-antiqua-etudes-des-societes-a-sorbonne-universite
-  discord: https://discord.gg/wECwA9pFFW
   instagram: https://www.instagram.com/terraantiqua.essu/
+  discord: https://discord.gg/wECwA9pFFW
   linkedin: https://www.linkedin.com/company/celtae-etudes-des-soci%C3%A9t%C3%A9s-%C3%A0-sorbonne-universit%C3%A9/
 info:
   mail: terra.antiqua.essu@gmail.com
