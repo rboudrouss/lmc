@@ -14,8 +14,8 @@ video: https://www.youtube.com/watch?v=udIypSYhnMU
 links:
   site: https://sites.google.com/view/robotech-sorbonne/
   helloasso: https://www.helloasso.com/associations/robotech-sorbonne
-  discord: https://discord.gg/paBryN73jb
   instagram: https://www.instagram.com/robotech.sorbonne/
+  discord: https://discord.gg/paBryN73jb
   linkedin: https://fr.linkedin.com/company/robotech-sorbonne
   facebook: https://www.facebook.com/RobotechSorbonne
 info:
