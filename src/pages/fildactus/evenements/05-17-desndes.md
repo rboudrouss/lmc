@@ -7,6 +7,10 @@ title: "KERMESSE L1"
 auteur :
   - desndes
 
+affiliation :
+  - su
+  - sciences
+
 image : "/assets/fildactus/evenements/05-17-desndes.jpg"
 
 source : "https://www.instagram.com/p/C63UBRvIM1_/"
