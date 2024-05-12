@@ -2,7 +2,7 @@
 layout: ../../../layouts/Actu.astro
 date : "17-04-2024 23:00"
 
-title: "Comment remplir une #déclaration d’impôt ? 📝"
+title: "Comment remplir une déclaration d’impôt ? 📝"
 
 auteur :
   - etugouv

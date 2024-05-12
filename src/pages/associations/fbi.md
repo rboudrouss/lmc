@@ -10,6 +10,7 @@ affiliation:
 
 logo: /assets/logos/fbi.png
 links:
+  linktree: https://linktr.ee/fbi_sorbonne
   instagram: https://www.instagram.com/fbi_sorbonne/
   helloasso: https://www.helloasso.com/associations/federation-des-bonnes-interactions-de-sorbonne-universite/
 info:
