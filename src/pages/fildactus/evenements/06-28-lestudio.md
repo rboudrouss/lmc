@@ -2,7 +2,7 @@
 layout: ../../../layouts/Actu.astro
 date : "28-06-2024 23:00"
 
-title: "Musique des sciences"
+title: "Exposition Photo"
 
 auteur :
   - lestudio
