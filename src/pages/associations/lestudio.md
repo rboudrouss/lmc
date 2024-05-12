@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Assos.astro
-titre: Le Studio
+titre: LE STUDIO
 affiliation: 
    - celsa
 
@@ -9,6 +9,7 @@ typeasso:
 
 logo: /assets/logos/lestudio.png
 links:
+  helloasso: https://www.helloasso.com/associations/le-studio-celsa/
   instagram: https://www.instagram.com/lestudiocelsa/
   linkedin: https://www.linkedin.com/company/le-studio-celsa/
 ---
