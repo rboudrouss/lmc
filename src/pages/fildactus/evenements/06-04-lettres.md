@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/Actu.astro
-date : "06-06-2024 23:00"
+date : "04-06-2024 23:00"
 
 title: "Flatterie et flatteurs dans les sociétés anciennes - Pratiques, personnages, interprétations"
 
