@@ -4,6 +4,7 @@ acronyme: C2SU
 titre: Corporation des Carabins de Sorbonne Université
 typeasso: 
    - filiere
+   - evenementiel
 
 affiliation: 
    - sante
