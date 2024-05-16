@@ -13,7 +13,7 @@ affiliation :
 
 image : "/assets/fildactus/evenements/05-22-sciences2.jpg"
 
-source : "https://www.instagram.com/p/C6-_8lJIVx0/"
+source : "https://www.instagram.com/p/C7B6sXlIRsA/"
 ---
 
 Spectacle des ateliers Cinéma d’animation et l’Art d’être spectateur musique

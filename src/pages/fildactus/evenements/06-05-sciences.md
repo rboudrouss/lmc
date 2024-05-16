@@ -13,7 +13,7 @@ affiliation :
 
 image : "/assets/fildactus/evenements/06-05-sciences.jpg"
 
-source : "https://www.instagram.com/p/C6-_8lJIVx0/"
+source : "https://www.instagram.com/p/C7B6sXlIRsA/"
 ---
 
 Texte de Wajdi Mouawad. Spectacle de l’atelier Pratique théâtrale
