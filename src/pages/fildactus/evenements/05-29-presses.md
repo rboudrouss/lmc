@@ -7,6 +7,10 @@ title: "Conférence : Les Forêts de la Grande Guerre"
 auteur :
   - presses
 
+affiliation :
+  - su
+  - lettres
+
 image : "/assets/fildactus/evenements/05-29-presses.jpg"
 
 source : "https://sup.sorbonne-universite.fr/agenda/les-forets-de-la-grande-guerre"
