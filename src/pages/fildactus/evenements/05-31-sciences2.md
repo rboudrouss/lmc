@@ -18,7 +18,7 @@ source : "https://www.instagram.com/p/C7B6sXlIRsA/"
 
 Théâtre Musical
 
-__Vendredi 31 Mai à 19h  
+__Vendredi 31 Mai à 19h__  
 Campus Pierre et Marie Curie - Foyer étudiant. 4, place Jussieu, 75005 Paris. Accessible PMR  
 Entrée libre et gratuite.
 
