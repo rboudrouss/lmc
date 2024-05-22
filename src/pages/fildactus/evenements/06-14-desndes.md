@@ -2,7 +2,7 @@
 layout: ../../../layouts/Actu.astro
 date : "14-06-2024 23:00"
 
-title: "Musique des sciences"
+title: "Assaut de l'aube écarlate pour 16 aventuriers"
 
 auteur :
   - desndes
