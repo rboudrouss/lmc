@@ -27,7 +27,7 @@ Rejoins nous pour une représentation unique éclairée à la bougie dans la sal
 10€ par place
 
 📝Comment je m’inscris ?  
-Le ⚠️SG sera envoyé demain le 22/5 à 18h ⚠️en story de nos réseaux sociaux (Insta, FB, communauté WhatsApp)  
+[Le ⚠️SG sera envoyé demain le 22/5 à 18h ⚠️en story de nos réseaux sociaux (Insta, FB, communauté WhatsApp)](https://docs.google.com/forms/d/e/1FAIpQLSfcPQ3tB7_D7teIy5-lWHaBtsOCJ3PS60B52V8s4Rg9fbTmng/viewform)  
 __On a 19 places pour cette représentation donc il faudra être rapide__. Le lien lydia sera envoyé aux personnes qui réussissent le sg.  
 ⚠️ __Sortie réservée aux gens de Sorbonne Université__ ⚠️
 

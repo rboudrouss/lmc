@@ -9,8 +9,9 @@ auteur :
 
 image : "/assets/fildactus/evenements/05-24-amevs.jpg"
 
-source : "https://www.instagram.com/p/C7Rkb1KNQDb/"
+source : "https://www.instagram.com/p/C7TcjT0NwT6/"
 ---
 
-Venez découvrir la magie de la musique entre les rayons de savoir.  
-🎶📖 Rejoignez-nous pour une expérience sonore unique dans la bibliothèque de l’université de Paris 8 le __Vendredi 24 Mai prochain de 16h à 17h__.
+À l’approche des vacances d’été, l’AMEVS vous propose un dernier concert de musique classique haïtienne avec son quintette à cordes. Cet événement mettra en lumière notre projet PAQÉMO, qui offre aux enfants haïtiens des opportunités musicales et éducatives.
+
+Entrée gratuite sur réservation, 🎫 [Billetterie](https://www.billetweb.fr/concert-paqemo)
