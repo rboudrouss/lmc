@@ -10,7 +10,7 @@ auteur :
 affiliation :
   - lettres
 
-image : "/assets/fildactus/evenements/06-01-lettres.jpg"
+image : "/assets/fildactus/evenements/06-01-lettres2.jpg"
 
 source : "https://lettres.sorbonne-universite.fr/evenements/fragmentations-des-textes-anciens"
 ---
