@@ -2,7 +2,7 @@
 layout: ../../../layouts/Actu.astro
 date : "29-05-2024 23:00"
 
-title: "Fête ses 10 ans !"
+title: "CurieOsity Fête ses 10 ans !"
 
 auteur :
   - curieosity
