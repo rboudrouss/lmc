@@ -7,7 +7,7 @@ title: "Sorbonne Music Days 2024"
 auteur :
   - dac
 
-image : "/assets/fildactus/evenements/05-30-sorbonnemusicdays.jpg"
+image : "/assets/fildactus/evenements/05-30-dac.jpg"
 
 source : "https://lettres.sorbonne-universite.fr/evenements/sorbonne-music-days-2024"
 ---
