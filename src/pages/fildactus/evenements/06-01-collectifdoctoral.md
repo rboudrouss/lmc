@@ -9,7 +9,7 @@ auteur :
 
 image : "/assets/fildactus/evenements/06-01-collectifdoctoral.jpg"
 
-source : "https://www.instagram.com/santetudiantsu/"
+source : "https://lettres.sorbonne-universite.fr/evenements/s-approprier-sa-recherche-la-posture-du-doctorant"
 ---
 
 Le thème de cette année questionne l’engagement des doctorantes et doctorants dans leur recherche et la posture qu’elles et ils décident d’adopter face à leur sujet de recherche, à leur méthodologie ou aux recours ou non à l’interdisciplinarité ou aux intelligences artificielles (IA), de plus en plus présentes dans le monde scientifique.
@@ -27,4 +27,4 @@ __Cette journée est divisée en cinq temps :__
 - une troisième dédiée à la posture du doctorant et de la doctorante face à l’interdisciplinarité  
 - un quatrième temps traite de l’intelligence artificielle grâce à une conférence-débat co-animée avec l’association SophIA de Sorbonne Université
 
-[Programme, Organisation, Comité scientifique, Intervenantes et Intervenants et plus d'Infos](https://lettres.sorbonne-universite.fr/evenements/un-royaume-neuf-langues-l-anatolie-hittite)
+[Programme, Organisation, Comité scientifique, Intervenantes et Intervenants et plus d'Infos](https://lettres.sorbonne-universite.fr/evenements/s-approprier-sa-recherche-la-posture-du-doctorant)
