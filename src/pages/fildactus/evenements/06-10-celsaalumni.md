@@ -7,7 +7,7 @@ title: "Atelier Carriere"
 auteur :
   - celsaalumni
 
-image : "/assets/fildactus/evenements/06-10-dac.jpg"
+image : "/assets/fildactus/evenements/06-10-celsaalumni.jpg"
 
 source : "https://www.instagram.com/p/C7V3qx7otYT/"
 ---
