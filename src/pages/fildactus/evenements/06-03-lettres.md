@@ -5,9 +5,9 @@ date : "03-06-2024 23:00"
 title: "Un royaume, neuf langues : l’Anatolie hittite"
 
 auteur :
-  - dac
+  - lettres
 
-image : "/assets/fildactus/evenements/06-03-dac.jpg"
+image : "/assets/fildactus/evenements/06-03-lettres.jpg"
 
 source : "https://lettres.sorbonne-universite.fr/evenements/un-royaume-neuf-langues-l-anatolie-hittite"
 ---
