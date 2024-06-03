@@ -15,10 +15,10 @@ source : "https://www.instagram.com/p/C7g-T34Icv3/"
 
 Hello tout le monde !
 
-Pour célébrer le ✨mois des fiertés✨, l’équipe PS’Art et le pôle SGS de votre corpo @_c2su_ @sgs_psa vous invitent à une soirée ciné spéciale avec la projection de ”Moonlight” de Barry Jenkins ! 🍿🎥
+Pour célébrer le ✨mois des fiertés✨, l’équipe PS’Art et le pôle SGS de votre corpo C2SU vous invitent à une soirée ciné spéciale avec la projection de ”Moonlight” de Barry Jenkins ! 🍿🎥
 
 📍Quand ? __Le Vendredi 7 Juin__  
-📍Quelle heure ? __18h30 __  
+📍Quelle heure ? __18h30__  
 📍Où ? Amphi D, PSL (le best)
 
 🎞 ”Moonlight” est une pépite du cinéma américain qui a raflé l’Oscar du meilleur film en 2016, et qui touche en plein cœur. On suit l’histoire de Chiron, un jeune homme noir à Miami, qui navigue entre identité, sexualité et recherche de soi. C’est beau, c’est profond, c’est à ne pas manquer ! 🤝
