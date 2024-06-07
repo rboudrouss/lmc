@@ -16,7 +16,7 @@ source : "https://www.instagram.com/p/C7zTKuxNkKa/"
 
 Informations pratiques :  
 🗓 __Du 6 au 16 Juin__  
-🎟️Entrée gratuite
+🎟️Entrée gratuite  
 [Programme](http://www.cinefac.fr/ap.asp?EvID=477)
 
 Animation musicale avec la fanfare de l'université Bichat Blouse Brothers Brass Band✨
