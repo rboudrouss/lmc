@@ -7,9 +7,9 @@ title: "Dérèglement climatique dans les pays du Sud : faire face aux risques c
 auteur :
   - sante
 
-image : "/assets/fildactus/evenements/07-03-sante.jpg"
+image : "/assets/fildactus/evenements/09-11-sante.jpg"
 
-source : "https://sante.sorbonne-universite.fr/evenements/mouv-europe2024"
+source : "https://sante.sorbonne-universite.fr/evenements/dereglement-climatique-dans-les-pays-du-sud-faire-face-aux-risques-croissants-pour-la"
 ---
 
 _Dans le cadre du Cycle de webinaires « Dérèglement climatique et santé humaine », organisé par l'ITE et l'IPLESP :_
