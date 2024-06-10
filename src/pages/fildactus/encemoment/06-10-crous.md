@@ -2,7 +2,7 @@
 layout: ../../../layouts/Actu.astro
 date : "10-06-2024 23:00"
 
-title: "Dispositif Places Offertes #9"
+title: "Demande de Logement CROUS"
 
 auteur :
   - crous
