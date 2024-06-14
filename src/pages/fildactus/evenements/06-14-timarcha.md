@@ -7,7 +7,7 @@ title: "Sortie Observation Plancton"
 auteur :
   - timarcha
 
-image : "/assets/fildactus/evenements/06-14-dac.jpg"
+image : "/assets/fildactus/evenements/06-14-timarcha.jpg"
 
 source : "https://www.instagram.com/p/C8AYKkIoIIU/"
 ---
