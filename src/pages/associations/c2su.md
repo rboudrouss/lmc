@@ -21,9 +21,6 @@ links:
   instagram (Santé Globale & Solidarité): https://www.instagram.com/sgs_psa/
   facebook: https://www.facebook.com/CorpoPSA
   twitter: https://twitter.com/_c2su_
-
-
-
 info:
   local: "local : RDC 105 Bd de l’Hôpital"
   mail: contact@c2su.org
