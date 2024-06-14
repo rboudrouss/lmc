@@ -28,7 +28,7 @@ Dates & Lieux :
 📅 __Samedi 22 Juin à 20h__  
 📍 Église Saint-Martin-des-Champs, 10e Paris
 
-📅 __Lundi 24 Juin à 20h  
+📅 __Lundi 24 Juin à 20h__  
 📍Église Saint-Marcel, 13e Paris
 
 Au plaisir de vous y voir ! 🔥
