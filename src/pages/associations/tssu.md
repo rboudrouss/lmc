@@ -12,8 +12,8 @@ logo: /assets/logos/tssu.png
 description: ""
 links:
   linktree: https://linktr.ee/tutoratpsa
-  youtube: https://upmcine.wixsite.com/super8sorbonne
-  instagram: https://www.youtube.com/@laminutetuto5787
+  youtube: https://www.youtube.com/@laminutetuto5787
+  instagram: https://www.instagram.com/tutoratpsa
   facebook: https://www.facebook.com/tutoratpsa/
   twitter: https://x.com/TutoratP6
 info:
