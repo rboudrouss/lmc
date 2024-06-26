@@ -2,7 +2,7 @@
 layout: ../../../layouts/Actu.astro
 date : "02-07-2024 23:00"
 
-title: "Atelier PS’Art - Fusion de Littérature et d’Art Manuel (Peinture ou Modelage à l’argile auto-durcissante"
+title: "Atelier écriture et art manuel"
 
 auteur :
   - psart
