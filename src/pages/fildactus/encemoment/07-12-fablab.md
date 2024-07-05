@@ -7,7 +7,7 @@ title: "Vacances Fablab"
 auteur :
   - fablab
 
-image : "/assets/fildactus/encemoment/07-12-sciences.jpg"
+image : "/assets/fildactus/encemoment/07-12-fablab.jpg"
 
 source : "https://www.instagram.com/p/C8twISBqTL0/"
 ---
