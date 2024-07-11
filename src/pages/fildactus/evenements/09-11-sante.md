@@ -32,3 +32,5 @@ __Pourquoi doit-on en finir avec l’idée d’acclimatation des Africains à la
 __Richard Lalou__, démographe, chercheur à l'IRD, Paris, __Daouda A. Diene__ et __Abdoulaye Guindo__
 
 [Programme Détaillé](https://ite.sorbonne-universite.fr/actualites-ite/dereglement-climatique-dans-les-pays-du-sud-faire-face-aux-risques-croissants-pour)
+
+[Inscription](https://lime3-app2.sorbonne-universite.fr/index.php/629779)
