@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/Actu.astro
-date : "11-09-2024 23:00"
+date : "13-09-2024 23:00"
 
 title: "Dérèglement climatique dans les pays du Sud : faire face aux risques croissants pour la santé"
 
