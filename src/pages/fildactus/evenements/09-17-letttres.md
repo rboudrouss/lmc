@@ -15,7 +15,7 @@ source : "https://lettres.sorbonne-universite.fr/evenements/l-etrange-cas-de-sai
 À l'occasion des 80 ans de la disparition d'Antoine de Saint-Exupéry, est organisée une conférence unique intitulée « L'étrange cas de Saint-Exupéry et du Petit Prince ». Présentée par Nathalie Prince, la présentation sera menée comme une investigation.
 
 __le 17 Septembre de 18h à 20h__  
-Sorbonne, amphithéâtre Richelieu.
+Sorbonne, amphithéâtre Richelieu.  
 [Entrée payante - inscription obligatoire via Billetweb.](https://www.billetweb.fr/shop.php?event=universite-inter-ges-conferences-uniques-2024)
 
 __Peut-on encore, 80 ans après la mort de Saint-Exupéry, éclaircir le mystère de sa disparition ?__ L'avion a été retrouvé ; la gourmette repêchée ; sa mort expliquée. Affaire classée. Pourtant, à lire et à relire Le Petit Prince, une hypothèse se dessine : __et si ce texte constituait une autobiographie tout à fait extraordinaire en littérature, qui se terminait par la mort de l'écrivain ?__
