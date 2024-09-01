@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1600"
+   height="2000"
+   version="1.1"
+   id="svg146"
+   sodipodi:docname="plan départements.svg"
+   inkscape:export-filename="LMCLogoBlanSVG.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs150">
+    <rect
+       x="100"
+       y="853.56616"
+       width="100"
+       height="66.43383"
+       id="rect9" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview148"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="0.90531939"
+     inkscape:cx="601.99749"
+     inkscape:cy="1194.606"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg146">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="10"
+       spacingy="10"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <!--PARENTHESE GAUGHE-->
+  <polygon
+     points="70,1270 55,1270 0,1215 0,55 55,0 70,0 70,15 20,65 20,1205 70,1255 "
+     style="fill:#000000"
+     id="polygon2"
+     transform="translate(45,45)" />
+  <!--PARENTHESE DROITE-->
+  <polygon
+     points="1440,1255 1490,1205 1490,65 1440,15 1440,0 1455,0 1510,55 1510,1215 1455,1270 1440,1270 "
+     style="fill:#000000"
+     id="polygon4"
+     transform="translate(45,45)" />
+  <!--ZAMANSKY-->
+  <polygon
+     points="600,1080 590,1080 530,1020 530,1010 590,950 600,950 660,1010 660,1020 "
+     style="fill:#000000"
+     id="polygon6"
+     transform="translate(45,45)" />
+  <!--BAT C-->
+  <polygon
+     points="470,40 700,40 700,90 470,90 "
+     style="fill:#000000"
+     id="polygon8"
+     transform="translate(45,45)" />
+  <!--BAT B-->
+  <polygon
+     points="710,0 760,0 760,40 1020,40 1020,90 710,90 "
+     style="fill:#000000"
+     id="polygon10"
+     transform="translate(45,45)" />
+  <!--BAT A-->
+  <polygon
+     points="1030,0 1080,0 1080,40 1340,40 1340,90 1030,90 "
+     style="fill:#000000"
+     id="polygon12"
+     transform="translate(45,45)" />
+  <!--BAT F-->
+  <polygon
+     points="1340,170 1390,170 1390,800 1340,800 "
+     style="fill:#000000"
+     id="polygon14"
+     transform="translate(45,45)" />
+  <!--ESCLANGON-->
+  <polygon
+     points="1340,990 1390,990 1390,1270 1300,1270 1300,1220 1340,1220 "
+     style="fill:#000000"
+     id="polygon16"
+     transform="translate(45,45)" />
+  <!--ATRIUM BORDURE 1-->
+  <polygon
+     points="1080,570 1290,570 1290,790 1280,790 1280,580 1080,580 "
+     style="fill:#000000"
+     id="polygon18"
+     transform="translate(45,45)" />
+  <!--ATRIUM BORDURE 2-->
+  <polygon
+     points="1290,800 1080,800 1080,790 1160,790 1160,580 1170,580 1170,790 1290,790 "
+     style="fill:#000000"
+     id="polygon20"
+     transform="translate(45,45)" />
+  <!--ATRIUM SIGNE-->
+  <polygon
+     points="1200,760 1200,730 1240,690 1240,680 1200,640 1200,610 1210,610 1250,650 1250,720 1210,760 "
+     style="fill:#000000"
+     id="polygon22"
+     transform="translate(45,45)" />
+  <!--TOUR 12-->
+  <polygon
+     points="180,390 130,390 120,380 120,330 130,320 180,320 190,330 190,380 "
+     style="fill:#000000"
+     id="polygon24"
+     transform="translate(45,45)" />
+  <!--TOUR 13-->
+  <polygon
+     points="180,610 130,610 120,600 120,550 130,540 180,540 190,550 190,600 "
+     style="fill:#000000"
+     id="polygon26"
+     transform="translate(45,45)" />
+  <!--TOUR 14-->
+  <polygon
+     points="180,830 130,830 120,820 120,770 130,760 180,760 190,770 190,820 "
+     style="fill:#000000"
+     id="polygon28"
+     transform="translate(45,45)" />
+  <!--TOUR 15-->
+  <polygon
+     points="180,1050 130,1050 120,1040 120,990 130,980 180,980 190,990 190,1040 "
+     style="fill:#000000"
+     id="polygon30"
+     transform="translate(45,45)" />
+  <!--TOUR 16-->
+  <polygon
+     points="180,1270 130,1270 120,1260 120,1210 130,1200 180,1200 190,1210 190,1260 "
+     style="fill:#000000"
+     id="polygon32"
+     transform="translate(45,45)" />
+  <!--TOUR 22-->
+  <polygon
+     points="400,390 350,390 340,380 340,330 350,320 400,320 410,330 410,380 "
+     style="fill:#000000"
+     id="polygon34"
+     transform="translate(45,45)" />
+  <!--TOUR 23-->
+  <polygon
+     points="400,610 350,610 340,600 340,550 350,540 400,540 410,550 410,600 "
+     style="fill:#000000"
+     id="polygon36"
+     transform="translate(45,45)" />
+  <!--TOUR 24-->
+  <polygon
+     points="400,830 350,830 340,820 340,770 350,760 400,760 410,770 410,820 "
+     style="fill:#000000"
+     id="polygon38"
+     transform="translate(45,45)" />
+  <!--TOUR 25-->
+  <polygon
+     points="400,1050 350,1050 340,1040 340,990 350,980 400,980 410,990 410,1040 "
+     style="fill:#000000"
+     id="polygon40"
+     transform="translate(45,45)" />
+  <!--TOUR 26-->
+  <polygon
+     points="400,1270 350,1270 340,1260 340,1210 350,1200 400,1200 410,1210 410,1260 "
+     style="fill:#000000"
+     id="polygon42"
+     transform="translate(45,45)" />
+  <!--TOUR 32-->
+  <polygon
+     points="620,390 570,390 560,380 560,330 570,320 620,320 630,330 630,380 "
+     style="fill:#000000"
+     id="polygon44"
+     transform="translate(45,45)" />
+  <!--TOUR 33-->
+  <polygon
+     points="620,610 570,610 560,600 560,550 570,540 620,540 630,550 630,600 "
+     style="fill:#000000"
+     id="polygon46"
+     transform="translate(45,45)" />
+  <!--TOUR 34-->
+  <polygon
+     points="620,830 570,830 560,820 560,770 570,760 620,760 630,770 630,820 "
+     style="fill:#000000"
+     id="polygon48"
+     transform="translate(45,45)" />
+  <!--TOUR 42-->
+  <polygon
+     points="840,390 790,390 780,380 780,330 790,320 840,320 850,330 850,380 "
+     style="fill:#000000"
+     id="polygon50"
+     transform="translate(45,45)" />
+  <!--TOUR 43-->
+  <polygon
+     points="840,610 790,610 780,600 780,550 790,540 840,540 850,550 850,600 "
+     style="fill:#000000"
+     id="polygon52"
+     transform="translate(45,45)" />
+  <!--TOUR 44-->
+  <polygon
+     points="840,830 790,830 780,820 780,770 790,760 840,760 850,770 850,820 "
+     style="fill:#000000"
+     id="polygon54"
+     transform="translate(45,45)" />
+  <!--TOUR 45-->
+  <polygon
+     points="840,1050 790,1050 780,1040 780,990 790,980 840,980 850,990 850,1040 "
+     style="fill:#000000"
+     id="polygon56"
+     transform="translate(45,45)" />
+  <!--TOUR 46-->
+  <polygon
+     points="840,1270 790,1270 780,1260 780,1210 790,1200 840,1200 850,1210 850,1260 "
+     style="fill:#000000"
+     id="polygon58"
+     transform="translate(45,45)" />
+  <!--TOUR 53-->
+  <polygon
+     points="1060,610 1010,610 1000,600 1000,550 1010,540 1060,540 1070,550 1070,600 "
+     style="fill:#000000"
+     id="polygon60"
+     transform="translate(45,45)" />
+  <!--TOUR 54-->
+  <polygon
+     points="1060,830 1010,830 1000,820 1000,770 1010,760 1060,760 1070,770 1070,820 "
+     style="fill:#000000"
+     id="polygon62"
+     transform="translate(45,45)" />
+  <!--TOUR 55-->
+  <polygon
+     points="1060,1050 1010,1050 1000,1040 1000,990 1010,980 1060,980 1070,990 1070,1040 "
+     style="fill:#000000"
+     id="polygon64"
+     transform="translate(45,45)" />
+  <!--TOUR 56-->
+  <polygon
+     points="1060,1270 1010,1270 1000,1260 1000,1210 1010,1200 1060,1200 1070,1210 1070,1260 "
+     style="fill:#000000"
+     id="polygon66"
+     transform="translate(45,45)" />
+  <!--TOUR 65-->
+  <polygon
+     points="1280,1050 1230,1050 1220,1040 1220,990 1230,980 1280,980 1290,990 1290,1040 "
+     style="fill:#000000"
+     id="polygon68"
+     transform="translate(45,45)" />
+  <!--TOUR 66-->
+  <polygon
+     points="1280,1270 1230,1270 1220,1260 1220,1210 1230,1200 1280,1200 1290,1210 1290,1260 "
+     style="fill:#000000"
+     id="polygon70"
+     transform="translate(45,45)" />
+  <!--12-13-->
+  <polygon
+     points="150,400 160,400 160,530 150,530 "
+     style="fill:#000000"
+     id="polygon72"
+     transform="translate(45,45)" />
+  <!--13-14-->
+  <polygon
+     points="150,620 160,620 160,750 150,750 "
+     style="fill:#000000"
+     id="polygon74"
+     transform="translate(45,45)" />
+  <!--14-15-->
+  <polygon
+     points="150,840 160,840 160,970 150,970 "
+     style="fill:#000000"
+     id="polygon76"
+     transform="translate(45,45)" />
+  <!--15-16-->
+  <polygon
+     points="150,1060 160,1060 160,1190 150,1190 "
+     style="fill:#000000"
+     id="polygon78"
+     transform="translate(45,45)" />
+  <!--22-23-->
+  <polygon
+     points="370,400 380,400 380,530 370,530 "
+     style="fill:#000000"
+     id="polygon80"
+     transform="translate(45,45)" />
+  <!--23-24-->
+  <polygon
+     points="370,620 380,620 380,750 370,750 "
+     style="fill:#000000"
+     id="polygon82"
+     transform="translate(45,45)" />
+  <!--24-25-->
+  <polygon
+     points="370,840 380,840 380,970 370,970 "
+     style="fill:#000000"
+     id="polygon84"
+     transform="translate(45,45)" />
+  <!--25-26-->
+  <polygon
+     points="370,1060 380,1060 380,1190 370,1190 "
+     style="fill:#000000"
+     id="polygon86"
+     transform="translate(45,45)" />
+  <!--32-33-->
+  <polygon
+     points="590,400 600,400 600,530 590,530 "
+     style="fill:#000000"
+     id="polygon88"
+     transform="translate(45,45)" />
+  <!--33-34-->
+  <polygon
+     points="590,620 600,620 600,750 590,750 "
+     style="fill:#000000"
+     id="polygon90"
+     transform="translate(45,45)" />
+  <!--42-43-->
+  <polygon
+     points="810,400 820,400 820,530 810,530 "
+     style="fill:#000000"
+     id="polygon92"
+     transform="translate(45,45)" />
+  <!--43-44-->
+  <polygon
+     points="810,620 820,620 820,750 810,750 "
+     style="fill:#000000"
+     id="polygon94"
+     transform="translate(45,45)" />
+  <!--44-45-->
+  <polygon
+     points="810,840 820,840 820,970 810,970 "
+     style="fill:#000000"
+     id="polygon96"
+     transform="translate(45,45)" />
+  <!--45-46-->
+  <polygon
+     points="810,1060 820,1060 820,1190 810,1190 "
+     style="fill:#000000"
+     id="polygon98"
+     transform="translate(45,45)" />
+  <!--53-54-->
+  <polygon
+     points="1030,620 1040,620 1040,750 1030,750 "
+     style="fill:#000000"
+     id="polygon100"
+     transform="translate(45,45)" />
+  <!--54-55-->
+  <polygon
+     points="1030,840 1040,840 1040,970 1030,970 "
+     style="fill:#000000"
+     id="polygon102"
+     transform="translate(45,45)" />
+  <!--55-56-->
+  <polygon
+     points="1030,1060 1040,1060 1040,1190 1030,1190 "
+     style="fill:#000000"
+     id="polygon104"
+     transform="translate(45,45)" />
+  <!--65-66-->
+  <polygon
+     points="1250,1060 1260,1060 1260,1190 1250,1190 "
+     style="fill:#000000"
+     id="polygon106"
+     transform="translate(45,45)" />
+  <!--12-22-->
+  <polygon
+     points="200,350 330,350 330,360 200,360 "
+     style="fill:#000000"
+     id="polygon108"
+     transform="translate(45,45)" />
+  <!--13-23-->
+  <polygon
+     points="200,570 330,570 330,580 200,580 "
+     style="fill:#000000"
+     id="polygon110"
+     transform="translate(45,45)" />
+  <!--14-24-->
+  <polygon
+     points="200,790 330,790 330,800 200,800 "
+     style="fill:#000000"
+     id="polygon112"
+     transform="translate(45,45)" />
+  <!--15-25-->
+  <polygon
+     points="200,1010 330,1010 330,1020 200,1020 "
+     style="fill:#000000"
+     id="polygon114"
+     transform="translate(45,45)" />
+  <!--16-26-->
+  <polygon
+     points="200,1230 330,1230 330,1240 200,1240 "
+     style="fill:#000000"
+     id="polygon116"
+     transform="translate(45,45)" />
+  <!--22-32-->
+  <polygon
+     points="420,350 550,350 550,360 420,360 "
+     style="fill:#000000"
+     id="polygon118"
+     transform="translate(45,45)" />
+  <!--23-33-->
+  <polygon
+     points="420,570 550,570 550,580 420,580 "
+     style="fill:#000000"
+     id="polygon120"
+     transform="translate(45,45)" />
+  <!--24-34-->
+  <polygon
+     points="420,790 550,790 550,800 420,800 "
+     style="fill:#000000"
+     id="polygon122"
+     transform="translate(45,45)" />
+  <!--26-00-->
+  <polygon
+     points="420,1230 550,1230 550,1240 420,1240 "
+     style="fill:#000000"
+     id="polygon124"
+     transform="translate(45,45)" />
+  <!--32-42-->
+  <polygon
+     points="640,350 770,350 770,360 640,360 "
+     style="fill:#000000"
+     id="polygon126"
+     transform="translate(45,45)" />
+  <!--33-43-->
+  <polygon
+     points="640,570 770,570 770,580 640,580 "
+     style="fill:#000000"
+     id="polygon128"
+     transform="translate(45,45)" />
+  <!--34-44-->
+  <polygon
+     points="640,790 770,790 770,800 640,800 "
+     style="fill:#000000"
+     id="polygon130"
+     transform="translate(45,45)" />
+  <!--46-00-->
+  <polygon
+     points="640,1230 770,1230 770,1240 640,1240 "
+     style="fill:#000000"
+     id="polygon132"
+     transform="translate(45,45)" />
+  <!--43-53-->
+  <polygon
+     points="860,570 990,570 990,580 860,580 "
+     style="fill:#000000"
+     id="polygon134"
+     transform="translate(45,45)" />
+  <!--44-54-->
+  <polygon
+     points="860,790 990,790 990,800 860,800 "
+     style="fill:#000000"
+     id="polygon136"
+     transform="translate(45,45)" />
+  <!--45-55-->
+  <polygon
+     points="860,1010 990,1010 990,1020 860,1020 "
+     style="fill:#000000"
+     id="polygon138"
+     transform="translate(45,45)" />
+  <!--46-56-->
+  <polygon
+     points="860,1230 990,1230 990,1240 860,1240 "
+     style="fill:#000000"
+     id="polygon140"
+     transform="translate(45,45)" />
+  <!--55-65-->
+  <polygon
+     points="1080,1010 1210,1010 1210,1020 1080,1020 "
+     style="fill:#000000"
+     id="polygon142"
+     transform="translate(45,45)" />
+  <!--56-66-->
+  <polygon
+     points="1080,1230 1210,1230 1210,1240 1080,1240 "
+     style="fill:#000000"
+     id="polygon144"
+     transform="translate(45,45)" />
+  <path
+     style="fill:#ff0000;fill-opacity:1"
+     d="m 175,875 -10,10 v 130 l 10,10 h 50 l 10,-10 V 885 l -10,-10 z"
+     id="path1" />
+  <path
+     style="fill:#ff0000;fill-opacity:1"
+     d="m 235,1035 10,-10 h 130 l 10,10 v 50 l -10,10 H 245 l -10,-10 z"
+     id="path2" />
+  <path
+     style="fill:#7676ff;fill-opacity:1"
+     d="m 395,1025 -10,-10 V 885 l 10,-10 h 50 l 10,10 v 130 l -10,10 z"
+     id="path3" />
+  <path
+     style="fill:#0099ff;fill-opacity:1"
+     d="m 455,595 10,-10 h 130 l 10,10 v 50 l -10,10 H 465 l -10,-10 z"
+     id="path4" />
+  <path
+     style="fill:#96522d;fill-opacity:1"
+     d="m 675,1255 10,-10 h 130 l 10,10 v 50 l -10,10 H 685 l -10,-10 z"
+     id="path4-0" />
+  <path
+     style="fill:#96522d;fill-opacity:1"
+     d="m 885,1095 10,10 v 130 l -10,10 h -50 l -10,-10 v -130 l 10,-10 z"
+     id="path4-0-9" />
+  <path
+     style="fill:#0099ff;fill-opacity:1"
+     d="M 395,585 385,575 V 445 l 10,-10 h 50 l 10,10 v 130 l -10,10 z"
+     id="path5" />
+  <path
+     style="fill:#ffcd00;fill-opacity:1"
+     d="m 675,375 10,-10 h 130 l 10,10 v 50 l -10,10 H 685 l -10,-10 z"
+     id="path6" />
+  <path
+     style="fill:#ffcd00;fill-opacity:1"
+     d="m 1055,875 -10,10 v 130 l 10,10 h 50 l 10,-10 V 885 l -10,-10 z"
+     id="path7" />
+  <path
+     style="fill:#ff6700;fill-opacity:1"
+     d="m 1265,1035 -10,-10 h -130 l -10,10 v 50 l 10,10 h 130 l 10,-10 z"
+     id="path7-2" />
+  <path
+     style="fill:#00b200;fill-opacity:1"
+     d="m 825,85 h 80 v 50 h -80 z"
+     id="path8" />
+  <path
+     style="fill:#00b200;fill-opacity:1"
+     d="m 745,85 v 50 H 665 V 85 Z"
+     id="path9" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;line-height:1;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+     x="200"
+     y="942.26562"
+     id="text9"><tspan
+       sodipodi:role="line"
+       id="tspan9"
+       x="200"
+       y="942.26562"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold'">L</tspan><tspan
+       sodipodi:role="line"
+       x="200"
+       y="995.59894"
+       id="tspan10"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold'">M</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.3333px;line-height:1;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+     x="420"
+     y="942.26562"
+     id="text9-1"><tspan
+       sodipodi:role="line"
+       id="tspan9-0"
+       x="420"
+       y="942.26562">L</tspan><tspan
+       sodipodi:role="line"
+       x="420"
+       y="995.59894"
+       id="tspan10-2">M</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.3333px;line-height:1;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+     x="530"
+     y="638.93225"
+     id="text9-1-34"><tspan
+       sodipodi:role="line"
+       x="530"
+       y="638.93225"
+       id="tspan10-2-4">LM</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.3333px;line-height:1;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+     x="705"
+     y="128.93228"
+     id="text9-1-34-2"><tspan
+       sodipodi:role="line"
+       x="705"
+       y="128.93228"
+       id="tspan10-2-4-5">LM</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.3333px;line-height:1;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+     x="1080"
+     y="942.26562"
+     id="text9-1-5"><tspan
+       sodipodi:role="line"
+       id="tspan9-0-75"
+       x="1080"
+       y="942.26562">L</tspan><tspan
+       sodipodi:role="line"
+       x="1080"
+       y="995.59894"
+       id="tspan10-2-6">M</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.3333px;line-height:1;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+     x="859.54425"
+     y="1162.2656"
+     id="text9-1-3"><tspan
+       sodipodi:role="line"
+       id="tspan9-0-7"
+       x="859.54425"
+       y="1162.2656">L</tspan><tspan
+       sodipodi:role="line"
+       x="859.54425"
+       y="1215.5989"
+       id="tspan10-2-5">D</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.3333px;line-height:1;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+     x="750"
+     y="1298.9323"
+     id="text9-1-3-2"><tspan
+       sodipodi:role="line"
+       x="750"
+       y="1298.9323"
+       id="tspan10-2-5-0">M</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.3333px;line-height:1;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+     x="309.60938"
+     y="1078.9323"
+     id="text9-1-3-2-3"><tspan
+       sodipodi:role="line"
+       x="309.60938"
+       y="1078.9323"
+       id="tspan10-2-5-0-3">D</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.3333px;line-height:1;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+     x="419.60938"
+     y="528.93225"
+     id="text9-1-3-2-3-4"><tspan
+       sodipodi:role="line"
+       x="419.60938"
+       y="528.93225"
+       id="tspan10-2-5-0-3-1">D</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.3333px;line-height:1;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+     x="749.60938"
+     y="418.93225"
+     id="text9-1-3-2-3-4-1"><tspan
+       sodipodi:role="line"
+       x="749.60938"
+       y="418.93225"
+       id="tspan10-2-5-0-3-1-0">D</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.3333px;line-height:1;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+     x="864.60938"
+     y="128.93228"
+     id="text9-1-3-2-3-4-1-2"><tspan
+       sodipodi:role="line"
+       x="864.60938"
+       y="128.93228"
+       id="tspan10-2-5-0-3-1-0-1">D</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.3333px;line-height:1;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+     x="1189.6094"
+     y="1078.9323"
+     id="text9-1-3-2-1"><tspan
+       sodipodi:role="line"
+       x="1189.6094"
+       y="1078.9323"
+       id="tspan10-2-5-0-7">LMD</tspan></text>
+  <path
+     style="fill:#ff0000;fill-opacity:1"
+     d="m 100,1400 h 50 v 50 h -50 z"
+     id="path11" />
+  <path
+     style="fill:#0099ff;fill-opacity:1"
+     d="m 100,1550 h 50 v 50 h -50 z"
+     id="path11-6" />
+  <path
+     style="fill:#ff6700;fill-opacity:1"
+     d="m 100,1700 h 50 v 50 h -50 z"
+     id="path11-6-2" />
+  <path
+     style="fill:#7676ff;fill-opacity:1"
+     d="m 100,1850 h 50 v 50 h -50 z"
+     id="path11-6-2-0" />
+  <path
+     style="fill:#ffcd00;fill-opacity:1"
+     d="m 900,1400 h 50 v 50 h -50 z"
+     id="path11-6-29" />
+  <path
+     style="fill:#00b200;fill-opacity:1"
+     d="m 900,1550 h 50 v 50 h -50 z"
+     id="path11-6-2-9" />
+  <path
+     style="fill:#96522d;fill-opacity:1"
+     d="m 900,1700 h 50 v 50 h -50 z"
+     id="path11-6-2-0-6" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.3;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#96522d;fill-opacity:1"
+     x="178.17708"
+     y="1398.4973"
+     id="text11"><tspan
+       sodipodi:role="line"
+       id="tspan11"
+       x="178.17708"
+       y="1398.4973"
+       style="font-size:26.6667px;line-height:1.3;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1">UFR 929 (Mathématiques)</tspan><tspan
+       sodipodi:role="line"
+       x="178.17708"
+       y="1433.1641"
+       id="tspan12"
+       style="font-size:26.6667px;line-height:1.3;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1">Licences &amp; Masters : 14-15 2ème Étage</tspan><tspan
+       sodipodi:role="line"
+       x="178.17708"
+       y="1467.8307"
+       style="font-size:26.6667px;line-height:1.3;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1"
+       id="tspan13">Direction : 15-25 1er Étage</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.3;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#96522d;fill-opacity:1"
+     x="178.17708"
+     y="1530.7278"
+     id="text11-5"><tspan
+       sodipodi:role="line"
+       x="178.17708"
+       y="1530.7278"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.3;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1"
+       id="tspan13-4">UFR 925 (Physique)</tspan><tspan
+       sodipodi:role="line"
+       x="178.17708"
+       y="1565.3945"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.3;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1"
+       id="tspan16">Licences : 23-33 1er Étage</tspan><tspan
+       sodipodi:role="line"
+       x="178.17708"
+       y="1600.0612"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.3;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1"
+       id="tspan17">Master : 23-33 2ème Étage</tspan><tspan
+       sodipodi:role="line"
+       x="178.17708"
+       y="1634.7279"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.3;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1"
+       id="tspan15">Direction : 22-23 1er Étage</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.3;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#96522d;fill-opacity:1"
+     x="178.17708"
+     y="1715.8307"
+     id="text11-5-3"><tspan
+       sodipodi:role="line"
+       x="178.17708"
+       y="1715.8307"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.3;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1"
+       id="tspan15-0">UFR 919 (Ingénierie)</tspan><tspan
+       sodipodi:role="line"
+       x="178.17708"
+       y="1750.4974"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.3;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1"
+       id="tspan18">Licences &amp; Masters &amp; Direction : 55-65 2eme Étage</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.3;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#96522d;fill-opacity:1"
+     x="178.17708"
+     y="1849.7018"
+     id="text11-5-3-2"><tspan
+       sodipodi:role="line"
+       x="178.17708"
+       y="1849.7018"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.3;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1"
+       id="tspan18-7">Informatique</tspan><tspan
+       sodipodi:role="line"
+       x="178.17708"
+       y="1884.3685"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.3;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1"
+       id="tspan19">Licences &amp; Masters : 24-25 2eme Étage</tspan><tspan
+       sodipodi:role="line"
+       x="178.17708"
+       y="1919.0352"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.3;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1"
+       id="tspan20">Direction : UFR 919</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.3;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#96522d;fill-opacity:1"
+     x="978.17706"
+     y="1398.0612"
+     id="text11-5-3-2-6"><tspan
+       sodipodi:role="line"
+       x="978.17706"
+       y="1398.0612"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.3;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1"
+       id="tspan20-0">UFR 926 (Chimie)</tspan><tspan
+       sodipodi:role="line"
+       x="978.17706"
+       y="1432.7279"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.3;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1"
+       id="tspan23">Licences &amp; Masters : 54-55 1er Étage</tspan><tspan
+       sodipodi:role="line"
+       x="978.17706"
+       y="1467.3945"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.3;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1"
+       id="tspan22">Direction : 32-42 1er Étage</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.3;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#96522d;fill-opacity:1"
+     x="978.17706"
+     y="1548.0612"
+     id="text11-5-3-2-6-1"><tspan
+       sodipodi:role="line"
+       x="978.17706"
+       y="1548.0612"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.3;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1"
+       id="tspan22-3">UFR 927 (Sciences de la Vie)</tspan><tspan
+       sodipodi:role="line"
+       x="978.17706"
+       y="1582.7279"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.3;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1"
+       id="tspan26">L &amp; M : Bâtiment A 1er Étage</tspan><tspan
+       sodipodi:role="line"
+       x="978.17706"
+       y="1617.3945"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.3;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1"
+       id="tspan25">Direction : Bâtiment B 1er Étage</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.3;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#96522d;fill-opacity:1"
+     x="978.17706"
+     y="1698.4973"
+     id="text11-5-3-2-6-1-9"><tspan
+       sodipodi:role="line"
+       x="978.17706"
+       y="1698.4973"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.3;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1"
+       id="tspan25-1">UFR 918 (Terre Environnement Biodiversité)</tspan><tspan
+       sodipodi:role="line"
+       x="978.17706"
+       y="1733.1641"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.3;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1"
+       id="tspan30">Licences &amp; Direction : 45-46 1er Étage</tspan><tspan
+       sodipodi:role="line"
+       x="978.17706"
+       y="1767.8307"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.3;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1"
+       id="tspan29">Masters : 46-00 1er Étage</tspan></text>
+</svg>
