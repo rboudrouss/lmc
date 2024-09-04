@@ -15,7 +15,6 @@ links:
   linktree: https://linktr.ee/JuniorSU
   instagram: https://www.instagram.com/juniorsorbonneuniversite/
   linkedin: https://www.linkedin.com/company/junior-su-conseil/
-  facebook: https://www.facebook.com/JuniorSorbonneUniversiteConseil
 info:
   mail: contact@juniorsorbonneuniversite.fr
 ---
