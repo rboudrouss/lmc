@@ -16,7 +16,7 @@ links:
   youtube: https://www.youtube.com/user/effeuillageC3M
   linkedin: https://www.linkedin.com/company/effeuillage/
   facebook: https://www.facebook.com/EffeuillageLaRevue/
-  twitter: https://twitter.com/revueffeuillage
+  twitter: https://x.com/revueffeuillage
 info:
   mail: communication.effeuillage@gmail.com
 ---
