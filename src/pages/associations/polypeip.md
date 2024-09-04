@@ -13,7 +13,6 @@ description: "Polypeip est un club du BDE Polytech Sorbonne chargé d'assurer la
 links:
   site: https://www.polytech.sorbonne-universite.fr/vie-associative/polypeip
   instagram: https://www.instagram.com/polypeip_sorbonne/
-  facebook: https://www.facebook.com/polypeipsorbonne
 info:
   mail: polypeip.sorbonne@gmail.com
 ---
