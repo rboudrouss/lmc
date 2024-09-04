@@ -17,7 +17,7 @@ links:
   instagram: https://www.instagram.com/sorbonneonu/
   linkedin: https://www.linkedin.com/company/sorbonne-pour-l%E2%80%99organisation-des-nations-unies---sonu/
   facebook: https://www.facebook.com/sorbonneonu
-  twitter: https://twitter.com/sorbonneonu
+  twitter: https://x.com/sorbonneonu
 info:
   mail: contact@sorbonneonu.fr
 ---
