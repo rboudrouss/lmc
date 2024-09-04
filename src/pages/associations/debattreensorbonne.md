@@ -19,7 +19,7 @@ links:
   youtube: https://www.youtube.com/@DebatSorbonne
   linkedin: https://www.linkedin.com/company/d%C3%A9battre-en-sorbonne/
   facebook: https://www.facebook.com/debatensorbonne/
-  twitter: https://twitter.com/DebatEnSorbonne
+  twitter: https://x.com/DebatEnSorbonne
   tiktok: https://www.tiktok.com/@debattre_en_sorbonne
 info:
   mail: debatensorbonne@gmail.com
