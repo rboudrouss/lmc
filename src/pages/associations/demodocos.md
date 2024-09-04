@@ -16,7 +16,7 @@ links:
   instagram: https://www.instagram.com/demodocos_1/
   youtube: https://www.youtube.com/channel/UCBpx2V7Ir8Tg893X1wwrVTg
   facebook: https://www.facebook.com/compagniedemodocos/
-  twitter: https://twitter.com/demodocos2015
+  twitter: https://x.com/demodocos2015
 info:
   mail: theatredemodocos@gmail.com
 ---
