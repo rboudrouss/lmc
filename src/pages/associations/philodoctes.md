@@ -15,7 +15,7 @@ links:
   instagram: https://www.instagram.com/philo.doctes.su/
   linkedin: https://www.linkedin.com/in/philo-doctes
   facebook: https://www.facebook.com/PhiloDoctes/
-  twitter: https://twitter.com/PhiloDoctes
+  twitter: https://x.com/PhiloDoctes
 info:
   mail: philodoctes@gmail.com
 ---
