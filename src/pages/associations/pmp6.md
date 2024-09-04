@@ -11,7 +11,6 @@ typeasso:
 logo: /assets/logos/pmp6.png
 description: "Section plongée sous-marine de l’association sportive de Sorbonne Université"
 links:
-  site : https://pmp6.fr/
   instagram: https://www.instagram.com/pmp6_plongee
   facebook: https://www.facebook.com/as.pmp6
 info:
