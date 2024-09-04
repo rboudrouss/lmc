@@ -8,7 +8,7 @@ typeasso:
    - mediatique
 
 logo: /assets/logos/connectome.png
-description: "Connectome in science est un journal écrit par des médecins, ingénieurs et ingénieures, chercheurs et chercheuses et étudiantes et étudiants qui cherchent à diffuser leur savoir à des personnes curieuses d’apprendre. Toutes leurs publications sont en libre-accès sur le site de l’association."
+description: "Connectome In Science crée des projets pour diffuser et découvrir les sciences de manière collaborative. Présent à de nombreux événements de Sorbonne Université (Fête de la Science, Forum des Associations), il réalise des livrets scientifiques. Connectome participe également au partenariat Sorbonne-Inde avec l’Indian Institute of Technology Delhi."
 video: https://www.youtube.com/watch?v=QNUt7APDm_c
 links:
   linktree: https://campsite.bio/connectome.science
