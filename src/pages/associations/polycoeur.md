@@ -8,7 +8,7 @@ typeasso:
    - solidarite
 
 logo: /assets/logos/polycoeur.png
-description: "Polycœur est le club caricatif de Polytech Sorbonne. Il organise des événements afin de collecter des fonds pour des associations comme le Téléthon, Les Restos du Cœur, Action contre la Faim, etc."
+description: "Polycœur est le club caritatif de Polytech Sorbonne. Il organise des événements afin de collecter des fonds pour des associations comme le Téléthon, Les Restos du Cœur ou encore Action contre la Faim."
 video: https://www.youtube.com/watch?v=Pv8GEcKuLLw
 links:
   linktree: https://taplink.cc/polycoeur
