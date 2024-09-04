@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Assos.astro
-titre: SophIA
+titre: SOphIA
 affiliation: 
    - sciences
 
