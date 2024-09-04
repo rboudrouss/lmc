@@ -17,7 +17,7 @@ links:
   youtube: https://www.youtube.com/channel/UCfCnnaxL-NzkDsG7QtzkpJg
   linkedin: https://www.linkedin.com/company/sorbonneantique/
   facebook: https://www.facebook.com/sorbonneantique/
-  twitter: https://twitter.com/sorbonneantique
+  twitter: https://x.com/sorbonneantique
 info:
   mail: sorbonnantique@gmail.com
 ---
