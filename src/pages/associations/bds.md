@@ -14,7 +14,6 @@ description: "BDS est un club du Bureau Des Élèves (BDE) chargé de l’organi
 links:
   site: https://www.polytech.sorbonne-universite.fr/vie-associative/bds
   instagram: https://www.instagram.com/bds_polytech_sorbonne/
-  facebook: https://www.facebook.com/bds.polytechparisupmc
 info:
   mail: bds.polytechsorbonne@gmail.com
 ---
