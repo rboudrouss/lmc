@@ -15,7 +15,6 @@ links:
   discord: https://discord.com/invite/aRdsKKPQsj
   youtube: https://www.youtube.com/@sorbonnesciencesdebateclub4656/
   linkedin: https://www.linkedin.com/company/sorbonne-sciences-debate-club/
-  facebook: https://www.facebook.com/theupmcunion
 info:
   mail: theupmcunion@gmail.com
 ---
