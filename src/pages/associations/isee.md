@@ -13,6 +13,7 @@ description: "I’SEE est l’association de cursus du master SDUEE, parcours so
 links:
   helloasso: https://www.helloasso.com/associations/i-see
   instagram: https://www.instagram.com/association.isee/
+  LinkedIn: https://www.linkedin.com/company/i-see-association/
   facebook: https://www.facebook.com/isee.association
 info:
   mail: isee.association@gmail.com

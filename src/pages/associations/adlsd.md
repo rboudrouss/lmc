@@ -9,7 +9,7 @@ typeasso:
    - cursus
 
 logo: /assets/logos/adlsd.svg
-description: "ADLSD a pour ambition de faire connaître et promouvoir la double licence, d’apporter des informations concernant les parcours des professionnels ces les deux disciplines et d’animer la vie étudiante du cursus."
+description: "ADLSD promeut la double licence Sciences et droit, vous transmet des informations sur les parcours des professionnelles et professionnels des deux disciplines et anime la vie étudiante du cursus."
 video: https://www.youtube.com/watch?v=UzwIeZuBy2g
 links:
   site : https://licence-sciences-droit.fr/

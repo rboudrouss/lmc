@@ -9,7 +9,7 @@ typeasso:
    - cursus
 
 logo: /assets/logos/cmi.png
-description: "CMI Sorbonne est l’Association des étudiantes et étudiants du cursus master ingénierie de Sorbonne Université. L’association promeut le CMI, des lycéennes et lycéens jusqu’aux entreprises. Elle développe la vie du cursus et représente la communauté étudiante auprès des instances de l’université."
+description: "CMI Sorbonne promeut le master en Ingénierie auprès des lycéennes et lycéens, et des entreprises. L’association développe la vie du cursus et représente les étudiantes et les étudiants auprès des instances de l’université."
 video: https://www.youtube.com/watch?v=g7oIDOKv23I
 links:
   linktree: https://linktr.ee/cmi.sorbonne

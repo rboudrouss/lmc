@@ -9,7 +9,7 @@ typeasso:
    - cursus
 
 logo: /assets/logos/sgmi.png
-description: "SGMI est une association de cursus reliée à la filière de gestion de Sorbonne Université. L’association a pour objectifs de servir de pôle de référence pour les personnes intéressées par notre cursus mais aussi de fédérer un réseau de type Alumni."
+description: "L’association SGMI crée du lien et de la cohésion entre les promotions de la filière gestion. Elle organise différents événements et favorise une mise en réseau avec les alumni du cursus permettant ainsi de faciliter l’accès à des stages et des alternances."
 video: https://www.youtube.com/watch?v=DOekVXrqjQA
 links:
   site: http://sgmi-su.com/

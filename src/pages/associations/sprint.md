@@ -16,7 +16,6 @@ links:
   discord: https://discord.gg/UDcqwNk5F4
   youtube: https://www.youtube.com/@assosprintsorbonne
   linkedin: https://www.linkedin.com/company/association-du-cursus-sprint-de-sorbonne-universit%C3%A9
-  facebook: https://www.facebook.com/assosprintsu/
 info:
   mail: asso.sprint.su@gmail.com
 ---

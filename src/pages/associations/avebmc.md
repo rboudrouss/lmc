@@ -9,7 +9,7 @@ typeasso:
    - cursus
 
 logo: /assets/logos/avebmc.png
-description: "Avé BMC a pour objectif de valoriser le master BMC, renforcer l'esprit de promotion, aider et développer un réseau entre la communauté étudiante actuelle et les anciens étudiants et anciennes étudiantes du cursus."
+description: "AvéBMC a pour but de valoriser le master Biologie moléculaire et cellulaire. L’association favorise l’esprit de promotion (notamment avec des afterworks et des pulls de promotion), fournit des fiches et QCM d’entraînement et représente les étudiantes et étudiants auprès du master. Elle organise également des rencontres avec les alumni afin de créer un réseau professionnel."
 video: https://www.youtube.com/watch?v=rP2aaJlI4yo
 links:
   linktree: https://linktr.ee/avebmcsorbonne

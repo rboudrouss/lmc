@@ -13,7 +13,6 @@ description: "L’association GoBEE est un groupe d’entraide qui rassemble les
 video: https://www.youtube.com/watch?v=GOCtlwk_AhU
 links:
   linktree: https://linktr.ee/GoBEE
-  site: https://www.association-gobee.fr/
   helloasso: https://www.helloasso.com/associations/groupe-uvrant-pour-les-etudiants-du-master-biodiv
   instagram: https://www.instagram.com/association_gobee/
   instagram_photos: https://www.instagram.com/gobee_naturaliste/
