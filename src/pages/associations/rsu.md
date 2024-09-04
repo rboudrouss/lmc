@@ -10,7 +10,7 @@ typeasso:
    - mediatique
 
 logo: /assets/logos/rsu.png
-description: "Radio Sorbonne Université est le nouveau média radiophonique étudiant de Sorbonne Université, ayant pour volonté de faire revivre l’ancien studio de La Sorbonne. Radio libre, laïque et sans but commercial, ce projet est appelé à se développer sur plusieurs années et souhaite s’inscrire progressivement parmi les prochains Médiatique forts de l’université. Les émissions sont disponibles sur Spotify et Deezer."
+description: "Radio Sorbonne Université est née en octobre 2020 de l'envie de faire vivre l'art radiophonique étudiant et la vie étudiante de l'université. RSU souhaite créer un outil de communication par et pour les étudiants et devenir une référence pour le partage d'idées, de savoirs, et toutes formes d'échanges. Disponible sous forme de podcasts sur toutes les plateformes, RSU c'est des émissions variées et des bénévoles motivé.es !"
 links:
   linktree: https://linktr.ee/radiosorbonneuniversite
   site: https://radiosorbonneuniversite.com/
@@ -20,7 +20,6 @@ links:
   twitch: https://www.twitch.tv/radiosorbonneuniversite
   linkedin: https://www.linkedin.com/company/radio-sorbonne-universit%C3%A9/
   facebook: https://www.facebook.com/Radiosorbonne/
-  twitter: https://twitter.com/radiosorbonneu
 info:
   mail: rsu.communication@outlook.com
 ---

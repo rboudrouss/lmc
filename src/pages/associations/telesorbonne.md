@@ -9,7 +9,7 @@ typeasso:
    - mediatique
 
 logo: /assets/logos/telesorbonne.svg
-description: "TéléSorbonne est l’association médiatique des universités Sorbonne. Elle a pour objectif de produire et réaliser des contenus audiovisuels, afin de:mettre en avant des œuvres étudiantes originales ; former nos membres aux différents métiers du monde de l’audiovisuel ; informer les étudiant.e.s des universités Sorbonne (sujets d’actualités ou thèmes plus vastes). L’association comporte 7 pôles:le pôle Cinéma, le pôle Communication, le pôle Événements, le pôle Journalisme, le pôle Partenariats, le pôle Podcast et le pôle Pop Culture. Par ailleurs, depuis 2001, TéléSorbonne organise Court’Échelle, le Festival National du Court-Métrage Étudiant. Ce festival a pour objectif de valoriser la création cinématographique étudiante, et de mettre en valeur une nouvelle génération de cinéastes."
+description: "De l’idée au montage, les membres de TéléSorbonne réalisent des vidéos sur la vie universitaire, les sorties culturelles, une émission mensuelle, et des court-métrages au sein des pôles Pop Culture, Journalisme et Fiction. Le pôle Communication présente le monde de l’audiovisuel en organisant des Masterclass et le Festival National du Court-Métrage Étudiant."
 video: https://www.youtube.com/watch?v=e70ys4kgzJk
 links:
   linktree: https://linktr.ee/telesorbonne

@@ -8,7 +8,7 @@ typeasso:
    - evenementiel
 
 logo: /assets/logos/parismus.png
-description: "Créée en 2007, Parismus est une association animée par des étudiants pour les étudiants avec pour mission d’accueillir les étudiants internationaux des Facultés de Sorbonne Université, de les accompagner dans leur installation, ainsi que de favoriser leur intégration. Parismus promeut la vie parisienne et la culture au travers d’évènements tout au long de l’année:sorties, soirées, visites, dîners internationaux... Parismus favorise enfin la mobilité internationale des étudiants français."
+description: "Parismus accueille et intègre les étudiantes et étudiants internationaux, accompagne les étudiants français dans leurs démarches pour réaliser une mobilité internationale et promeut les échanges culturels. Grâce à ses évènements, que ce soit les « apérismus » une semaine sur deux le mercredi ou les voyages en France et en Europe, l’association favorise les rencontres et permet surtout de passer de bons moments tout au long de l’année."
 video: https://www.youtube.com/watch?v=b8WV72xR9Hw
 links:
   linktree: https://linktr.ee/Parismus

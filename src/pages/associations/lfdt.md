@@ -10,7 +10,7 @@ typeasso:
 
 logo: /assets/logos/lfdt.svg
 logooriginal: /assets/logos/lfdt_o.svg
-description: "L'association Les Fous Des Tours est l'association d'échecs de Sorbonne Université, nous nous réunissons 2 fois par semaine pour jouer aux échecs et autres jeux de réflexion et organisons des tournois dans l'année."
+description: "Les Fous des Tours réunissent les joueurs et joueuses d’échecs et d’autres jeux de réfexion (dames, go, shogi, etc.) lors de rencontres hebdomadaires sur les campus Pierre et Marie Curie, Champollion et Clignancourt. Elle vous propose des cours et des initiations, et organise des tournois de blitz (partie disputée en quelques minutes), des tournois en ligne et un tournoi interuniversitaire par équipe."
 video: https://www.youtube.com/watch?v=lBiSfrF6FhA
 links:
   helloasso: https://www.helloasso.com/associations/les-fous-des-tours

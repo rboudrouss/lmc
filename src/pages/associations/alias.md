@@ -10,7 +10,7 @@ typeasso:
    - ludique
 
 logo: /assets/logos/alias.svg
-description: "ALIAS a été créée en 2005 par des étudiantes et étudiants en informatique de Sorbonne Université. Cette association vise à améliorer la qualité d'études, tente de faciliter la mise en relation entre étudiants et étudiantes et organise diverses animations au sein du cursus."
+description: "Créée en 2005 par des étudiantes et étudiants en informatique, ALIAS organise des événements tels que des journées jeux, des installations du système d’exploitation Linux, des concours de programmation, des balades en forêt et bien d’autres activités ludiques."
 video: https://www.youtube.com/watch?v=u_7IxhM8hTQ
 links:
   site: https://alias-asso.fr/

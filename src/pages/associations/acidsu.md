@@ -10,9 +10,10 @@ typeasso:
 
 logo: /assets/logos/acidsu.png
 logooriginal: /assets/logos/acidsu_o.png
-description: "ACID-SU est l’association représentative du cursus de chimie de Sorbonne Université. Elle est là pour accueillir, orienter et mettre en réseau des étudiants, étudiantes et Alumni du cursus de chimie. L’association anime la vie étudiante en organisant divers événements, tout au long de l’année (rencontre M1-M2, Santa Claus, Yearbook, escape games, Forum de la chimie, etc.)."
+description: "ACID-SU est l’association représentative du cursus de chimie de l’université. Elle vous accueille, vous oriente et vous met en réseau avec des alumni du cursus. ACID-SU organise des événements comme des rencontres inter-promotions, des afterworks festifs ou des rencontres « café-prof » avec les laboratoires de chimie du campus Pierre et Marie Curie."
 video: https://www.youtube.com/watch?v=EuJfK41olTI
 links:
+  linktree: https://linktr.ee/acid.su
   site: https://www.acid-su.com/
   instagram: https://www.instagram.com/acid.su/
   discord: https://discord.gg/GVT8ZdQmg9

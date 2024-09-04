@@ -9,7 +9,7 @@ typeasso:
    - evenementiel
 
 logo: /assets/logos/axio.png
-description: "AXIO Sorbonne U - Bureau des élèves de Sorbonne Université a pour vocation d’animer la vie étudiante de Sorbonne Université en organisant principalement des soirées festives et plusieurs événements pour animer les différents campus."
+description: "AXIO anime la vie étudiante de Sorbonne Université en organisant des soirées festives et plusieurs événements sur les différents campus."
 video: https://www.youtube.com/watch?v=D5UgbARvIbg
 links:
   linktree: https://linktr.ee/axiobde.su

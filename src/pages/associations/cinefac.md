@@ -18,7 +18,7 @@ links:
   youtube: https://www.youtube.com/channel/UCG9j4r6xPHktXLK16gj_2aw
   dailymotion: https://www.dailymotion.com/CINEFAC
   facebook: https://www.facebook.com/CineFac.NouveauxCinemas
-  twitter: https://twitter.com/CineFac
+  twitter: https://x.com/CineFac
 info:
   mail: info@cinefac.fr
 ---

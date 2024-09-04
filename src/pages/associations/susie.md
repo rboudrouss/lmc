@@ -9,12 +9,11 @@ typeasso:
    - syndicat
 
 logo: /assets/logos/susie.png
-logooriginal: /assets/logos/susie_o.png
-description: "Section locale de l'union.étudiante à Sorbonne Université.\nPour la défense des étudiants"
+description: "Section locale de l'union.étudiante à Sorbonne Université.Pour la défense des étudiants"
 links:
   linktree: https://linktr.ee/susie.sorbonneuniversite
   instagram: https://www.instagram.com/susie.syndicat/
-  twitter: https://twitter.com/susiesorbonne
+  twitter: https://x.com/susiesorbonne
 info:
   mail: susie.syndicat@gmail.com
 ---

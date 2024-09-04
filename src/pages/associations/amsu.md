@@ -10,9 +10,10 @@ typeasso:
 
 logo: /assets/logos/amsu.svg
 logooriginal: /assets/logos/amsu_o.svg
-description: "AMSU a pour but de rassembler et fédérer les étudiantes et étudiants de la filière mathématiques de Sorbonne Université. Elle propose divers services, met en place un système de parrainage entre les étudiantes et étudiants de différents niveaux et consolide les liens entre Alumni."
+description: "AMSU rassemble et fédère les membres du parcours de mathématiques. À cet égard, elle vous propose divers services permettant de créer du lien avec les alumni."
 video: https://www.youtube.com/watch?v=oT0mkKCcSMo
 links:
+  linktree: https://linktr.ee/amsujussieu
   site: https://www.amsu.fr/
   helloasso: https://www.helloasso.com/associations/association-des-etudiants-de-l-ufr-de-mathematiques-de-sorbonne-universite
   instagram: https://www.instagram.com/amsujussieu/

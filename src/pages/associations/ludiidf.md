@@ -16,7 +16,6 @@ links:
   site: https://ludi-idf.com/
   instagram: https://instagram.com/ludiidf/
   facebook: www.facebook.com/LudiIdf
-  twitter: https://twitter.com/ludiidf
 info:
   mail: ca@ludi-idf.com
 ---

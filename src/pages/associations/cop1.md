@@ -18,7 +18,6 @@ links:
   instagram: https://www.instagram.com/cop1.solidarites.etudiantes/
   linkedin: https://www.linkedin.com/company/cop1-solidarites-etudiantes/
   facebook: https://www.facebook.com/Cop1.Solidarites.Etudiantes/
-  twitter: https://twitter.com/Cop1_Soli_Etu
   tiktok: https://www.tiktok.com/@cop1_soli_etu
 info:
   mail: contact@cop1.fr

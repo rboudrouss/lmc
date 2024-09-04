@@ -15,7 +15,6 @@ links:
   site: https://aeg.ufrteb.fr/
   instagram: https://www.instagram.com/aegp6/
   linkedin: https://www.linkedin.com/company/association-des-%C3%A9tudiants-en-g%C3%A9ologie-aegp6/
-  facebook: https://www.facebook.com/AEGP6/
 info:
   local: "local : 46-56 2ème"
   mail: aeg.paris6@gmail.com

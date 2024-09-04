@@ -14,6 +14,7 @@ links:
   linktree: https://linktr.ee/theatreuxp6
   instagram: https://www.instagram.com/theatreux_de_la_paillasse.psa/
   facebook: https://www.facebook.com/theatreux.delapaillasse.50
+  tiktok: https://www.tiktok.com/@thtreux.de.la.pai
 info:
   mail: theatreuxpaillasse.med@gmail.com
 ---

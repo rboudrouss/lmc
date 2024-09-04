@@ -7,6 +7,7 @@ affiliation:
 typeasso: 
    - syndicat
 
+description: "L’association défend les droits des étudiantes et étudiants au quotidien : conditions d’études, de vie, de logement, inscriptions, bourses, examens… Elle milite pour une université gratuite, ouverte à toutes et tous, de qualité, émancipatrice et autogérée. Elle combat toute forme d’oppression et participons aux luttes antipatriarcales, antifascistes, anticapitalistes, antiracistes… Elle fait partie de l’union syndicale, Solidaires."
 logo: /assets/logos/solidaires.png
 video: https://www.youtube.com/watch?v=NOUqFvTpnq0
 links:

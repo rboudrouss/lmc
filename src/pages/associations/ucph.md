@@ -18,7 +18,7 @@ links:
   instagram: https://www.instagram.com/unecouverture_ucph/
   linkedin: https://www.linkedin.com/company/unecouverturepourl'hiverucph/
   facebook: https://www.facebook.com/unecouverturepourlhiver/
-  twitter: https://twitter.com/unecouverture
+  twitter: https://x.com/unecouverture
 info:
   mail: unecouverture@gmail.com
 ---

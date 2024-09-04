@@ -9,10 +9,11 @@ typeasso:
 
 logo: /assets/logos/sophia.png
 logooriginal: /assets/logos/sophia_o.png
-description: "Pour informer, promouvoir, et diffuser la culture de l'intelligence artificielle à Sorbonne Université et auprès de ses partenaires.\nL'association SOphIA a été pensée comme un lieu de rencontre, de discussion et de développement d'activités en lien avec l'Intelligence Artificielle pour les étudiants, doctorants et chercheurs/chercheuses. Des conférences aux Hackathon en passant par les débats, l'association, avec l'aide de ses adhérents, proposera de nombreuses activités, en particulier portant sur des axes de réflexion comme l'éthique de l'IA et l'impact environnemental de l'IA."
+description: "SOphIA promeut l’intelligence artificielle auprès de Sorbonne Université et de ses partenaires. Ouverte à tous et toutes, quels que soient votre discipline et votre niveau d’expertise en IA, elle vous propose des ateliers, des conférences ou des actions de médiation scientifique."
 video: https://www.youtube.com/watch?v=mAfkOJTdiT8
-links:
+links: https://discord.gg/prUVKaRGnF
   helloasso: https://www.helloasso.com/associations/association-etudiante-intelligence-artificielle-de-sorbonne-universite
+  discord: 
 info:
   mail: asso-sophia@protonmail.com
 ---

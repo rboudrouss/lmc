@@ -20,7 +20,7 @@ links:
   linkedin: https://www.linkedin.com/company/playsorbonne/
   twitch: https://www.twitch.tv/play_sorbonne
   facebook: https://www.facebook.com/PlaySorbonneUniversite/
-  twitter: https://twitter.com/PlaySorbonneU
+  twitter: https://x.com/PlaySorbonneU
 info:
   mail: contact@playsorbonne.fr
 ---
