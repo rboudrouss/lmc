@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Assos.astro
-titre: Cognivences
+titre: Cognivence
 typeasso:
   - autre
 
