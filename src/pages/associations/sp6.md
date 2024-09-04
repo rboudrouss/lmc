@@ -11,5 +11,4 @@ typeasso:
 logo: /assets/logos/sp6.png
 links:
   instagram: https://www.instagram.com/sp6_rugby/
-  facebook: https://www.facebook.com/stadeparis6/
 ---
