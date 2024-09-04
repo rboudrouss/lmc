@@ -15,7 +15,7 @@ links:
   instagram: https://www.instagram.com/sorboutremer/
   linkedin: https://www.linkedin.com/company/sorb%E2%80%99outremer/
   facebook: https://www.facebook.com/SorbOutremer
-  twitter: https://twitter.com/sorboutremer
+  twitter: https://x.com/sorboutremer
 info:
   mail: sorb.outremer@gmail.com
 ---
