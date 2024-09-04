@@ -11,6 +11,7 @@ typeasso:
 logo: /assets/logos/aeaelc.png
 logooriginal: /assets/logos/aeaelc_o.png
 links:
+  site: https://sites.google.com/view/aeaelcsu/
   instagram: https://www.instagram.com/aeaelc_sorbonne/
   facebook: https://www.facebook.com/people/Association-des-%C3%89tudiants-de-Lettres-Classiques-de-Sorbonne-Universit%C3%A9/61552598295543/
 info:
