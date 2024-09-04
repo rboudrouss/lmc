@@ -14,7 +14,6 @@ links:
   site: https://sorbonnescholars.sorbonne-universite.fr/
   instagram: https://www.instagram.com/sorbonne_scholars/
   youtube: https://www.youtube.com/watch?v=fh9EiefoCME
-  facebook: https://www.facebook.com/sorbonnescholars
 info:
   mail: sorbonne.scholars@gmail.com
 ---
