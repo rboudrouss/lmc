@@ -9,7 +9,7 @@ typeasso:
 
 logo: /assets/logos/robotech.png
 logooriginal: /assets/logos/robotech_o.png
-description: "Création de robots, organisation de conférences scientifiques, rencontres de professionnels ou encore activités éducatives, Robotech s’adresse à tous les passionnés de technologies."
+description: "À destination des passionnés de technologie, l’association vous permet de créer vos propres robots ou de développer tous types de projets technologiques. Elle organise également des conférences scientifques, des rencontres animées par des professionnelles et professionnels voire des activités éducatives."
 video: https://www.youtube.com/watch?v=udIypSYhnMU
 links:
   site: https://sites.google.com/view/robotech-sorbonne/
