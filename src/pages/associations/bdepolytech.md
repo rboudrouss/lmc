@@ -13,7 +13,7 @@ logooriginal: /assets/logos/bdepolytech_o.svg
 description: "BDE Polytech représente et anime la vie étudiante de l’école. Elle se donne pour mission d'accompagner et de guider les étudiantes et étudiants dans leurs projets qui ont pour but d'améliorer la vie étudiante au sein de l'université / école."
 video: https://www.youtube.com/watch?v=SaFV8Otn_8w
 links:
-  linktree: https://one.link/BDEPolytechSorbonne
+  linktree: https://taplink.cc/bdepolytechsorbonne
   site: https://www.polytech.sorbonne-universite.fr/vie-associative/bde
   helloasso: https://www.helloasso.com/associations/bde-polytech-sorbonne
   instagram: https://www.instagram.com/bdepolytechsorbonne/
