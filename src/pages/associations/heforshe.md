@@ -10,10 +10,9 @@ typeasso:
 
 logo: /assets/logos/heforshe.png
 logooriginal: /assets/logos/heforshe_o.png
-description: "Club du BDE de Polytech Sorbonne qui lutte contre les inégalités de genre."
+description: "Club du BDE de Polytech Sorbonne, HeForShe lutte contre les inégalités de genre et vise à favoriser l’égalité des sexes."
 links:
-  site: https://heforshepolytechsorbonne.odoo.com/
-  instagram: https://www.instagram.com/heforshepolytechsorbonne/
+  instagram: https://www.instagram.com/heforshe_ps/
   facebook: https://www.facebook.com/heforshepolytechsorbonne/
 info:
   mail: heforshepolytechsorbonne@gmail.com
