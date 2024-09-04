@@ -9,6 +9,7 @@ typeasso:
    - syndicat
 
 logo: /assets/logos/susie.png
+logooriginal: /assets/logos/susie_o.png
 description: "Section locale de l'union.étudiante à Sorbonne Université.Pour la défense des étudiants"
 links:
   linktree: https://linktr.ee/susie.sorbonneuniversite

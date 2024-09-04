@@ -8,7 +8,7 @@ affiliation:
 typeasso: 
    - ludique
 
-logo: /assets/logos/pas2logo.png
+logo: /assets/logos/rog.png
 description: ""
 links:
   site: https://www.polytech.sorbonne-universite.fr/vie-associative/cia

@@ -7,7 +7,8 @@ typeasso:
 affiliation:
   - sciences
 
-logo: /assets/logos/pas2logo.png
+logo: /assets/logos/cognivence.svg
+logooriginal: /assets/logos/cognivence_o.svg
 description: "Regroupant des étudiantes et étudiants, chercheuses et chercheurs en sciences cognitives d’Ile-de-France, cette association fait connaître ce champ disciplinaire et apporte un éclairage sur les parcours professionnels. Elle organise notamment le Forum des Sciences Cognitives durant lequel se tiennent des conférences, stands et ateliers autour d’un thème voté, ainsi qu’un événement mensuel où un membre de l’association présente un article de son choix."
 links:
   linktree: https://cognivence.scicog.fr/

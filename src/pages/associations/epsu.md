@@ -8,7 +8,7 @@ affiliation:
 typeasso: 
    - autre
 
-logo: /assets/logos/pas2logo.png
+logo: /assets/logos/epsu.png
 links:
   linktree: https://linktr.ee/epsu_univ
   instagram: https://www.instagram.com/epsu_univ/
