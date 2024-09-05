@@ -14,7 +14,6 @@ links:
   helloasso: https://www.helloasso.com/associations/psychomotricite-sans-frontieres-psf/
   instagram: https://www.instagram.com/assopsf/
   linkedin: https://www.linkedin.com/in/psychomotricit%C3%A9-sans-fronti%C3%A8res-a16712262/
-  facebook: https://www.facebook.com/profile.php?id=100054621091470
 info:
   mail: psf.communication@gmail.com ou asso-psf@hotmail.fr
 ---

@@ -15,5 +15,5 @@ links:
   instagram: https://www.instagram.com/rog_polytechsorbonne/
   discord: https://discord.gg/uZQwBrPH8e
 info:
-  mail: polytechupmccia@gmail.com
+  mail: rogpolytechsorbonne@gmail.com
 ---

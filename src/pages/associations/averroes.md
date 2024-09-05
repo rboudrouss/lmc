@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Assos.astro
-titre: Averroes Sorbonne
+titre: Averroès Sorbonne
 affiliation: 
    - su
    - sciences

@@ -10,6 +10,7 @@ typeasso:
 logo: /assets/logos/cinepsis.png
 description: "Cinépsis est l’association des étudiants du Celsa:un webzine, un ciné-club, des projections/débat et même des partenaires !"
 links:
+  linktree: https://multy.me/7SN71S
   site: https://www.cinepsis.fr/
   helloasso: https://www.helloasso.com/associations/cinepsis-celsa
   instagram: https://www.instagram.com/cinepsis.celsa/

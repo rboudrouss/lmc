@@ -3,6 +3,7 @@ layout: ../../layouts/Assos.astro
 titre: KVAS
 affiliation: 
    - su
+   - sciences
 
 typeasso: 
    - autre
