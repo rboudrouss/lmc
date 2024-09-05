@@ -5,6 +5,7 @@ titre: Corporation des Carabins de Sorbonne Université
 typeasso: 
    - filiere
    - evenementiel
+   - artistique
 
 affiliation: 
    - sante
