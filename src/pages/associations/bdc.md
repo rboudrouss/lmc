@@ -8,7 +8,7 @@ typeasso:
 affiliation:
   - polytech
 
-logo: /assets/logos/pas2logo.png
+logo: /assets/logos/bdc.png
 description: ""
 links:
   instagram: https://www.instagram.com/bdc_polytech_sorbonne
