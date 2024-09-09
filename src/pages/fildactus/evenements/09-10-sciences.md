@@ -2,7 +2,7 @@
 layout: ../../../layouts/Actu.astro
 date : "10-09-2024 23:00"
 
-title: "Les Mardis de la Chimie | Jacques Fattaccioli "Bacteria on high fat diets cooperate to stay fit"
+title: "Les Mardis de la Chimie | Jacques Fattaccioli : Bacteria on high fat diets cooperate to stay fit"
 
 auteur :
   - sciences
