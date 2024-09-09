@@ -7,9 +7,13 @@ title: "Y-a-t-il une crise du travail en France ?"
 auteur :
   - sante
 
+affiliation :
+  - su
+  - sante
+
 image : "/assets/fildactus/evenements/12-12-sante.jpg"
 
-source : "https://sante.sorbonne-universite.fr/evenements/y-t-il-une-crise-du-travail-en-france"
+source : "https://www.sorbonne-universite.fr/evenements/y-t-il-une-crise-du-travail-en-france"
 ---
 
 On entend tout et son contraire sur le travail en France. Les Français ne voudraient plus travailler. Les jeunes seraient devenus paresseux. Et pourtant, les enquêtes montrent que les Français sont parmi les Européens les plus attachés au travail. En même temps les burn-out explosent. Les conditions de travail se dégradent, plus encore à l'hôpital qu'ailleurs. Que se passe-t-il exactement ?  Nous essaierons d'y voir plus clair avec la conférence de Dominique Méda, professeure de sociologie à l'Université Paris Dauphine-PSL, spécialiste des questions de travail et d'emploi, autrice notamment du Que sais-je ? Le Travail.

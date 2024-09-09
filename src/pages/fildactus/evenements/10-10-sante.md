@@ -7,9 +7,13 @@ title: "Choléra : de Haïti à Mayotte"
 auteur :
   - sante
 
+affiliation :
+  - su
+  - sante
+
 image : "/assets/fildactus/evenements/10-10-sante.jpg"
 
-source : "https://sante.sorbonne-universite.fr/evenements/cholera-de-haiti-mayotte"
+source : "https://www.sorbonne-universite.fr/evenements/cholera-de-haiti-mayotte"
 ---
 
 Renaud Piarroux, chef du service de parasitologie-mycologie à l’hôpital de la Pitié-Salpêtrière à Paris, nous raconte les épidémies qui ont récemment eu lieu en Haïti et à Mayotte.

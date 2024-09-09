@@ -7,9 +7,13 @@ title: "Bioéthique: quels enjeux en 2024"
 auteur :
   - sante
 
+affiliation :
+  - su
+  - sante
+
 image : "/assets/fildactus/evenements/09-12-sante.jpg"
 
-source : "https://sante.sorbonne-universite.fr/evenements/bioethique-quels-enjeux-en-2024"
+source : "https://www.sorbonne-universite.fr/evenements/bioethique-quels-enjeux-en-2024"
 ---
 
 Jean-Francois Delfraissy (photo ©Hamilton de Oliveira) est l’actuel président du Comité consultatif national d’éthique (CCNE). Immunologiste, il est un spécialiste renommé du VIH. Il propose une conférence sur les enjeux de la bioéthique pour 2024.
