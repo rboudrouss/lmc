@@ -7,7 +7,7 @@ title: "Distribution gratuite de sandwich La Vie Foods ©️"
 auteur :
   - lecomptoir
 
-image : "/assets/fildactus/evenements/09-17-lecomtptoir.jpg"
+image : "/assets/fildactus/evenements/09-17-lecomptoir.jpg"
 
 source : "https://www.instagram.com/p/C_k83CSIqLn/"
 ---

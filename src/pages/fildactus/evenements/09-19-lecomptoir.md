@@ -7,7 +7,7 @@ title: "Koh-Celsa"
 auteur :
   - lecomptoir
 
-image : "/assets/fildactus/evenements/09-19-lecomtptoir.jpg"
+image : "/assets/fildactus/evenements/09-19-lecomptoir.jpg"
 
 source : "https://www.instagram.com/p/C_k8_8woBK-/"
 ---

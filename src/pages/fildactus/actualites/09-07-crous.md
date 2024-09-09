@@ -7,7 +7,7 @@ title: "Tarif Crous : Programmation du mois de Septembre"
 auteur :
   - crous
 
-image : "/assets/fildactus/actualites/09-07-sante.jpg"
+image : "/assets/fildactus/actualites/09-07-crous.jpg"
 
 source : "https://www.instagram.com/p/C_m8M0iKoG1/"
 ---

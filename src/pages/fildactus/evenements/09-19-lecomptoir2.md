@@ -7,7 +7,7 @@ title: "Soirée d’intégration"
 auteur :
   - lecomptoir
 
-image : "/assets/fildactus/evenements/09-19-lecomtptoir2.jpg"
+image : "/assets/fildactus/evenements/09-19-lecomptoir2.jpg"
 
 source : "https://www.instagram.com/p/C_k9D8IIz5z/"
 ---

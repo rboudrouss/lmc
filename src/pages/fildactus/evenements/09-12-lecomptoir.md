@@ -7,7 +7,7 @@ title: "Intégration - Soirée de rentrée"
 auteur :
   - lecomptoir
 
-image : "/assets/fildactus/evenements/09-12-lecomtptoir.jpg"
+image : "/assets/fildactus/evenements/09-12-lecomptoir.jpg"
 
 source : "https://www.instagram.com/p/C_k8o6JoXOQ/"
 ---
