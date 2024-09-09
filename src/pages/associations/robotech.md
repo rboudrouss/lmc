@@ -3,6 +3,7 @@ layout: ../../layouts/Assos.astro
 titre: Robotech
 affiliation: 
    - polytech
+   - sciences
 
 typeasso: 
    - filiere

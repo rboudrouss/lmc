@@ -16,4 +16,4 @@ La Vie étudiante vous invite chaque mercredi pour un déjeuner gratuit !
 
 🍲 Rendez-vous __à partir de 12h30 tous les Mercredi__ à l’Espace Vie Étudiante ou au foyer !
 
-Avec [@labelgamelle](https://www.instagram.com/labelgamelle/, entreprise engagée dans l’insertion professionnelle.
+Avec [@labelgamelle](https://www.instagram.com/labelgamelle/), entreprise engagée dans l’insertion professionnelle.

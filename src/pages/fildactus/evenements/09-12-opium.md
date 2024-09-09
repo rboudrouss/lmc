@@ -2,7 +2,7 @@
 layout: ../../../layouts/Actu.astro
 date : "12-09-2024 23:00"
 
-title: "Les cinesthésies d'Opium Philosophie : Captain Fantastic"
+title: "Les Cinesthésies : Captain Fantastic"
 
 auteur :
   - opium
