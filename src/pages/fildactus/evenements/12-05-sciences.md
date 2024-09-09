@@ -11,7 +11,7 @@ affiliation :
   - su
   - sciences
 
-image : "/assets/fildactus/evenements/12-05-su.jpg"
+image : "/assets/fildactus/evenements/12-05-sciences.jpg"
 
 source : "https://www.sorbonne-universite.fr/evenements/comment-lart-peut-sensibiliser-la-protection-des-oceans"
 ---
