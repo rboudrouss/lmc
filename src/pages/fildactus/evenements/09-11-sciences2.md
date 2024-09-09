@@ -7,7 +7,7 @@ title: "Café des sciences : Etonnant vivant, les grandes découvertes récentes
 auteur :
   - sciences
 
-image : "/assets/fildactus/evenemnts/09-11-sciences2.jpg"
+image : "/assets/fildactus/evenements/09-11-sciences2.jpg"
 
 source : "https://sciences.sorbonne-universite.fr/evenements/cafe-des-sciences-etonnant-vivant-les-grandes-decouvertes-recentes-et-leurs-implications"
 ---
