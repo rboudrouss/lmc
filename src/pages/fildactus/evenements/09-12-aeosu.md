@@ -5,9 +5,9 @@ date : "12-09-2024 23:00"
 title: "Soirée Parrain/Marraine"
 
 auteur :
-  - apeo
+  - aeosu
 
-image : "/assets/fildactus/evenements/09-12-apeo.jpg"
+image : "/assets/fildactus/evenements/09-12-aeosu.jpg"
 
 source : "https://www.instagram.com/p/C_r1IkDtpc-/"
 ---
