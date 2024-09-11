@@ -2,7 +2,7 @@
 layout: ../../../layouts/Actu.astro
 date : "12-09-2024 23:00"
 
-title: "Pique-Nique"
+title: "Pique-Nique d'Intégration"
 
 auteur :
   - geonautes

@@ -5,7 +5,7 @@ date : "12-09-2024 23:00"
 title: "Apéro Splaaash!"
 
 auteur :
-  - splaaaash
+  - splaaash
 
 image : "/assets/fildactus/evenements/09-12-splaaash.jpg"
 

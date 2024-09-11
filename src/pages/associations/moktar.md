@@ -3,7 +3,6 @@ layout: ../../layouts/Assos.astro
 titre: Moktar Sound System
 affiliation: 
    - su
-   - sante
 
 typeasso: 
    - artistique
