@@ -13,8 +13,6 @@ links:
   linktree: https://linktr.ee/6etagesansascenseur
   helloasso: https://www.helloasso.com/associations/6-eme-etage-sans-ascenseur
   instagram: https://www.instagram.com/6etagesansascenseur/
-
-
 info:
   mail: 6etagesansascenseur@gmail.com
 ---

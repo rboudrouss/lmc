@@ -7,7 +7,7 @@ title: "Le Fil jaune : un numéro unique pour toutes vos démarches"
 auteur :
   - lettres
 
-image : "/assets/fildactus/actualites/10-11-lettres.jpg"
+image : "/assets/fildactus/encemoment/10-11-lettres.jpg"
 
 source : "https://lettres.sorbonne-universite.fr/actualites/le-fil-jaune-un-numero-unique-pour-toutes-vos-demarches"
 ---

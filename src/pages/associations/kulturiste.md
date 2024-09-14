@@ -8,7 +8,7 @@ typeasso:
    - mediatique
 
 logo: /assets/logos/kulturiste.png
-description: "Kulturiste est l'association du webzine culturel des étudiant.e.s du CELSA Sorbonne Université. Ce webzine s'intéresse à des problématiques relevant du champ culturel dans son sens le plus large, à travers divers formats et dispositifs articles, conférences, vidéos:spectacle vivant, littérature, bande dessinée, expositions, sorties culinaires et nocturnes. Kulturiste est donc un webzine qui vise une approche dynamique de la culture permettant de s'interroger, de recommander et d'analyser l'espace culturel qui nous entoure."
+description: "Kulturiste est l’association culturelle des étudiantes et étudiants du CELSA Sorbonne Université. Ce webzine culturel promeut la culture au sens le plus large à travers des recommandations sur les réseaux sociaux et des articles : spectacle vivant, littérature, bande dessinée, expositions, sorties culinaires et nocturnes. Nous visons une approche dynamique de la culture permettant de s’interroger, de recommander et d’analyser l’espace culturel qui nous entoure."
 links:
   linktree: https://linktr.ee/kulturiste
   site: https://kulturistecelsafr.wordpress.com/
