@@ -13,6 +13,4 @@ description: ""
 links:
   instagram: https://www.instagram.com/aomi_p6/
   facebook: https://www.facebook.com/groups/650566556530684/permalink/692547895665883/
-info:
-  mail:
 ---

@@ -1,13 +1,13 @@
 ---
 layout: ../../../layouts/Actu.astro
-date : "25-06-2024 23:00"
+date : "11-10-2024 23:00"
 
 title: "Le Fil jaune : un numéro unique pour toutes vos démarches"
 
 auteur :
   - lettres
 
-image : "/assets/fildactus/actualites/06-25-lettres.jpg"
+image : "/assets/fildactus/actualites/10-11-lettres.jpg"
 
 source : "https://lettres.sorbonne-universite.fr/actualites/le-fil-jaune-un-numero-unique-pour-toutes-vos-demarches"
 ---

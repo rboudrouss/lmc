@@ -18,5 +18,5 @@ links:
   instagram: https://www.instagram.com/luxfabricasu/
   facebook: https://www.facebook.com/APP6-Atelier-Photo-Paris-6-145771368825291/
 info:
-  mail: luxfabricasu@gmail.com
+  mail: ap_p6@yahoo.fr
 ---

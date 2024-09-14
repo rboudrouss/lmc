@@ -6,7 +6,7 @@ affiliation:
    - sante
 
 typeasso: 
-   - filiere
+   - evenementiel
 
 logo: /assets/logos/apeps.png
 description: "L'APEPS a pour objectif de faire profiter les étudiantes et étudiants en psychomotricité de la Pitié-Salpêtrière de leurs études, organiser des soirées mais aussi un gala, des événements sportifs, culturels et solidaires."
