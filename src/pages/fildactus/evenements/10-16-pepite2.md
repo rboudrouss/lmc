@@ -29,7 +29,7 @@ L'équipe d'Enactus et le Pépite Sorbonne ont le plaisir de vous convier à un 
 Cette rencontre te permettra de découvrir Enactus, un partenaire qui accompagne des lycées, étudiants, enseignants et professionnels dans le développement de leurs compétences pour innover et agir au service de la société. Au travers d'un film sur l'engagement et le retour d'expériences de 6 alumnis, suivi d'un débat et d'un moment de discussion libre autour d'un buffet, tu pourras échanger et débattre avec d'autres étudiants pour s'engager et s'investir sur les défis sociaux et environnementaux de notre époque.
 
 __Ose Toujours, le Film !__  
-<u>" A 18 ans Ilyes, engagé dans sa classe dans la construction d'un projet à vocation sociale ou environnementale, décide de partir à la rencontre de 6 anciens étudiants qui, comme lui, se engagés dès leurs études. Que sont-ils devenus ? Comment l'engagement a-t-il façonné leur vie ? Comment concilient-ils leurs convictions, leur travail et leur vie personnelle ? "</u>
+*" A 18 ans Ilyes, engagé dans sa classe dans la construction d'un projet à vocation sociale ou environnementale, décide de partir à la rencontre de 6 anciens étudiants qui, comme lui, se engagés dès leurs études. Que sont-ils devenus ? Comment l'engagement a-t-il façonné leur vie ? Comment concilient-ils leurs convictions, leur travail et leur vie personnelle ? "*
 
 [Clique ici pour t'inscrire et n'hésites à pas embarquer 1 ou 2 potes avec toi !](https://lime3-app1.sorbonne-universite.fr/index.php/833876)
 
