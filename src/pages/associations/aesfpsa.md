@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Assos.astro
 acronyme: AESF PSA
-titre: Association des étudiantes et étudiants sages-femmes de la Pitié/Saint-Antoine
+titre: Association des Étudiantes et Étudiants Sages-Femmes de la Pitié/Saint-Antoine
 affiliation: 
    - sante
 

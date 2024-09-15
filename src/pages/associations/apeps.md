@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Assos.astro
 acronyme: APEPS
-titre: Association Psychomot' des étudiants de la Pitié Salpêtrière
+titre: Association Psychomot' des Étudiants de la Pitié Salpêtrière
 affiliation: 
    - sante
 
