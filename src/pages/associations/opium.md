@@ -19,6 +19,7 @@ links:
   linkedin: https://www.linkedin.com/company/opiumphilo/
   facebook: https://www.facebook.com/opiumphilosophie
   twitter: https://twitter.com/opiumphilo
+  tiktok: https://www.tiktok.com/@opium_philosophie
 info:
   mail: opium.philosophie@gmail.com
 ---
