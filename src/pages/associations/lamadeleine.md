@@ -2,7 +2,6 @@
 layout: ../../layouts/Assos.astro
 titre: La Madeleine
 affiliation: 
-   - su
    - celsa
 
 typeasso: 
