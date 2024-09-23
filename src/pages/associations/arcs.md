@@ -8,7 +8,7 @@ affiliation:
 typeasso: 
    - autre
 
-logo: /assets/logos/pas2logo.png
+logo: /assets/logos/arcs.png
 description: "L'ARCS a pour objet de mener une action culturelle et matérielle pour mettre en valeur l’intérêt historique, artistique et culturel de la Chapelle de la Sorbonne."
 links:
   helloasso: https://www.helloasso.com/associations/association-pour-le-rayonnement-de-la-chapelle-de-la-sorbonne

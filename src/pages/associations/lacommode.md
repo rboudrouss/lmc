@@ -14,4 +14,6 @@ links:
   site: https://lacommode.org/
   instagram: https://www.instagram.com/lacommodecelsa/
   linkedin: https://www.linkedin.com/company/la-commode-celsa/
+info:
+  mail:  lacommodecelsa2019@gmail.com
 ---
