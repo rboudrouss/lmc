@@ -5,7 +5,7 @@ date : "03-11-2024 23:00"
 title: "21ème concours de scénarios"
 
 auteur :
-  - cienfac
+  - cinefac
 
 image : "/assets/fildactus/encemoment/11-03-cinefac.jpg"
 
