@@ -2,7 +2,7 @@
 layout: ../../../layouts/Actu.astro
 date : "27-09-2024 23:00"
 
-title: "Visite : La Poterie"
+title: "Visite : La Papoterie"
 
 auteur :
   - parismus
