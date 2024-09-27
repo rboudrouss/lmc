@@ -1,13 +1,13 @@
 ---
 layout: ../../../layouts/Actu.astro
-date : "05-10-2024 23:00"
+date : "28-09-2024 23:00"
 
 title: "Zoom sur la Radiologie"
 
 auteur :
   - sante
 
-image : "/assets/fildactus/evenements/10-05-sante.jpg"
+image : "/assets/fildactus/encemoment/09-28-sante.jpg"
 
 source : "https://www.instagram.com/p/C_-mRFXNqIc/"
 ---
