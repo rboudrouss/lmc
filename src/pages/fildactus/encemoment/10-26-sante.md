@@ -13,7 +13,7 @@ affiliation :
 
 image : "/assets/fildactus/encemoment/10-26-sante.jpg"
 
-source : "https://www.instagram.com/p/DAjPREBTY2Y/
+source : "https://www.instagram.com/p/DAjPREBTY2Y/"
 ---
 
 [SANT(H)ÉMATIQUE] : une sélection mensuelle de ressources documentaires ! Romans, BD, essais mais aussi podcasts, films de fiction et documentaires…  
