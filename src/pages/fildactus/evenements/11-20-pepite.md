@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/Actu.astro
-date : "16-10-2024 23:00"
+date : "20-11-2024 23:00"
 
 title: "Journée Engagement et Entrepreneuriat étudiant"
 
@@ -11,14 +11,14 @@ affiliation :
   - su
   - sciences
 
-image : "/assets/fildactus/evenements/10-16-pepite.jpg"
+image : "/assets/fildactus/evenements/11-20-pepite.jpg"
 
 source : "https://www.sorbonne-universite.fr/evenements/journees-engagement-et-entrepreneuriat-etudiant"
 ---
 
 Lancez-vous et réaliser vos projets au sein de Sorbonne Université !  
 
-__Mercredi 16 Octobre de 11h à 17h30__  
+__Mercredi 20 Novembre de 11h à 17h30__  
 Foyer (Tour 53) & Patio 53/54, Campus Pierre et Marie Curie, 4, place Jussieu 75005 Paris  
 Ouvert à toutes et tous sans inscription
 

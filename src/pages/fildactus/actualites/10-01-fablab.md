@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/Actu.astro
-date : "02-10-2024 23:00"
+date : "01-10-2024 23:00"
 
 title: "Repair Café"
 

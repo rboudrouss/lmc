@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/Actu.astro
-date : "16-10-2024 23:00"
+date : "20-11-2024 23:00"
 
 title: "Soirée Ciné Débat - Film Ose Toujours"
 
@@ -11,7 +11,7 @@ affiliation :
   - su
   - sciences
 
-image : "/assets/fildactus/evenements/10-16-pepite.jpg"
+image : "/assets/fildactus/evenements/11-20-pepite.jpg"
 
 source : "https://www.sorbonne-universite.fr/evenements/journees-engagement-et-entrepreneuriat-etudiant"
 ---
@@ -20,7 +20,7 @@ Lancez-vous et réaliser vos projets au sein de Sorbonne Université !
 
 Ouvert à toutes et tous sans inscription (rencontres, ateliers et déjeuner) et sur inscription (Ciné Débat Film Ose Toujours)
 
-__Mercredi 16 Octobre de 18h30 à 20h__  
+__Mercredi 20 Novembre de 18h30 à 20h__  
 Foyer (Tour 53), Campus Pierre et Marie Curie, 4, place Jussieu 75005 Paris  
 Ouvert à tous et à toutes, [sur inscription](https://lime3-app1.sorbonne-universite.fr/index.php/833876)
 
