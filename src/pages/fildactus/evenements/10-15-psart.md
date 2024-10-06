@@ -7,7 +7,7 @@ title: "Club de Lecture"
 auteur :
   - psart
 
-image : "/assets/evenements/10-15-psart.jpg"
+image : "/assets/fildactus/evenements/10-15-psart.jpg"
 
 source : "https://www.instagram.com/p/DAgRODdIpQX/"
 ---
