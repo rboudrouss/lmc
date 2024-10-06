@@ -7,7 +7,7 @@ title: "Conférence de lancement du projet ERC PECUNIA"
 auteur :
   - lettres
 
-image : "/assets/fildactus/evenements/10-11-lettres.jpg"
+image : "/assets/fildactus/evenements/10-10-lettres.jpg"
 
 source : "https://lettres.sorbonne-universite.fr/evenements/conference-de-lancement-du-projet-erc-pecunia"
 ---
