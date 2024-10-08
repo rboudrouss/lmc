@@ -10,13 +10,9 @@ auteur :
 image : "/assets/logos/sciences.svg"
 
 source : "https://sciences.sorbonne-universite.fr/evenements/les-mardis-de-la-chimie-candice-botuha-explorer-lespace-chimique-inconnu-pour-decouvrir"
----
-
-Lancez-vous et réaliser vos projets au sein de Sorbonne Université !  
+---  
 
 __Mardi 15 Octobre de 11h à 12h__  
 Sorbonne Université, campus Pierre et Marie Curie, UFR de Chimie, tour 32-42, salle 101  
-Collation à partir de 10h30 
-Ouvert à toutes et tous sans inscription
 
 [Plus d'Infos](https://sciences.sorbonne-universite.fr/evenements/les-mardis-de-la-chimie-candice-botuha-explorer-lespace-chimique-inconnu-pour-decouvrir)
