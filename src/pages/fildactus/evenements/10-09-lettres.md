@@ -5,11 +5,11 @@ date : "09-10-2024 23:00"
 title: "Colloque : Divertir, éduquer et corriger : pratiques du jeu en Europe, du Moyen Âge à la première Modernité (XIIe -XVIe s.)"
 
 auteur :
-  - sciences
+  - lettres
 
-image : "/assets/fildactus/evenements/10-09-sciences.jpg"
+image : "/assets/fildactus/evenements/10-09-lettres.jpg"
 
-source : "https://www.instagram.com/p/DAWKaw1K3L6/"
+source : "https://lettres.sorbonne-universite.fr/evenements/divertir-eduquer-et-corriger-pratiques-du-jeu-en-europe-du-moyen-age-a-la-premiere-modernite-12e-16e-siecle"
 ---
 
 __Mercredi 9 et Vendredi 11 Octobre__  
