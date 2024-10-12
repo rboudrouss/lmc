@@ -2,7 +2,7 @@
 layout: ../../../layouts/Actu.astro
 date : "17-10-2024 23:00"
 
-title: "Allegr-eau"
+title: "Fièvres Msicales : Allegr-eau"
 
 auteur :
   - sante
