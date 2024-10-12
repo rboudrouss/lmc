@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/Actu.astro
-date : "14-01-2025 23:00"
+date : "14-11-2025 23:00"
 
 title: "Conquête(s) spatiale(s) et santé: le corps humain dans l'espace"
 
