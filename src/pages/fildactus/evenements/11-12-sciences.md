@@ -13,7 +13,7 @@ affiliation :
 
 image : "/assets/fildactus/evenements/11-12-sciences.jpg"
 
-source : "https://www.sorbonne-universite.fr/evenements/peut-controler-les-nuages	"
+source : "https://www.sorbonne-universite.fr/evenements/peut-controler-les-nuages"
 ---
 
 Quel rapport avons-nous aux nuages ? Quelle symbolique ? A qui appartiennent-ils ? Quelle influence sur le changement climatique ? Comment les déchiffrer ? Peut-on et doit-on les contrôler ? Les nuages sont-ils les reflets de nos sociétés ? Comment sont-ils devenus les témoins et les acteurs malgré eux du changement climatique ?

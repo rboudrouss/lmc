@@ -1,13 +1,13 @@
 ---
 layout: ../../../layouts/Actu.astro
-date : "13-10-2024 23:00"
+date : "12-10-2024 23:00"
 
 title: "Buddy System"
 
 auteur :
   - parismus
 
-image : "/assets/fildactus/encemoment/10-13-parismus.jpg"
+image : "/assets/fildactus/encemoment/10-12-parismus.jpg"
 
 source : "https://www.instagram.com/p/C_vk_eRIT7t/"
 ---
