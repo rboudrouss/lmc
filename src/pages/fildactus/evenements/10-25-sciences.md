@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/Actu.astro
-date : "15-10-2024 23:00"
+date : "25-10-2024 23:00"
 
 title: "Séminaire LBM | Dr. Ben Schumann : Chemical precision tools to dissect protein glycosylation"
 
