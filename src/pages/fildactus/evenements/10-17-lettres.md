@@ -14,7 +14,7 @@ source : "https://lettres.sorbonne-universite.fr/evenements/l-histoire-et-l-hist
 
 Ce colloque rend hommage à la Chaire d'histoire du Brésil (XVIe-XIXe siècle) et aux trois professeurs, Katia de Queiros Mattoso, Luis Felipe de Alencastro et Laura de Mello e Souza, qui l’ont successivement occupée. Il réfléchit ainsi à l'importante production historiographique sur le Brésil des quarante dernières années et à la place d’une « histoire à distance » du Brésil, depuis la Sorbonne.
 
-Du Jeudi 17 au Samedi 19 Octobre  
+__Du Jeudi 17 au Samedi 19 Octobre__  
 17 et 18/10 : Sorbonne, salle des Actes.  
 18/10 à partir de 18h : Ambassade du Brésil.  
 19/10 : Sorbonne, amphithéâtre Descartes.  

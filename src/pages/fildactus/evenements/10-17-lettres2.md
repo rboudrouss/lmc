@@ -14,7 +14,7 @@ source : "https://lettres.sorbonne-universite.fr/evenements/l-emancipation-par-l
 
 Longtemps marginalisées comme les traductions, les femmes ont joué un rôle crucial dans la transmission des langues et littératures nationales. Ce colloque explore la traduction comme un potentiel instrument d’émancipation pour les femmes d'Europe centrale et orientale, du XIXe siècle à nos jours.
 
-Du Jeudi 17 au Vendredi 18 Octobre  
+__Du Jeudi 17 au Vendredi 18 Octobre__  
 Maison de la Recherche, amphithéâtre Molinié (salle D035) et Centre tchèque de Paris.  
 Inscription obligatoire par courriel pour les personnes extérieures à Sorbonne Université pour le 17/10. (aurelie.rouget-garma@sorbonne-universite.fr)
 
