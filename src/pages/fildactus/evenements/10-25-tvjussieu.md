@@ -7,7 +7,7 @@ title: "Atelier Photo Professionnelle"
 auteur :
   - tvjussieu
 
-image : "/assets/fildactus/envenements/10-25-tvjussieu.jpg"
+image : "/assets/fildactus/evenements/10-25-tvjussieu.jpg"
 
 source : "https://www.instagram.com/p/DBRT9VEop50/"
 ---

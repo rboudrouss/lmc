@@ -7,7 +7,7 @@ title: "Soirée Ciné"
 auteur :
   - sciences
 
-image : "/assets/fildactus/evenements/10-23-timarcha.jpg"
+image : "/assets/fildactus/evenements/10-23-sciences.jpg"
 
 source : "https://www.instagram.com/p/DBOOmOJqX7X/"
 ---
