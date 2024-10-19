@@ -7,16 +7,9 @@ title: "Soirée Concert"
 auteur :
   - sciences
 
-image : "/assets/fildactus/evenements/01-14-sciences.jpg"
+image : "/assets/fildactus/evenements/11-12-sciences.jpg"
 
-source : "https://www.instagram.com/p/DALnB30oXLQ/"
+source : "https://www.instagram.com/p/DBOOmOJqX7X/"
 ---
 
-LES SOIRÉES CONCERT  
-Découvrez des styles et talents de la faculté et encouragez-les en concert live !  
-__de 18h30 à 20h__ au Foyer étudiant (tour 53)
-
-Prochaines dates :  
-Mardi 12 Novembre  
-Mardi 10 Décembre  
-Mardi 14 Janvier
+🎸 Soirée concert au foyer, __Mardi 12 Novembre__
