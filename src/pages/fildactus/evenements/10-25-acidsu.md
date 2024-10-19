@@ -7,7 +7,7 @@ title: "Afterwork Halloween"
 auteur :
   - acidsu
 
-image : "/assets/fildactus/envenements/10-25-acidsu.jpg"
+image : "/assets/fildactus/evenements/10-25-acidsu.jpg"
 
 source : "https://www.instagram.com/p/DBT5CJSo8Xt/"
 ---
