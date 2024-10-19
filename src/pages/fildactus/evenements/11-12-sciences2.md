@@ -7,7 +7,7 @@ title: "Soirée Concert"
 auteur :
   - sciences
 
-image : "/assets/fildactus/evenements/11-12-sciences.jpg"
+image : "/assets/fildactus/evenements/11-12-sciences2.jpg"
 
 source : "https://www.instagram.com/p/DBOOmOJqX7X/"
 ---

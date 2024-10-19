@@ -7,7 +7,7 @@ title: "Balade Père-Lachaise"
 auteur :
   - parismus
 
-image : "/assets/fildactus/envenements/10-26-parismus.jpg"
+image : "/assets/fildactus/evenements/10-26-parismus.jpg"
 
 source : "https://www.instagram.com/p/DBT__XxoBNN/"
 ---
