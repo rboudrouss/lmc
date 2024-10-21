@@ -7,7 +7,7 @@ title: "Halloween Night"
 auteur :
   - englishsociety
 
-image : "/assets/fildactus/evenements/10-24-lasixe.jpg"
+image : "/assets/fildactus/evenements/10-24-englishsociety.jpg"
 
 source : "https://www.instagram.com/p/DBRe--rI1xF/"
 ---
