@@ -2,9 +2,12 @@
 layout: ../../../layouts/Actu.astro
 date : "14-11-2025 23:00"
 
-title: "Petit-Dej Offert"
+title: "Petit-Dej Offert par le SSE"
 
 auteur :
+  - sse
+
+affiliation :
   - sciences
 
 image : "/assets/fildactus/evenements/11-14-sciences.jpg"
