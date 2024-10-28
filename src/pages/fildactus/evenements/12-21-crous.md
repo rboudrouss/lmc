@@ -7,7 +7,7 @@ title: "Ateliers d'Autoréparation"
 auteur :
   - crous
 
-image : "/assets/fildactus/encemoment/12-21-crous.jpg"
+image : "/assets/fildactus/evenements/12-21-crous.jpg"
 
 source : "https://www.instagram.com/p/DA8s4LmozdD/"
 ---
@@ -23,7 +23,7 @@ Avec le réseau RéPAR, nous vous proposons :
  
 🌟 Venez nombreux aux ateliers gratuits au sein de nos résidences Crous et faites partie de la révolution vélo !
 
-📅 Les samedis de 10h à 13h : __12 et 26 Octobre__, __9 et 23 Novembre__, __7 et 21 Décembre__
+📅 __Les Samedis de 10h à 13h__ : 12 et 26 Octobre, 9 et 23 Novembre, __7 et 21 Décembre__
  
 📍à la résidence Louise Bourgeois animé par Solicycle  
 📍à la résidence Aubervilliers animé par Cyclofficine de Paris  
