@@ -16,6 +16,6 @@ source : "https://www.instagram.com/p/DBwbcIqtkU8/"
 
 ☃️❄️LE SKI’XE 2025 EST LÀ !!❄️☃️
 
-[Rdv sur notre page facebook pour plus d’infos](https://www.facebook.com/events/3268134943358382/), [le lien du formulaire est dans la bio](https://docs.google.com/document/d/1868y7ShZd3GrlwliAhvNo9i2MT1zGHIU/edit) 😁
+Rdv sur [notre page facebook](https://www.facebook.com/events/3268134943358382/) pour plus d’infos, [le lien du formulaire est dans la bio](https://docs.google.com/document/d/1868y7ShZd3GrlwliAhvNo9i2MT1zGHIU/edit) 😁
 
 ⚠️ __Les places ne se prennent qu’en physique, il n’y a pas de billetterie en ligne !__

@@ -21,4 +21,4 @@ La Gazelle
 
 📍Bar l’Écurie 75005  
 📆 __Jeudi 7 Novembre__  
-🕰️ 20h
+🕰️ __20h__

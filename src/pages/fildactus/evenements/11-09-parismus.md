@@ -20,4 +20,4 @@ Nous explorerons ses arcades majestueuses et ses boutiques, tout en profitant d�
 🕒 __De 14h à 16h__  
 📍 Rendez-vous à 14h à la station de métro Concorde (ligne 1, 8, 12) 🚇
 
-[Réservez votre place](https://www.billetweb.fr/balade-rue-de-rivoli) et [rejoignez notre groupe WhatsApp](https://chat.whatsapp.com/CtTRc2VaLvA05VnVhNpPHG) via le lien dans notre bio pour ne pas manquer d’infos ! 🔗
+[Réservez votre place via le lien dans notre bio](https://www.billetweb.fr/balade-rue-de-rivoli) et [rejoignez notre groupe WhatsApp](https://chat.whatsapp.com/CtTRc2VaLvA05VnVhNpPHG) pour ne pas manquer d’infos ! 🔗
