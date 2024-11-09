@@ -16,7 +16,7 @@ source : "https://www.instagram.com/p/DB3PTAgiFBb/"
 
 Rejoignez-nous pour une nuit inoubliable au Club Haussmann.
 
-📅 Date :__ Vendredi 29 Novembre__  
+📅 Date : __Vendredi 29 Novembre__  
 📍 Lieu : Club Haussmann, 23 rue Taitbout, 75009 Paris  
 🕘 Horaires :  
 • 21h-23h : Cocktail avec buffet, boissons et divertissements  
