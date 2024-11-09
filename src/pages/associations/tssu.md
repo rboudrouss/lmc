@@ -14,6 +14,7 @@ description: "Le tutorat Santé de Sorbonne Université (TSSU), une initiative d
 links:
   linktree: https://linktr.ee/tutoratpsa
   site: https://tssu.org/login/index.php
+  discord: https://discord.gg/p84pTbcT8f
   youtube: https://www.youtube.com/@laminutetuto5787
   instagram: https://www.instagram.com/tutoratpsa
   facebook: https://www.facebook.com/tutoratpsa/
