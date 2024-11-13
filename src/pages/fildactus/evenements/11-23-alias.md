@@ -7,7 +7,7 @@ title: "Sortie Culturelle #2"
 auteur :
   - alias
 
-image : "/assets/fildactus/evenements/11-21-crous.jpg"
+image : "/assets/fildactus/evenements/11-23-alias.jpg"
 
 source : "https://www.instagram.com/p/DCPmUB_oKc0/"
 ---
