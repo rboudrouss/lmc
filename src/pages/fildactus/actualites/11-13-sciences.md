@@ -7,7 +7,7 @@ title: "Écoute et aide psychologique"
 auteur :
   - sciences
 
-image : "/assets/fildactus/actualites/11-08-sciences.jpg"
+image : "/assets/fildactus/actualites/11-13-sciences.jpg"
 
 source : "https://www.instagram.com/p/DCTwSiZKKEu/"
 ---
