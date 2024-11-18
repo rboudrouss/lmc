@@ -7,7 +7,7 @@ title: "🖋️ Atelier Calligraphie Al-Adab 🖋️"
 auteur :
   - aladab
 
-image : "/assets/fildactus/evenements/12-23-aladab.jpg"
+image : "/assets/fildactus/evenements/11-23-aladab.jpg"
 
 source : "https://www.instagram.com/p/DCeuVgzNuPu/"
 ---

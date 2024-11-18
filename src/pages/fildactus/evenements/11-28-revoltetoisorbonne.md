@@ -19,8 +19,8 @@ __Le Jeudi 28 Novembre prochain, à 19h30__, la Sorbonne sera le théâtre d'un 
 Pour cet événement inédit, plein de surprises, et doté d'un jury d'elite, chers spectateurs nous vous attendons nombreux. 💫👑🎙️  
 Venez nombreux pour une soirée où théâtre, passion et art oratoire se mêleront dans un combat divin. Sorbonne, soyez prêts à être transportés dans une épopée mythologique où seul le plus persuasif des dieux triomphera ! 🔥⚔️
 
-📅 Date : __Jeudi 28 Novembre  
-🕣 Heure : 19h30  
+📅 Date : __Jeudi 28 Novembre__  
+🕣 Heure : __19h30__  
 📍 Lieu : Amphithéâtre Turgot, 12 place de la Sorbonne
 
 Réservez la date et venez découvrir quel dieu saura gagner le cœur des mortels ! 🌟

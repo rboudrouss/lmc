@@ -2,12 +2,12 @@
 layout: ../../../layouts/Actu.astro
 date : "23-11-2024 23:00"
 
-title: "🖋️ Atelier Calligraphie Al-Adab 🖋️"
+title: "Clean Walk Inter-Associative"
 
 auteur :
   - geonautes
 
-image : "/assets/fildactus/evenements/12-23-geonautes.jpg"
+image : "/assets/fildactus/evenements/11-23-geonautes.jpg"
 
 source : "https://www.instagram.com/p/DCeadudIGXp/"
 ---
