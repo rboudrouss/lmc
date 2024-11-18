@@ -2,7 +2,7 @@
 layout: ../../../layouts/Actu.astro
 date : "21-11-2024 23:00"
 
-title: "🎬 Ciné-Téléthon : "Wonder" 🌟"
+title: "🎬 Ciné-Téléthon : Wonder 🌟"
 
 auteur :
   - polycoeur
