@@ -7,7 +7,7 @@ title: "L'Hymen en moins d'un jour"
 auteur :
   - lettres
 
-image : "/assets/evenements/evenements/11-22-lettres.jpg"
+image : "/assets/fildactus/evenements/11-22-lettres.jpg"
 
 source : "https://lettres.sorbonne-universite.fr/evenements/lhymen-en-moins-dun-jour"
 ---
