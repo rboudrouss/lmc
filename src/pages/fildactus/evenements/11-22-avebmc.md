@@ -7,7 +7,7 @@ title: "Afterwork"
 auteur :
   - avebmc
 
-image : "/assets/evenements/evenements/11-22-avebmc.jpg"
+image : "/assets/fildactus/evenements/11-22-avebmc.jpg"
 
 source : "https://www.instagram.com/p/DCZ6lGtoqu5/"
 ---
