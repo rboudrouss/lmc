@@ -12,7 +12,7 @@ image : "/assets/fildactus/evenements/12-06-psart.jpg"
 source : "https://www.instagram.com/p/DCtkaEsIGRs/"
 ---
 
-__ERRATA : L’ATELIER EST LE 6 décembre__
+__ERRATA : L’ATELIER EST LE 6 DECEMBRE__
 
 Salut à tous.tes !
 
