@@ -9,12 +9,8 @@ auteur :
 
 image : "/assets/fildactus/evenements/01-14-sciences.jpg"
 
-source : "https://www.instagram.com/p/DAJJIeNoSYE/"
+source : "https://www.instagram.com/p/DEhaEciK-Fx/"
 ---
 
-LES SOIRÉES CONCERT  
-Découvrez des styles et talents de la faculté et encouragez-les en concert live !  
-__de 18h30 à 20h__ au Foyer étudiant (tour 53)
+🎸 Retrouvez-nous à la soirée concert, __Mardi 14 Janvier à partir de 18h30__ au foyer étudiant (tour 53)
 
-Prochaines dates :  
-Mardi 14 Janvier
