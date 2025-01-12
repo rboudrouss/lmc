@@ -12,7 +12,6 @@ description: "Connectome In Science crée des projets pour diffuser et découvri
 video: https://www.youtube.com/watch?v=QNUt7APDm_c
 links:
   linktree: https://campsite.bio/connectome.science
-  site: https://connectome-science.com/
   instagram: https://www.instagram.com/connectome.science/
   youtube: https://www.youtube.com/channel/UCQaXtVgj6ctzNRu7cyYOpPA/
   linkedin: https://fr.linkedin.com/company/connectome-in-science

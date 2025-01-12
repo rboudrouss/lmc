@@ -17,6 +17,7 @@ links:
   instagram: https://www.instagram.com/polytechwithoutborders/
   linkedin: https://www.linkedin.com/company/polytech-without-borders
   facebook: https://www.facebook.com/polytechwithoutborders
+  tiktok : https://www.tiktok.com/@polytechwithoutborders
 info:
   mail: polytechwithoutborderss@gmail.com
 ---
