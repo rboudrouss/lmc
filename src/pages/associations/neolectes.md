@@ -14,7 +14,6 @@ links:
   linktree: https://linktr.ee/neolectes
   instagram: https://www.instagram.com/neo_lectes/
   linkedin: https://www.linkedin.com/company/n%C3%A9olectes/
-  twitter: https://x.com/DebatEnSorbonne
 info:
   mail: neolectes@gmail.com
 ---

@@ -16,7 +16,6 @@ links:
   helloasso: https://www.helloasso.com/associations/association-des-etudiantes-sages-femmes-psa/
   instagram: https://www.instagram.com/aesf_psa/
   youtube: https://www.youtube.com/@aesfpsa8413
-  facebook: https://www.facebook.com/Sagefemme.StAntoine
 info:
   mail: aesfpsa@gmail.com
 ---

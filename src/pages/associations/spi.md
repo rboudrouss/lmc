@@ -19,7 +19,6 @@ links:
   instagram: https://www.instagram.com/spi_officiel
   linkedin: https://fr.linkedin.com/company/spi-sant%C3%A9-publique-d-%C3%AEle-de-france
   facebook: https://www.facebook.com/isp.paris
-  twitter: https://www.x.com/IspParis
 info:
   mail: contact@isp-paris.org
 ---

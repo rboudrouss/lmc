@@ -14,7 +14,6 @@ description: "AMSU rassemble et fédère les membres du parcours de mathématiqu
 video: https://www.youtube.com/watch?v=oT0mkKCcSMo
 links:
   linktree: https://linktr.ee/amsujussieu
-  site: https://www.amsu.fr/
   helloasso: https://www.helloasso.com/associations/association-des-etudiants-de-l-ufr-de-mathematiques-de-sorbonne-universite
   instagram: https://www.instagram.com/amsujussieu/
   linkedin: https://www.linkedin.com/company/amsu/

@@ -13,7 +13,6 @@ logooriginal: /assets/logos/uejf_o.png
 links:
   site: https://uejf.org/
   instagram: https://www.instagram.com/uejfsorbonneuniversite/
-  facebook: https://www.facebook.com/J.Sorbonne
 info:
   mail: uejf.sorbonneuniversite@gmail.com
 ---

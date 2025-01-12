@@ -13,8 +13,11 @@ video: https://www.youtube.com/watch?v=2Hh2sf1LGqg
 links:
   linktree: https://linktr.ee/almamaterjournal
   site: https://journalmamater.fr/
+  youtube: https://www.youtube.com/@journalalmamater2580
   instagram: https://www.instagram.com/journalmamater/
   facebook: https://www.facebook.com/journalmamater
+  bluesky: https://bsky.app/profile/journalmamater.bsky.social
+  threads: https://www.threads.net/@journalmamater
 info:
   mail: redaction@journalmamater.fr
 ---

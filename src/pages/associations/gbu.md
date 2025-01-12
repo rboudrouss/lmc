@@ -8,7 +8,7 @@ affiliation:
 typeasso: 
    - autre
 
-logo: /assets/logos/pas2logo.png
+logo: /assets/logos/gbu.png
 description: "Groupe Biblique universitaire, Discutions autour de la Bible pour les étudiants par les étudiants, Ouvert à tous !"
 links:
   site: https://www.gbu.fr/

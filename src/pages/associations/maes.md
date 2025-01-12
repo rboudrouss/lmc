@@ -17,7 +17,6 @@ links:
   instagram: https://www.instagram.com/maes_assoc/
   linkedin: https://www.linkedin.com/in/master-affaires-europ%C3%A9ennes-sorbonne-717001179/
   facebook: https://www.facebook.com/MAES.Sorbonne/
-  twitter: https://x.com/maes_assoc
   tiktok: https://www.tiktok.com/@maes_assoc
 info:
   mail: maes.assoc@gmail.com

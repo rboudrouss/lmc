@@ -12,7 +12,6 @@ logo: /assets/logos/aeosu.png
 description: "Pour l’entraide et la coopération entre les étudiantes et étudiants et les différentes années. Diverses activités, interventions et produits sont proposés tout au long de l’année."
 links:
   linktree: https://linktr.ee/aeosu
-  site: https://aeosu.fr/
   instagram: https://www.instagram.com/_aeosu_/
   facebook: https://www.facebook.com/aeosuorthoptie
 info:

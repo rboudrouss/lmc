@@ -18,6 +18,7 @@ links:
   instagram: https://www.instagram.com/lesfousdestours/
   discord: https://discord.gg/CF4dqdASGP
   facebook: https://www.facebook.com/LesFousDesTours/
+  whatsapp: https://chat.whatsapp.com/Jvv7BGlBlKjHbz6LM5x2ZA
 info:
   mail: lesfousdestours@protonmail.com
 ---
