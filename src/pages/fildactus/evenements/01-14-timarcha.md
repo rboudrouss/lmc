@@ -5,7 +5,7 @@ date : "14-01-2025 23:00"
 title: "Ateliers Photographie Naturaliste"
 
 auteur :
-  - sciences
+  - timarcha
 
 image : "/assets/fildactus/evenements/01-17-timarcha.jpg"
 
