@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/Actu.astro
-date : "13-01-2025 23:00"
+date : "13-01-2025 12:00"
 
 title: "Reprise des Mises à jour"
 
