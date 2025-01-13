@@ -12,7 +12,7 @@ image : "/assets/logos/sciences.svg"
 source : "https://sciences.sorbonne-universite.fr/evenements/les-cafes-pedagogiques-de-lufr-de-chimie-emilie-renouard-lapproche-par-competences"
 ---
 
-__Mercredi 29 Janvier de 12h45 à 13h45	__  
+__Mercredi 29 Janvier de 12h45 à 13h45__  
 Campus Pierre et Marie Curie, UFR de Chimie, tour 32-42 salle 101
 
 LES CAFÉS PÉDAGOGIQUES DE L'UFR DE CHIMIE  
