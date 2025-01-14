@@ -13,6 +13,7 @@ description: "La SPLAAASH est une association étudiante visant à promouvoir et
 video: https://www.youtube.com/watch?v=PzxD8_3HlpU
 links:
   site: https://splaaashetu.wixsite.com/website
+  helloasso: https://www.helloasso.com/associations/splaaash
   instagram: https://www.instagram.com/splaaash_association/
   facebook: https://www.facebook.com/groups/plongeesorbonne/
 info:
