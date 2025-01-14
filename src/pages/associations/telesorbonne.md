@@ -20,7 +20,6 @@ links:
   twitch: https://www.twitch.tv/telesorbonne
   linkedin: https://www.linkedin.com/company/t%C3%A9l%C3%A9sorbonne/
   facebook: https://www.facebook.com/telesorbonne/
-  twitter: https://twitter.com/TeleSorbonne
   tiktok: https://www.tiktok.com/@telesorbonne
 info:
   mail: contact.telesorbonne@gmail.com
