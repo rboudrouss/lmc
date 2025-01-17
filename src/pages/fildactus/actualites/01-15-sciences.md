@@ -2,7 +2,7 @@
 layout: ../../../layouts/Actu.astro
 date : "15-01-2025 23:00"
 
-title: "Agenda Culture & Société"
+title: "Ateliers Artistiques"
 
 auteur :
   - sciences
