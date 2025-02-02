@@ -2,7 +2,7 @@
 layout: ../../../layouts/Actu.astro
 date : "02-02-2025 12:00"
 
-title: "Dernière MAJ : Dimanche 2 Février 21h"
+title: "Dernière MAJ : Dimanche 2 Février 22h30"
 
 auteur :
   - lmc
