@@ -15,7 +15,7 @@ source : "https://lettres.sorbonne-universite.fr/evenements/ukraine-histoire-et-
 Cette conférence, donnée par le professeur Timothy Snyder, explore l'histoire profonde de l'Ukraine, son rôle majeur pour la civilisation, son impact sur le conflit actuel et comment elle défie les récits historiques tout en questionnant la liberté.
 
 __Vendredi 7 Février de 18h à 20h__  
-Sorbonne, salle Louis Liard.
+Sorbonne, salle Louis Liard.  
 [Inscription obligatoire via billetweb](https://www.billetweb.fr/ukraine-histoire-et-liberte).
 
 __L’histoire de l’Ukraine est plus profonde et ancienne que nous le pensons, revêtant une importance majeure pour la civilisation occidentale et, au-delà, pour le monde entier__. En comprenant son passé historique, nous sommes mieux à même de discerner la propagande et de saisir la véritable portée du conflit actuel. Le défi que l’Ukraine pose aux récits historiques conventionnels ouvre également une réflexion essentielle sur la notion de liberté.

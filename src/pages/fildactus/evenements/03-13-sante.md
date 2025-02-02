@@ -5,7 +5,7 @@ date : "13-03-2025 23:00"
 title: "L’océan thérapeutique ? sous l’eau, encore mieux !"
 
 auteur :
-  - su
+  - sante
 
 image : "/assets/fildactus/evenements/03-13-sante.jpg"
 

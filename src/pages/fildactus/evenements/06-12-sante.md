@@ -7,7 +7,7 @@ title: "Conférence : Vision"
 auteur :
   - sante
 
-image : "/assets/fildactus/evenements/05-12-sante.jpg"
+image : "/assets/fildactus/evenements/06-12-sante.jpg"
 
 source : "https://sante.sorbonne-universite.fr/evenements/vision"
 ---

@@ -7,6 +7,9 @@ title: "Table Ronde : Une symphonie des pouvoirs judiciaires à Byzance"
 auteur :
   - presses
 
+affiliation :
+  - lettres
+
 image : "/assets/fildactus/evenements/02-05-presses.jpg"
 
 source : "https://www.instagram.com/p/DE4dteNq9oy/"
