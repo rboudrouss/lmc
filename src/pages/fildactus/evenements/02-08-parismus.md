@@ -20,4 +20,4 @@ Nous explorerons ses ruelles pavées et découvrirons ses histoires fascinantes,
 
 📍 Rendez-vous à 14h rue Antoine Dubois à côté de la statue à Vulpian en face de l’Université Paris Cité (Métro 4 : Odéon) 🚇
 
-Réservez votre place et [rejoignez notre groupe WhatsApp via le lien dans notre bio](https://chat.whatsapp.com/CtTRc2VaLvA05VnVhNpPHG) pour ne pas manquer d’infos ! 🔗
+[Réservez votre place] et [rejoignez notre groupe WhatsApp](https://chat.whatsapp.com/CtTRc2VaLvA05VnVhNpPHG) via le lien dans notre bio pour ne pas manquer d’infos ! 🔗
