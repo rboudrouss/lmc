@@ -2,7 +2,7 @@
 layout: ../../../layouts/Actu.astro
 date : "27-03-2025 23:00"
 
-title: "Colloquium Pierre et Marie Curie : La mécanique Moléculaire des Fluides"
+title: "Colloquium Pierre et Marie Curie : La Mécanique Moléculaire des Fluides"
 
 auteur :
   - sciences

@@ -1,8 +1,8 @@
 ---
 layout: ../../../layouts/Actu.astro
-date : "03-02-2025 12:00"
+date : "04-02-2025 12:00"
 
-title: "Dernière MAJ : Dimanche 2 Février 22h30"
+title: "Dernière MAJ : Mardi 4 Février 00h15"
 
 auteur :
   - lmc
@@ -12,5 +12,5 @@ affiliation :
 
 image : "/assets/logos/pas2logo.png"
 
-source : "https://www.youtube.com/watch?v=ZVgHPSyEIqk"
+source : "https://www.youtube.com/watch?v=Jk7l6mW-9Ww"
 ---
