@@ -5,9 +5,9 @@ date : "22-03-2025 23:00"
 title: "Exposition Comme par hasard"
 
 auteur :
-  - lettres
+  - sciences
 
-image : "/assets/fildactus/encemoment/03-28-lettres.jpg"
+image : "/assets/fildactus/encemoment/03-28-sciences.jpg"
 
 source : "https://sciences.sorbonne-universite.fr/evenements/exposition-comme-par-hasard"
 ---

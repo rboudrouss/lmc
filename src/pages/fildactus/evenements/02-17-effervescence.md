@@ -2,7 +2,7 @@
 layout: ../../../layouts/Actu.astro
 date : "17-02-2025 23:00"
 
-title: Table Ronde"
+title: "Table Ronde"
 
 auteur :
   - effervescence

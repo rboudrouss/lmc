@@ -2,7 +2,7 @@
 layout: ../../../layouts/Actu.astro
 date : "10-02-2025 12:00"
 
-title: "Dernière MAJ : Lundi 10 Février à 04h00"
+title: "Dernière MAJ : Lundi 10 Février à 15h00"
 
 auteur :
   - lmc
