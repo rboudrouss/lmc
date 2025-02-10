@@ -7,7 +7,7 @@ title: "Exposition Comme par hasard"
 auteur :
   - sciences
 
-image : "/assets/fildactus/encemoment/03-28-sciences.jpg"
+image : "/assets/fildactus/encemoment/03-22-sciences.jpg"
 
 source : "https://sciences.sorbonne-universite.fr/evenements/exposition-comme-par-hasard"
 ---
