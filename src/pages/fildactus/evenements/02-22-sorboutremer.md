@@ -1,13 +1,13 @@
 ---
 layout: ../../../layouts/Actu.astro
-date : "20-02-2025 23:00"
+date : "22-02-2025 23:00"
 
 title: "Distribution Alimentaire"
 
 auteur :
   - sorboutremer
 
-image : "/assets/fildactus/evenements/02-20-sorboutremer.jpg"
+image : "/assets/fildactus/evenements/02-22-sorboutremer.jpg"
 
 source : "https://www.instagram.com/p/DF4qJOcoNBv/"
 ---
