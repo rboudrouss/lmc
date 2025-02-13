@@ -8,8 +8,7 @@ typeasso:
    - artistique
 
 logo: /assets/logos/moktar.png
-description: "Le Moktar Sound System, fanfare de la faculté de Santé, elle a été fondé en septembre 2009. Vous nous reconnaîtrez grâce à nos salopettes d’un bleu cyan, instrument indispensable à nos yeux.
-Nous vous proposons aussi d’animer des événements privés, ce qui leur confère originalité, convivialité, et exclusivité !"
+description: "Le Moktar Sound System, fanfare de Sorbonne Université, a été créé en septembre 2009 (et oui déjà 16 ans !) sur l'initiative d'étudiants en médecine."
 video : https://www.youtube.com/watch?v=5vBlA39ohGo
 links:
   site: http://moktarsoundsystem.fr/
