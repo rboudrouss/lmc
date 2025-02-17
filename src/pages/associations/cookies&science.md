@@ -1,13 +1,13 @@
 ---
 layout: ../../layouts/Assos.astro
-titre: Cookies and Science
+titre: Cookies & Science
 affiliation: 
    - sciences
 
 typeasso:
    - mediatique
 
-logo: /assets/logos/cookiesscience.png
+logo: /assets/logos/cookies&science.png
 links:
   instagram: https://www.instagram.com/cookiesandscience/
   youtube: https://www.youtube.com/@cookiesandscience
