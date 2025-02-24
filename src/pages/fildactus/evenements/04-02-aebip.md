@@ -7,7 +7,7 @@ title: "Atelier Crochet"
 auteur :
   - aebip
 
-image : "/assets/fildactus/actualites/05-28-aebip.jpg"
+image : "/assets/fildactus/evenements/05-28-aebip.jpg"
 
 source : "https://www.instagram.com/p/DGV9NdPIz-D/"
 ---
