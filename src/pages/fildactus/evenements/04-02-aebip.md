@@ -1,13 +1,13 @@
 ---
 layout: ../../../layouts/Actu.astro
-date : "05-03-2025 23:00"
+date : "02-04-2025 23:00"
 
 title: "Atelier Crochet"
 
 auteur :
   - aebip
 
-image : "/assets/fildactus/evenements/05-28-aebip.jpg"
+image : "/assets/fildactus/actualites/05-28-aebip.jpg"
 
 source : "https://www.instagram.com/p/DGV9NdPIz-D/"
 ---

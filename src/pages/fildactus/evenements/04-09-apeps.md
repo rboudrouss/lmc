@@ -1,13 +1,13 @@
 ---
 layout: ../../../layouts/Actu.astro
-date : "10-04-2025 23:00"
+date : "09-04-2025 23:00"
 
 title: "Bal & Masque"
 
 auteur :
-  - dac
+  - apeps
 
-image : "/assets/fildactus/evenements/04-09-dac.jpg"
+image : "/assets/fildactus/evenements/04-09-apeps.jpg"
 
 source : "https://www.instagram.com/p/DGIsYALI0uN/"
 ---
