@@ -5,7 +5,7 @@ affiliation:
    - sciences
 
 typeasso: 
-   - filiere
+   - cursus
 
 logo: /assets/logos/materialsdoc.png
 description: "Material's Doc is an association dedicated to fostering a community of materials scientists passionate about developing new materials for future generations. Through various events, it promotes materials science, particularly to students, while sharing expertise in key areas such as materials for consumption, energy production and storage, transportation, health, information, imaging, heritage, catalysis, and green chemistry.  
