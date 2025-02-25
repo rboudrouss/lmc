@@ -12,7 +12,6 @@ description: "Material's Doc is an association dedicated to fostering a communit
 The association also seeks to bridge the gap between academia and industry. It consists of current and former PhD students from ED397, as well as external members from academia, industry, and other sectors."
 links:
   site: https://materialsdoc.my.canva.site/
-  instagram: https://www.instagram.com/madeinsorbonne/
 info:
   mail: asso.materialsdoc@gmail.com
 ---
