@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Assos.astro
-titre: Materials' Doc
+titre: Materials Doc
 affiliation: 
    - sciences
 
