@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/Actu.astro
-date : "01-03-2025 23:00"
+date : "01-03-2025 12:00"
 
 title: "Dernière MAJ : Samedi 1er Mars à 12:00"
 
