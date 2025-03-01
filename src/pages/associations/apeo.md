@@ -14,6 +14,7 @@ links:
   linktree: https://linktr.ee/APEO202
   instagram: https://www.instagram.com/apeoparis/
   facebook: https://www.facebook.com/apeoparis
+  tiktok: https://www.tiktok.com/@apeo.paris
 info:
   mail: associationapeo@gmail.com
 ---
