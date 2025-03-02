@@ -20,7 +20,7 @@ Plusieurs associations de Master sont invitées pour répondre autour d’un bru
 
 🗣️ Les associations invitées :  
 - Master BMC : AveBMC  
-- Master d’Informatique : ALIS  
+- Master d’Informatique : ALIAS  
 - Master BIP : AEBIP  
 - Master d’Ingénierie : AMI et CMI
 - Master de Physique : CurieOsity  
