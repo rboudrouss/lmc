@@ -2,7 +2,7 @@
 layout: ../../../layouts/Actu.astro
 date : "29-03-2025 23:00"
 
-title: "l'Entracte Présente : BUILDING"
+title: "L'Entracte Présente : BUILDING"
 
 auteur :
   - lentracte
