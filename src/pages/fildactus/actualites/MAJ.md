@@ -8,7 +8,7 @@ auteur :
   - lmc
 
 affiliation :
-  - rien
+  - los amo padres
 
 image : "/assets/logos/pas2logo.png"
 
