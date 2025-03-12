@@ -7,7 +7,7 @@ title: "Les « musiques secrètes » de Roland de Lassus"
 auteur :
   - lettres
 
-image : "/assets/fildactus/evenements/03-18-lettres.jpg"
+image : "/assets/fildactus/evenements/03-18-lettres2.jpg"
 
 source : "https://lettres.sorbonne-universite.fr/evenements/les-musiques-secretes-de-roland-de-lassus"
 ---
